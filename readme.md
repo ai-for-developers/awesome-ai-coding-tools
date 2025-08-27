@@ -99,6 +99,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Perplexity Pro](https://perplexity.ai/pro)**: AI-powered search engine with real-time web access for coding solutions and documentation.
 - **[Warp AI](https://warp.dev/ai)**: AI-enhanced terminal with intelligent command suggestions and workflow optimization.
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
+- - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 
 ---
 
@@ -259,6 +260,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Testim](https://www.testim.io/)**: AI-powered end-to-end testing platform with self-healing test capabilities and smart locators.
 - **[Launchable](https://launchableinc.com/)**: AI-driven test optimization platform that predicts which tests to run based on code changes.
 - **[Parasoft](https://www.parasoft.com/)**: Comprehensive AI-enhanced software testing suite covering static analysis, unit testing, and API testing.
+- **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 
 ---
 
