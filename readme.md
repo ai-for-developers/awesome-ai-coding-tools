@@ -79,6 +79,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Lovable](https://aifordevelopers.org/tool/lovable)** - [🔗](https://lovable.dev/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - AI-driven tool that enables users to create and deploy web applications from a single prompt in a browser tab.
 - **[Capacity](https://capacity.so/)**: Agentic coding platform leveraging Claude Code to transform ideas into full-stack web applications with minimal user input.
 - **[Builder.ai](https://www.builder.ai/)**: AI-driven custom software development platform that automates app creation for web and mobile, tailored to business needs.
+- **[firebase.google](https://firebase.google.com)**: an AI platform offering a suite of tools and services designed to help developers build, run, and scale web and mobile applications more efficiently.
 - **[10Web](https://10web.io/)**: AI-powered WordPress website builder with automated design, content generation, and optimization features for rapid app development.
 - **[Durable](https://durable.co/)**: AI website and business application builder that creates complete solutions, including backend and frontend, from simple text prompts.
 - **[Rocket.new](https://rocket.new/)**: AI-powered platform for rapid application development, focusing on generating scalable apps from natural language inputs.
