@@ -79,7 +79,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Lovable](https://aifordevelopers.org/tool/lovable)** - [🔗](https://lovable.dev/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - AI-driven tool that enables users to create and deploy web applications from a single prompt in a browser tab.
 - **[Capacity](https://capacity.so/)**: Agentic coding platform leveraging Claude Code to transform ideas into full-stack web applications with minimal user input.
 - **[Builder.ai](https://www.builder.ai/)**: AI-driven custom software development platform that automates app creation for web and mobile, tailored to business needs.
-- **[firebase.google](https://firebase.google.com)**: an AI platform offering a suite of tools and services designed to help developers build, run, and scale web and mobile applications more efficiently.
+- **[firebase.google](https://firebase.google.com)**: An AI platform offering a suite of tools and services designed to help developers build, run, and scale web and mobile applications more efficiently.
 - **[10Web](https://10web.io/)**: AI-powered WordPress website builder with automated design, content generation, and optimization features for rapid app development.
 - **[Durable](https://durable.co/)**: AI website and business application builder that creates complete solutions, including backend and frontend, from simple text prompts.
 - **[Rocket.new](https://rocket.new/)**: AI-powered platform for rapid application development, focusing on generating scalable apps from natural language inputs.
@@ -95,6 +95,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[SpecStory](https://specstory.com/)**: Cursor / VS Code / Claude Code extension for summarizing context across chats with AI and preserving / sharing tasks intents.
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 - **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
+- **[nas.io](https://nas.io)**: AI platform for turning ideas to revenue.
 - **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
 - **[Raycast AI](https://raycast.com/ai)**: AI-powered productivity launcher with coding capabilities and developer workflow automation.
 - **[Perplexity Pro](https://perplexity.ai/pro)**: AI-powered search engine with real-time web access for coding solutions and documentation.
