@@ -67,7 +67,9 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Magic](https://magic.dev/)**: AI software engineer platform that understands codebases and handles complex development tasks autonomously.
 - **[Jupyter AI](https://jupyter-ai.readthedocs.io/)**: AI-powered extensions for Jupyter notebooks enabling natural language code generation and data analysis.
 - **[Replit Agent](https://replit.com/agent)**: Advanced AI agent within Replit that builds complete applications from natural language descriptions.
-- **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end. 
+- **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end.
+- **[CodeGPT](https://codegpt.co/)**: AI agent platform for software development that offers features like code generation, refactoring, and automated PR reviews.
+- **[Qoder](https://qoder.com/)**: Qoder is an agentic coding platform that uses AI agents to autonomously plan, code, and test entire software projects based on simple conversational prompts.
 
 
 ---
@@ -190,6 +192,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Butterfish](https://butterfi.sh)**: AI tool for enhancing shell productivity with natural language.
 - **[TmuxAI](https://tmuxai.dev/)**: AI assistant for automating and optimizing tmux workflows.
 - **[Warp](https://www.warp.dev/)**: AI-enhanced terminal with smart command suggestions and workflows.
+- **[Wave](https://www.waveterm.dev/)**: Wave is an open-source terminal with superpowers, integrating file previews, file editing, AI, web browsing, and workspace organization.
 - **[Codename Goose](https://github.com/block/goose)**: codename goose is a desktop and CLI tool that automates your tasks using large language models (LLMs) and extensions.
 - **[Mentat](https://mentat.ai/)**: AI coding assistant for command-line development.
 - **[Bito.ai](https://bito.ai/)**: AI-powered development assistant with CLI integration.
@@ -197,6 +200,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
+- **[Trae CLI](https://github.com/bytedance/trae-agent)**: Trae Agent is an LLM-based agent for general purpose software engineering tasks.
 
 ---
 
@@ -222,6 +226,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[Cursor CLI](https://cursor.com/cli)**: Cursor CLI is Cursor's very own command-line tool that allows you to interact with AI agents directly from your terminal to write, review, and modify code.
+- **[Qwen Code](https://github.com/QwenLM/qwen-code)**: Qwen Code is a powerful command-line AI workflow tool adapted from Gemini CLI (details), specifically optimized for Qwen3-Coder models.
+- **[Trae CLI](https://github.com/bytedance/trae-agent)**: Trae Agent is an LLM-based agent for general purpose software engineering tasks.
+- **[Crush](https://github.com/charmbracelet/crush)**: The glamourous AI coding agent for your favourite terminal 💘
 
 ---
 
@@ -233,6 +241,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Nova](https://www.trynova.ai/)**: AI-powered agent for automated code reviews and suggestions.
 - **[Pixee](https://pixee.ai)**: AI bot for security-focused pull request reviews and fixes.
 - **[Qodo PR Agent](https://github.com/qodo-ai/pr-agent)**: AI agent for enhancing PR reviews with actionable insights.
+- **[SonarQube](https://www.sonarsource.com/products/sonarqube/)**: A platform for continuous code quality and security, with AI-powered features like CodeFix for automatic bug remediation.
 
 ---
 
@@ -287,7 +296,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Rocket.new](https://rocket.new/)**: AI-powered rapid application development.
 - **[Builder.io Fusion](https://www.builder.io/)**: AI-powered visual development platform.
 - **[Manifest.build](https://manifest.build/)**: AI-driven Backend.
-- **[lovable.dev](https://lovable.dev/)**:  It allows you to build and deploy web applications from a single prompt.
 - **[MagicLoops](https://magicloops.dev)**: Create complete apps in minutes with no code.
 - **[base44](https://www.base44.com/)**: AI-native software development OS for startups to design, develop & deploy products faster.
 - **[10Web](https://10web.io/)**: AI-powered WordPress website builder with automated design, content generation, and optimization features.
