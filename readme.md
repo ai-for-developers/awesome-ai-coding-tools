@@ -101,6 +101,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Perplexity Pro](https://perplexity.ai/pro)**: AI-powered search engine with real-time web access for coding solutions and documentation.
 - **[Warp AI](https://warp.dev/ai)**: AI-enhanced terminal with intelligent command suggestions and workflow optimization.
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
+- - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 
 ---
 
@@ -268,6 +269,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Testim](https://www.testim.io/)**: AI-powered end-to-end testing platform with self-healing test capabilities and smart locators.
 - **[Launchable](https://launchableinc.com/)**: AI-driven test optimization platform that predicts which tests to run based on code changes.
 - **[Parasoft](https://www.parasoft.com/)**: Comprehensive AI-enhanced software testing suite covering static analysis, unit testing, and API testing.
+- **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 
 ---
 
@@ -429,9 +431,19 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 📚 Related Lists
+
 - **[AI For Developers](https://aifordevelopers.org)**: Curated list of AI Devtools  for various applications.
+- **[Awesome Vibe Coding](https://github.com/ai-for-developers/awesome-vibe-coding)**: A hand-picked collection of tools and resources for Vibe Coding
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)**: Curated list of general AI tools for various applications.
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)**: Collection of AI agents for automation and development tasks.
 - **[Awesome Content Marketing](https://github.com/marketinguys/awesome-content-marketing)**
-- **[Altern](https://altern.ai)** - Find Almost anything related to AI
-- **[DevTools Directory](https://devtools.directory)** - Directory of trending Dev Tools
+- **[Altern](https://altern.ai)**: Find Almost anything related to AI
+- **[DevTools Directory](https://devtools.directory)**: Directory of trending Dev Tools
+- **[Awesome AI Newsletters](https://github.com/alternbits/awesome-ai-newsletters)**: A curated list of top best AI Related Newsletters
+- **[Best Of AI](https://github.com/best-of-ai/best-of-ai)**: A curated list of best ai tools
+- **[Awesome AI Models](https://github.com/alternbits/awesome-ai-models)**: A curated list of top AI models and LLMs
+- **[Awesome AI Marketing](https://github.com/alternbits/awesome-ai-marketing)**: A curated list of top best ai tools for marketing
+- **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
+- **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
+- **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
+
