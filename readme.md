@@ -1,5 +1,9 @@
 # Awesome AI Coding Tools
 
+---
+_Last Updated: July 2025_
+---
+
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 💡 Curated list of **AI-powered coding tools**: AI code editors, code completion engines, review assistants, refactoring agents, LLMs for developers, and tools that turn natural language into code.
@@ -32,6 +36,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 * [🚀 DevOps & Infrastructure](#-devops--infrastructure)
 * [🔒 Security & Compliance](#-security--compliance)
 * [🛡️ AI Security Tools](#️-ai-security-tools)
+* [📔 AI for Data & Database Management](#-ai-for-data--database-management)
+* [🎮 AI for Game Development](#-ai-for-game-development)
+* [🌐 AI for Web Development](#-ai-for-web-development)
+* [🗄️ MCP Server & Tools](#-mcp-server--tools)
 * [📱 Mobile Development](#-mobile-development)
 * [🗄️ Database & API Tools](#️-database--api-tools)
 * [🎯 MLOps & Specialized Tools](#-mlops--specialized-tools)
@@ -43,7 +51,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 
 ## 🌟 AI Code Assistants & Editors
-- **[Cursor](https://www.cursor.sh/)**: AI-powered code editor with advanced autocompletion and real-time coding assistance.
+- **[Cursor](https://www.cursor.sh/)**: AI-powered code editor with advanced autocompletion and real-time coding assistance. **Features Architect Mode and precise voice input for enhanced workflows.**
 - **[Cody (Sourcegraph)](https://about.sourcegraph.com/cody)**: AI assistant for code understanding, navigation, and generation across repositories.
 - **[Windsurf](https://windsurf.com/)**: AI-powered code editor with a powerful and advanced flexible coding agent that goes beyond simple autocompletion and code generation.
 - **[Aider](https://aider.chat)**: Collaborative AI tool for pair-programming and generating code edits via CLI.
@@ -166,6 +174,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Code Llama](https://github.com/facebookresearch/codellama)**: Meta AI’s LLM optimized for code generation and completion.
 - **[Phi-3 Code](https://www.microsoft.com/en-us/research/blog/phi-3/)**: Microsoft’s lightweight LLM for efficient code generation.
 - **[Codestral](https://mistral.ai/news/codestral)**: Codestral is an open-weight generative AI model explicitly designed for code generation tasks.
+- **[DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder)**: An open-source LLM for code generation and programming tasks, known for its strong performance across various benchmarks.
+- **[Qwen 3 coder](https://github.com/QwenLM/Qwen3-Coder)**: A series of open-source LLM models from Alibaba, specifically optimized for code generation and understanding.
 
 ---
 
@@ -178,6 +188,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Lovable (GPT Engineer)](https://lovable.dev/)**: Natural language to app generation platform.
 - **[Marblism](https://marblism.com/)**: AI-powered full-stack application generation.
 - **[Pythagora.ai](https://pythagora.ai/)**: AI-powered full-stack development platform.
+- **[Magick](https://magick.ai/)**: A visual platform for building and deploying AI agents and applications, transforming ideas into functional products without extensive coding.
+- **[Axiom](https://axiom.ai/)**: An AI-powered tool for automating browser tasks and web workflows using natural language commands, effectively turning instructions into automated actions.
 - **[DataPup](https://github.com/DataPupOrg/DataPup)**: AI-powered Database client for generating context based SQL queries from natural language.
 
 ---
@@ -220,6 +232,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Software Agent AI](https://softwareagent.ai/)**: Autonomous AI agents for software development tasks.
 - **[Goose](https://goose.ai/)**: AI-powered development automation.
 - **[Deebo](https://deebo.ai/)**: AI-powered development assistant.
+- **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**: A pioneering autonomous AI agent that popularized the concept of self-prompting and task execution, capable of achieving goals without constant human intervention.
+- **[Open Interpreter](https://github.com/openinterpreter/open-interpreter)**: An open-source AI agent that allows Large Language Models to execute code (Python, JavaScript, Shell, etc.) on your machine, enabling them to perform complex tasks and interact with your environment.
+- **[Devin by Cognition AI](https://cognition.ai/blog/introducing-devin)**: The world's first AI software engineer, capable of planning and executing complex engineering tasks, collaborating with users, and learning from its own experiences. (Note: Currently in limited access.)
+- **[Agent Protocol](https://agentprotocol.ai/)**: An open standard for defining how AI agents communicate and interact with each other and with tools, facilitating the development of interoperable multi-agent systems.
 - **[JunieAI (JetBrains)](https://www.jetbrains.com/junieai/)**: AI coding agent that plans, writes, tests, and refactors code intelligently within JetBrains IDEs—empowering you to focus on high-level development while it handles routine tasks.
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
@@ -258,6 +274,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[QA.tech](https://qa.tech/)**: AI-powered quality assurance and testing.
 - **[Octomind](https://octomind.dev/)**: AI-powered end-to-end testing.
 - **[Testsprite](https://testsprite.com/)**: AI-powered testing automation.
+- **[Testim.io](https://www.testim.io/)**: An AI-powered test automation platform that uses machine learning to create, execute, and maintain end-to-end UI tests, adapting to changes in the application.
 - **[DiffBlue Cover](https://www.diffblue.com/)**: AI-powered tool specifically for generating comprehensive unit tests for Java applications.
 - **[Testim](https://www.testim.io/)**: AI-powered end-to-end testing platform with self-healing test capabilities and smart locators.
 - **[Launchable](https://launchableinc.com/)**: AI-driven test optimization platform that predicts which tests to run based on code changes.
@@ -267,6 +284,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🧰 App Generators
+- **[Opal by Google](https://opal.withgoogle.com/landing/)**: Build, edit and share mini-AI apps using natural language.
 - **[Mage](https://usemage.ai/)**: AI-powered tool for generating full-stack applications from prompts.
 - **[SoftGen](https://softgen.ai/)**: AI platform for rapid application development and prototyping.
 - **[Co.dev](https://www.co.dev/)**: AI-driven tool for generating scalable web and mobile apps.
@@ -329,6 +347,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Supacodes](https://www.supacodes.com)**: AI-powered platform for automated code documentation.
 - **[Cleric.io](https://cleric.io/)**: AI assistant for technical documentation and code explanation.
 - **[Theneo.io](https://theneo.io/)**: AI-powered API documentation generation.
+- **[mintlify](https://mintlify.com/)**: An AI-powered platform for generating and maintaining developer documentation, offering features like automated doc generation, version control, and beautiful themes.
 - **[Mintlify](https://mintlify.com/)**: AI-powered documentation platform that automatically generates and maintains technical documentation from code.
 - **[GitBook AI](https://gitbook.com/ai)**: AI-enhanced documentation platform with intelligent content suggestions and automated organization.
 - **[Slab](https://slab.com/)**: Team knowledge base with AI-powered search, content suggestions, and automated documentation workflows.
@@ -387,6 +406,40 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[HackerOne Code](https://www.hackerone.com/product/code)**: Combines AI and human expertise for code security, offering context-aware vulnerability detection, triage, and remediation tailored for AI-generated and human-written code.
 - **[Endor Labs AI Code Security](https://www.endorlabs.com/ai-code-security-review)**: AI-driven code review platform that analyzes every pull request for security risks, architectural changes, and business logic vulnerabilities, with actionable insights and context.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)**: AI-automated fuzz testing tool for C/C++ and other languages, enabling developers to find and fix critical bugs and vulnerabilities early in the development process.
+
+---
+
+## 📔 AI for Data & Database Management
+- **[DB-GPT](https://github.com/eosphoros-ai/DB-GPT)**: An open-source LLM Agent designed for natural language interaction with various databases, enabling intelligent query generation, data analysis, and visualization.
+- **[Dataherald](https://dataherald.com/)**: A platform that translates natural language questions into accurate SQL queries, making database interaction accessible to non-technical users and accelerating data exploration.
+- **[Astra DB](https://www.datastax.com/products/astra-db)**: A serverless vector database as a service, optimized for real-time AI applications and often used with LLM frameworks like LangChain and LlamaIndex for Retrieval-Augmented Generation (RAG).
+- **[Vanna.ai](https://vanna.ai/)**: An open-source Python library that uses AI to generate SQL queries from natural language questions, connecting to various SQL databases.
+- **[LlamaIndex (Data Agents)](https://www.llamaindex.ai/)**: While primarily an LLM framework, LlamaIndex offers "Data Agents" that can interact with structured and unstructured data sources, including databases, to answer natural language queries.
+- **[Auto-GPT (Data Analysis)](https://github.com/Significant-Gravitas/Auto-GPT)**: Capable of performing data analysis tasks by generating and executing code, interacting with data files, and summarizing insights.
+- **[Mito](https://www.mito.ai/)**: An AI-powered spreadsheet editor for Python that helps users analyze and transform data by generating Python code from natural language instructions.
+
+---
+
+## 🎮 AI for Game Development
+- **[Inworld AI](https://inworld.ai/)**: A platform for creating realistic, intelligent, and emotionally responsive AI characters (NPCs) for games and virtual worlds, enabling dynamic conversations and behaviors.
+- **[Scenario.gg](https://www.scenario.gg/)**: An AI tool that generates unique game assets, textures, and environments from text prompts or image inputs, significantly accelerating the art and design phase of game development.
+- **[Looty.ai](https://looty.ai/)**: An AI-powered tool for generating game items, descriptions, and lore, helping developers quickly populate their game worlds with unique content.
+- **[Promethean AI](https://prometheanai.com/)**: An AI assistant for game world creation, allowing designers to build complex environments rapidly by understanding natural language commands and design principles.
+- **[Charisma.ai](https://charisma.ai/)**: A platform for creating interactive AI characters with dynamic dialogue and emotional depth, suitable for narrative-driven games and virtual experiences.
+- **[Convai](https://www.convai.com/)**: Provides AI-powered conversational AI for games, enabling NPCs to engage in more natural and engaging dialogues with players.
+
+---
+
+## 🌐 AI for Web Development
+- **[Dify](https://dify.ai/)**: An open-source platform for building and operating AI-powered applications, including LLM-powered web apps, with a focus on prompt engineering and RAG.
+- **[Next.js AI SDK](https://sdk.vercel.ai/)**: A Vercel SDK that simplifies the integration of AI-powered features into Next.js applications, making it easier to build conversational interfaces and generative AI experiences.
+- **[WebPilot (Agent)](https://www.webpilot.ai/)**: An AI agent capable of interacting with websites, extracting information, performing actions, and generating web content based on natural language commands, useful for web automation.
+- **[Vercel AI Playground](https://vercel.com/templates/ai)**: A collection of AI-powered templates and examples for building web applications with Vercel, showcasing various LLM integrations.
+- **[Durable.ai](https://durable.ai/)**: An AI website builder that generates a complete website (with text, images, and sections) in seconds based on a few keywords, ideal for rapid prototyping.
+- **[Pinecone (Vector Database)](https://www.pinecone.io/)**: A vector database often used in web applications to power semantic search, recommendation engines, and RAG for LLM-powered features.
+- **[Shadcn/ui (with AI components)](https://ui.shadcn.com/)**: While not an AI tool itself, this component library is widely used in modern web development and can be integrated with AI-generated components or used to build AI interfaces.
+- **[Builder.io Fusion](https://www.builder.io/fusion)**: An AI-powered visual development platform that helps generate code and UI components from designs or natural language, accelerating frontend development.
+- **[Locofy.ai](https://www.locofy.ai/)**: Converts Figma/Adobe XD designs into production-ready frontend code (React, Next.js, HTML/CSS) with AI assistance, bridging the gap between design and development.
 
 ---
 
