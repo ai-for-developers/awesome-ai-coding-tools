@@ -66,6 +66,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 - **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
 - **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
+- **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
 
 ---
 
@@ -271,6 +272,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Supacodes](https://www.supacodes.com)**: AI-powered platform for automated code documentation.
 - **[Cleric.io](https://cleric.io/)**: AI assistant for technical documentation and code explanation.
 - **[Theneo.io](https://theneo.io/)**: AI-powered API documentation generation.
+- **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
 
 ---
 
