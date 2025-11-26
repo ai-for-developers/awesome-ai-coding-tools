@@ -119,6 +119,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)**: Microsoft's AI-powered code completion for Visual Studio ecosystem.
 - **[CodeGeeX](https://codegeex.cn/)**: Multilingual code generation model supporting multiple programming languages.
 - **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)**: Real-time AI code suggestions with security vulnerability scanning and enterprise privacy controls.
+- **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)**: The ultimate AI-powered tool for SQL code generation and optimization, integrated into dbForge solutions. 
 
 ---
 
