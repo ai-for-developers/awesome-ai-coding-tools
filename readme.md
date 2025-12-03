@@ -230,6 +230,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## 🔄 PR Review Agents
 - **[Sweep](https://github.com/sweepai/sweep)**: AI-powered agent for automating pull request reviews and fixes.
 - **[Greptile](https://greptile.com/code-review-bot)**: AI bot for in-depth code review and pull request analysis.
+- **[CodeProt](https://codeprot.com/)**: Stronger AI Capabilities for Pull Request Review and Collaboration.
 - **[CodeRabbit](https://coderabbit.ai/)**: AI-driven tool for fast, contextual pull request reviews.
 - **[What The Diff](https://whatthediff.ai/)**: AI tool for summarizing and analyzing code diffs in PRs.
 - **[Nova](https://www.trynova.ai/)**: AI-powered agent for automated code reviews and suggestions.
