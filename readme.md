@@ -142,6 +142,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ReSharper](https://www.jetbrains.com/resharper/)**: AI-enhanced refactoring and code quality tool for .NET developers.
 - **[Qodo (CodiumAI)](https://www.qodo.ai/)**: Comprehensive code review and automated test generation platform.
 - **[Sourcery](https://sourcery.ai/)**: AI code reviewer supporting 30+ languages with actionable feedback.
+- **[Vulert](https://vulert.com/)**: Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 - **[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)**: ML-powered code reviews with AWS integration.
 - **[DeepSource](https://deepsource.io/)**: Automated code review with technical debt tracking and security analysis.
 - **[Codacy](https://www.codacy.com/)**: Comprehensive code quality platform with 30+ language support.
