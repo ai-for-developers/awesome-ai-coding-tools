@@ -439,4 +439,5 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
+- **[EveryDev.ai](https://www.everydev.ai)**: AI developer tools directory and community
 
