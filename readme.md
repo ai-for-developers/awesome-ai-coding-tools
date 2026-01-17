@@ -213,6 +213,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Rovo Dev](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)**: Atlassian's specialized coding agent for the terminal.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Google's flexible coding agent for the terminal.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)**: Open-source AI software engineer for autonomous development.
+- **[OpenWork](https://github.com/different-ai/openwork)**: Desktop GUI for OpenCode with sessions, skills, plugins, and templates in one place.
 - **[Cline (Claude Dev)](https://github.com/cline/cline)**: VS Code extension for Claude integration with file system access.
 - **[Devon](https://devon.ai/)**: AI software engineer for autonomous coding tasks.
 - **[Auto-Dev](https://auto-dev.ai/)**: Automated development tool with AI assistance.
