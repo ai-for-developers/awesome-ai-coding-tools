@@ -235,6 +235,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Nova](https://www.trynova.ai/)**: AI-powered agent for automated code reviews and suggestions.
 - **[Pixee](https://pixee.ai)**: AI bot for security-focused pull request reviews and fixes.
 - **[Qodo PR Agent](https://github.com/qodo-ai/pr-agent)**: AI agent for enhancing PR reviews with actionable insights.
+- **[Zenable](https://zenable.io/)**: AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality. Generous free tier available.
 
 ---
 
