@@ -124,6 +124,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ## 🧠 Code Search & Navigation
 - **[Sourcegraph Cody](https://about.sourcegraph.com/cody)**: AI-powered code search and navigation for large codebases.
+- **[AiDex](https://github.com/CSCSoftware/AiDex)**: Persistent code index MCP server using Tree-sitter. Replaces grep for AI coding assistants with ~50 token responses instead of 2000+. Supports 11 languages, SQLite storage. #opensource
 - **[Wizi](https://github.com/wizi-ai/code-search)**: AI-driven code search tool for efficient repository exploration.
 - **[Cosine](https://ai.cosine.sh/)**: AI-powered code search and understanding for developer productivity.
 - **[Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)**: AI agent for debugging and navigating code issues.
