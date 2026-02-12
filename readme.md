@@ -433,6 +433,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Altern](https://altern.ai)**: Find Almost anything related to AI
 - **[DevTools Directory](https://devtools.directory)**: Directory of trending Dev Tools
 - **[Awesome AI Newsletters](https://github.com/alternbits/awesome-ai-newsletters)**: A curated list of top best AI Related Newsletters
+- **[Awesome Vibe Coding by Taskade](https://github.com/taskade/awesome-vibe-coding)**: A curated list of 245+ vibe coding tools, platforms, and resources with pricing, use cases, and tutorials
 - **[Best Of AI](https://github.com/best-of-ai/best-of-ai)**: A curated list of best ai tools
 - **[Awesome AI Models](https://github.com/alternbits/awesome-ai-models)**: A curated list of top AI models and LLMs
 - **[Awesome AI Marketing](https://github.com/alternbits/awesome-ai-marketing)**: A curated list of top best ai tools for marketing
