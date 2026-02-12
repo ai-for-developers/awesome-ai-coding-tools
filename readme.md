@@ -87,6 +87,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[MagicLoops](https://magicloops.dev)**: No-code platform that uses AI to create complete applications in minutes from text-based instructions.
 - **[Create.xyz](https://create.xyz/)**: AI-powered app creation platform that simplifies building web and mobile applications with automated code generation.
 - **[Mage](https://usemage.ai/)**: AI-powered platform for generating full-stack applications from natural language prompts, supporting rapid prototyping and deployment.
+- **[Taskade](https://taskade.com/)**: AI-powered workspace with Genesis app builder that generates full-stack React apps from natural language prompts. Features AI agents with code execution, multi-model support, and an MCP server.
 
 ---
 
