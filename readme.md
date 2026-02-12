@@ -157,6 +157,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
 - **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 - **[Gito](https://github.com/Nayjest/Gito)**: Open-source AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- [agnix](https://github.com/avifenesh/agnix) – Linter for AI agent configurations. Validates CLAUDE.md, Cursor rules, Copilot instructions, MCP configs, and more with 156 rules and auto-fix.
 
 ---
 
