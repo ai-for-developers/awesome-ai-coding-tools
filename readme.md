@@ -224,6 +224,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[AgentSys](https://github.com/avifenesh/agentsys)**: Agent runtime and orchestration system for Claude Code, OpenCode, and Codex CLI — 12 plugins with 41 agents and 27 skills for task workflow, code review, performance analysis, and more.
 
 ---
 
