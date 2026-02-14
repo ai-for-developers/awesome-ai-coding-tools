@@ -69,6 +69,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Replit Agent](https://replit.com/agent)**: Advanced AI agent within Replit that builds complete applications from natural language descriptions.
 - **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end.
 - **[Qoder](https://qoder.com/)**: Agentic Coding Platform for Real Software Think Deeper. Build Better.
+- **[Yume](https://github.com/aofp/yume)**: Desktop GUI for Claude Code (Tauri 2) with multi-tab sessions, background agents, context compaction, and plugin system. Free.
 
 
 ---
