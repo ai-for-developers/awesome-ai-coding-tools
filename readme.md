@@ -440,3 +440,4 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
 
+- [Mysti](https://github.com/DeepMyst/Mysti) — Multi-agent AI coding assistant for VS Code. Supports Claude Code, OpenAI Codex, Gemini, Cline, and GitHub Copilot with brainstorm mode where agents debate, red-team, and collaborate.
