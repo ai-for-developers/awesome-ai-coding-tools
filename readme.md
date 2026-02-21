@@ -102,7 +102,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
-- **[Neurolink](https://github.com/juspay/neurolink)**: Open-source TypeScript SDK unifying 200+ AI/ML models through a single API with MCP support and multi-agent orchestration.
+- **[Neurolink](https://github.com/juspay/neurolink)**: Open-source TypeScript SDK unifying 13 major AI providers and 100+ models through a single API with MCP support and multi-agent orchestration.
 
 ---
 
