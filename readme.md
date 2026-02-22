@@ -227,6 +227,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ---
 
+- **[AgentsInFlow](https://aif.inovisum.com)**: Desktop command center for orchestrating AI coding agents (Claude Code, Codex, Cursor) with context persistence, token analytics, and runtime MCP injection.
+
 ## 🔄 PR Review Agents
 - **[Sweep](https://github.com/sweepai/sweep)**: AI-powered agent for automating pull request reviews and fixes.
 - **[Greptile](https://greptile.com/code-review-bot)**: AI bot for in-depth code review and pull request analysis.
