@@ -412,6 +412,11 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🗄️ MCP Server/Tools
+
+### Individual MCP Servers
+- **[BGPT MCP](https://github.com/connerlambden/bgpt-mcp)** – Search scientific papers and get structured experimental data (methods, results, sample sizes, quality scores) from full-text studies. Remote MCP server, free tier with 50 searches.
+
+### MCP Directories
 - **[MCP Server Finder](https://www.mcpserverfinder.com/servers)**: Discover and browse a wide range of MCP servers.
 - **[MCP So](https://mcp.so/)**: Platform for MCP server resources and community.
 - **[MCP Market](https://mcpmarket.com/)**: Marketplace for MCP-related tools and services.
