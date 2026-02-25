@@ -98,6 +98,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
 - **[Raycast AI](https://raycast.com/ai)**: AI-powered productivity launcher with coding capabilities and developer workflow automation.
 - **[Perplexity Pro](https://perplexity.ai/pro)**: AI-powered search engine with real-time web access for coding solutions and documentation.
+- **[Poirot](https://github.com/LeonardoCardoso/Poirot)**: A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline.
 - **[Warp AI](https://warp.dev/ai)**: AI-enhanced terminal with intelligent command suggestions and workflow optimization.
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
