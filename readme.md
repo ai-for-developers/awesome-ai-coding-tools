@@ -440,3 +440,5 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
 
+## Tools
+- [TutuoAI](https://www.tutuoai.com/) — $1 agent marketplace for agent skills/tools/configs (agent-native APIs)
