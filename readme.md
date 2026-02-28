@@ -404,10 +404,11 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🎯 MLOps & Specialized Tools
-- **[Weights & Biases](https://wandb.ai/)** – MLOps platform with AI model management, experiment tracking, and automated hyperparameter optimization.
+- **[DNA Claude Analysis](https://github.com/shmlkv/dna-claude-analysis)** – Personal genome analysis toolkit using Python scripts to analyze raw DNA data across 17 categories (health risks, ancestry, pharmacogenomics, nutrition, psychology, and more), generating a terminal-style single-page HTML visualization.
 - **[Gradio](https://gradio.app/)** – AI tool for rapidly creating machine learning model demos and interactive interfaces.
-- **[Streamlit](https://streamlit.io/)** – Framework for building AI/ML data applications with minimal code and AI-powered features.
 - **[Observable](https://observablehq.com/)** – Data visualization platform with AI-enhanced analysis and interactive notebook capabilities.
+- **[Streamlit](https://streamlit.io/)** – Framework for building AI/ML data applications with minimal code and AI-powered features.
+- **[Weights & Biases](https://wandb.ai/)** – MLOps platform with AI model management, experiment tracking, and automated hyperparameter optimization.
 
 ---
 
