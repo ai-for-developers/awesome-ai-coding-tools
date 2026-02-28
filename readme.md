@@ -362,6 +362,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitLab AI](https://about.gitlab.com/solutions/artificial-intelligence/)**: Integrated AI features across GitLab including code suggestions, security scanning, and workflow optimization.
 - **[Terraform Cloud](https://www.terraform.io/cloud)** – Infrastructure as code platform with AI-powered policy suggestions and optimization recommendations.
 - **[Pulumi AI](https://www.pulumi.com/ai/)**: Infrastructure as code platform with AI assistance for cloud resource management and optimization.
+- **[Infracost](https://www.infracost.io/)**: AI-powered cloud cost estimation tool that shows infrastructure cost breakdowns directly in pull requests before deploying with Terraform or Pulumi.
+
 
 ---
 
