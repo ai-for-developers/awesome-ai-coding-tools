@@ -397,6 +397,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🗄️ Database & API Tools
+- **[SkillBoss](https://skillboss.co)**: **Backed by OpenAI Startup Fund & Amazon**. Unified API gateway for 100+ AI services with a single key. OpenAI-compatible endpoint supports GPT-5, Claude Opus 4.5, Gemini, video generation (Veo 3.1), image generation (DALL-E 3, Flux), voice (ElevenLabs), and infrastructure services (Stripe, SendGrid, MongoDB). Native integration with Claude Code, Cursor, Windsurf, and Gemini CLI.
 - **[Supabase AI](https://supabase.com/ai)**: AI features for database schema generation, query optimization, and API development assistance.
 - **[Hasura](https://hasura.io/)**: GraphQL API platform with AI-powered query optimization and schema management.
 - **[Retool AI](https://retool.com/ai)**: AI-powered internal tool builder with natural language interface for creating business applications.
