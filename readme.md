@@ -102,6 +102,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[LynxPrompt](https://lynxprompt.com/)**: Self-hostable platform for managing AI IDE configuration files. Generates, syncs, and shares configs (.cursorrules, CLAUDE.md, copilot-instructions.md, etc.) across 30+ AI coding assistants via web UI, REST API, CLI, and federated blueprint marketplace. [#opensource](https://github.com/GeiserX/LynxPrompt)
 
 ---
 
