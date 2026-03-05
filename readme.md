@@ -205,6 +205,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## 🧑‍💻 Coding Agents
 - **[Smol Developer](https://github.com/smol-ai/developer)**: Lightweight AI coding agent for rapid prototyping.
 - **[Aider](https://github.com/paul-gauthier/aider)**: AI coding agent for collaborative code editing and generation.
+- **[Autohand Code CLI](https://github.com/autohandai/code-cli)**: Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama), VS Code/Zed integration, and modular skills system.
 - **[Flumes AI](https://www.flumes.ai)**: Unified memory infrastructure for AI agents. Store and retrieve facts, context, and prior outputs across sessions. SDK available, Langchain-compatible, with Colab demo and graph-based memory inspection.
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: AI agent for building full applications from natural language.
 - **[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)**: AI agent for automating DevOps tasks and code integration.
