@@ -129,6 +129,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)**: AI agent for debugging and navigating code issues.
 - **[16x Prompt](https://prompt.16x.engineer/)**: AI tool for enhanced code search and prompt-based navigation.
 - **[Pieces.app](https://pieces.app/)**: AI-powered code snippet management and sharing.
+- **[Beacon](https://github.com/sagarmk/beacon-plugin)**: Semantic code search plugin for Claude Code using hybrid search with embeddings, BM25 keyword matching, and identifier boosting. Runs locally with Ollama and SQLite.
 
 ---
 
