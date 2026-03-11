@@ -420,6 +420,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
+- **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)**: X (Twitter) automation MCP server for AI coding agents. 40+ tools: tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions. Works with Claude Code, Cursor, Codex, Copilot, Windsurf & 40+ agents.
 
 ---
 
