@@ -239,6 +239,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🧪 Testing & QA Tools
+- **[Polarity](https://www.polarity.so/)**: The First AI QA Engineer performing all code review, testing (E2E/Unit/Integration), and mobile support.
 - **[Checksum AI](https://checksum.ai)**: AI-driven tool for automated software testing and validation.
 - **[OctoMind](https://octomind.dev)**: AI-powered platform for end-to-end testing automation.
 - **[KushoAI](https://kusho.ai/)**: AI-driven API testing tool for comprehensive QA automation.
