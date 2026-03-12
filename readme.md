@@ -93,6 +93,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## ✨ AI Tools for Developers
 - **[Supercode.sh](https://supercode.sh/)**: Cursor extension that upgrades AI agent in Cursor with Architect Mode, precise voice input, prompt enhancement, etc.
 - **[SpecStory](https://specstory.com/)**: Cursor / VS Code / Claude Code extension for summarizing context across chats with AI and preserving / sharing tasks intents.
+- **[agit](https://github.com/Madhurr/agit)**: Git middleware that preserves AI agent reasoning in every commit using git notes. Stores intent, confidence, alternatives considered, risks, and unknowns — so the next session knows WHY the code was written, not just WHAT changed. Works with Claude Code, Aider, Cursor, Copilot, and any agent with a terminal.
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 - **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
 - **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
@@ -439,4 +440,3 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
-
