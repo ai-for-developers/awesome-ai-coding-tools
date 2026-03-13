@@ -227,6 +227,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ---
 
+- **[helloandy.net CLAUDE.md Writer](https://helloandy.net/claude-md-writer/)**: AI-powered tool to generate CLAUDE.md system prompts for Claude agents from plain-English descriptions. Free, no account required.
+- **[helloandy.net SKILL.md Generator](https://helloandy.net/skill-generator/)**: Generates structured skill instruction files for AI agents. Includes AI Quick Generate mode via OpenRouter free tier.
 ## 🔄 PR Review Agents
 - **[Sweep](https://github.com/sweepai/sweep)**: AI-powered agent for automating pull request reviews and fixes.
 - **[Greptile](https://greptile.com/code-review-bot)**: AI bot for in-depth code review and pull request analysis.
