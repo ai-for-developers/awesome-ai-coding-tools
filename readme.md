@@ -235,7 +235,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Nova](https://www.trynova.ai/)**: AI-powered agent for automated code reviews and suggestions.
 - **[Pixee](https://pixee.ai)**: AI bot for security-focused pull request reviews and fixes.
 - **[Qodo PR Agent](https://github.com/qodo-ai/pr-agent)**: AI agent for enhancing PR reviews with actionable insights.
-- [Codex Action](https://github.com/icoretech/codex-action) – Run OpenAI Codex CLI non-interactively in GitHub Actions for changelog summarization, PR descriptions, code review, and more.
+- **[Codex Action](https://github.com/icoretech/codex-action)**: Run OpenAI Codex CLI non-interactively in GitHub Actions for changelog summarization, PR descriptions, code review, and more.
 
 ---
 
