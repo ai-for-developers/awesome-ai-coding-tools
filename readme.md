@@ -102,6 +102,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[a2a-client-hub](https://github.com/liujuanjuan1984/a2a-client-hub)**: A self-hosted A2A client hub to manage, invoke, and operate multiple A2A agents across web and mobile with unified session history and governance.
 
 ---
 
@@ -224,6 +225,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[codex-a2a-server](https://github.com/liujuanjuan1984/codex-a2a-server)**: Turn Codex CLI into a stateful, production-oriented A2A agent service with standardized transport, auth, and session continuity.
+- **[opencode-a2a-server](https://github.com/Intelligent-Internet/opencode-a2a-server)**: Turn OpenCode into a stateful A2A service with production-friendly deployment, auth, and session continuity.
 
 ---
 
