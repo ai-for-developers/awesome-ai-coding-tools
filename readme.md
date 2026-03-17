@@ -224,6 +224,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[ORCH](https://github.com/oxgeneral/ORCH)**: CLI runtime for orchestrating Claude Code, Codex, and Cursor as typed agent teams with a validated state machine (todo → in_progress → review → done), auto-retry, inter-agent messaging, goals system, and TUI dashboard. Zero infrastructure — file-only state.
 
 ---
 
