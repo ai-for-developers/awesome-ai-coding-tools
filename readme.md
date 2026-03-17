@@ -102,6 +102,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[Arch Tools](https://archtools.dev)**: 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
 
 ---
 
