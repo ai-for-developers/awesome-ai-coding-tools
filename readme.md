@@ -102,6 +102,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next with 15 Claude Code skills. Install with "npx relay-workflow@latest install" [#opensource](https://github.com/momobits/Relay/)
 
 ---
 
@@ -199,6 +200,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
+- **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next with 15 Claude Code skills. Install with "npx relay-workflow@latest install" [#opensource](https://github.com/momobits/Relay/)
 
 ---
 
