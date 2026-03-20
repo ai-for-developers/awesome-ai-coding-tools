@@ -163,8 +163,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ## 📦 LLM Code Models
 - **[Salesforce CodeGen](https://github.com/salesforce/CodeGen)**: Open-source LLM for generating high-quality code.
 - **[StarCoder](https://huggingface.co/bigcode/starcoder)**: Open-source LLM for code generation and programming tasks.
-- **[Code Llama](https://github.com/facebookresearch/codellama)**: Meta AI’s LLM optimized for code generation and completion.
-- **[Phi-3 Code](https://www.microsoft.com/en-us/research/blog/phi-3/)**: Microsoft’s lightweight LLM for efficient code generation.
+- **[Code Llama](https://github.com/facebookresearch/codellama)**: Meta AI's LLM optimized for code generation and completion.
+- **[Phi-3 Code](https://www.microsoft.com/en-us/research/blog/phi-3/)**: Microsoft's lightweight LLM for efficient code generation.
 - **[Codestral](https://mistral.ai/news/codestral)**: Codestral is an open-weight generative AI model explicitly designed for code generation tasks.
 
 ---
@@ -209,7 +209,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: AI agent for building full applications from natural language.
 - **[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)**: AI agent for automating DevOps tasks and code integration.
 - **[Potpie](https://potpie.ai)**: AI coding agent for streamlined software development workflows.
-- **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)**: Anthropic’s AI agent for code generation and developer support.
+- **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)**: Anthropic's AI agent for code generation and developer support.
 - **[Rovo Dev](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)**: Atlassian's specialized coding agent for the terminal.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Google's flexible coding agent for the terminal.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)**: Open-source AI software engineer for autonomous development.
@@ -224,6 +224,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[brood-box](https://github.com/stacklok/brood-box)** – Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.
 
 ---
 
@@ -439,4 +440,3 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
-
