@@ -210,6 +210,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)**: AI agent for automating DevOps tasks and code integration.
 - **[Potpie](https://potpie.ai)**: AI coding agent for streamlined software development workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)**: Anthropic’s AI agent for code generation and developer support.
+- **[Claude Code Starter Kit](https://github.com/rmbell09-lang/claude-code-starter-kit)**: Production-ready templates and skills for turning Claude Code into a persistent AI agent — includes memory system, personality files, and agent orchestration patterns.
 - **[Rovo Dev](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)**: Atlassian's specialized coding agent for the terminal.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)**: Google's flexible coding agent for the terminal.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)**: Open-source AI software engineer for autonomous development.
