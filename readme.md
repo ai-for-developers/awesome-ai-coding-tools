@@ -225,8 +225,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
-- **[codex-a2a-server](https://github.com/liujuanjuan1984/codex-a2a-server)**: Turn Codex CLI into a stateful, production-oriented A2A agent service with standardized transport, auth, and session continuity.
-- **[opencode-a2a-server](https://github.com/Intelligent-Internet/opencode-a2a-server)**: Turn OpenCode into a stateful A2A service with production-friendly deployment, auth, and session continuity.
+- **[codex-a2a](https://github.com/liujuanjuan1984/codex-a2a)**: Turn Codex CLI into a stateful, production-oriented A2A agent service with standardized transport, auth, and session continuity.
+- **[opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)**: Turn OpenCode into a stateful A2A service with production-friendly deployment, auth, and session continuity.
 
 ---
 
