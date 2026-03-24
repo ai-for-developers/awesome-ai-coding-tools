@@ -69,6 +69,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Replit Agent](https://replit.com/agent)**: Advanced AI agent within Replit that builds complete applications from natural language descriptions.
 - **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end.
 - **[Qoder](https://qoder.com/)**: Agentic Coding Platform for Real Software Think Deeper. Build Better.
+- **[Factory Floor](https://factory-floor.com)**: Native macOS workspace for parallel AI-assisted development. Manages git worktrees with integrated Claude Code agents, GPU-rendered terminals, and embedded dev servers.
 
 
 ---
