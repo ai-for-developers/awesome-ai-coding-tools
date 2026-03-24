@@ -439,4 +439,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
+## XVARY Stock Research
+
+- [XVARY Stock Research](https://github.com/xvary-research/claude-code-stock-analysis-skill) — Claude Code skill for public SEC EDGAR + market data: `/analyze`, `/score`, `/compare`. MIT.
 
