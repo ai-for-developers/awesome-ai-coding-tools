@@ -412,6 +412,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🗄️ MCP Server/Tools
+- **[CCHub](https://github.com/Moresl/cchub)**: Claude Code ecosystem management platform with visual GUI for MCP servers, skills, multi-config switching, and custom slash commands. Built with Tauri v2.
 - **[MCP Server Finder](https://www.mcpserverfinder.com/servers)**: Discover and browse a wide range of MCP servers.
 - **[MCP So](https://mcp.so/)**: Platform for MCP server resources and community.
 - **[MCP Market](https://mcpmarket.com/)**: Marketplace for MCP-related tools and services.
