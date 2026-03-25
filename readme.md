@@ -224,6 +224,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk)**: Open-source, provider-agnostic SDK implementing the Claude Code tool loop in Node.js, Python, Go, and Rust. Single-file, zero dependencies. Works with Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, Ollama, and LM Studio.
 
 ---
 
