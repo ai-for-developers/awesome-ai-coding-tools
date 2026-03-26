@@ -420,6 +420,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
+- **[Clarvia](https://clarvia.art)**: AEO (Agent Engine Optimization) platform that scores, discovers, and validates 15,400+ AI agent tools. MCP server with 16 tools for tool discovery and quality scoring. Install: `npx clarvia-mcp-server`.
 
 ---
 
