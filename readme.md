@@ -439,4 +439,5 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
+- **[AI Coding Tools Pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing)**: Structured pricing dataset for AI coding assistants (Cursor, Copilot, Windsurf, Claude Code, etc.) with JSON Schema and TypeScript types, updated monthly.
 
