@@ -102,6 +102,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[CodeCosts](https://codecosts.pages.dev/)**: AI coding tool comparison site with an interactive cost calculator for comparing pricing across Copilot, Cursor, Windsurf, and more.
 
 ---
 
@@ -433,6 +434,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Altern](https://altern.ai)**: Find Almost anything related to AI
 - **[DevTools Directory](https://devtools.directory)**: Directory of trending Dev Tools
 - **[Awesome AI Newsletters](https://github.com/alternbits/awesome-ai-newsletters)**: A curated list of top best AI Related Newsletters
+- **[ai-coding-tools-pricing](https://github.com/lunacompsia-oss/ai-coding-tools-pricing)**: Open JSON dataset of AI coding tool pricing data (Copilot, Cursor, Windsurf, Codeium, etc.).
 - **[Best Of AI](https://github.com/best-of-ai/best-of-ai)**: A curated list of best ai tools
 - **[Awesome AI Models](https://github.com/alternbits/awesome-ai-models)**: A curated list of top AI models and LLMs
 - **[Awesome AI Marketing](https://github.com/alternbits/awesome-ai-marketing)**: A curated list of top best ai tools for marketing
