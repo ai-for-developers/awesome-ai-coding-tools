@@ -321,6 +321,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 📖 Documentation Tools
+- **[Claude Code Cheat Sheet](https://cc.storyfox.cz/)**: Complete one-page printable reference for Claude Code — all shortcuts, commands, CLI flags, MCP config, memory, skills, and agents. Auto-updated daily from official docs. Available in [EN](https://cc.storyfox.cz/), [ZH](https://cc.storyfox.cz/zh/), [JA](https://cc.storyfox.cz/jp/), [KO](https://cc.storyfox.cz/kr/).
 - **[Trelent](https://trelent.net/)**: AI-powered tool for generating code documentation and comments.
 - **[README-AI](https://github.com/eli64s/readme-ai)**: AI tool for creating professional README files automatically.
 - **[DocuWriter.ai](https://www.docuwriter.ai/)**: AI-driven documentation generator for codebases and APIs.
