@@ -206,6 +206,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Smol Developer](https://github.com/smol-ai/developer)**: Lightweight AI coding agent for rapid prototyping.
 - **[Aider](https://github.com/paul-gauthier/aider)**: AI coding agent for collaborative code editing and generation.
 - **[Flumes AI](https://www.flumes.ai)**: Unified memory infrastructure for AI agents. Store and retrieve facts, context, and prior outputs across sessions. SDK available, Langchain-compatible, with Colab demo and graph-based memory inspection.
+- **[Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52)**: A 4-role autonomous AI dev team (PM + DEV + OPS + QA) inside Cursor IDE. File-based task routing ("Filename as Protocol"), auto patrol bot, role templates and .mdc rule files. Battle-tested: 87 person-days in 17 days, 91 deployments, zero incidents.
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)**: AI agent for building full applications from natural language.
 - **[DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)**: AI agent for automating DevOps tasks and code integration.
 - **[Potpie](https://potpie.ai)**: AI coding agent for streamlined software development workflows.
