@@ -102,6 +102,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[GitHub Optimization Skill](https://github.com/199-biotechnologies/github-optimization-skill)**: Claude Code skill that turns any GitHub repo into a star-magnet landing page with README optimization, SEO, and repo marketing.
+- **[Humanise Text Skill](https://github.com/199-biotechnologies/humanise-text-skill)**: Claude Code skill that strips AI writing patterns from any text with a 507-entry banned word list, structural pattern detection, and 12-check validation.
 
 ---
 
