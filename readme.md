@@ -420,6 +420,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
+- **[IndieStack](https://indiestack.ai)**: Open-source directory and MCP server for discovering 8,000+ developer tools. `pip install indiestack`
 
 ---
 
