@@ -242,6 +242,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Octomind](https://github.com/muvon/octomind)**: Session-based AI development assistant with extensible architecture, smart codebase understanding via semantic search and knowledge graphs. Supports 7 LLM providers with instant switching, plan-first execution, and runs as CLI, WebSocket server, or JSONL pipeline.
 - **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next with 15 Claude Code skills. Install with "npx relay-workflow@latest install" [#opensource](https://github.com/momobits/Relay/)
 - **[cup](https://github.com/krodak/clickup-cli)**: ClickUp CLI for AI coding agents and humans. Interactive tables in TTY, Markdown when piped, JSON with `--json`. Ships as a Claude Code plugin.
+- **[claw-army/claude-node](https://github.com/claw-army/claude-node)**: Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 
 ---
 
