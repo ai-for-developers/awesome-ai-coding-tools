@@ -133,7 +133,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🛠️ Code Review & Refactoring
-- **[AgentLint](https://github.com/0xmariowu/AgentLint)**: 33 evidence-backed checks for AI-friendly repos — file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix.
 - **[CodeReviewBot](https://codereviewbot.ai)**: AI bot for automated code reviews and quality assurance.
 - **[JetBrains Qodana](https://www.jetbrains.com/qodana/)**: AI-powered static analysis for code quality and refactoring.
 - **[Amazon Q Developer Review Agent](https://aws.amazon.com/q/developer/)**: AI tool for automated code reviews in AWS projects.
@@ -158,6 +157,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
 - **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 - **[Gito](https://github.com/Nayjest/Gito)**: Open-source AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- **[AgentLint](https://github.com/0xmariowu/AgentLint)**: 33 evidence-backed checks for AI-friendly repos — file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix.
 
 ---
 
