@@ -366,7 +366,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 ---
 
 ## 🔒 Security & Compliance
-- **[Corgea](https://corgea.com/)**: AI-native application security platform.
 - **[Nullify.ai](https://nullify.ai/)**: AI-powered security vulnerability detection.
 - **[Pixee.ai](https://pixee.ai/)**: Automated code security fixes with AI.
 - **[Gecko Security](https://gecko.security/)**: AI-powered security analysis for code.
@@ -375,6 +374,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Checkmarx](https://checkmarx.com/)**: AI-enhanced static application security testing platform with comprehensive vulnerability detection.
 - **[Mend (formerly WhiteSource)](https://www.mend.io/)**: AI-powered open source security and license compliance platform.
 - **[JFrog Xray](https://jfrog.com/xray/)**: AI-driven security and compliance scanning for DevOps pipelines and artifact repositories.
+- **[Corgea](https://corgea.com/)**: AI-native application security platform.
 
 ---
 
