@@ -120,6 +120,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Cursor Plugin Factory](https://github.com/ofershap/cursor-plugin-factory)**: Collection of 16 open-source plugins for AI coding assistants (Cursor, Claude Code) covering framework best practices, security guardrails, and behavior modifiers.
 - **[BurnRate](https://getburnrate.io)**: Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 - **[agit](https://github.com/Madhurr/agit)**: Git middleware that preserves AI agent reasoning in every commit using git notes. Stores intent, confidence, alternatives considered, risks, and unknowns — so the next session knows WHY the code was written, not just WHAT changed. Works with Claude Code, Aider, Cursor, Copilot, and any agent with a terminal.
+- **[Arch Tools](https://archtools.dev)**: 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
 
 ---
 
