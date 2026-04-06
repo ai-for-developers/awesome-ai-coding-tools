@@ -233,6 +233,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)**: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory for autonomous coding tasks.
+- **[Kagan](https://github.com/kagan-sh/kagan)**: AI-powered Kanban TUI that orchestrates multiple coding agents (Claude Code, Codex, Gemini CLI, and more) through an autonomous development workflow with built-in code review and merge automation.
 
 ---
 
