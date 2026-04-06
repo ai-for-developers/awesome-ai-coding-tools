@@ -224,10 +224,9 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[AgentsInFlow](https://aif.inovisum.com)**: Desktop command center for orchestrating AI coding agents (Claude Code, Codex, Cursor) with context persistence, token analytics, and runtime MCP injection.
 
 ---
-
-- **[AgentsInFlow](https://aif.inovisum.com)**: Desktop command center for orchestrating AI coding agents (Claude Code, Codex, Cursor) with context persistence, token analytics, and runtime MCP injection.
 
 ## 🔄 PR Review Agents
 - **[Sweep](https://github.com/sweepai/sweep)**: AI-powered agent for automating pull request reviews and fixes.
