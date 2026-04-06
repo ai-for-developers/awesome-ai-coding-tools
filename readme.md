@@ -231,7 +231,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
-- **[AdaL](htxtps://sylph.ai/)**: AI coding CLI from SylphAI with multi-model support (Claude, GPT, Gemini), powerful file editing tools, and built on the open-source AdalFlow library.
+- **[AdaL](https://sylph.ai/)**: AI coding CLI from SylphAI with multi-model support (Claude, GPT, Gemini), powerful file editing tools, and built on the open-source AdalFlow library.
 - **[OpenPaw](https://github.com/daxaur/openpaw)**: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including git, Telegram, Discord, and Obsidian. No daemon, no cloud.
 - **[PUIUX Pilot](https://github.com/PUIUX-Cloud/puiux-pilot)**: Open-source CLI that auto-configures Claude Code hooks, MCPs, and skills for any project, scanning 95+ project types and scoring quality (0-100).
 - **[Domain Finder](https://github.com/iscale-llc/domain-finder-claude-code)**: Interactive domain name brainstorming tool for Claude Code. Describe a business idea and get brandable domain suggestions with instant .com availability checks via Namecheap API.
