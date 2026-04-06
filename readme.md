@@ -258,6 +258,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Yaw](https://yaw.sh)**: Cross-platform terminal with built-in AI assistant supporting 9 providers, auto-detects AI CLI tools (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens split-pane workflows.
 - **[Overloop CLI](https://github.com/sortlist/overloop-cli)**: AI-powered outbound engine for developers. Source contacts from 450M+ database, run multi-channel campaigns (email + LinkedIn), and manage prospect pipelines. JSON output.
 - **[Signals CLI](https://github.com/sortlist/signals-cli)**: B2B intent signal monitoring CLI. Track LinkedIn engagement, keyword posters, job changers, and funding events to build signal-based prospect lists. JSON output.
+- **[clideck](https://github.com/rustykuntz/clideck)** – WhatsApp-like dashboard for managing multiple AI coding agents (Claude Code, Codex, Gemini CLI, OpenCode) in one browser window. Live status, session resume, autopilot routing, and mobile remote.
 
 ---
 
