@@ -319,6 +319,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Zenable](https://zenable.io/)**: AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality. Generous free tier available.
 - **[Z.ai Code Review](https://github.com/tarmojussila/zai-code-review)**: AI-powered GitHub Pull Request code review using Z.ai models.
 - **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)**: AI-powered GitHub Pull Request code review using MiniMax models.
+- **[PR Triage](https://pr-triage-web.vercel.app)**: Open source PR evaluation tool that scores pull requests on six quality dimensions with specific diff evidence. BYOK, MIT licensed.
 
 ---
 
