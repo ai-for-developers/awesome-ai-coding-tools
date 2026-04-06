@@ -128,6 +128,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next with 15 Claude Code skills. Install with "npx relay-workflow@latest install" [#opensource](https://github.com/momobits/Relay/)
 - **[Unlearn.dev](https://unlearn.dev/?utm_source=aifordevelopers&utm_medium=partners&utm_campaign=unlearn_announcement)**: Developer education for the AI era and beyond. It helps engineers turn AI into a 24/7 execution team while strengthening the judgment, architecture, and evaluation skills that make developers irreplaceable.
 - **[Cortex](https://github.com/SKULLFIRE07/cortex-memory)**: Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. 3-layer memory (working/episodic/semantic). VSCode extension + CLI + MCP server. Free.
+- **[VibeReady](https://vibeready.sh)** – AI-native SaaS starter kit with built-in context routing, quality gates, and LLM-friendly documentation to keep AI-generated code consistent at scale — compatible with Claude Code, Cursor, Windsurf, and GitHub Copilot.
 
 ---
 
