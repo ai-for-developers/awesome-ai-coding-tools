@@ -116,6 +116,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Poirot](https://github.com/LeonardoCardoso/Poirot)**: A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline.
 - **[TutuoAI](https://www.tutuoai.com/)**: $1 agent marketplace for agent skills/tools/configs (agent-native APIs)
 - **[Cursor Doctor](https://github.com/nedcodes-ok/cursor-doctor)**: CLI that diagnoses and auto-fixes your Cursor AI setup. Health checks, conflict detection, and auto-repair. `npx cursor-doctor scan` gives a health grade (A-F). Zero dependencies.
+- **[Cursor Plugin Factory](https://github.com/ofershap/cursor-plugin-factory)**: Collection of 16 open-source plugins for AI coding assistants (Cursor, Claude Code) covering framework best practices, security guardrails, and behavior modifiers.
 
 ---
 
