@@ -219,6 +219,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
 - **[AdaL](https://sylph.ai/)**: AI coding CLI from SylphAI with multi-model support (Claude, GPT, Gemini), powerful file editing tools, and built on the open-source AdalFlow library.
 - **[OpenPaw](https://github.com/daxaur/openpaw)**: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including git, Telegram, Discord, and Obsidian. No daemon, no cloud.
+- **[PUIUX Pilot](https://github.com/PUIUX-Cloud/puiux-pilot)**: Open-source CLI that auto-configures Claude Code hooks, MCPs, and skills for any project, scanning 95+ project types and scoring quality (0-100).
 
 ---
 
