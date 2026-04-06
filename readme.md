@@ -228,6 +228,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Everflow Sync](https://github.com/iscale-llc/claude-code-everflow-sync)**: Claude Code slash commands for syncing offers between Everflow affiliate network accounts, including URLs, creatives, geo targeting, payout rules, and postback pixels.
 - **[LogiCoal](https://logicoal.ai)**: Free terminal-based AI coding assistant with multi-agent system, smart model routing, file operations, web search, and MCP integration for comprehensive codebase interaction.
 - **[Octo Terminal](https://github.com/johunsang/octo-terminal-releases)**: The ultimate vibe coding terminal — AI-powered all-in-one desktop app with built-in Claude, Codex, Ollama, split terminals, code editor, notes, SSH remote, and remote control via Telegram/Discord/Slack. Built with Tauri + React + Rust.
+- **[VibeGrid](https://github.com/jcanizalez/vibegrid)**: Terminal manager for AI coding agents. Run Claude Code, Copilot, Codex, Gemini, and OpenCode side-by-side with task queues, workflow automation, and inline diff review.
 
 ---
 
