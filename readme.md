@@ -186,6 +186,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[cursor-lint](https://github.com/cursorrulespacks/cursor-lint)**: Linter for Cursor AI rule files (.mdc/.cursorrules). Catches broken frontmatter, missing fields, and silent failures. Available as CLI, [GitHub Action](https://github.com/cursorrulespacks/cursor-lint-action), and [VS Code extension](https://open-vsx.org/extension/nedcodes/cursor-lint).
 - **[Evolution Engine](https://github.com/alpsla/evolution-engine)**: Drift detector for AI-assisted development. Monitors git, CI, dependency, and deployment signals locally.
 - **[Open Code Review](https://github.com/raye-deng/open-code-review)**: Free, open-source CI/CD quality gate that detects 5 types of AI-generated code defects invisible to traditional linters and SonarQube, including phantom packages, outdated APIs, and context breaks. Supports TypeScript, Python, Java, Go, Kotlin with SARIF output.
+- **[Signum](https://github.com/heurema/signum)**: Multi-model code review pipeline that dispatches diffs to Claude, Codex, and Gemini independently and bundles findings into a tamper-evident proofpack.
 
 ---
 
