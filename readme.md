@@ -259,6 +259,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Claude Code Open](https://github.com/kill136/claude-code-open)**: Open-source AI coding platform based on Claude Code CLI with Web IDE, multi-agent system, 37+ tools, and MCP protocol support.
 - **[AgentsInFlow](https://aif.inovisum.com)**: Desktop command center for orchestrating AI coding agents (Claude Code, Codex, Cursor) with context persistence, token analytics, and runtime MCP injection.
 - **[Autohand Code CLI](https://github.com/autohandai/code-cli)**: Self-evolving autonomous coding agent for the terminal with ReAct pattern, 40+ tools, multiple LLM providers (OpenRouter, Anthropic, OpenAI, Ollama), VS Code/Zed integration, and modular skills system.
+- **[Dorothy](https://github.com/Charlie85270/Dorothy)**: Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
 
 ---
 
