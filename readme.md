@@ -148,7 +148,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Snyk (DeepCode)](https://snyk.io/)**: Security-focused code analysis with vulnerability detection.
 - **[Semgrep](https://semgrep.dev/)**: Static analysis tool for finding bugs and security issues.
 - **[CodeQL (GitHub)](https://codeql.github.com/)**: Semantic code analysis for security and quality.
-- **[Open Code Review](https://github.com/raye-deng/open-code-review)**: Free, open-source CI/CD quality gate that detects 5 types of AI-generated code defects invisible to traditional linters and SonarQube, including phantom packages, outdated APIs, and context breaks. Supports TypeScript, Python, Java, Go, Kotlin with SARIF output.
 - **[ESLint](https://eslint.org/)**: JavaScript linting tool with AI-enhanced capabilities.
 - **[ReviewNB](https://www.reviewnb.com/)**: Jupyter notebook code review tool.
 - **[CodeAnt AI](https://codeant.ai/)**: AI-powered code review and quality analysis.
@@ -158,6 +157,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
 - **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 - **[Gito](https://github.com/Nayjest/Gito)**: Open-source AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- **[Open Code Review](https://github.com/raye-deng/open-code-review)**: Free, open-source CI/CD quality gate that detects 5 types of AI-generated code defects invisible to traditional linters and SonarQube, including phantom packages, outdated APIs, and context breaks. Supports TypeScript, Python, Java, Go, Kotlin with SARIF output.
 
 ---
 
