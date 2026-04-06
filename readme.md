@@ -72,6 +72,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[OutcomeOps](https://github.com/bcarpio/outcome-ops-ai-assist)**: Context engineering for AI-assisted development. Ingests ADRs, code-maps, and organizational patterns to generate code matching your standards.
 - **[Nimbalyst](https://nimbalyst.com)** Agent management environment for Claude Code and Codex. Interactive visual editing. Session management. 
 - **[Yume](https://github.com/aofp/yume)**: Desktop GUI for Claude Code (Tauri 2) with multi-tab sessions, background agents, context compaction, and plugin system. Free.
+- **[Mysti](https://github.com/DeepMyst/Mysti)**: Multi-agent AI coding assistant for VS Code. Supports Claude Code, OpenAI Codex, Gemini, Cline, and GitHub Copilot with brainstorm mode where agents debate, red-team, and collaborate.
 
 ---
 
