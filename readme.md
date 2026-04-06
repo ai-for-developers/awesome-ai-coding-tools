@@ -276,6 +276,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ORCH](https://github.com/oxgeneral/ORCH)**: CLI runtime for orchestrating Claude Code, Codex, and Cursor as typed agent teams with a validated state machine (todo → in_progress → review → done), auto-retry, inter-agent messaging, goals system, and TUI dashboard. Zero infrastructure — file-only state.
 - **[codex-a2a](https://github.com/liujuanjuan1984/codex-a2a)**: Full A2A Protocol implementation for Codex CLI, providing a stateful, production-oriented agent service with standardized transport, auth, and session continuity.
 - **[opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)**: Full A2A Protocol implementation for OpenCode, providing a stateful A2A service with production-friendly deployment, auth, and session continuity.
+- **[Parallel Code](https://github.com/johannesjo/parallel-code)**: Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
 
 ---
 
