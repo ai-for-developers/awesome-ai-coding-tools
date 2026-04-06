@@ -147,6 +147,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[16x Prompt](https://prompt.16x.engineer/)**: AI tool for enhanced code search and prompt-based navigation.
 - **[Pieces.app](https://pieces.app/)**: AI-powered code snippet management and sharing.
 - **[AiDex](https://github.com/CSCSoftware/AiDex)**: Persistent code index MCP server using Tree-sitter. Replaces grep for AI coding assistants with ~50 token responses instead of 2000+. Supports 11 languages, SQLite storage. #opensource
+- **[Beacon](https://github.com/sagarmk/beacon-plugin)**: Semantic code search plugin for Claude Code using hybrid search with embeddings, BM25 keyword matching, and identifier boosting. Runs locally with Ollama and SQLite.
 
 ---
 
