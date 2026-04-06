@@ -124,6 +124,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Arch Tools](https://archtools.dev)**: 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
 - **[a2a-client-hub](https://github.com/liujuanjuan1984/a2a-client-hub)**: A self-hosted A2A client hub to manage, invoke, and operate multiple A2A agents across web and mobile with unified session history and governance.
 - **[Caliber](https://github.com/caliber-ai-org/ai-setup)**: CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md, skills). Scores config quality and keeps docs in sync. Supports Claude Code, Cursor, GitHub Copilot, and OpenAI Codex.
+- **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next with 15 Claude Code skills. Install with "npx relay-workflow@latest install" [#opensource](https://github.com/momobits/Relay/)
 
 ---
 
@@ -238,6 +239,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Octo Terminal](https://github.com/johunsang/octo-terminal-releases)**: The ultimate vibe coding terminal — AI-powered all-in-one desktop app with built-in Claude, Codex, Ollama, split terminals, code editor, notes, SSH remote, and remote control via Telegram/Discord/Slack. Built with Tauri + React + Rust.
 - **[VibeGrid](https://github.com/jcanizalez/vibegrid)**: Terminal manager for AI coding agents. Run Claude Code, Copilot, Codex, Gemini, and OpenCode side-by-side with task queues, workflow automation, and inline diff review.
 - **[Octomind](https://github.com/muvon/octomind)**: Session-based AI development assistant with extensible architecture, smart codebase understanding via semantic search and knowledge graphs. Supports 7 LLM providers with instant switching, plan-first execution, and runs as CLI, WebSocket server, or JSONL pipeline.
+- **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next with 15 Claude Code skills. Install with "npx relay-workflow@latest install" [#opensource](https://github.com/momobits/Relay/)
 
 ---
 
