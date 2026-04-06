@@ -481,3 +481,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
+- **[EveryDev.ai](https://www.everydev.ai)**: AI developer tools directory and community
+- **[Havoptic](https://havoptic.com/)**: Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
+- **[CodingButVibes — AI Coding Tools Guide](https://www.codingbutvibes.com/best/ai-coding-assistants)**: Practical comparisons and reviews of AI coding tools for developers who actually ship things.
