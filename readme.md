@@ -109,6 +109,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
 - **[Aquin](https://www.aquin.app)**: Vibe Code your own LLMs, with your data, your own control; build your own LLMs without any limitations.
 - **[agentskill.sh](https://agentskill.sh)**: Directory of 44k+ skills for Claude Code, Cursor, Codex with two-layer security scanning and `/learn` installer.
+- **[Neurolink](https://github.com/juspay/neurolink)**: Open-source TypeScript SDK unifying 13 major AI providers and 100+ models through a single API with MCP support and multi-agent orchestration.
 
 ---
 
