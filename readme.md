@@ -115,6 +115,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)**: Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - **[Poirot](https://github.com/LeonardoCardoso/Poirot)**: A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline.
 - **[TutuoAI](https://www.tutuoai.com/)**: $1 agent marketplace for agent skills/tools/configs (agent-native APIs)
+- **[Cursor Doctor](https://github.com/nedcodes-ok/cursor-doctor)**: CLI that diagnoses and auto-fixes your Cursor AI setup. Health checks, conflict detection, and auto-repair. `npx cursor-doctor scan` gives a health grade (A-F). Zero dependencies.
 
 ---
 
