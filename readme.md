@@ -134,6 +134,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)**: AI agent for debugging and navigating code issues.
 - **[16x Prompt](https://prompt.16x.engineer/)**: AI tool for enhanced code search and prompt-based navigation.
 - **[Pieces.app](https://pieces.app/)**: AI-powered code snippet management and sharing.
+- **[AiDex](https://github.com/CSCSoftware/AiDex)**: Persistent code index MCP server using Tree-sitter. Replaces grep for AI coding assistants with ~50 token responses instead of 2000+. Supports 11 languages, SQLite storage. #opensource
 
 ---
 
