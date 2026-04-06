@@ -199,6 +199,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Evolution Engine](https://github.com/alpsla/evolution-engine)**: Drift detector for AI-assisted development. Monitors git, CI, dependency, and deployment signals locally.
 - **[Open Code Review](https://github.com/raye-deng/open-code-review)**: Free, open-source CI/CD quality gate that detects 5 types of AI-generated code defects invisible to traditional linters and SonarQube, including phantom packages, outdated APIs, and context breaks. Supports TypeScript, Python, Java, Go, Kotlin with SARIF output.
 - **[Signum](https://github.com/heurema/signum)**: Multi-model code review pipeline that dispatches diffs to Claude, Codex, and Gemini independently and bundles findings into a tamper-evident proofpack.
+- **[AgentLint](https://github.com/0xmariowu/AgentLint)**: 33 evidence-backed checks for AI-friendly repos — file structure, instruction quality, build setup, session continuity, and security posture. Claude Code plugin with auto-fix.
 
 ---
 
