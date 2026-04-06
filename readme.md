@@ -484,4 +484,3 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[EveryDev.ai](https://www.everydev.ai)**: AI developer tools directory and community
 - **[Havoptic](https://havoptic.com/)**: Free, open-source timeline tracking releases from AI coding tools. Auto-updated daily. [Source](https://github.com/scotthavird/havoptic.com)
 - **[CodingButVibes — AI Coding Tools Guide](https://www.codingbutvibes.com/best/ai-coding-assistants)**: Practical comparisons and reviews of AI coding tools for developers who actually ship things.
-
