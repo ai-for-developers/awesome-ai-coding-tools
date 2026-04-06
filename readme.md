@@ -409,12 +409,16 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[AutoRegex](https://www.autoregex.xyz/)**: AI-powered tool for generating and explaining regular expressions.
 - **[CodePal](https://codepal.ai/)**: AI assistant for generating code snippets and utilities.
 - **[AI Code Convert](https://aicodeconvert.com/)**: AI tool for converting code between programming languages.
+- **[RegexAI](https://regexai-six.vercel.app/)**: Describe what you want to match in plain English and get a working regex with explanation. Supports multiple regex flavors.
+- **[JSONFix](https://jsonfix-lake.vercel.app/)**: AI-powered JSON fixer that instantly repairs broken JSON — missing quotes, trailing commas, unescaped characters.
+- **[CronAI](https://cronai-nu.vercel.app/)**: Convert plain English schedule descriptions to cron expressions using AI.
 
 ---
 
 ## 📖 Documentation Tools
 - **[Trelent](https://trelent.net/)**: AI-powered tool for generating code documentation and comments.
 - **[README-AI](https://github.com/eli64s/readme-ai)**: AI tool for creating professional README files automatically.
+- **[ReadMeAI](https://readmeai-six.vercel.app/)**: Paste a GitHub repo URL and get a professional README.md generated with AI — includes description, installation, usage, and contributing sections.
 - **[PitchDocs](https://github.com/littlebearapps/pitchdocs)**: Claude Code plugin that generates marketing-ready repository documentation — README, CHANGELOG, CONTRIBUTING, AI context files, and 15+ more files with evidence-based feature extraction and quality scoring.
 - **[DocuWriter.ai](https://www.docuwriter.ai/)**: AI-driven documentation generator for codebases and APIs.
 - **[DiagramGPT](https://www.eraser.io/diagramgpt)**: AI tool for generating diagrams from code and text descriptions.
