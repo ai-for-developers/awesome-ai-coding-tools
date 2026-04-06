@@ -78,7 +78,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Bolt.new](https://aifordevelopers.org/tool/bolt.new)** - [🔗](https://bolt.new/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - AI-powered platform for building, editing, and deploying full-stack web applications directly in the browser using natural language prompts, with one-click Netlify deployment and support for frameworks like React and Next.js.
 - **[Dyad.sh](https://aifordevelopers.org/tool/dyad)** - [🔗](https://www.dyad.sh/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - Free, local, open-source AI app builder running on your machine, offering flexibility with any AI model (e.g., Gemini, Claude) and seamless integration with IDEs like VS Code or Cursor, with Supabase support for backend features.
 - **[Lovable](https://aifordevelopers.org/tool/lovable)** - [🔗](https://lovable.dev/?utm_source=aifordevelopers.org&utm_medium=directory&utm_campaign=aifordevelopers) - AI-driven tool that enables users to create and deploy web applications from a single prompt in a browser tab.
-- **[Shakespeare](https://github.com/soapbox-pub/shakespeare/)** - [🔗](https://shakespeare.diy/) - A full-featured, browser-based private AI development environment. It supports local files, any AI provider, Git integration, full project export, and is fully open source and decentralized. 
 - **[Capacity](https://capacity.so/)**: Agentic coding platform leveraging Claude Code to transform ideas into full-stack web applications with minimal user input.
 - **[Builder.ai](https://www.builder.ai/)**: AI-driven custom software development platform that automates app creation for web and mobile, tailored to business needs.
 - **[10Web](https://10web.io/)**: AI-powered WordPress website builder with automated design, content generation, and optimization features for rapid app development.
@@ -88,6 +87,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[MagicLoops](https://magicloops.dev)**: No-code platform that uses AI to create complete applications in minutes from text-based instructions.
 - **[Create.xyz](https://create.xyz/)**: AI-powered app creation platform that simplifies building web and mobile applications with automated code generation.
 - **[Mage](https://usemage.ai/)**: AI-powered platform for generating full-stack applications from natural language prompts, supporting rapid prototyping and deployment.
+- **[Shakespeare](https://github.com/soapbox-pub/shakespeare/)** - [🔗](https://shakespeare.diy/) - A full-featured, browser-based private AI development environment. It supports local files, any AI provider, Git integration, full project export, and is fully open source and decentralized. 
 
 ---
 
