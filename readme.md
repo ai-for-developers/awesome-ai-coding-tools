@@ -321,6 +321,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[sniffbench](https://github.com/AnswerLayer/sniffbench)**: Benchmark suite for evaluating coding agents. A/B test configurations, track metrics, and compare performance across runs.
 - **[Bugster](https://www.bugster.dev/)**: AI QA engineer that creates and updates E2E tests, simulating real user behavior.
 - **[Polarity](https://www.polarity.so/)**: The First AI QA Engineer performing all code review, testing (E2E/Unit/Integration), and mobile support.
+- **[Wopee.io](https://wopee.io)**: Autonomous visual regression testing platform with AI-powered test agents. Integrates with Playwright, Cypress, and Robot Framework.
 
 ---
 
