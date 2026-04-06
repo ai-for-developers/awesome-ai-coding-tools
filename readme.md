@@ -117,6 +117,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[TutuoAI](https://www.tutuoai.com/)**: $1 agent marketplace for agent skills/tools/configs (agent-native APIs)
 - **[Cursor Doctor](https://github.com/nedcodes-ok/cursor-doctor)**: CLI that diagnoses and auto-fixes your Cursor AI setup. Health checks, conflict detection, and auto-repair. `npx cursor-doctor scan` gives a health grade (A-F). Zero dependencies.
 - **[Cursor Plugin Factory](https://github.com/ofershap/cursor-plugin-factory)**: Collection of 16 open-source plugins for AI coding assistants (Cursor, Claude Code) covering framework best practices, security guardrails, and behavior modifiers.
+- **[BurnRate](https://getburnrate.io)**: Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 
 ---
 
