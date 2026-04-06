@@ -112,7 +112,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Neurolink](https://github.com/juspay/neurolink)**: Open-source TypeScript SDK unifying 13 major AI providers and 100+ models through a single API with MCP support and multi-agent orchestration.
 - **[Mantra](https://mantra.gonewx.com)**: AI coding session management. Save, restore, and time-travel through your Claude Code, Cursor, and Windsurf sessions.
 - **[Syntropic](https://github.com/petercholford-ship-it/syntropic-cli)**: CLI tool (`npx syntropic init`) that scaffolds a structured development methodology into AI coding tool instruction files for Claude Code, Cursor, Windsurf, GitHub Copilot, and Codex. Free, MIT, zero dependencies.
-- [Parallel Code](https://github.com/johannesjo/parallel-code) - Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
+- **[Parallel Code](https://github.com/johannesjo/parallel-code)**: Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 
 ---
 
