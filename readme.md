@@ -102,6 +102,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
 
 ---
 
@@ -119,6 +120,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)**: Microsoft's AI-powered code completion for Visual Studio ecosystem.
 - **[CodeGeeX](https://codegeex.cn/)**: Multilingual code generation model supporting multiple programming languages.
 - **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)**: Real-time AI code suggestions with security vulnerability scanning and enterprise privacy controls.
+- **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)**: The ultimate AI-powered tool for SQL code generation and optimization, integrated into dbForge solutions. 
 
 ---
 
@@ -157,6 +159,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
 - **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 - **[Gito](https://github.com/Nayjest/Gito)**: Open-source AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- **[Vulert](https://vulert.com/)**: Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ---
 
@@ -224,6 +227,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)**: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory for autonomous coding tasks.
 
 ---
 
@@ -235,6 +239,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Nova](https://www.trynova.ai/)**: AI-powered agent for automated code reviews and suggestions.
 - **[Pixee](https://pixee.ai)**: AI bot for security-focused pull request reviews and fixes.
 - **[Qodo PR Agent](https://github.com/qodo-ai/pr-agent)**: AI agent for enhancing PR reviews with actionable insights.
+- **[CodeProt](https://codeprot.com/)**: Stronger AI Capabilities for Pull Request Review and Collaboration.
 
 ---
 
@@ -263,7 +268,9 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Launchable](https://launchableinc.com/)**: AI-driven test optimization platform that predicts which tests to run based on code changes.
 - **[Parasoft](https://www.parasoft.com/)**: Comprehensive AI-enhanced software testing suite covering static analysis, unit testing, and API testing.
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
+- **[BitDive](https://bitdive.io/)**: Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
 - **[sniffbench](https://github.com/AnswerLayer/sniffbench)**: Benchmark suite for evaluating coding agents. A/B test configurations, track metrics, and compare performance across runs.
+
 
 ---
 
@@ -333,6 +340,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitBook AI](https://gitbook.com/ai)**: AI-enhanced documentation platform with intelligent content suggestions and automated organization.
 - **[Slab](https://slab.com/)**: Team knowledge base with AI-powered search, content suggestions, and automated documentation workflows.
 - **[GPTutor](https://gptutor.tools/)**: VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and 50+ programming languages.
+- **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
 
 ---
 
