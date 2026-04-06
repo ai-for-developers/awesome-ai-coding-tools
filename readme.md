@@ -96,13 +96,13 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 - **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
 - **[Context7](https://context7.com/)**: MCP server with up-to-date documentation for LLMs and AI code editors with precise token-usage management.
-- **[Cursor Plugin Factory](https://github.com/ofershap/cursor-plugin-factory)**: Collection of 16 open-source plugins for AI coding assistants (Cursor, Claude Code) covering framework best practices, security guardrails, and behavior modifiers.
 - **[Raycast AI](https://raycast.com/ai)**: AI-powered productivity launcher with coding capabilities and developer workflow automation.
 - **[Perplexity Pro](https://perplexity.ai/pro)**: AI-powered search engine with real-time web access for coding solutions and documentation.
 - **[Warp AI](https://warp.dev/ai)**: AI-enhanced terminal with intelligent command suggestions and workflow optimization.
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[Cursor Plugin Factory](https://github.com/ofershap/cursor-plugin-factory)**: Collection of 16 open-source plugins for AI coding assistants (Cursor, Claude Code) covering framework best practices, security guardrails, and behavior modifiers.
 
 ---
 
