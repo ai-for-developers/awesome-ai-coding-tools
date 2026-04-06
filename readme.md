@@ -92,6 +92,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ## ✨ AI Tools for Developers
 - **[Supercode.sh](https://supercode.sh/)**: Cursor extension that upgrades AI agent in Cursor with Architect Mode, precise voice input, prompt enhancement, etc.
+- **[Git AI](https://github.com/acunniffe/git-ai)**: A Git extension that tracks the AI-generated code in your repo and the prompts that generated each line. 
 - **[SpecStory](https://specstory.com/)**: Cursor / VS Code / Claude Code extension for summarizing context across chats with AI and preserving / sharing tasks intents.
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 - **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
