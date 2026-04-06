@@ -286,6 +286,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[codex-a2a](https://github.com/liujuanjuan1984/codex-a2a)**: Full A2A Protocol implementation for Codex CLI, providing a stateful, production-oriented agent service with standardized transport, auth, and session continuity.
 - **[opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)**: Full A2A Protocol implementation for OpenCode, providing a stateful A2A service with production-friendly deployment, auth, and session continuity.
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)**: Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+- **[Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk)**: Open-source, provider-agnostic SDK implementing the Claude Code tool loop in Node.js, Python, Go, and Rust. Single-file, zero dependencies. Works with Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, Ollama, and LM Studio.
 
 ---
 
