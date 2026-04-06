@@ -110,6 +110,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Aquin](https://www.aquin.app)**: Vibe Code your own LLMs, with your data, your own control; build your own LLMs without any limitations.
 - **[agentskill.sh](https://agentskill.sh)**: Directory of 44k+ skills for Claude Code, Cursor, Codex with two-layer security scanning and `/learn` installer.
 - **[Neurolink](https://github.com/juspay/neurolink)**: Open-source TypeScript SDK unifying 13 major AI providers and 100+ models through a single API with MCP support and multi-agent orchestration.
+- **[Mantra](https://mantra.gonewx.com)**: AI coding session management. Save, restore, and time-travel through your Claude Code, Cursor, and Windsurf sessions.
 
 ---
 
