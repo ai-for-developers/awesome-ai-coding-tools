@@ -269,6 +269,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Stoneforge](https://stoneforge.ai)**: Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 - **[Hive](https://github.com/aden-hive/hive)**: Open-source AI agent framework for building goal-driven, self-improving autonomous agents with auto-generated graphs, evolution loops, and MCP integration.
 - **[FlyDex](https://flydex.net/)**: Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
+- **[ORCH](https://github.com/oxgeneral/ORCH)**: CLI runtime for orchestrating Claude Code, Codex, and Cursor as typed agent teams with a validated state machine (todo → in_progress → review → done), auto-retry, inter-agent messaging, goals system, and TUI dashboard. Zero infrastructure — file-only state.
 
 ---
 
