@@ -69,6 +69,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Replit Agent](https://replit.com/agent)**: Advanced AI agent within Replit that builds complete applications from natural language descriptions.
 - **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end.
 - **[Qoder](https://qoder.com/)**: Agentic Coding Platform for Real Software Think Deeper. Build Better.
+- **[OutcomeOps](https://github.com/bcarpio/outcome-ops-ai-assist)**: Context engineering for AI-assisted development. Ingests ADRs, code-maps, and organizational patterns to generate code matching your standards.
 
 
 ---
@@ -92,6 +93,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ## ✨ AI Tools for Developers
 - **[Supercode.sh](https://supercode.sh/)**: Cursor extension that upgrades AI agent in Cursor with Architect Mode, precise voice input, prompt enhancement, etc.
+- **[Git AI](https://github.com/acunniffe/git-ai)**: A Git extension that tracks the AI-generated code in your repo and the prompts that generated each line. 
 - **[SpecStory](https://specstory.com/)**: Cursor / VS Code / Claude Code extension for summarizing context across chats with AI and preserving / sharing tasks intents.
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)**: A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 - **[Memory Bank](https://github.com/vanzan01/cursor-memory-bank)**: A token-optimized, hierarchical task management system that integrates with Cursor for efficient multi-step development workflows.
@@ -102,6 +104,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fig](https://fig.io/)**: Terminal autocomplete and AI assistance tool for command-line productivity (now part of AWS).
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
+- **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
 
 ---
 
@@ -119,6 +122,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)**: Microsoft's AI-powered code completion for Visual Studio ecosystem.
 - **[CodeGeeX](https://codegeex.cn/)**: Multilingual code generation model supporting multiple programming languages.
 - **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)**: Real-time AI code suggestions with security vulnerability scanning and enterprise privacy controls.
+- **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)**: The ultimate AI-powered tool for SQL code generation and optimization, integrated into dbForge solutions. 
 
 ---
 
@@ -157,6 +161,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
 - **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 - **[Gito](https://github.com/Nayjest/Gito)**: Open-source AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- **[Vulert](https://vulert.com/)**: Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
 
 ---
 
@@ -224,6 +229,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[PraisonAI](https://github.com/MervinPraison/PraisonAI)**: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory for autonomous coding tasks.
 
 ---
 
@@ -235,6 +241,9 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Nova](https://www.trynova.ai/)**: AI-powered agent for automated code reviews and suggestions.
 - **[Pixee](https://pixee.ai)**: AI bot for security-focused pull request reviews and fixes.
 - **[Qodo PR Agent](https://github.com/qodo-ai/pr-agent)**: AI agent for enhancing PR reviews with actionable insights.
+- **[CodeProt](https://codeprot.com/)**: Stronger AI Capabilities for Pull Request Review and Collaboration.
+- **[ReviewCerberus](https://github.com/Kirill89/reviewcerberus)** - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
+- **[Zenable](https://zenable.io/)**: AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality. Generous free tier available.
 
 ---
 
@@ -263,6 +272,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Launchable](https://launchableinc.com/)**: AI-driven test optimization platform that predicts which tests to run based on code changes.
 - **[Parasoft](https://www.parasoft.com/)**: Comprehensive AI-enhanced software testing suite covering static analysis, unit testing, and API testing.
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
+- **[BitDive](https://bitdive.io/)**: Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
+- **[sniffbench](https://github.com/AnswerLayer/sniffbench)**: Benchmark suite for evaluating coding agents. A/B test configurations, track metrics, and compare performance across runs.
 - **[Bugster](https://www.bugster.dev/)**: AI QA engineer that creates and updates E2E tests, simulating real user behavior.
 
 ---
@@ -306,7 +317,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Kombai](https://kombai.com/)**: AI tool for converting designs into production-ready UI code.
 - **[Deepsite](https://huggingface.co/spaces/enzostvs/deepsite)**: An AI platform that helps you build stunning websites, no code required.
 - **[Rendition Create](https://www.renditioncreate.com/)**: AI-powered UI generator for web and mobile interfaces.
-- **[Galileo AI](https://www.usegalileo.ai/)**: AI platform for designing and prototyping user interfaces.
 - **[Phorm.ai](https://phorm.ai/)**: AI-powered form and interface generation.
 - **[Stitch (by Google)](https://stitch.withgoogle.com/)**: AI-powered UI generator from Google Labs, uses Gemini models to convert natural language or image inputs into multi-screen mobile/web UI designs and clean front‑end code; supports Figma export and conversational iteration.
 - **[Uizard](https://uizard.io/)**: AI-powered design tool converting hand-drawn mockups, screenshots, or text into interactive prototypes and code.
@@ -334,6 +344,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitBook AI](https://gitbook.com/ai)**: AI-enhanced documentation platform with intelligent content suggestions and automated organization.
 - **[Slab](https://slab.com/)**: Team knowledge base with AI-powered search, content suggestions, and automated documentation workflows.
 - **[GPTutor](https://gptutor.tools/)**: VS Code extension offering customizable LLM‑powered code explanations and tutoring across 120+ human languages and 50+ programming languages.
+- **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
 
 ---
 
@@ -422,6 +433,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)**: Claude's curated list of MCP servers.
 - **[PulseMCP Server Directory](https://www.pulsemcp.com/servers)**: Large, frequently updated directory of MCP servers, including trending, official, and community servers across many categories.
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
+- **[vsync](https://github.com/nicepkg/vsync)**: Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion.
 
 ---
 
@@ -441,4 +453,5 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Developer Marketing](https://github.com/marketinguys/awesome-dev-marketing)**
 - **[Awesome Marketing](https://github.com/marketingtoolslist/awesome-marketing)**: A curated list of awesome marketing tools and resources
 - **[Awesome Productivity](https://github.com/ProductivityDirectory/awesome-productivity-tools)**: Awesome list of productivity tools and products
+- **[EveryDev.ai](https://www.everydev.ai)**: AI developer tools directory and community
 
