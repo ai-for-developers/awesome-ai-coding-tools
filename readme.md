@@ -492,6 +492,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[FlutterFlow AI](https://flutterflow.io/ai)**: AI-powered visual development platform for Flutter applications with drag-and-drop interface and code generation.
 - **[Thunkable](https://thunkable.com/)**: AI-assisted no-code mobile app development platform supporting both iOS and Android.
 - **[AppSheet (Google)](https://www.appsheet.com/)**: No-code app development platform with AI-powered data integration and workflow automation.
+- **[Onepilot](https://onepilotapp.com)**: iOS app for SSHing into remote servers and running AI coding agents (Claude Code, Codex) from your phone with a full terminal emulator.
 
 ---
 
