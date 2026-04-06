@@ -243,6 +243,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next with 15 Claude Code skills. Install with "npx relay-workflow@latest install" [#opensource](https://github.com/momobits/Relay/)
 - **[cup](https://github.com/krodak/clickup-cli)**: ClickUp CLI for AI coding agents and humans. Interactive tables in TTY, Markdown when piped, JSON with `--json`. Ships as a Claude Code plugin.
 - **[claw-army/claude-node](https://github.com/claw-army/claude-node)**: Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
+- **[Code Insights](https://github.com/melagiri/code-insights)**: Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot Chat. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights.
 
 ---
 
