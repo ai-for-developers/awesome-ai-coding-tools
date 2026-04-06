@@ -134,7 +134,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 
 ## 🛠️ Code Review & Refactoring
 - **[CodeReviewBot](https://codereviewbot.ai)**: AI bot for automated code reviews and quality assurance.
-- **[cursor-lint](https://github.com/cursorrulespacks/cursor-lint)**: Linter for Cursor AI rule files (.mdc/.cursorrules). Catches broken frontmatter, missing fields, and silent failures. Available as CLI, [GitHub Action](https://github.com/cursorrulespacks/cursor-lint-action), and [VS Code extension](https://open-vsx.org/extension/nedcodes/cursor-lint).
 - **[JetBrains Qodana](https://www.jetbrains.com/qodana/)**: AI-powered static analysis for code quality and refactoring.
 - **[Amazon Q Developer Review Agent](https://aws.amazon.com/q/developer/)**: AI tool for automated code reviews in AWS projects.
 - **[Refact.ai](https://refact.ai/)**: AI-driven refactoring and code optimization for cleaner codebases.
@@ -158,6 +157,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
 - **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 - **[Gito](https://github.com/Nayjest/Gito)**: Open-source AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- **[cursor-lint](https://github.com/cursorrulespacks/cursor-lint)**: Linter for Cursor AI rule files (.mdc/.cursorrules). Catches broken frontmatter, missing fields, and silent failures. Available as CLI, [GitHub Action](https://github.com/cursorrulespacks/cursor-lint-action), and [VS Code extension](https://open-vsx.org/extension/nedcodes/cursor-lint).
 
 ---
 
