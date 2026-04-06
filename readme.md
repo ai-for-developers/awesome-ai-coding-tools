@@ -137,6 +137,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[IM.codes](https://github.com/im4codes/imcodes)**: Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
 - **[LynxPrompt](https://lynxprompt.com)**: Open-source platform for managing AI coding agent configuration files (AGENTS.md, CLAUDE.md, .cursorrules, copilot-instructions.md) with a web marketplace, CLI, VS Code extension, and self-hostable Docker/Helm deployment.
 - **[WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens)**: Windows system tray app for monitoring Claude Code token usage in real time. Shows per-session token counts, costs, context window progress, rate limit bars (5h/1w), activity heatmaps, and model breakdowns. Integrates as a Claude Code statusLine plugin for live data. [#opensource](https://github.com/jeongwookie/WhereMyTokens)
+- **[Roundtable MCP Server](https://github.com/askbudi/roundtable)**: Zero-configuration MCP server that unifies multiple AI coding assistants (Codex, Claude Code, Cursor, Gemini) through intelligent auto-discovery and standardized interface.
 
 ---
 
