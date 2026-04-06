@@ -259,6 +259,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[CodeProt](https://codeprot.com/)**: Stronger AI Capabilities for Pull Request Review and Collaboration.
 - **[ReviewCerberus](https://github.com/Kirill89/reviewcerberus)** - 100% free, open-source AI code review tool for analyzing git branch differences with comprehensive security, performance, and quality analysis.
 - **[Zenable](https://zenable.io/)**: AI guardrails that learn your team's standards and ensure coding agents follow them, maximizing speed and quality. Generous free tier available.
+- **[Z.ai Code Review](https://github.com/tarmojussila/zai-code-review)**: AI-powered GitHub Pull Request code review using Z.ai models.
+- **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)**: AI-powered GitHub Pull Request code review using MiniMax models.
 
 ---
 
