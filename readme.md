@@ -198,8 +198,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Opencode_CLI](https://github.com/opencode-ai/opencode)**: AI-powered development assistant with CLI integration.
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
-- **[Octo Terminal](https://github.com/johunsang/octo-terminal-releases)**: The ultimate vibe coding terminal — AI-powered all-in-one desktop app with built-in Claude, Codex, Ollama, split terminals, code editor, notes, SSH remote, and remote control via Telegram/Discord/Slack. Built with Tauri + React + Rust.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
+- **[Octo Terminal](https://github.com/johunsang/octo-terminal-releases)**: The ultimate vibe coding terminal — AI-powered all-in-one desktop app with built-in Claude, Codex, Ollama, split terminals, code editor, notes, SSH remote, and remote control via Telegram/Discord/Slack. Built with Tauri + React + Rust.
 
 ---
 
