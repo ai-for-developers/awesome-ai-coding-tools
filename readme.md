@@ -222,6 +222,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PUIUX Pilot](https://github.com/PUIUX-Cloud/puiux-pilot)**: Open-source CLI that auto-configures Claude Code hooks, MCPs, and skills for any project, scanning 95+ project types and scoring quality (0-100).
 - **[Domain Finder](https://github.com/iscale-llc/domain-finder-claude-code)**: Interactive domain name brainstorming tool for Claude Code. Describe a business idea and get brandable domain suggestions with instant .com availability checks via Namecheap API.
 - **[Everflow Sync](https://github.com/iscale-llc/claude-code-everflow-sync)**: Claude Code slash commands for syncing offers between Everflow affiliate network accounts, including URLs, creatives, geo targeting, payout rules, and postback pixels.
+- **[LogiCoal](https://logicoal.ai)**: Free terminal-based AI coding assistant with multi-agent system, smart model routing, file operations, web search, and MCP integration for comprehensive codebase interaction.
 
 ---
 
