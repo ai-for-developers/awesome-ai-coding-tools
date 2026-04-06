@@ -196,10 +196,10 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Mentat](https://mentat.ai/)**: AI coding assistant for command-line development.
 - **[Bito.ai](https://bito.ai/)**: AI-powered development assistant with CLI integration.
 - **[Opencode_CLI](https://github.com/opencode-ai/opencode)**: AI-powered development assistant with CLI integration.
-- **[AdaL](https://sylph.ai/)**: AI coding CLI from SylphAI with multi-model support (Claude, GPT, Gemini), powerful file editing tools, and built on the open-source AdalFlow library.
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
+- **[AdaL](https://sylph.ai/)**: AI coding CLI from SylphAI with multi-model support (Claude, GPT, Gemini), powerful file editing tools, and built on the open-source AdalFlow library.
 
 ---
 
