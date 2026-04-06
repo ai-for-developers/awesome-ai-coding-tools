@@ -192,7 +192,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Butterfish](https://butterfi.sh)**: AI tool for enhancing shell productivity with natural language.
 - **[TmuxAI](https://tmuxai.dev/)**: AI assistant for automating and optimizing tmux workflows.
 - **[Warp](https://www.warp.dev/)**: AI-enhanced terminal with smart command suggestions and workflows.
-- **[Yaw](https://yaw.sh)**: Cross-platform terminal with built-in AI assistant supporting 9 providers, auto-detects AI CLI tools (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens split-pane workflows.
 - **[Codename Goose](https://github.com/block/goose)**: codename goose is a desktop and CLI tool that automates your tasks using large language models (LLMs) and extensions.
 - **[Mentat](https://mentat.ai/)**: AI coding assistant for command-line development.
 - **[Bito.ai](https://bito.ai/)**: AI-powered development assistant with CLI integration.
@@ -200,6 +199,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)**: Official GitHub AI assistant for command-line with context-aware command suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
+- **[Yaw](https://yaw.sh)**: Cross-platform terminal with built-in AI assistant supporting 9 providers, auto-detects AI CLI tools (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens split-pane workflows.
 
 ---
 
