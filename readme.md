@@ -39,6 +39,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 * [📚 Related Lists](#-related-lists)
 
 
+- **[Guardian Agent Prompts](https://github.com/milkomida77/guardian-agent-prompts)**: 49 production-tested system prompts for building multi-agent AI systems. Orchestrator, task registry, quality gates, and specialized agents for code review, security, trading, and OSINT.
 ---
 
 
