@@ -123,6 +123,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[agit](https://github.com/Madhurr/agit)**: Git middleware that preserves AI agent reasoning in every commit using git notes. Stores intent, confidence, alternatives considered, risks, and unknowns — so the next session knows WHY the code was written, not just WHAT changed. Works with Claude Code, Aider, Cursor, Copilot, and any agent with a terminal.
 - **[Arch Tools](https://archtools.dev)**: 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
 - **[a2a-client-hub](https://github.com/liujuanjuan1984/a2a-client-hub)**: A self-hosted A2A client hub to manage, invoke, and operate multiple A2A agents across web and mobile with unified session history and governance.
+- **[Caliber](https://github.com/caliber-ai-org/ai-setup)**: CLI that fingerprints projects and generates/syncs AI agent configs (CLAUDE.md, .cursor/rules/, AGENTS.md, skills). Scores config quality and keeps docs in sync. Supports Claude Code, Cursor, GitHub Copilot, and OpenAI Codex.
 
 ---
 
