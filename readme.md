@@ -130,6 +130,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Cortex](https://github.com/SKULLFIRE07/cortex-memory)**: Persistent AI memory for coding assistants. Auto-captures decisions, patterns, and context from Claude Code, Cursor, and Cline sessions. 3-layer memory (working/episodic/semantic). VSCode extension + CLI + MCP server. Free.
 - **[VibeReady](https://vibeready.sh)** – AI-native SaaS starter kit with built-in context routing, quality gates, and LLM-friendly documentation to keep AI-generated code consistent at scale — compatible with Claude Code, Cursor, Windsurf, and GitHub Copilot.
 - **[ClosedLoop AI](https://closedloop.sh)**: MCP server and CLI that gives AI coding assistants access to customer feedback, feature requests, and product insights from Gong, Slack, and 40+ integrations. Helps developers build what customers actually need.
+- **[CodeCosts](https://codecosts.pages.dev/)**: Compare pricing across AI coding tools (Copilot, Cursor, Claude Code, Windsurf, etc.) with an interactive calculator and free API.
 - **[LLMKit](https://github.com/smigolsmigol/llmkit)**: Open-source AI API gateway with cost tracking, budget enforcement, and MCP server. Supports 11 providers, 730+ models, TypeScript/Python SDKs, and a CLI forward proxy for any language. [#opensource](https://github.com/smigolsmigol/llmkit)
 
 ---
