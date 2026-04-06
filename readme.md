@@ -135,6 +135,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Hindsight](https://hindsight.vectorize.io)**: State-of-the-art long-term memory for AI coding agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, Claude Code, and more. [#opensource](https://github.com/vectorize-io/hindsight)
 - **[ToolRouter](https://toolrouter.com/)**: All your AI tools in one place — 150+ tools on demand with one account. MCP server, CLI, and REST API. Competitor research, web search, image generation, security scanning, and more.
 - **[IM.codes](https://github.com/im4codes/imcodes)**: Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
+- **[LynxPrompt](https://lynxprompt.com)**: Open-source platform for managing AI coding agent configuration files (AGENTS.md, CLAUDE.md, .cursorrules, copilot-instructions.md) with a web marketplace, CLI, VS Code extension, and self-hostable Docker/Helm deployment.
 
 ---
 
