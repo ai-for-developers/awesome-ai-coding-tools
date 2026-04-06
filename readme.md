@@ -246,6 +246,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[cup](https://github.com/krodak/clickup-cli)**: ClickUp CLI for AI coding agents and humans. Interactive tables in TTY, Markdown when piped, JSON with `--json`. Ships as a Claude Code plugin.
 - **[claw-army/claude-node](https://github.com/claw-army/claude-node)**: Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - **[Code Insights](https://github.com/melagiri/code-insights)**: Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot Chat. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights.
+- **[Yaw](https://yaw.sh)**: Cross-platform terminal with built-in AI assistant supporting 9 providers, auto-detects AI CLI tools (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens split-pane workflows.
 
 ---
 
