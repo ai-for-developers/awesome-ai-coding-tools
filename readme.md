@@ -417,6 +417,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Pulumi AI](https://www.pulumi.com/ai/)**: Infrastructure as code platform with AI assistance for cloud resource management and optimization.
 - **[MyVibe](https://myvibe.so/)**: Instant deployment platform for AI-generated web apps. Publish via Claude Code skills or direct upload with auto-detection for static sites, Vite, Next.js, and more.
 - **[Infracost](https://www.infracost.io/)**: AI-powered cloud cost estimation tool that shows infrastructure cost breakdowns directly in pull requests before deploying with Terraform or Pulumi.
+- **[onWatch](https://github.com/onllm-dev/onwatch)**: Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, Codex, Copilot, Synthetic, Z.ai, MiniMax, Antigravity) with a background daemon, <50MB RAM, zero telemetry, and a Material Design 3 web dashboard.
 
 ---
 
