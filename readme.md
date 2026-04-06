@@ -136,6 +136,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ToolRouter](https://toolrouter.com/)**: All your AI tools in one place — 150+ tools on demand with one account. MCP server, CLI, and REST API. Competitor research, web search, image generation, security scanning, and more.
 - **[IM.codes](https://github.com/im4codes/imcodes)**: Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
 - **[LynxPrompt](https://lynxprompt.com)**: Open-source platform for managing AI coding agent configuration files (AGENTS.md, CLAUDE.md, .cursorrules, copilot-instructions.md) with a web marketplace, CLI, VS Code extension, and self-hostable Docker/Helm deployment.
+- **[WhereMyTokens](https://github.com/jeongwookie/WhereMyTokens)**: Windows system tray app for monitoring Claude Code token usage in real time. Shows per-session token counts, costs, context window progress, rate limit bars (5h/1w), activity heatmaps, and model breakdowns. Integrates as a Claude Code statusLine plugin for live data. [#opensource](https://github.com/jeongwookie/WhereMyTokens)
 
 ---
 
