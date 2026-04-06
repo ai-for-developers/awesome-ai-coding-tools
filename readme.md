@@ -476,6 +476,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[MCPServers.Net](https://mcpservers.net/)**: Comprehensive MCP server navigation platform, featuring official and community servers, tutorials, and resources.
 - **[vsync](https://github.com/nicepkg/vsync)**: Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion.
 - **[AgentFund MCP](https://github.com/RioTheGreat-ai/agentfund-mcp)**: Crowdfunding for AI agents with milestone-based escrow on Base chain. Create funding proposals, track projects, and receive payments.
+- **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)**: X (Twitter) automation MCP server for AI coding agents. 40+ tools: tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions. Works with Claude Code, Cursor, Codex, Copilot, Windsurf & 40+ agents.
 
 ---
 
