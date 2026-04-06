@@ -267,6 +267,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Dorothy](https://github.com/Charlie85270/Dorothy)**: Open-source desktop app to orchestrate multiple AI coding agents (Claude Code, Codex, Gemini) simultaneously with automations, Kanban management, and remote control.
 - **[Stoneforge](https://stoneforge.ai)**: Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 - **[Hive](https://github.com/aden-hive/hive)**: Open-source AI agent framework for building goal-driven, self-improving autonomous agents with auto-generated graphs, evolution loops, and MCP integration.
+- **[FlyDex](https://flydex.net/)**: Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
 
 ---
 
