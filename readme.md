@@ -256,6 +256,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[claw-army/claude-node](https://github.com/claw-army/claude-node)**: Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
 - **[Code Insights](https://github.com/melagiri/code-insights)**: Local-first CLI and dashboard for analyzing AI coding sessions from Claude Code, Cursor, Codex CLI, Copilot CLI, and VS Code Copilot Chat. SQLite-backed with terminal analytics, browser dashboard, and LLM-powered insights.
 - **[Yaw](https://yaw.sh)**: Cross-platform terminal with built-in AI assistant supporting 9 providers, auto-detects AI CLI tools (Claude Code, Codex, Gemini CLI, Vibe CLI) and opens split-pane workflows.
+- **[Overloop CLI](https://github.com/sortlist/overloop-cli)**: AI-powered outbound engine for developers. Source contacts from 450M+ database, run multi-channel campaigns (email + LinkedIn), and manage prospect pipelines. JSON output.
+- **[Signals CLI](https://github.com/sortlist/signals-cli)**: B2B intent signal monitoring CLI. Track LinkedIn engagement, keyword posters, job changers, and funding events to build signal-based prospect lists. JSON output.
 
 ---
 
