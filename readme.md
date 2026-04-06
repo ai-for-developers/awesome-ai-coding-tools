@@ -74,6 +74,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Yume](https://github.com/aofp/yume)**: Desktop GUI for Claude Code (Tauri 2) with multi-tab sessions, background agents, context compaction, and plugin system. Free.
 - **[Mysti](https://github.com/DeepMyst/Mysti)**: Multi-agent AI coding assistant for VS Code. Supports Claude Code, OpenAI Codex, Gemini, Cline, and GitHub Copilot with brainstorm mode where agents debate, red-team, and collaborate.
 - **[Nimbalyst](https://nimbalyst.com/)**: Visual workspace for building with Codex and Claude Code. Session/task manager. Visual editor.
+- **[Factory Floor](https://factory-floor.com)**: Native macOS workspace for parallel AI-assisted development. Manages git worktrees with integrated Claude Code agents, GPU-rendered terminals, and embedded dev servers.
 
 ---
 
