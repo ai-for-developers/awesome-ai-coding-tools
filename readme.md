@@ -224,6 +224,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Domain Finder](https://github.com/iscale-llc/domain-finder-claude-code)**: Interactive domain name brainstorming tool for Claude Code. Describe a business idea and get brandable domain suggestions with instant .com availability checks via Namecheap API.
 - **[Everflow Sync](https://github.com/iscale-llc/claude-code-everflow-sync)**: Claude Code slash commands for syncing offers between Everflow affiliate network accounts, including URLs, creatives, geo targeting, payout rules, and postback pixels.
 - **[LogiCoal](https://logicoal.ai)**: Free terminal-based AI coding assistant with multi-agent system, smart model routing, file operations, web search, and MCP integration for comprehensive codebase interaction.
+- **[Octo Terminal](https://github.com/johunsang/octo-terminal-releases)**: The ultimate vibe coding terminal — AI-powered all-in-one desktop app with built-in Claude, Codex, Ollama, split terminals, code editor, notes, SSH remote, and remote control via Telegram/Discord/Slack. Built with Tauri + React + Rust.
 
 ---
 
