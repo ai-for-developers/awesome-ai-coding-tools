@@ -486,6 +486,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[vsync](https://github.com/nicepkg/vsync)**: Sync Skills, MCP servers, Agents & Commands across Claude Code, Cursor, OpenCode, and Codex with automatic format conversion.
 - **[AgentFund MCP](https://github.com/RioTheGreat-ai/agentfund-mcp)**: Crowdfunding for AI agents with milestone-based escrow on Base chain. Create funding proposals, track projects, and receive payments.
 - **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)**: X (Twitter) automation MCP server for AI coding agents. 40+ tools: tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, trending topics, write actions. Works with Claude Code, Cursor, Codex, Copilot, Windsurf & 40+ agents.
+- **[onUI](https://github.com/onllm-dev/onUI)**: Open-source browser extension and local MCP server for annotation-first UI pair programming with AI agents. Annotate any webpage and let Claude Code, Cursor, or Windsurf understand UI context
 
 ---
 
