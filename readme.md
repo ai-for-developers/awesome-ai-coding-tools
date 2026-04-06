@@ -348,7 +348,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Datadog](https://www.datadoghq.com/)**: Comprehensive monitoring and observability platform with AI-powered insights.
 - **[PagerDuty](https://www.pagerduty.com/)**: AI-powered incident management and response automation.
 - **[New Relic](https://newrelic.com/)**: Observability platform with AIOps capabilities and anomaly detection.
-- **[onWatch](https://github.com/onllm-dev/onwatch)**: Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, Codex, Copilot, Synthetic, Z.ai, MiniMax, Antigravity) with a background daemon, <50MB RAM, zero telemetry, and a Material Design 3 web dashboard.
 - **[Spacelift](https://spacelift.io/)**: AI-powered infrastructure automation with policy as code.
 - **[Digital.ai](https://digital.ai/)**: End-to-end DevOps platform with AI-driven insights.
 - **[Sysdig](https://sysdig.com/)**: Cloud security and monitoring with AI-powered threat detection.
@@ -363,6 +362,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[GitLab AI](https://about.gitlab.com/solutions/artificial-intelligence/)**: Integrated AI features across GitLab including code suggestions, security scanning, and workflow optimization.
 - **[Terraform Cloud](https://www.terraform.io/cloud)** – Infrastructure as code platform with AI-powered policy suggestions and optimization recommendations.
 - **[Pulumi AI](https://www.pulumi.com/ai/)**: Infrastructure as code platform with AI assistance for cloud resource management and optimization.
+- **[onWatch](https://github.com/onllm-dev/onwatch)**: Open-source Go CLI that tracks AI API quota usage across 7 providers (Anthropic, Codex, Copilot, Synthetic, Z.ai, MiniMax, Antigravity) with a background daemon, <50MB RAM, zero telemetry, and a Material Design 3 web dashboard.
 
 ---
 
