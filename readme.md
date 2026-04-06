@@ -105,6 +105,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[Echo](https://echo.merit.systems/)**: Open-source Billing and Auth solution. Build AI apps and earn profit on every token your users generate with easy to use templates. 5 line change from the Vercel AI SDK. [#opensource](https://github.com/Merit-Systems/echo)
 - **[AutoREAMDE](https://autoreadme.jesushdez.dev)** AI tool to generate READMES for your github repos.
+- **[Aquin](https://www.aquin.app)**: Vibe Code your own LLMs, with your data, your own control; build your own LLMs without any limitations.
 
 ---
 
