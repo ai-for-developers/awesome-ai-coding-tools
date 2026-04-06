@@ -114,6 +114,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Syntropic](https://github.com/petercholford-ship-it/syntropic-cli)**: CLI tool (`npx syntropic init`) that scaffolds a structured development methodology into AI coding tool instruction files for Claude Code, Cursor, Windsurf, GitHub Copilot, and Codex. Free, MIT, zero dependencies.
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)**: Desktop app that runs multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) in parallel with automatic git worktree isolation, a unified GUI, and remote monitoring.
 - **[Poirot](https://github.com/LeonardoCardoso/Poirot)**: A macOS app for browsing Claude Code sessions, exploring diffs, and re-running commands. Reads local transcripts, runs offline.
+- **[TutuoAI](https://www.tutuoai.com/)**: $1 agent marketplace for agent skills/tools/configs (agent-native APIs)
 
 ---
 
