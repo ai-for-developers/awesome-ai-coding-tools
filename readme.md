@@ -287,6 +287,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)**: Full A2A Protocol implementation for OpenCode, providing a stateful A2A service with production-friendly deployment, auth, and session continuity.
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)**: Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
 - **[Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk)**: Open-source, provider-agnostic SDK implementing the Claude Code tool loop in Node.js, Python, Go, and Rust. Single-file, zero dependencies. Works with Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, Ollama, and LM Studio.
+- **[AuraKit](https://github.com/smorky850612/Aurakit)**: All-in-one Claude Code skill with 33 modes, 6-layer security, 23 hooks, 8 languages, 75% token savings. Cross-platform (Codex, Cursor, Manus, Windsurf).
 
 ---
 
