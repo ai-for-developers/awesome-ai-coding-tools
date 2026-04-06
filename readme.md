@@ -230,6 +230,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[LogiCoal](https://logicoal.ai)**: Free terminal-based AI coding assistant with multi-agent system, smart model routing, file operations, web search, and MCP integration for comprehensive codebase interaction.
 - **[Octo Terminal](https://github.com/johunsang/octo-terminal-releases)**: The ultimate vibe coding terminal — AI-powered all-in-one desktop app with built-in Claude, Codex, Ollama, split terminals, code editor, notes, SSH remote, and remote control via Telegram/Discord/Slack. Built with Tauri + React + Rust.
 - **[VibeGrid](https://github.com/jcanizalez/vibegrid)**: Terminal manager for AI coding agents. Run Claude Code, Copilot, Codex, Gemini, and OpenCode side-by-side with task queues, workflow automation, and inline diff review.
+- **[Octomind](https://github.com/muvon/octomind)**: Session-based AI development assistant with extensible architecture, smart codebase understanding via semantic search and knowledge graphs. Supports 7 LLM providers with instant switching, plan-first execution, and runs as CLI, WebSocket server, or JSONL pipeline.
 
 ---
 
