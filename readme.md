@@ -134,6 +134,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[LLMKit](https://github.com/smigolsmigol/llmkit)**: Open-source AI API gateway with cost tracking, budget enforcement, and MCP server. Supports 11 providers, 730+ models, TypeScript/Python SDKs, and a CLI forward proxy for any language. [#opensource](https://github.com/smigolsmigol/llmkit)
 - **[Hindsight](https://hindsight.vectorize.io)**: State-of-the-art long-term memory for AI coding agents by Vectorize. Open-source, self-hostable, with integrations for LangChain, CrewAI, Claude Code, and more. [#opensource](https://github.com/vectorize-io/hindsight)
 - **[ToolRouter](https://toolrouter.com/)**: All your AI tools in one place — 150+ tools on demand with one account. MCP server, CLI, and REST API. Competitor research, web search, image generation, security scanning, and more.
+- **[IM.codes](https://github.com/im4codes/imcodes)**: Mobile/web control layer for Claude Code, Codex, Gemini CLI, and other terminal-based coding agents, with terminal access, file browsing, git views, localhost preview, notifications, and multi-agent workflows.
 
 ---
 
