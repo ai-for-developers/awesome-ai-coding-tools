@@ -138,7 +138,6 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Amazon Q Developer Review Agent](https://aws.amazon.com/q/developer/)**: AI tool for automated code reviews in AWS projects.
 - **[Refact.ai](https://refact.ai/)**: AI-driven refactoring and code optimization for cleaner codebases.
 - **[Codiga](https://www.codiga.io/)**: AI-powered static code analysis for security and quality checks.
-- **[ctxlint](https://github.com/YawLabs/ctxlint)**: Open-source linter that validates AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) against the actual codebase — catches broken paths, wrong commands, stale context, and token waste.
 - **[DeepCode](https://www.deepcode.ai/)**: AI-based code review tool for detecting bugs and vulnerabilities.
 - **[ReSharper](https://www.jetbrains.com/resharper/)**: AI-enhanced refactoring and code quality tool for .NET developers.
 - **[Qodo (CodiumAI)](https://www.qodo.ai/)**: Comprehensive code review and automated test generation platform.
@@ -158,6 +157,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PullRequest](https://www.pullrequest.com/)**: Human-AI hybrid code review service combining automated analysis with expert human reviewers.
 - **[Veracode](https://www.veracode.com/)**: AI-driven application security platform with static and dynamic analysis capabilities.
 - **[Gito](https://github.com/Nayjest/Gito)**: Open-source AI code reviewer for GitHub Actions or local use, compatible with any LLM and integrated with Jira/Linear.
+- **[ctxlint](https://github.com/YawLabs/ctxlint)**: Open-source linter that validates AI context files (CLAUDE.md, .cursorrules, copilot-instructions.md) against the actual codebase — catches broken paths, wrong commands, stale context, and token waste.
 
 ---
 
