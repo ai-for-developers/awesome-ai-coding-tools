@@ -218,6 +218,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)**: Command-line tool integrating ChatGPT for shell command generation and system administration.
 - **[AICommits](https://github.com/Nutlope/aicommits)**: AI-powered tool for generating meaningful Git commit messages based on code changes.
 - **[AdaL](https://sylph.ai/)**: AI coding CLI from SylphAI with multi-model support (Claude, GPT, Gemini), powerful file editing tools, and built on the open-source AdalFlow library.
+- **[OpenPaw](https://github.com/daxaur/openpaw)**: Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills including git, Telegram, Discord, and Obsidian. No daemon, no cloud.
 
 ---
 
