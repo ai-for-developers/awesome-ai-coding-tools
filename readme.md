@@ -239,6 +239,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)**: Multi-AI Agents framework with 100+ LLM support, MCP integration, agentic workflows, and built-in memory for autonomous coding tasks.
 - **[Kagan](https://github.com/kagan-sh/kagan)**: AI-powered Kanban TUI that orchestrates multiple coding agents (Claude Code, Codex, Gemini CLI, and more) through an autonomous development workflow with built-in code review and merge automation.
 - **[Frontman](https://github.com/frontman-ai/frontman)**: Open-source AI coding agent that lives in your browser — click any element, describe changes in plain English, and get real code edits with hot reload. Supports Next.js, Vite, and Astro.
+- **[Claude Code Open](https://github.com/kill136/claude-code-open)**: Open-source AI coding platform based on Claude Code CLI with Web IDE, multi-agent system, 37+ tools, and MCP protocol support.
 
 ---
 
