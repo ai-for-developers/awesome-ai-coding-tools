@@ -269,6 +269,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Parasoft](https://www.parasoft.com/)**: Comprehensive AI-enhanced software testing suite covering static analysis, unit testing, and API testing.
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
 - **[BitDive](https://bitdive.io/)**: Zero-code integration testing for Java/Kotlin that generates tests from runtime application behavior.
+- **[sniffbench](https://github.com/AnswerLayer/sniffbench)**: Benchmark suite for evaluating coding agents. A/B test configurations, track metrics, and compare performance across runs.
+
 
 ---
 
