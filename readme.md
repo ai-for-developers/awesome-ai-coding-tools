@@ -70,6 +70,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Devin AI](https://devin.ai/)**: An autonomous AI software engineer that can plan, code, debug, and deploy projects end-to-end.
 - **[Qoder](https://qoder.com/)**: Agentic Coding Platform for Real Software Think Deeper. Build Better.
 - **[OutcomeOps](https://github.com/bcarpio/outcome-ops-ai-assist)**: Context engineering for AI-assisted development. Ingests ADRs, code-maps, and organizational patterns to generate code matching your standards.
+- **[Nimbalyst](https://nimbalyst.com)** Agent management environment for Claude Code and Codex. Interactive visual editing. Session management. 
 
 
 ---
