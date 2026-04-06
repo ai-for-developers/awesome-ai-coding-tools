@@ -121,6 +121,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[BurnRate](https://getburnrate.io)**: Local-first AI coding cost analytics. Tracks Claude Code, Cursor, Codex, Copilot, Windsurf, Cline, and Aider. Cost breakdowns, 23 optimization rules, rate limit monitoring, provider comparison, and PDF reports.
 - **[agit](https://github.com/Madhurr/agit)**: Git middleware that preserves AI agent reasoning in every commit using git notes. Stores intent, confidence, alternatives considered, risks, and unknowns — so the next session knows WHY the code was written, not just WHAT changed. Works with Claude Code, Aider, Cursor, Copilot, and any agent with a terminal.
 - **[Arch Tools](https://archtools.dev)**: 53 production-ready AI tools via MCP with x402 USDC payments. Web scraping, crypto data, AI generation, OCR, and more.
+- **[a2a-client-hub](https://github.com/liujuanjuan1984/a2a-client-hub)**: A self-hosted A2A client hub to manage, invoke, and operate multiple A2A agents across web and mobile with unified session history and governance.
 
 ---
 
@@ -270,6 +271,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Hive](https://github.com/aden-hive/hive)**: Open-source AI agent framework for building goal-driven, self-improving autonomous agents with auto-generated graphs, evolution loops, and MCP integration.
 - **[FlyDex](https://flydex.net/)**: Browser-first remote control plane for local Codex sessions with QR pairing, approvals, and machine continuity.
 - **[ORCH](https://github.com/oxgeneral/ORCH)**: CLI runtime for orchestrating Claude Code, Codex, and Cursor as typed agent teams with a validated state machine (todo → in_progress → review → done), auto-retry, inter-agent messaging, goals system, and TUI dashboard. Zero infrastructure — file-only state.
+- **[codex-a2a](https://github.com/liujuanjuan1984/codex-a2a)**: Full A2A Protocol implementation for Codex CLI, providing a stateful, production-oriented agent service with standardized transport, auth, and session continuity.
+- **[opencode-a2a](https://github.com/Intelligent-Internet/opencode-a2a)**: Full A2A Protocol implementation for OpenCode, providing a stateful A2A service with production-friendly deployment, auth, and session continuity.
 
 ---
 
