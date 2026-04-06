@@ -302,6 +302,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)**: Desktop app for running multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
 - **[Claude Code SDK](https://github.com/SeifBenayed/claude-code-sdk)**: Open-source, provider-agnostic SDK implementing the Claude Code tool loop in Node.js, Python, Go, and Rust. Single-file, zero dependencies. Works with Anthropic, OpenAI, Google, DeepSeek, Mistral, Groq, Ollama, and LM Studio.
 - **[AuraKit](https://github.com/smorky850612/Aurakit)**: All-in-one Claude Code skill with 33 modes, 6-layer security, 23 hooks, 8 languages, 75% token savings. Cross-platform (Codex, Cursor, Manus, Windsurf).
+- **[Cursor AI Automated Team](https://github.com/joinwell52-AI/joinwell52)**: A 4-role autonomous AI dev team (PM + DEV + OPS + QA) inside Cursor IDE. File-based task routing ("Filename as Protocol"), auto patrol bot, role templates and .mdc rule files. Battle-tested: 87 person-days in 17 days, 91 deployments, zero incidents.
 
 ---
 
