@@ -223,8 +223,8 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[JunieAI (JetBrains)](https://www.jetbrains.com/junieai/)**: AI coding agent that plans, writes, tests, and refactors code intelligently within JetBrains IDEs—empowering you to focus on high-level development while it handles routine tasks.
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
-- **[Stoneforge](https://stoneforge.ai)**: Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[Stoneforge](https://stoneforge.ai)**: Open-source orchestration for AI coding agents. Run multiple agents in parallel with automatic dispatch, merge, and recovery.
 
 ---
 
