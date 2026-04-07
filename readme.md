@@ -542,6 +542,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Awesome Content Marketing](https://github.com/marketinguys/awesome-content-marketing)**
 - **[Altern](https://altern.ai)**: Find Almost anything related to AI
 - **[DevTools Directory](https://devtools.directory)**: Directory of trending Dev Tools
+- **[RemoteOpenClaw](https://remoteopenclaw.com)**: Open marketplace for AI skills and personas built on OpenClaw
 - **[Awesome AI Newsletters](https://github.com/alternbits/awesome-ai-newsletters)**: A curated list of top best AI Related Newsletters
 - **[Best Of AI](https://github.com/best-of-ai/best-of-ai)**: A curated list of best ai tools
 - **[Awesome AI Models](https://github.com/alternbits/awesome-ai-models)**: A curated list of top AI models and LLMs
