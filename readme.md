@@ -273,6 +273,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Perplexity Pro](https://perplexity.ai/pro)** – AI search engine with real-time web access for coding solutions.
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
 - **[Supercode.sh](https://supercode.sh/)** – Cursor extension adding Architect Mode, voice input, and prompt enhancement.
+- **[RemoteOpenClaw](https://remoteopenclaw.com)** – Open marketplace for discovering, sharing, and distributing AI skills and personas built on the OpenClaw standard.
 
 ---
 
