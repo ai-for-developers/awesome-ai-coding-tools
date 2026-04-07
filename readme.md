@@ -169,6 +169,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Pieces.app](https://pieces.app/)**: AI-powered code snippet management and sharing.
 - **[AiDex](https://github.com/CSCSoftware/AiDex)**: Persistent code index MCP server using Tree-sitter. Replaces grep for AI coding assistants with ~50 token responses instead of 2000+. Supports 11 languages, SQLite storage. #opensource
 - **[Beacon](https://github.com/sagarmk/beacon-plugin)**: Semantic code search plugin for Claude Code using hybrid search with embeddings, BM25 keyword matching, and identifier boosting. Runs locally with Ollama and SQLite.
+- **[Reporecall](https://github.com/proofofwork-agency/reporecall)**: Local codebase memory for Claude Code. Tree-sitter AST indexing (22 languages), call graphs, and hybrid keyword + vector search. Injects context via hooks (~5ms) or MCP server. 3-8x token reduction.
 
 ---
 
