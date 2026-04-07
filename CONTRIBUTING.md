@@ -24,5 +24,5 @@ We welcome tools that:
 - Use this format:
 
   ```markdown
-  - [Tool Name](https://example.com) – One-line description of what it does.
+  - **[Tool Name](https://example.com)** – One-line description of what it does.
   ```
