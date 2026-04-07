@@ -199,6 +199,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Embold](https://embold.io/)** – AI code analysis for quality, maintainability, and tech debt.
 - **[Veracode](https://www.veracode.com/)** – AI-driven application security with static and dynamic analysis.
 - **[PullRequest](https://www.pullrequest.com/)** – Human-AI hybrid code review combining automated analysis with expert reviewers.
+- **[Relay](https://github.com/momobits/Relay/)**: Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
 
 ---
 
