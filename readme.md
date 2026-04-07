@@ -244,6 +244,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[DiagramGPT (Eraser)](https://www.eraser.io/diagramgpt)** – Generate diagrams from code and text descriptions.
 - **[Theneo.io](https://theneo.io/)** – AI-powered API documentation generation.
 - **[Slab](https://slab.com/)** – Team knowledge base with AI search and automated documentation.
+- **[ReadMeAI](https://readmeai-six.vercel.app/)** – Generate professional README.md files from any GitHub repo URL with AI. Includes description, installation, usage, and contributing sections. Free, instant.
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
 
 ---
