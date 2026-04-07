@@ -129,9 +129,9 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Blinky Debugging Agent](https://github.com/seahyinghang8/blinky)**: AI agent for debugging and navigating code issues.
 - **[16x Prompt](https://prompt.16x.engineer/)**: AI tool for enhanced code search and prompt-based navigation.
 - **[Pieces.app](https://pieces.app/)**: AI-powered code snippet management and sharing.
+- **[Reporecall](https://github.com/proofofwork-agency/reporecall)**: Local codebase memory for Claude Code. Tree-sitter AST indexing (22 languages), call graphs, and hybrid keyword + vector search. Injects context via hooks (~5ms) or MCP server. 3-8x token reduction.
 
 ---
-- **[Reporecall](https://github.com/proofofwork-agency/reporecall)**: Local codebase memory for Claude Code. Tree-sitter AST indexing (22 languages), call graphs, and hybrid keyword + vector search. Injects context via hooks (~5ms) or MCP server. 3-8x token reduction.
 
 ## 🛠️ Code Review & Refactoring
 - **[CodeReviewBot](https://codereviewbot.ai)**: AI bot for automated code reviews and quality assurance.
