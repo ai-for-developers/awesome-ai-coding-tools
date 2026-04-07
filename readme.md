@@ -500,6 +500,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Supabase AI](https://supabase.com/ai)**: AI features for database schema generation, query optimization, and API development assistance.
 - **[Hasura](https://hasura.io/)**: GraphQL API platform with AI-powered query optimization and schema management.
 - **[Retool AI](https://retool.com/ai)**: AI-powered internal tool builder with natural language interface for creating business applications.
+- **[AI for Database](https://aifordatabase.com)**: Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 
 ---
 
