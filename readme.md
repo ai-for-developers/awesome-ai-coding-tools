@@ -8,6 +8,11 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+**Reach thousands of developers building with AI by sponsoring this list, our [newsletter](https://aifordevelopers.substack.com/) and [AI For Developers](https://aifordevelopers.org/). Contact us at [aifordevelopers.org/advertise](https://aifordevelopers.org/advertise)**
+
+
+---
+
 ## Table of Contents
 
 - [Code Editors and Assistants](#code-editors-and-assistants)
