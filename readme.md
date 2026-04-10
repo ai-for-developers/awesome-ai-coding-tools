@@ -46,7 +46,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Trae](https://www.trae.ai/)** – Adaptive AI IDE by ByteDance for faster coding and AI collaboration.
 - **[Aider](https://aider.chat)** – Terminal-based AI pair programming tool for editing code in local git repos.
 - **[Phind](https://www.phind.com/)** – AI search and coding assistant for instant answers and code solutions.
-- **[Google Antigravity](https://antigravity.google/)** – Google's agent-first IDE with multi-agent orchestration, browser automation, and Gemini 3 Pro integration. Free during preview.
+- **[Google Antigravity](https://antigravity.google/)** - *[Review](https://aifordevelopers.org/tool/antigravity)* – Google's agent-first IDE with multi-agent orchestration, browser automation, and Gemini 3 Pro integration. Free during preview.
 - **[Kiro](https://kiro.dev/)** – Spec-driven AI development environment by AWS.
 - **[Tabby](https://tabby.tabbyml.com/)** – Self-hosted, open-source AI coding assistant you can run on your own infrastructure.
 - **[Continue](https://continue.dev/)** – Open-source AI tool for code completion and chat, pluggable into VS Code and JetBrains.
