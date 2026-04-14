@@ -247,6 +247,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Theneo.io](https://theneo.io/)** – AI-powered API documentation generation.
 - **[Slab](https://slab.com/)** – Team knowledge base with AI search and automated documentation.
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
+- **[Repowise](https://github.com/repowise-dev/repowise)** - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 
 ---
 
