@@ -224,6 +224,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Fine](https://fine.dev/)**: AI software development agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)**: AI-powered software development platform automating repetitive coding tasks and accelerating development cycles.
 - **[Pythagora](https://pythagora.ai/)**: AI agent that builds applications through conversational interaction, handling frontend and backend development.
+- **[CodeFlow](https://github.com/joinwell52-AI/codeflow-pwa)**: Multi-role AI team orchestration for Cursor IDE. Desktop EXE patrols agents with OCR self-healing, phone PWA sends tasks via WebSocket. Ships PM/DEV/QA/OPS roles with .mdc rules and 3 team templates.
 
 ---
 
