@@ -371,3 +371,4 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[Formatho Tools](https://formatho.com/Tools)** – 100+ privacy-first developer utilities. Client-side processing, no signup required. Also maintains [awesome-ai-tools](https://github.com/formatho/awesome-ai-tools).
