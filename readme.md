@@ -14,6 +14,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Table of Contents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - [Code Editors and Assistants](#code-editors-and-assistants)
 - [Code Completion](#code-completion)
@@ -36,6 +37,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Code Editors and Assistants
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Cursor](https://www.cursor.sh/)** – AI-first code editor with advanced autocompletion, codebase-aware chat, and multi-file editing.
 - **[Windsurf](https://windsurf.com/)** – AI code editor with Cascade, a deep contextual coding agent that goes beyond autocompletion.
@@ -66,6 +68,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Code Completion
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[GitHub Copilot](https://github.com/features/copilot)** – Industry-standard AI code completion across IDEs.
 - **[Codeium](https://www.codeium.com/)** – Free AI code completion for 70+ languages and 40+ IDEs.
@@ -83,6 +86,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Coding Agents
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
@@ -114,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## CLI Tools
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
@@ -132,6 +137,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## App Builders
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Bolt.new](https://bolt.new)** – Build, edit, and deploy full-stack web apps in the browser using natural language with one-click deployment.
 - **[Lovable](https://lovable.dev/)** – Create and deploy web apps from a single prompt in a browser tab.
@@ -163,6 +169,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## UI Generators
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[v0.dev](https://v0.dev/)** – Vercel's AI tool for generating React UI from text and image prompts.
 - **[Stitch (Google)](https://stitch.withgoogle.com/)** – Google Labs tool using Gemini to generate multi-screen UI designs and front-end code from text or images.
@@ -179,6 +186,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Code Review and Refactoring
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[CodeRabbit](https://coderabbit.ai/)** – AI-driven contextual pull request reviews with actionable feedback.
 - **[Sourcery](https://sourcery.ai/)** – AI code reviewer supporting 30+ languages.
@@ -205,6 +213,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Testing and QA
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Playwright](https://playwright.dev/)** – Microsoft's end-to-end testing framework (often used with AI-powered test generation).
 - **[Qodo](https://www.qodo.ai/)** – AI-powered test generation and code quality assurance.
@@ -230,6 +239,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Code Search and Navigation
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Sourcegraph Cody](https://about.sourcegraph.com/cody)** – AI-powered code search and navigation for large codebases.
 - **[Pieces.app](https://pieces.app/)** – AI-powered code snippet management, search, and sharing.
@@ -238,6 +248,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Documentation
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Mintlify](https://mintlify.com/)** – AI-powered documentation platform that auto-generates and maintains docs from code.
 - **[GitBook AI](https://gitbook.com/ai)** – AI-enhanced documentation with intelligent content suggestions.
@@ -251,6 +262,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Code Models
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Claude (Anthropic)](https://www.anthropic.com/claude)** – Opus and Sonnet models dominate coding benchmarks in 2026; Claude Code is built on them.
 - **[GPT-5 (OpenAI)](https://openai.com/)** – Powers GitHub Copilot, Codex CLI, and ChatGPT coding workflows.
@@ -265,6 +277,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Developer Productivity Tools
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Raycast AI](https://raycast.com/ai)** – AI-powered productivity launcher with coding capabilities and workflow automation.
 - **[Warp AI](https://warp.dev/ai)** – AI-enhanced terminal with intelligent command suggestions.
@@ -280,6 +293,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## AI Frameworks and SDKs
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[LangChain](https://www.langchain.com/)** – The most popular framework for building LLM-powered applications with chains, agents, and retrieval.
 - **[LlamaIndex](https://www.llamaindex.ai/)** – Data framework for connecting LLMs to external data sources with indexing and retrieval.
@@ -293,6 +307,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Local LLM Tools
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Ollama](https://ollama.com/)** – Run open-source LLMs locally with a simple CLI. Supports Llama, Mistral, CodeLlama, and dozens more.
 - **[LM Studio](https://lmstudio.ai/)** – Desktop app for discovering, downloading, and running local LLMs with a built-in chat UI and API server.
@@ -304,6 +319,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## DevOps and Infrastructure
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Datadog](https://www.datadoghq.com/)** – Monitoring and observability with AI-powered insights.
 - **[New Relic](https://newrelic.com/)** – Observability platform with AIOps and anomaly detection.
@@ -321,6 +337,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Security
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Snyk](https://snyk.io/)** – Developer-first security platform with SAST, SCA, container, and IaC scanning.
 - **[Checkmarx](https://checkmarx.com/)** – AI-enhanced SAST with comprehensive vulnerability detection.
@@ -342,6 +359,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Database and API Tools
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[Supabase AI](https://supabase.com/ai)** – AI for database schema generation, query optimization, and API development.
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
@@ -351,6 +369,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## MCP Servers and Directories
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[MCP Server Finder](https://www.mcpserverfinder.com/servers)** – Discover and browse MCP servers.
 - **[PulseMCP](https://www.pulsemcp.com/servers)** – Large, frequently updated directory of MCP servers.
@@ -364,6 +383,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Related Lists
+- [Asynkor](https://github.com/asynkor/asynkor) - Coordination layer for AI agent teams. File leasing, shared memory, cross-machine sync. One MCP server for Claude Code, Cursor, Windsurf.
 
 - **[AI For Developers](https://aifordevelopers.org)** – Curated directory of AI dev tools.
 - **[Awesome Vibe Coding](https://github.com/ai-for-developers/awesome-vibe-coding)** – Tools and resources for vibe coding.
