@@ -128,6 +128,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Mentat](https://mentat.ai/)** – AI coding assistant for command-line development.
 - **[TmuxAI](https://tmuxai.dev/)** – AI assistant for automating tmux workflows.
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
+- **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
 
 ---
 
