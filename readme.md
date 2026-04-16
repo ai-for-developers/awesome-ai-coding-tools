@@ -276,6 +276,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
 - **[Supercode.sh](https://supercode.sh/)** – Cursor extension adding Architect Mode, voice input, and prompt enhancement.
 - **[toprank](https://github.com/nowork-studio/toprank)** – Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
+- **[AI Dev Jobs](https://aidevboard.com)** – AI job board aggregating 6,000+ positions from 340+ companies like OpenAI, Anthropic, and Google DeepMind. Free API and MCP server for AI-powered job search.
 
 ---
 
