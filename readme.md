@@ -110,6 +110,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AutoGen](https://github.com/microsoft/autogen)** – Microsoft's multi-agent framework for building AI agent teams that collaborate on coding tasks.
 - **[CrewAI](https://www.crewai.com/)** – Multi-agent orchestration platform for building teams of AI agents for development and automation.
 - **[Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** – GitHub's agent-powered dev environment that turns issues into code changes with plans, specs, and implementation.
+- **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** – Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, and messaging connectors. Electron desktop app, CLI, and Docker.
 
 ---
 
@@ -247,6 +248,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Theneo.io](https://theneo.io/)** – AI-powered API documentation generation.
 - **[Slab](https://slab.com/)** – Team knowledge base with AI search and automated documentation.
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
+- **[SwarmVault](https://github.com/swarmclawai/swarmvault)** – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.
 
 ---
 
