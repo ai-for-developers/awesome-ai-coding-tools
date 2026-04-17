@@ -360,6 +360,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)** – Claude's curated MCP server list.
 - **[MCPServers.Net](https://mcpservers.net/)** – Comprehensive MCP navigation with tutorials and resources.
 - **[MCP Market](https://mcpmarket.com/)** – Marketplace for MCP tools and services.
+- **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
 
 ---
 
