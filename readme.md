@@ -114,6 +114,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Wiggum CLI](https://wiggum.app)** – Open-source agent that scans codebases, generates specs through AI interviews, and runs autonomous coding loops via Claude Code or Codex. Agent mode ships GitHub issues end-to-end.
 - **[OpenASE](https://github.com/PacificStudio/openase)** – Open-source, ticket-driven software engineering platform that orchestrates Claude Code, Codex, and Gemini CLI agents across your machines with workflows, skills, and full traceability.
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** – Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, and messaging connectors. Electron desktop app, CLI, and Docker.
+- **[AgentsMesh](https://agentsmesh.ai)** – Self-hostable AI Agent Workforce Platform. Orchestrates Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode across remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, channels-based multi-agent collaboration, built-in Kanban, and per-pod MCP server. Multi-Git (GitHub/GitLab/Gitee), multi-tenant, SSO/RBAC, BYOK.
 
 ---
 
