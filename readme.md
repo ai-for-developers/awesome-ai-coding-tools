@@ -190,7 +190,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Code Review and Refactoring
 
 - **[AICodeSlopMonitor](https://slopcodemonitor.ai/)** – Detects low-quality and AI-generated code patterns to help developers review and improve codebases.
-- **[SynthScan](https://github.com/marcoramilli/SynthScan)** – Is your codebase AI Slopped? Find out with SynthScan!
+- **[SynthScan](https://github.com/marcoramilli/SynthScan)** – Scans codebases for AI-generated code patterns.
 - **[CodeRabbit](https://coderabbit.ai/)** – AI-driven contextual pull request reviews with actionable feedback.
 - **[Sourcery](https://sourcery.ai/)** – AI code reviewer supporting 30+ languages.
 - **[Qodo (CodiumAI)](https://www.qodo.ai/)** – Code review and automated test generation platform.
