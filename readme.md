@@ -110,6 +110,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AutoGen](https://github.com/microsoft/autogen)** – Microsoft's multi-agent framework for building AI agent teams that collaborate on coding tasks.
 - **[CrewAI](https://www.crewai.com/)** – Multi-agent orchestration platform for building teams of AI agents for development and automation.
 - **[Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** – GitHub's agent-powered dev environment that turns issues into code changes with plans, specs, and implementation.
+- **[brood-box](https://github.com/stacklok/brood-box)** – Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.
+- **[Wiggum CLI](https://wiggum.app)** – Open-source agent that scans codebases, generates specs through AI interviews, and runs autonomous coding loops via Claude Code or Codex. Agent mode ships GitHub issues end-to-end.
 - **[OpenASE](https://github.com/PacificStudio/openase)** – Open-source, ticket-driven software engineering platform that orchestrates Claude Code, Codex, and Gemini CLI agents across your machines with workflows, skills, and full traceability.
 
 ---
@@ -160,6 +162,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Builder.io Fusion](https://www.builder.io/)** – AI-powered visual development platform.
 - **[Bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** – Open-source fork of Bolt.new supporting any LLM (local or cloud) for building full-stack apps in the browser.
 - **[Screenshot-to-Code](https://github.com/abi/screenshot-to-code)** – Convert screenshots and designs into clean HTML/React/Vue code using AI.
+- **[Forge](https://forge-web.rebaselabs.online)** – BYOK full-stack app creator — use your own API key (Anthropic, OpenAI, Google) with no markup. Multi-stage pipeline generates production-ready Next.js apps from natural language.
 
 ---
 
@@ -200,6 +203,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Embold](https://embold.io/)** – AI code analysis for quality, maintainability, and tech debt.
 - **[Veracode](https://www.veracode.com/)** – AI-driven application security with static and dynamic analysis.
 - **[PullRequest](https://www.pullrequest.com/)** – Human-AI hybrid code review combining automated analysis with expert reviewers.
+- **[Z.ai Code Review](https://github.com/tarmojussila/zai-code-review)**: AI-powered GitHub Pull Request code review using Z.ai models.
+- **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)**: AI-powered GitHub Pull Request code review using MiniMax models.
+- **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 
 ---
 
@@ -274,6 +280,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Perplexity Pro](https://perplexity.ai/pro)** – AI search engine with real-time web access for coding solutions.
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
 - **[Supercode.sh](https://supercode.sh/)** – Cursor extension adding Architect Mode, voice input, and prompt enhancement.
+- **[toprank](https://github.com/nowork-studio/toprank)** – Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
+- **[Google Drive – Memyard](https://github.com/zagmoai/public-google-drive)** – Agent skill that lets AI coding agents create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links.
 
 ---
 
