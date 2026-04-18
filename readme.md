@@ -208,9 +208,10 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Embold](https://embold.io/)** – AI code analysis for quality, maintainability, and tech debt.
 - **[Veracode](https://www.veracode.com/)** – AI-driven application security with static and dynamic analysis.
 - **[PullRequest](https://www.pullrequest.com/)** – Human-AI hybrid code review combining automated analysis with expert reviewers.
-- **[Z.ai Code Review](https://github.com/tarmojussila/zai-code-review)**: AI-powered GitHub Pull Request code review using Z.ai models.
-- **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)**: AI-powered GitHub Pull Request code review using MiniMax models.
+- **[Z.ai Code Review](https://github.com/tarmojussila/zai-code-review)** - AI-powered GitHub Pull Request code review using Z.ai models.
+- **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)** - AI-powered GitHub Pull Request code review using MiniMax models.
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
+- **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
 
 ---
 
