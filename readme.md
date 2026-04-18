@@ -112,6 +112,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Copilot Workspace](https://githubnext.com/projects/copilot-workspace)** – GitHub's agent-powered dev environment that turns issues into code changes with plans, specs, and implementation.
 - **[brood-box](https://github.com/stacklok/brood-box)** – Run coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with snapshot isolation, egress control, and MCP authorization.
 - **[Wiggum CLI](https://wiggum.app)** – Open-source agent that scans codebases, generates specs through AI interviews, and runs autonomous coding loops via Claude Code or Codex. Agent mode ships GitHub issues end-to-end.
+- **[OpenASE](https://github.com/PacificStudio/openase)** – Open-source, ticket-driven software engineering platform that orchestrates Claude Code, Codex, and Gemini CLI agents across your machines with workflows, skills, and full traceability.
 
 ---
 
