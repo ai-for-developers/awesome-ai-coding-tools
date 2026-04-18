@@ -131,6 +131,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Mentat](https://mentat.ai/)** – AI coding assistant for command-line development.
 - **[TmuxAI](https://tmuxai.dev/)** – AI assistant for automating tmux workflows.
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
+- **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 
 ---
 
