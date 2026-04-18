@@ -370,6 +370,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)** – Claude's curated MCP server list.
 - **[MCPServers.Net](https://mcpservers.net/)** – Comprehensive MCP navigation with tutorials and resources.
 - **[MCP Market](https://mcpmarket.com/)** – Marketplace for MCP tools and services.
+- **[Helium MCP](https://github.com/connerlambden/helium-mcp)** – Remote MCP server for AI coding assistants with real-time news and multi-dimensional bias scoring (3.2M+ articles, 5000+ sources), financial markets (stocks, ETFs, crypto, AI bull/bear cases), ML options pricing (ITM probability, Greeks, fair value), balanced news synthesis, trending topics, and semantic meme search. [Documentation](https://heliumtrades.com/mcp-page/).
 
 ---
 
