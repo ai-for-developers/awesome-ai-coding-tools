@@ -325,6 +325,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LambdaTest](https://www.lambdatest.com/)** – AI-powered cross-browser testing platform.
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
+- **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
 
 ---
 
