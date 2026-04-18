@@ -161,6 +161,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Builder.io Fusion](https://www.builder.io/)** – AI-powered visual development platform.
 - **[Bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** – Open-source fork of Bolt.new supporting any LLM (local or cloud) for building full-stack apps in the browser.
 - **[Screenshot-to-Code](https://github.com/abi/screenshot-to-code)** – Convert screenshots and designs into clean HTML/React/Vue code using AI.
+- **[Forge](https://forge-web.rebaselabs.online)** – BYOK full-stack app creator — use your own API key (Anthropic, OpenAI, Google) with no markup. Multi-stage pipeline generates production-ready Next.js apps from natural language.
 
 ---
 
