@@ -84,6 +84,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Coding Agents
 
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI coding intelligence layer with 22 neural brain modules, MCP server, LSP server, Code DNA fingerprinting, and self-evolving analysis. Zero-config for Claude Code, Cursor, and Copilot.
+
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
