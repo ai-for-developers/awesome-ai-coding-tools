@@ -115,6 +115,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenASE](https://github.com/PacificStudio/openase)** – Open-source, ticket-driven software engineering platform that orchestrates Claude Code, Codex, and Gemini CLI agents across your machines with workflows, skills, and full traceability.
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** – Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, and messaging connectors. Electron desktop app, CLI, and Docker.
 - **[AgentsMesh](https://agentsmesh.ai)** – Self-hostable AI Agent Workforce Platform. Orchestrates Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode across remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, channels-based multi-agent collaboration, built-in Kanban, and per-pod MCP server. Multi-Git (GitHub/GitLab/Gitee), multi-tenant, SSO/RBAC, BYOK.
+- **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 
 ---
 
