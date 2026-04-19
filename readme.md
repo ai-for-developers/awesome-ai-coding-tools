@@ -128,6 +128,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)** – GitHub's AI assistant for command-line with context-aware suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)** – ChatGPT integration for shell command generation and system administration.
 - **[Aider](https://github.com/paul-gauthier/aider)** – Open-source terminal AI pair programmer with deep git integration; every AI edit is auto-committed.
+- **[aicost](https://github.com/dwylq/aicost)** – Universal AI coding cost analyzer — scans Claude Code JSONL, Cursor exports, and more for token usage and costs. No API key needed. Generates terminal reports and optional HTML dashboards.
 - **[AICommits](https://github.com/Nutlope/aicommits)** – AI-powered meaningful git commit message generation.
 - **[Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html)** – AI CLI for AWS-related coding and scripting.
 - **[Mentat](https://mentat.ai/)** – AI coding assistant for command-line development.
