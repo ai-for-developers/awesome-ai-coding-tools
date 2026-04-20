@@ -45,6 +45,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Claude Desktop](https://claude.ai/desktop)** – Anthropic's desktop app for development tasks, code analysis, and programming assistance.
 - **[Trae](https://www.trae.ai/)** – Adaptive AI IDE by ByteDance for faster coding and AI collaboration.
 - **[Aider](https://aider.chat)** – Terminal-based AI pair programming tool for editing code in local git repos.
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – Infinite-memory AI coding intelligence layer with self-evolution, predictive bug detection, knowledge graphs with PageRank, and multi-agent coordination.
 - **[Phind](https://www.phind.com/)** – AI search and coding assistant for instant answers and code solutions.
 - **[Google Antigravity](https://antigravity.google/)** - *[Review](https://aifordevelopers.org/tool/antigravity)* – Google's agent-first IDE with multi-agent orchestration, browser automation, and Gemini 3 Pro integration. Free during preview.
 - **[Kiro](https://kiro.dev/)** – Spec-driven AI development environment by AWS.
