@@ -300,6 +300,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs](https://aidevboard.com)** – AI job board aggregating 6,000+ positions from 340+ companies like OpenAI, Anthropic, and Google DeepMind. Free API and MCP server for AI-powered job search.
 - **[CronAI](https://cronai-nu.vercel.app/)** – Convert plain English schedule descriptions to cron expressions with AI. Supports standard and extended formats. Free, no signup.
 - **[JSONFix](https://jsonfix-lake.vercel.app/)** – AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or unescaped characters. Free, no signup.
+- **[Skills-Link](https://github.com/shanliuling/skills-link)** – A CLI tool that syncs your AI skills across 41+ coding agents (Claude Code, Cursor, Windsurf, Cline, etc.) with cross-device sync via GitHub.
 
 ---
 
