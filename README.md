@@ -370,6 +370,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Supabase AI](https://supabase.com/ai)** – AI for database schema generation, query optimization, and API development.
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
+- **[Omnigraph](https://github.com/ModernRelay/omnigraph)** – Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
 
