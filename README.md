@@ -300,6 +300,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs](https://aidevboard.com)** – AI job board aggregating 6,000+ positions from 340+ companies like OpenAI, Anthropic, and Google DeepMind. Free API and MCP server for AI-powered job search.
 - **[CronAI](https://cronai-nu.vercel.app/)** – Convert plain English schedule descriptions to cron expressions with AI. Supports standard and extended formats. Free, no signup.
 - **[JSONFix](https://jsonfix-lake.vercel.app/)** – AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or unescaped characters. Free, no signup.
+- **[AI Context Linter](https://github.com/MrDwarf7/ai-context-linter)** – GitHub Action that lints AI context files (CLAUDE.md, AGENTS.md, etc.) for prompt injection vulnerabilities and quality issues.
+- **[AI Context Templates](https://github.com/MrDwarf7/ai-context-templates)** – Production-ready AI agent context templates for configuring coding assistants like Claude Code, Cursor, and others.
 
 ---
 
