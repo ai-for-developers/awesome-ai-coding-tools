@@ -312,6 +312,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Haystack](https://haystack.deepset.ai/)** – Open-source framework for building production-ready LLM applications, RAG pipelines, and agents.
 - **[LiteLLM](https://github.com/BerriAI/litellm)** – Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and rate limiting.
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
+- **[FuturMix](https://futurmix.ai)** – Unified AI API gateway for 22+ models with OpenAI-compatible endpoint. Features automatic failover, 99.99% SLA, and cost optimization across OpenAI, Anthropic, and Google models.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
 
 ---
