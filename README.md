@@ -301,6 +301,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CronAI](https://cronai-nu.vercel.app/)** – Convert plain English schedule descriptions to cron expressions with AI. Supports standard and extended formats. Free, no signup.
 - **[JSONFix](https://jsonfix-lake.vercel.app/)** – AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or unescaped characters. Free, no signup.
 
+- **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
+
 ---
 
 ## AI Frameworks and SDKs
