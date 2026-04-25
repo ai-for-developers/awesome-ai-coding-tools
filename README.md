@@ -284,7 +284,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Developer Productivity Tools
 
 - **[Agent Cost Guardrails](https://github.com/sapph1re/agent-cost-guardrails)** – Framework-native budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost alerts, and spend tracking with hooks that integrate directly into agent execution loops. Open-source, available on [PyPI](https://pypi.org/project/agent-cost-guardrails/) and [npm](https://npmjs.com/package/agent-cost-guardrails).
-- **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 - **[Raycast AI](https://raycast.com/ai)** – AI-powered productivity launcher with coding capabilities and workflow automation.
 - **[Warp AI](https://warp.dev/ai)** – AI-enhanced terminal with intelligent command suggestions.
 - **[Context7](https://context7.com/)** – MCP server providing up-to-date library documentation to LLMs and AI editors.
@@ -301,6 +300,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs](https://aidevboard.com)** – AI job board aggregating 6,000+ positions from 340+ companies like OpenAI, Anthropic, and Google DeepMind. Free API and MCP server for AI-powered job search.
 - **[CronAI](https://cronai-nu.vercel.app/)** – Convert plain English schedule descriptions to cron expressions with AI. Supports standard and extended formats. Free, no signup.
 - **[JSONFix](https://jsonfix-lake.vercel.app/)** – AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or unescaped characters. Free, no signup.
+- **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 ---
 
