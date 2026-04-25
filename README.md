@@ -38,6 +38,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Code Editors and Assistants
 
 - **[Cursor](https://www.cursor.sh/)** – AI-first code editor with advanced autocompletion, codebase-aware chat, and multi-file editing.
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – Browser-side AI coding toolbar for live web app edits with context capture and approved diffs.
 - **[Windsurf](https://windsurf.com/)** – AI code editor with Cascade, a deep contextual coding agent that goes beyond autocompletion.
 - **[GitHub Copilot](https://github.com/features/copilot)** – AI pair programmer integrated across VS Code, JetBrains, and GitHub with chat, code completion, and workspace agents.
 - **[Zed](https://zed.dev/)** – High-performance multiplayer code editor built in Rust with integrated AI assistance.
