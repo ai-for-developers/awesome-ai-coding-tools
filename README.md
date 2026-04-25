@@ -101,7 +101,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's terminal coding agent powered by Gemini.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's CLI coding agent with cloud sandboxed execution.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent (95K+ GitHub stars) supporting 75+ providers. Free, privacy-first, with LSP integration.
-- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
 - **[Roo Code](https://roocode.com/)** – Open-source VS Code agent (fork of Cline) known for reliable multi-file editing on large codebases.
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** – Multi-agent framework with 100+ LLM support and MCP integration.
 - **[Potpie](https://potpie.ai)** – AI coding agent for streamlined development workflows.
@@ -117,6 +116,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SwarmClaw](https://github.com/swarmclawai/swarmclaw)** – Self-hosted multi-agent runtime with MCP client and server support, 23+ LLM providers, persistent memory, skills, schedules, and messaging connectors. Electron desktop app, CLI, and Docker.
 - **[AgentsMesh](https://agentsmesh.ai)** – Self-hostable AI Agent Workforce Platform. Orchestrates Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode across remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation, channels-based multi-agent collaboration, built-in Kanban, and per-pod MCP server. Multi-Git (GitHub/GitLab/Gitee), multi-tenant, SSO/RBAC, BYOK.
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
+- **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
 
 ---
 
