@@ -84,6 +84,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Coding Agents
 
+- [Drevon](https://drevon.dev) - Mac desktop workspace for GTM engineers. Run parallel AI agents powered by Claude Code, Codex, or Copilot to build target lists, score accounts, and pull prospect intel.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
