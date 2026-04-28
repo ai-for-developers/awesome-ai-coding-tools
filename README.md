@@ -121,6 +121,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor-frontend) - AI monitoring AI system. Vue 3 + Element Plus + ECharts. [Online Demo](http://47.109.47.116/)
 ## CLI Tools
 
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
