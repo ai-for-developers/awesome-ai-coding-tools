@@ -318,6 +318,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LiteLLM](https://github.com/BerriAI/litellm)** – Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and rate limiting.
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
+- **[Bifrost](https://getmaxim.ai/bifrost)** – Open-source LLM & MCP Gateway with 20+ providers, governance, loadbalancing and custom plugins.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
 
 ---
