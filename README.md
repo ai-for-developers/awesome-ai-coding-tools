@@ -15,6 +15,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Table of Contents
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends. | [⭐Star](https://github.com/flik2002/openclaw-monitor/stargazers)
+
+
 - [Code Editors and Assistants](#code-editors-and-assistants)
 - [Code Completion](#code-completion)
 - [Coding Agents](#coding-agents)
