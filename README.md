@@ -337,6 +337,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Datadog](https://www.datadoghq.com/)** – Monitoring and observability with AI-powered insights.
 - **[New Relic](https://newrelic.com/)** – Observability platform with AIOps and anomaly detection.
+- **[Middleware](https://middleware.io/)** – Full stack observability platform with AI SRE Agent. 
 - **[PagerDuty](https://www.pagerduty.com/)** – AI-powered incident management and response automation.
 - **[Harness](https://harness.io/)** – AI-powered CI/CD with intelligent deployments and automated rollbacks.
 - **[GitLab AI](https://about.gitlab.com/solutions/artificial-intelligence/)** – Integrated AI across GitLab for code suggestions, security scanning, and workflows.
