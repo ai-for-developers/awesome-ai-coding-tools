@@ -305,6 +305,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
+- **[TinyTools](https://tinytools-smoky.vercel.app/)** – Free single-purpose web utilities for developers, including an AI cost calculator for LLMs, AI robots.txt generator, AI content disclosure generator (EU AI Act Article 50 compliant), favicon generator, OG image generator, color palette generator with WCAG checks, and SEO meta tag generator. Browser-based, no signup, open source.
 
 ---
 
