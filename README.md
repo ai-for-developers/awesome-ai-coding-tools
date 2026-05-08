@@ -332,7 +332,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[llamafile](https://github.com/Mozilla-Ocho/llamafile)** – Mozilla project that packages LLMs into single executable files that run anywhere.
 - **[LocalAI](https://localai.io/)** – Open-source OpenAI-compatible API for running models locally without GPU.
 - **[Lemonade-Python-SDK](https://github.com/Tetramatrix/lemonade-python-sdk)** – A robust, production-grade Python wrapper for the Lemonade C++ Backend. This SDK provides a clean, pythonic interface for interacting with local LLMs running on Lemonade.
-- **[Diffron](https://github.com/Tetramatrix/diffron)** – Git commit message and PR description generator using AMD Lemonade via lemonade-python-sdk. 
+
 ---
 
 ## DevOps and Infrastructure
