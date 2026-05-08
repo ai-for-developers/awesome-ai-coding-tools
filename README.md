@@ -166,6 +166,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Plandex](https://github.com/plandex-ai/plandex)** – AI tool for planning and generating code from text prompts in the terminal.
 - **[Softr](https://www.softr.io/)** – No-code app builder with AI assistance.
 - **[Databutton](https://databutton.com/)** – AI-powered app development platform.
+- **[VULK](https://vulk.dev)** – AI app builder for full-stack React + PostgreSQL, Flutter mobile, Three.js games, Shopify themes. Firecracker microVM live preview, BYOM with 16+ models, EU-hosted, full code export.
 - **[Builder.io Fusion](https://www.builder.io/)** – AI-powered visual development platform.
 - **[Bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** – Open-source fork of Bolt.new supporting any LLM (local or cloud) for building full-stack apps in the browser.
 - **[Screenshot-to-Code](https://github.com/abi/screenshot-to-code)** – Convert screenshots and designs into clean HTML/React/Vue code using AI.
