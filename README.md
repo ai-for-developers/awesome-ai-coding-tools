@@ -383,6 +383,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## MCP Servers and Directories
 
+- **[ejentum-mcp](https://github.com/ejentum/ejentum-mcp)** – Reasoning Harness for agentic AI: 4 MCP tools (reasoning, code, anti-deception, memory) over 679 engineered cognitive operations. Each call returns a structured scaffold the calling LLM ingests before its first token, catching sycophancy, hallucination, and reasoning decay before they emerge.
 - **[MCP Server Finder](https://www.mcpserverfinder.com/servers)** – Discover and browse MCP servers.
 - **[PulseMCP](https://www.pulsemcp.com/servers)** – Large, frequently updated directory of MCP servers.
 - **[MCP.so](https://mcp.so/)** – Platform for MCP server resources and community.
