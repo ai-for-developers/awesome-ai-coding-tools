@@ -306,6 +306,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 
+- **[dltHub AI Workbench](https://github.com/dlt-hub/dlthub-ai-workbench)** – Toolkit that gives Claude Code, Cursor, and Codex structured, step-by-step workflows and an MCP server for building, exploring, and deploying data pipelines with dlt.
+
 ---
 
 ## AI Frameworks and SDKs
