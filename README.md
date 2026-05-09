@@ -96,6 +96,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[JunieAI (JetBrains)](https://www.jetbrains.com/junieai/)** – AI coding agent that plans, writes, tests, and refactors within JetBrains IDEs.
 - **[Fine](https://fine.dev/)** – AI dev agent that understands requirements, writes code, and iterates autonomously.
 - **[Factory](https://factory.ai/)** – AI platform automating repetitive coding tasks at scale.
+- **[Emdash Skills](https://github.com/megabytespace/claude-skills)** – 14-category autonomous product-building OS with 18 specialized agents that turn one-line prompts into deployed products on Cloudflare Workers.
 - **[Devon](https://devon.ai/)** – AI software engineer for autonomous coding.
 - **[Rovo Dev (Atlassian)](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)** – Atlassian's terminal coding agent.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's terminal coding agent powered by Gemini.
