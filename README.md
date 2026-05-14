@@ -369,6 +369,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Endor Labs](https://www.endorlabs.com/ai-code-security-review)** – AI code review for security risks and architectural vulnerabilities.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)** – AI-automated fuzz testing for C/C++.
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
+- **[APort](https://aport.io)** – Agent identity and policy enforcement for AI-agent tool calls, with [guardrail integration examples](https://github.com/aporthq/aport-integrations) for adding pre-action authorization.
 
 ---
 
