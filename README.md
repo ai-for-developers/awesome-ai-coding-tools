@@ -334,7 +334,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## DevOps and Infrastructure
-
+- **[Kuberns](https://kuberns.com/)** – Agentic AI deployment platform that auto-detects tech stacks, provisions infrastructure, and deploys applications from GitHub repositories with zero configuration.
 - **[Datadog](https://www.datadoghq.com/)** – Monitoring and observability with AI-powered insights.
 - **[New Relic](https://newrelic.com/)** – Observability platform with AIOps and anomaly detection.
 - **[PagerDuty](https://www.pagerduty.com/)** – AI-powered incident management and response automation.
