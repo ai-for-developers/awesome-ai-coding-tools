@@ -206,6 +206,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Semgrep](https://semgrep.dev/)** – Static analysis for finding bugs and security issues.
 - **[CodeQL (GitHub)](https://codeql.github.com/)** – Semantic code analysis for security and quality.
 - **[Snyk (DeepCode)](https://snyk.io/)** – Security-focused code analysis with vulnerability detection.
+- **[API Contract Guardian](https://github.com/Coding-Dev-Tools/api-contract-guardian)** – Validate OpenAPI contracts against specs in CI/CD to prevent breaking changes.
+- **[Deadcode](https://github.com/Coding-Dev-Tools/deadcode)** – Detect and remove dead code from Python/TypeScript projects.
 - **[Pixee](https://pixee.ai)** – AI bot for security-focused PR reviews and automatic fixes.
 - **[Qodo PR Agent](https://github.com/qodo-ai/pr-agent)** – Open-source AI agent for PR reviews with actionable insights.
 - **[Amazon CodeGuru Reviewer](https://aws.amazon.com/codeguru/)** – ML-powered code reviews with AWS integration.
@@ -346,6 +348,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sysdig](https://sysdig.com/)** – Cloud security and monitoring with AI threat detection.
 - **[LambdaTest](https://www.lambdatest.com/)** – AI-powered cross-browser testing platform.
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
+- **[DeployDiff](https://github.com/Coding-Dev-Tools/deploydiff)** – Compare infrastructure deployments across environments with cost impact estimation and rollback commands.
+- **[ConfigDrift](https://github.com/Coding-Dev-Tools/configdrift)** – Detect and track configuration drift across infrastructure for compliance and consistency.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
 
@@ -378,6 +382,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[Json2SQL](https://github.com/Coding-Dev-Tools/json2sql)** – Convert JSON files and API responses to SQL schemas and INSERT statements for database migration.
 
 ---
 
@@ -395,6 +400,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+- **[click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp)** – Auto-wrap any Click/Typer CLI as an MCP server for AI assistants. Makes Python CLIs instantly accessible to Claude, Cursor, and other MCP clients.
 
 ---
 
