@@ -100,6 +100,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Rovo Dev (Atlassian)](https://www.atlassian.com/blog/announcements/rovo-dev-command-line-interface)** – Atlassian's terminal coding agent.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's terminal coding agent powered by Gemini.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's CLI coding agent with cloud sandboxed execution.
+- **[Everything OpenAI Codex](https://github.com/mturac/everything-openai-codex)** – Open-source Codex workflow system with agents, skills, commands, hooks, memory patterns, install profiles, and validation checks.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent (95K+ GitHub stars) supporting 75+ providers. Free, privacy-first, with LSP integration.
 - **[Roo Code](https://roocode.com/)** – Open-source VS Code agent (fork of Cline) known for reliable multi-file editing on large codebases.
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** – Multi-agent framework with 100+ LLM support and MCP integration.
