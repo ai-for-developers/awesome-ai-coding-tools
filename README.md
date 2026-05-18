@@ -101,7 +101,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's terminal coding agent powered by Gemini.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's CLI coding agent with cloud sandboxed execution.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent (95K+ GitHub stars) supporting 75+ providers. Free, privacy-first, with LSP integration.
-- **[ecc (Everything Codex)](https://github.com/mturac/everything-openai-codex)** – Cross-harness workflow system with 230+ skills, 60 agents, quality gates, and session memory. Works across Codex, Cursor, Gemini CLI, Copilot, and more.
+- **[eoc (Everything OpenAI Codex)](https://github.com/mturac/everything-openai-codex)** – Cross-harness workflow system with 230+ skills, 60 agents, quality gates, and session memory. Works across Codex, Cursor, Gemini CLI, Copilot, and more.
 - **[Roo Code](https://roocode.com/)** – Open-source VS Code agent (fork of Cline) known for reliable multi-file editing on large codebases.
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** – Multi-agent framework with 100+ LLM support and MCP integration.
 - **[Potpie](https://potpie.ai)** – AI coding agent for streamlined development workflows.
