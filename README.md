@@ -10,7 +10,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 **Reach thousands of developers building with AI by sponsoring this list, our [newsletter](https://aifordevelopers.substack.com/) and [AI For Developers](https://aifordevelopers.org/). Contact us at [aifordevelopers.org/advertise](https://aifordevelopers.org/advertise)**
 
-
 ---
 
 ## Table of Contents
@@ -46,7 +45,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Trae](https://www.trae.ai/)** – Adaptive AI IDE by ByteDance for faster coding and AI collaboration.
 - **[Aider](https://aider.chat)** – Terminal-based AI pair programming tool for editing code in local git repos.
 - **[Phind](https://www.phind.com/)** – AI search and coding assistant for instant answers and code solutions.
-- **[Google Antigravity](https://antigravity.google/)** - *[Review](https://aifordevelopers.org/tool/antigravity)* – Google's agent-first IDE with multi-agent orchestration, browser automation, and Gemini 3 Pro integration. Free during preview.
+- **[Google Antigravity](https://antigravity.google/)** - _[Review](https://aifordevelopers.org/tool/antigravity)_ – Google's agent-first IDE with multi-agent orchestration, browser automation, and Gemini 3 Pro integration. Free during preview.
 - **[Kiro](https://kiro.dev/)** – Spec-driven AI development environment by AWS.
 - **[Tabby](https://tabby.tabbyml.com/)** – Self-hosted, open-source AI coding assistant you can run on your own infrastructure.
 - **[Continue](https://continue.dev/)** – Open-source AI tool for code completion and chat, pluggable into VS Code and JetBrains.
@@ -76,7 +75,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Refact.ai](https://refact.ai/)** – Open-source AI code completion and refactoring with self-hosting support.
 - **[Continue](https://continue.dev/)** – Open-source, pluggable AI code completion for VS Code and JetBrains.
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)** – Microsoft's AI code completion for Visual Studio.
-- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** – Real-time AI code suggestions with security scanning. *(Now part of Amazon Q Developer)*
+- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** – Real-time AI code suggestions with security scanning. _(Now part of Amazon Q Developer)_
 - **[CodeGeeX](https://codegeex.cn/)** – Open-source multilingual code generation model.
 - **[Supermaven](https://supermaven.com/)** – Ultra-fast completions with 1M token context window.
 
@@ -292,6 +291,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)** – AI-driven task management for development with Claude, designed for Cursor.
 - **[SpecStory](https://specstory.com/)** – Cursor/VS Code/Claude Code extension for summarizing and sharing AI chat context.
 - **[Git AI](https://github.com/acunniffe/git-ai)** – Git extension that tracks AI-generated code and the prompts behind each line.
+- **[Eidetic](https://github.com/LARIkoz/eidetic)** – Long-term memory for Claude Code. FTS5 search (50ms, 400+ files), auto context injection via `~/.claude/rules/`, session signal extraction with compounding, evidence tiers with self-referential discount. Zero deps (bash + python3 + sqlite3).
 - **[Perplexity Pro](https://perplexity.ai/pro)** – AI search engine with real-time web access for coding solutions.
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
 - **[Supercode.sh](https://supercode.sh/)** – Cursor extension adding Architect Mode, voice input, and prompt enhancement.
