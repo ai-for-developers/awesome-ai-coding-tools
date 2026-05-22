@@ -306,6 +306,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 
+- **[ccg-router](https://github.com/XZXY-AI/ccg-router)** – Local Go daemon proxying Claude Code (Anthropic-compatible `/v1/messages`) and Codex CLI (OpenAI-compatible `/v1/chat/completions`) through one port, with a per-request SQLite usage ledger and three routing strategies (prefer-cheaper, prefer-capable, round-robin). No hosted control plane; provider keys stay local. Apache-2.0.
+
 ---
 
 ## AI Frameworks and SDKs
