@@ -319,6 +319,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
+- **[AI Model Gateway](https://github.com/SSC-STUDIO/Ai-Model-Gateway)** – Self-hosted LLM gateway for routing Codex, Claude Code, OpenClaw, and OpenAI-compatible SDK traffic with provider fallback, telemetry, and config rollback.
 
 ---
 
