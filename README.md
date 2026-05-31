@@ -378,6 +378,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[GodeX](https://github.com/Ahoo-Wang/GodeX)** – Open-source local gateway that lets Codex-compatible clients call Chat Completions providers through the OpenAI Responses API shape.
 
 ---
 
