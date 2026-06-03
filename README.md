@@ -316,6 +316,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Semantic Kernel](https://github.com/microsoft/semantic-kernel)** – Microsoft's SDK for integrating LLMs into C#, Python, and Java applications.
 - **[Haystack](https://haystack.deepset.ai/)** – Open-source framework for building production-ready LLM applications, RAG pipelines, and agents.
 - **[LiteLLM](https://github.com/BerriAI/litellm)** – Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and rate limiting.
+- **[FerryAPI](https://www.ferryapi.io/)** — Low-cost OpenAI-compatible AI API gateway for production workloads with prepaid balance, usage billing, customer API keys, and provider account pools.
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
