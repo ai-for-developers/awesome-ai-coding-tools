@@ -374,6 +374,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Database and API Tools
 
+- **[CoderPlan](https://coderplan.ai)** – LLM API gateway with OpenAI-compatible interface. Pay-per-use access to Claude, GPT, Gemini, DeepSeek, and Grok models. One-line config for Claude Code, Codex CLI, and Gemini CLI. Free trial credit for new users.
 - **[Supabase AI](https://supabase.com/ai)** – AI for database schema generation, query optimization, and API development.
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
