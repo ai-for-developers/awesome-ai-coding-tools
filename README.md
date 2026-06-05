@@ -378,6 +378,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[CoderPlan](https://coderplan.ai)** – OpenAI-compatible LLM API gateway for developers. Pay-per-use pricing, connecting Claude Code, Cursor, and AI coding tools to all major models.
 
 ---
 
