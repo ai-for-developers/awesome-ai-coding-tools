@@ -396,6 +396,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** – Trust scoring and receipt verification MCP server for AI agents on Solana. Tools: resolve_agent, score_agent, preflight_check, verify_trust_receipt (free); get_trust_receipt (paid via x402/USDC). Zero-install: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`.
+
 ---
 
 ## Related Lists
