@@ -296,6 +296,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
 - **[Supercode.sh](https://supercode.sh/)** – Cursor extension adding Architect Mode, voice input, and prompt enhancement.
 - **[toprank](https://github.com/nowork-studio/toprank)** – Open-source (MIT) Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to audit traffic, ship meta tag and schema markup fixes, and manage ad campaigns directly from Claude Code.
+- **[LLMRank](https://llmrank.top/)** - AI-powered SEO platform for content gap analysis and search visibility optimization. Free CLI tool for automated SEO auditing with LLM-driven recommendations.
+
 - **[Google Drive – Memyard](https://github.com/zagmoai/public-google-drive)** – Agent skill that lets AI coding agents create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links.
 - **[MemClaw](https://memclaw.me)** – Persistent project memory for AI coding agents (MCP-compatible). Creates isolated memory workspaces per project with a web dashboard to review and manage context. Free and open source.
 - **[git-parsec](https://github.com/erishforG/git-parsec)** – Git worktree lifecycle manager that gives each AI agent an isolated workspace tied to issue tickets (Jira, GitHub Issues, GitLab), avoiding index.lock conflicts in parallel workflows.
