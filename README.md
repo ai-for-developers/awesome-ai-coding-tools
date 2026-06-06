@@ -223,6 +223,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Testing and QA
 
 - **[Playwright](https://playwright.dev/)** – Microsoft's end-to-end testing framework (often used with AI-powered test generation).
+- **[Prompt Evaluator](https://prompt-evaluator.vercel.app)** – Web-based prompt and workflow QA tool. Evaluate, compare, and audit AI prompt outputs and workflow quality.
 - **[Qodo](https://www.qodo.ai/)** – AI-powered test generation and code quality assurance.
 - **[DiffBlue Cover](https://www.diffblue.com/)** – AI-generated unit tests for Java applications.
 - **[Testim](https://www.testim.io/)** – AI end-to-end testing with self-healing locators.
