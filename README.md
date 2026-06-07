@@ -306,6 +306,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 
+- **[AgentDiff](https://github.com/codeprakhar25/agentdiff)** – Git-native provenance for AI-written code: records which AI agent (Claude Code, Cursor, Copilot, Codex, Windsurf, OpenCode, Gemini) wrote which line, reconciles it against each commit, and signs every attribution with ed25519. Records live in your own git refs; no server. Rust, MIT/Apache-2.0.
+
 ---
 
 ## AI Frameworks and SDKs
