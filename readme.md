@@ -371,6 +371,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[API Workbench](https://github.com/sapph1re/api-workbench)** – VS Code extension for local-first API testing with structured, agent-readable Markdown/JSON reports; works inside Cursor, Windsurf, and VS Code without cloud sync or account. Includes MCP layer for CI pipelines.
 
 ---
 
