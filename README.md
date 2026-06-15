@@ -84,6 +84,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Coding Agents
 
+- [7-24-IDE](https://github.com/strmax195-hue/7-24-IDE) - Desktop AI coding agent. Describe what you want to build — the agent reads your files, writes code, runs commands, and shows the result.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
