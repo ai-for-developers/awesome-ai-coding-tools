@@ -137,6 +137,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TmuxAI](https://tmuxai.dev/)** – AI assistant for automating tmux workflows.
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
+- **[dotdog](https://github.com/specdog/dotdog)** – CLI for structured software specs. Write .dog files, compile to .dag graphs, query via MCP server. Validates completeness, detects drift. 
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
 
 ---
