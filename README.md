@@ -168,6 +168,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 - **[Agent Teams](https://github.com/777genius/agent-teams-ai)** – Free open-source desktop app for autonomous coding-agent teams across Claude Code, Codex, OpenCode, Cursor, Grok, GitHub Copilot, Kiro, Z.AI, MiniMax, Kimi, 200+ models, and 75+ LLM providers. Give high-level commands while agents handle Kanban tasks, messaging, code review, logs, and approvals.
+- **[OpenClacky](https://openclacky.com)** – The most token-efficient open-source AI coding agent. Achieves 93.8% Prompt Cache hit rate and ~0.8× the API cost of Claude Code via frozen system prompt, dual cache markers, and Insert-then-Compress context management. BYOK, MIT licensed, 16 core tools, Skill extensions, IM integration (Feishu/Discord/Telegram). ([GitHub](https://github.com/clacky-ai/open-clacky))
 
 ---
 
