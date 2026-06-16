@@ -118,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[OpenClacky](https://openclacky.com)** – The most token-efficient open-source AI coding agent. Achieves 93.8% Prompt Cache hit rate and ~0.8× the API cost of Claude Code via frozen system prompt, dual cache markers, and Insert-then-Compress context management. BYOK, MIT licensed, 16 core tools, Skill extensions, IM integration (Feishu/Discord/Telegram). ([GitHub](https://github.com/clacky-ai/open-clacky))
 
 ---
 
