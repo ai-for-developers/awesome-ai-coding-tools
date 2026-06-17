@@ -126,6 +126,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's terminal agent with sandboxed code execution.
+- **[Vernclaw Connect CLI](https://vernclaw.com/)** – Official connector CLI with JSON-first agent-friendly connector invocation, managed connectors, and bundled skill docs for open-source workflows.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's open-source terminal coding agent with free Gemini 3 Pro access and 1M token context.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent supporting 75+ providers with multi-session support. Free.
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)** – GitHub's AI assistant for command-line with context-aware suggestions.
