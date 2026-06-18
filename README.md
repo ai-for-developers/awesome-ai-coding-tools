@@ -76,6 +76,7 @@ Pricing: 🆓 Free · 🟢 Freemium · 💲 Paid. Scores are editorial (0-10), b
 - **[Locofy](https://locofy.ai)** 🟢 Freemium — Review of Locofy. Converts your Figma designs into responsive React, Vue, or HTML code. Pricing, limitations, alternatives. — [review](https://joute.io/en/avis/locofy)
 - **[Anima](https://animaapp.com)** 🟢 Freemium — Anima review. Figma to React and Vue code with AI. Pricing, limits, alternatives. — [review](https://joute.io/en/avis/anima)
 - **[Uizard](https://uizard.io)** 🟢 Freemium — Uizard review: the wireframe and UI generator from prompts or screenshots. Pricing, alternatives, who it's for. — [review](https://joute.io/en/avis/uizard)
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)** 🆓 Free — Prompt-based Roblox Studio GUI generator that creates ScreenGui-style layouts and Lua starter code for faster game UI prototyping.
 - **[GitWit](https://gitwit.dev)** 🟢 Freemium — Review of GitWit. Generates a complete GitHub repo from a prompt in a few minutes. Pricing, limits, alternatives. — [review](https://joute.io/en/avis/gitwit)
 - **[GPT Pilot](https://gptpilot.dev)** 🆓 Free — Review of GPT Pilot. Open source agent that builds a complete application step by step from a prompt. Pricing, limits, alternatives. — [review](https://joute.io/en/avis/gpt-pilot)
 - **[MetaGPT](https://metagpt.ai)** 🆓 Free — Review of MetaGPT, the multi-agent framework that simulates a complete dev team. Pricing, alternatives, who it's for. — [review](https://joute.io/en/avis/metagpt)
