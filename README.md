@@ -123,6 +123,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## CLI Tools
 
+- **[agentchecker](https://github.com/moisesvalero/agentchecker)** – CLI that scans `AGENTS.md`, `CLAUDE.md`, Cursor rules, and Copilot instructions for contradictions and auto-fixes them. `npx agentchecker`
+
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's terminal agent with sandboxed code execution.
