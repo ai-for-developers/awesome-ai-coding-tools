@@ -266,6 +266,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Cactal](https://cactal.ai)** – Cactal is the website platform for AI agents. Connect Claude Code, Cursor, or anything that speaks MCP, and your agent gets the tools to design, build, host, and operate production websites: source code, CMS, assets, domains, analytics, and publishing.
 - **[Taskade Genesis](https://www.taskade.com/create)** – Prompt-to-app builder for live portals, CRMs, and dashboards with agents and automations.
 - **[IdeaMade](https://ideamade.ai)** – Build and publish web apps from natural language, with editable product blueprints, reviewable change plans, live previews, and version history.
+- **[UnoRouter](https://unorouter.com)** – OpenAI-compatible LLM gateway: one API key for 200+ models across providers, drop-in for coding agents like Claude Code, Cline, Codex and Kilo Code. Point any OpenAI SDK at the base URL and switch models without code changes. Free tier, usage-based pricing.
 
 ---
 
