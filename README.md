@@ -338,6 +338,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Datadog](https://www.datadoghq.com/)** – Monitoring and observability with AI-powered insights.
 - **[New Relic](https://newrelic.com/)** – Observability platform with AIOps and anomaly detection.
 - **[PagerDuty](https://www.pagerduty.com/)** – AI-powered incident management and response automation.
+- **[DownForAI](https://downforai.com/)** – Real-time status monitoring for 800+ AI services including ChatGPT, Claude, Gemini, Midjourney, and Groq. Tracks uptime, latency, and community outage reports.
 - **[Harness](https://harness.io/)** – AI-powered CI/CD with intelligent deployments and automated rollbacks.
 - **[GitLab AI](https://about.gitlab.com/solutions/artificial-intelligence/)** – Integrated AI across GitLab for code suggestions, security scanning, and workflows.
 - **[Pulumi AI](https://www.pulumi.com/ai/)** – Infrastructure as code with AI assistance for cloud resource management.
