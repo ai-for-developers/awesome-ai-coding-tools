@@ -306,6 +306,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 
+- **[inplan](https://github.com/melly-lgtm/inplan)** – A Markdown editor for human and coding-agent collaboration on planning, design, and spec documents. Installs as an agent skill for Claude Code, Codex, and Pi: the agent drafts the plan and poses open questions as inline comments, then you review, answer, and edit in a turn-based loop while it revises, until the doc is done. Ships a desktop editor and a CLI, with the agent's proposed edits shown as reviewable diffs. Free and open source (AGPL-3.0). Install: `npm install -g inplan`.
+
 ---
 
 ## AI Frameworks and SDKs
