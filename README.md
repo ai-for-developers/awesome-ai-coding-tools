@@ -397,6 +397,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
 
 ---
+- **[StackPicks MCP](https://stackpicks.dev/mcp)** – Curated directory of MCP servers and Claude/Cursor connectors with editorial takes. 50+ servers reviewed with install commands for Claude Desktop + Cursor, plus honest "skip if" guidance per entry.
 
 ## Related Lists
 
