@@ -348,6 +348,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
+- **[LocalGateway](https://github.com/Correctover/local-gateway)** – Desktop LLM gateway with multi-provider failover and automatic model name mapping. Zero dependencies. Works with Cursor, Claude Desktop, Windsurf.
 
 ---
 
