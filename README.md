@@ -85,6 +85,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Coding Agents
 
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
+- **[cc-code](https://github.com/cc-claws/cc-code)** – Open-source Rust terminal coding agent, Claude Code compatible. Runs DeepSeek, MiMo, GLM with ~50MB memory and 95-99% prompt cache hit rate.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
 - **[Cline (Claude Dev)](https://github.com/cline/cline)** – VS Code extension with full file system access and autonomous coding.
@@ -125,6 +126,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
+- **[cc-code](https://github.com/cc-claws/cc-code)** – Rust-native terminal agent, Claude Code `.claude/` config compatible. Multi-model (DeepSeek/MiMo/GLM), ~50MB memory.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's terminal agent with sandboxed code execution.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's open-source terminal coding agent with free Gemini 3 Pro access and 1M token context.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent supporting 75+ providers with multi-session support. Free.
