@@ -155,6 +155,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[FlutterFlow](https://flutterflow.io/)** – Visual app builder for Flutter with AI assistance.
 - **[Capacity](https://capacity.so/)** – Agentic platform using Claude Code to turn ideas into full-stack web apps.
 - **[Mage](https://usemage.ai/)** – Generate full-stack apps from natural language prompts.
+- **[VibeKit.bot](https://vibekit.bot/)** – A persistent AI agent that builds, deploys, and maintains full-stack apps for you, driven from your phone. The agent runs on hosted containers, so each app ships to a live URL; bring-your-own-key for Claude/OpenAI. Native iOS + web.
 - **[Microsoft Power Apps](https://powerapps.microsoft.com/)** – Enterprise low-code platform with AI-powered app generation.
 - **[Glide](https://www.glideapps.com/)** – No-code app builder with AI features.
 - **[Durable](https://durable.co/)** – AI website and business app builder from simple text prompts.
