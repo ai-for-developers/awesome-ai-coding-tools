@@ -306,6 +306,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 
+- **[skillreaper](https://github.com/thousandflowers/skillreaper)** – Local-first CLI (`reap`) that scans AI coding-agent session transcripts (Claude Code, Codex, etc.) to find skills, MCP servers, and agents that load into context but never fire, quantifies the wasted tokens and cost, and reversibly prunes the dead weight. Single Go binary, zero telemetry.
+
 ---
 
 ## AI Frameworks and SDKs
