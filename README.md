@@ -399,6 +399,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Related Lists
+- [Skill Hub](https://github.com/rdone4425/skill) — Multi-platform AI Agent Skills navigator: 2595+ skills, 24 sources. Filter by platform. [Web](https://skill.442595.xyz/)
 
 - **[AI For Developers](https://aifordevelopers.org)** – Curated directory of AI dev tools.
 - **[Awesome Vibe Coding](https://github.com/ai-for-developers/awesome-vibe-coding)** – Tools and resources for vibe coding.
