@@ -217,6 +217,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)** - AI-powered GitHub Pull Request code review using MiniMax models.
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
+- **[EDC](https://github.com/almogdepaz/EDC)** – Local repo-context and differential review workflow for coding agents. Generates module docs, invariants, trust boundaries, review notes, and routing metadata under `edc-context/`, then routes changed files through the relevant context.
 
 ---
 
