@@ -242,6 +242,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Rainforest QA](https://www.rainforestqa.com/)** – AI-assisted testing with crowd-sourced manual testing.
 - **[Codeflash](https://www.codeflash.ai/)** – AI-powered Python performance optimization and benchmarking.
 - **[Wopee.io](https://wopee.io)** – Autonomous visual regression testing with Playwright/Cypress integration.
+- **[agent-qa](https://github.com/vostride/agent-qa)** – Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection.
 
 ---
 
