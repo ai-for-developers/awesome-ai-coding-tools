@@ -406,3 +406,4 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
