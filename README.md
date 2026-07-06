@@ -37,6 +37,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Code Editors and Assistants
 
+- [FreeImageAI](https://freeimageai.org) - Free AI image generator from text — no signup. Multiple models and art styles for social graphics, concept art, and m...
 - **[Cursor](https://www.cursor.sh/)** – AI-first code editor with advanced autocompletion, codebase-aware chat, and multi-file editing.
 - **[Windsurf](https://windsurf.com/)** – AI code editor with Cascade, a deep contextual coding agent that goes beyond autocompletion.
 - **[GitHub Copilot](https://github.com/features/copilot)** – AI pair programmer integrated across VS Code, JetBrains, and GitHub with chat, code completion, and workspace agents.
