@@ -1,5 +1,7 @@
 # Awesome AI Coding Tools
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of AI-powered coding tools: editors, agents, code completion, review assistants, testing, and more. For developers, teams, and tech enthusiasts looking to leverage AI in software engineering.
