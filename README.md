@@ -32,6 +32,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Database and API Tools](#database-and-api-tools)
 - [MCP Servers and Directories](#mcp-servers-and-directories)
 - [Related Lists](#related-lists)
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
+
 
 ---
 
