@@ -37,6 +37,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Code Editors and Assistants
 
+- [ImageFK](https://imagefk.com) - AI-powered online image editor with background removal, photo restoration, upscaling, and 2D-to-3D conversion. One-cl...
 - **[Cursor](https://www.cursor.sh/)** – AI-first code editor with advanced autocompletion, codebase-aware chat, and multi-file editing.
 - **[Windsurf](https://windsurf.com/)** – AI code editor with Cascade, a deep contextual coding agent that goes beyond autocompletion.
 - **[GitHub Copilot](https://github.com/features/copilot)** – AI pair programmer integrated across VS Code, JetBrains, and GitHub with chat, code completion, and workspace agents.
@@ -374,7 +375,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Database and API Tools
 
-- [EditTools](https://edittools.org) - All-in-one browser-based file editor for PDF, images, audio, and video. Hundreds of free tools to edit and convert fi...
 - **[Supabase AI](https://supabase.com/ai)** – AI for database schema generation, query optimization, and API development.
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
