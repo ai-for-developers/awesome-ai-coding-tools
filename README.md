@@ -266,6 +266,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
 - **[Repowise](https://github.com/repowise-dev/repowise)** - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.
+- **[PolicyAI](https://policy-ai-alpha.vercel.app)** – AI-powered legal document generator. Creates GDPR & CCPA compliant Privacy Policy, Terms of Service, and Cookie Policy for developer products in 60 seconds. Free tier available.
 
 ---
 
