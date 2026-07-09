@@ -32,6 +32,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Database and API Tools](#database-and-api-tools)
 - [MCP Servers and Directories](#mcp-servers-and-directories)
 - [Related Lists](#related-lists)
+- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 
 ---
 
@@ -62,7 +63,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
-- [ImageFK](https://imagefk.com) - AI-powered online image editor with background removal, photo restoration, upscaling, and 2D-to-3D conversion. One-cl...
 
 ---
 
