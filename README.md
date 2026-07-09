@@ -27,12 +27,12 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Documentation](#documentation)
 - [Code Models](#code-models)
 - [Developer Productivity Tools](#developer-productivity-tools)
+- [HeyCalc](https://heycalc.org) - Online calculator hub for education and finance — GPA, salary tax, loan, BMI, and math formulas. Accurate instant res...
 - [DevOps and Infrastructure](#devops-and-infrastructure)
 - [Security](#security)
 - [Database and API Tools](#database-and-api-tools)
 - [MCP Servers and Directories](#mcp-servers-and-directories)
 - [Related Lists](#related-lists)
-- [PicTranslate](https://pictranslate.net) - AI image translator and OCR tool. Extract and translate text from photos, manga, menus, and documents in 40+ language...
 
 ---
 
