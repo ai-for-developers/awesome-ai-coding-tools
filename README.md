@@ -27,12 +27,12 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Documentation](#documentation)
 - [Code Models](#code-models)
 - [Developer Productivity Tools](#developer-productivity-tools)
+- [ConvertTool](https://converttool.org) - Free online file converter with 300+ tools for PDF, images, audio, and video. Convert instantly in your browser — no ...
 - [DevOps and Infrastructure](#devops-and-infrastructure)
 - [Security](#security)
 - [Database and API Tools](#database-and-api-tools)
 - [MCP Servers and Directories](#mcp-servers-and-directories)
 - [Related Lists](#related-lists)
-- [FileCompress](https://filecompress.org) - Free online file compressor for images, video, audio, and documents. Shrink file sizes while preserving quality for e...
 
 ---
 
