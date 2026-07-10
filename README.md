@@ -27,7 +27,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Documentation](#documentation)
 - [Code Models](#code-models)
 - [Developer Productivity Tools](#developer-productivity-tools)
-- [ResizeOn](https://resizeon.com) - Simple online image resizer and cropper. Adjust dimensions, crop precisely, and convert formats for social media, web...
+- [FileCompress](https://filecompress.org) - Free online file compressor for images, video, audio, and documents. Shrink file sizes while preserving quality for e...
 - [DevOps and Infrastructure](#devops-and-infrastructure)
 - [Security](#security)
 - [Database and API Tools](#database-and-api-tools)
