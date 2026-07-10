@@ -27,6 +27,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Documentation](#documentation)
 - [Code Models](#code-models)
 - [Developer Productivity Tools](#developer-productivity-tools)
+- [HeyCalc](https://heycalc.org) - Online calculator hub for education and finance — GPA, salary tax, loan, BMI, and math formulas. Accurate instant res...
 - [DevOps and Infrastructure](#devops-and-infrastructure)
 - [Security](#security)
 - [Database and API Tools](#database-and-api-tools)
@@ -62,7 +63,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
-- [ImageFK](https://imagefk.com) - AI-powered online image editor with background removal, photo restoration, upscaling, and 2D-to-3D conversion. One-cl...
 
 ---
 
