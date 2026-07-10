@@ -1,5 +1,9 @@
 # Awesome AI Coding Tools
 
+<!-- bmc:front -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:front -->
+
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of AI-powered coding tools: editors, agents, code completion, review assistants, testing, and more. For developers, teams, and tech enthusiasts looking to leverage AI in software engineering.
@@ -9,7 +13,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 **Reach thousands of developers building with AI by sponsoring this list, our [newsletter](https://aifordevelopers.substack.com/) and [AI For Developers](https://aifordevelopers.org/). Contact us at [aifordevelopers.org/advertise](https://aifordevelopers.org/advertise)**
-
 
 ---
 
@@ -190,6 +193,10 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Freepik](https://www.freepik.com/)** – AI design platform with image generation and mockup tools for UI designers.
 
 ---
+
+<!-- bmc:middle -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:middle -->
 
 ## Code Review and Refactoring
 
@@ -408,6 +415,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
 
-## Support
-
-[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=dayongfan&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/dayongfan)
+<!-- bmc:end -->
+<p align="center"><a href="https://buymeacoffee.com/dayongfan"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&amp;emoji=&amp;slug=dayongfan&amp;button_colour=FFDD00&amp;font_colour=000000&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=ffffff" alt="Buy me a coffee"></a></p>
+<!-- /bmc:end -->
