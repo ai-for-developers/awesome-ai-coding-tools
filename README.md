@@ -27,7 +27,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Documentation](#documentation)
 - [Code Models](#code-models)
 - [Developer Productivity Tools](#developer-productivity-tools)
-- [FileCompress](https://filecompress.org) - Free online file compressor for images, video, audio, and documents. Shrink file sizes while preserving quality for e...
+- [TidyCode](https://tidycode.org) - One-stop code formatting and data processing hub. Beautify, minify, validate, and convert JSON, XML, SQL, HTML, CSS, ...
 - [DevOps and Infrastructure](#devops-and-infrastructure)
 - [Security](#security)
 - [Database and API Tools](#database-and-api-tools)
