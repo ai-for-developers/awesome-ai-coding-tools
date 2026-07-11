@@ -395,6 +395,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+- **[PAPI](https://getpapi.ai/?utm_source=awesome-ai-coding-tools&utm_medium=referral&utm_campaign=directory-blitz-2026-07)** – MCP server that adds project management to any AI coding tool: plan/build/review cycles, decision memory, and structured build handoffs that persist across sessions, tools, and teammates. Works with Claude Code, Cursor, Windsurf, Lovable, and ChatGPT. Free.
 
 ---
 
