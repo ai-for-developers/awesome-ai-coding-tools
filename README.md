@@ -269,6 +269,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Taskade Genesis](https://www.taskade.com/create)** – Prompt-to-app builder for live portals, CRMs, and dashboards with agents and automations.
 - **[IdeaMade](https://ideamade.ai)** – Build and publish web apps from natural language, with editable product blueprints, reviewable change plans, live previews, and version history.
 - **[UnoRouter](https://unorouter.com)** – OpenAI-compatible LLM gateway: one API key for 200+ models across providers, drop-in for coding agents like Claude Code, Cline, Codex and Kilo Code. Point any OpenAI SDK at the base URL and switch models without code changes. Free tier, usage-based pricing.
+- **[host4.ai](https://host4.ai)** – Cloud hosting with AI coding agents (Claude Code, Codex) preinstalled. Describe what you want, AI builds and deploys it live. Free tier with 20 AI builder credits, SSH terminal, and .host4.ai subdomain.
 
 ---
 
