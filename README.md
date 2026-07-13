@@ -227,6 +227,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Webcmd](https://github.com/agentrhq/webcmd)** – Self-learning browser infrastructure CLI for coding agents; learns a site once, then reuses it as deterministic per-site commands.
 - **[lucinate](https://github.com/lucinate-ai/lucinate)** – Terminal-native TUI chat client for AI agents. Connects to OpenClaw gateways, Hermes agent profiles, and any OpenAI-compatible endpoint (Ollama, vLLM, LM Studio, OpenAI). Features streaming responses, markdown rendering, tool call cards, local skills, cron management, and multi-agent support. Cross-platform with Homebrew tap.
 - **[Zero](https://zero.xyz)** – A CLI and Claude Code plugin that gives your AI access to thousands of tools, APIs and services to use and pay for per use, right from a prompt. No config, no API keys; free to start.
+- **[SAGE](https://github.com/PsYcGoD/sage)** – Local-first CLI and MCP wrapper for AI coding agents that records command history locally and returns compressed terminal output.
 
 ---
 
