@@ -292,6 +292,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)** – AI-driven task management for development with Claude, designed for Cursor.
 - **[SpecStory](https://specstory.com/)** – Cursor/VS Code/Claude Code extension for summarizing and sharing AI chat context.
 - **[Git AI](https://github.com/acunniffe/git-ai)** – Git extension that tracks AI-generated code and the prompts behind each line.
+- **[ditto](https://github.com/ohad6k/ditto)** – Mines your local Claude Code, Codex, and Cursor session logs into a you.md working profile your agent loads before every task: what you reject, what "done" means to you, when you ask for proof, how you actually work. Local-first, MIT, one command: `npx skills add ohad6k/ditto`.
 - **[Perplexity Pro](https://perplexity.ai/pro)** – AI search engine with real-time web access for coding solutions.
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
 - **[Supercode.sh](https://supercode.sh/)** – Cursor extension adding Architect Mode, voice input, and prompt enhancement.
