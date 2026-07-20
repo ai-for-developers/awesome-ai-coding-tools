@@ -319,6 +319,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
+- **[Markstream Vue](https://markstream-vue.simonhe.me/)** – MIT-licensed streaming Markdown renderer for AI chat interfaces, with Mermaid, KaTeX, SSR, and Vue, React, Svelte, and Angular integrations.
 
 ---
 
