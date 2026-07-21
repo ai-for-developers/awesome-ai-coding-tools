@@ -125,6 +125,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
+- **[grokpack](https://github.com/Rennlabs/grokpack)** – Unofficial Grok Build companion suite for Claude Code: observe (orientation card), drive (Grok executes / Claude orchestrates + gate), display (tmux HUD). MIT.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's terminal agent with sandboxed code execution.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's open-source terminal coding agent with free Gemini 3 Pro access and 1M token context.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent supporting 75+ providers with multi-session support. Free.
