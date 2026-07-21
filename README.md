@@ -241,6 +241,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Parasoft](https://www.parasoft.com/)** – AI-enhanced testing suite covering static analysis, unit testing, and API testing.
 - **[Rainforest QA](https://www.rainforestqa.com/)** – AI-assisted testing with crowd-sourced manual testing.
 - **[Codeflash](https://www.codeflash.ai/)** – AI-powered Python performance optimization and benchmarking.
+- **[BenchGen](https://benchgen.com)** – AI agent benchmarking and evaluation platform. Score agent runs across tool-call accuracy, goal completion, and skill coverage, then export filtered trajectories for fine-tuning.
 - **[Wopee.io](https://wopee.io)** – Autonomous visual regression testing with Playwright/Cypress integration.
 
 ---
