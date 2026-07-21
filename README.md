@@ -15,23 +15,27 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Table of Contents
 
-- [Code Editors and Assistants](#code-editors-and-assistants)
-- [Code Completion](#code-completion)
-- [Coding Agents](#coding-agents)
-- [CLI Tools](#cli-tools)
-- [App Builders](#app-builders)
-- [UI Generators](#ui-generators)
-- [Code Review and Refactoring](#code-review-and-refactoring)
-- [Testing and QA](#testing-and-qa)
-- [Code Search and Navigation](#code-search-and-navigation)
-- [Documentation](#documentation)
-- [Code Models](#code-models)
-- [Developer Productivity Tools](#developer-productivity-tools)
-- [DevOps and Infrastructure](#devops-and-infrastructure)
-- [Security](#security)
-- [Database and API Tools](#database-and-api-tools)
-- [MCP Servers and Directories](#mcp-servers-and-directories)
-- [Related Lists](#related-lists)
+- [Awesome AI Coding Tools](#awesome-ai-coding-tools)
+	- [Table of Contents](#table-of-contents)
+	- [Code Editors and Assistants](#code-editors-and-assistants)
+	- [Code Completion](#code-completion)
+	- [Coding Agents](#coding-agents)
+	- [CLI Tools](#cli-tools)
+	- [App Builders](#app-builders)
+	- [UI Generators](#ui-generators)
+	- [Code Review and Refactoring](#code-review-and-refactoring)
+	- [Testing and QA](#testing-and-qa)
+	- [Code Search and Navigation](#code-search-and-navigation)
+	- [Documentation](#documentation)
+	- [Code Models](#code-models)
+	- [Developer Productivity Tools](#developer-productivity-tools)
+	- [AI Frameworks and SDKs](#ai-frameworks-and-sdks)
+	- [Local LLM Tools](#local-llm-tools)
+	- [DevOps and Infrastructure](#devops-and-infrastructure)
+	- [Security](#security)
+	- [Database and API Tools](#database-and-api-tools)
+	- [MCP Servers and Directories](#mcp-servers-and-directories)
+	- [Related Lists](#related-lists)
 
 ---
 
@@ -118,6 +122,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[Juggler](https://juggler.studio)** – Open-source GUI-based AI coding agent with a Miller-column layout for deep context inspection; branching session threads, editable context. Desktop app, plus multi-client P2P connection from remote browsers. Mac/Win/Linux, BYOK + Claude Code, Codex CLI.
 
 ---
 
