@@ -280,6 +280,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[StarCoder 2](https://huggingface.co/bigcode/starcoder2-15b)** – Open-source LLM for code generation by BigCode, supporting 600+ languages.
 - **[Codestral](https://mistral.ai/news/codestral)** – Mistral's open-weight model designed for code generation.
 - **[Phi-4 (Microsoft)](https://www.microsoft.com/en-us/research/blog/phi-4-technical-report/)** – Microsoft's lightweight, efficient model family with strong coding performance.
+- **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** – Delegates coding grunt-work to other harnesses and models from the terminal while your main session stays the orchestrator.
 
 ---
 
@@ -348,6 +349,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
+- **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** – Context and token-cost optimizer for AI coding agents. Finds wasted "ghost tokens," survives compaction, and reduces context-quality decay, with native plugins for Claude Code, Codex, OpenCode, and OpenClaw.
 
 ---
 
@@ -369,6 +371,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Endor Labs](https://www.endorlabs.com/ai-code-security-review)** – AI code review for security risks and architectural vulnerabilities.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)** – AI-automated fuzz testing for C/C++.
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
+- **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** – Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; detects prompt injection, credential theft, and manifest drift.
 
 ---
 
