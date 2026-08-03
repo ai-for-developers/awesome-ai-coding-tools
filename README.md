@@ -261,6 +261,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[README-AI](https://github.com/eli64s/readme-ai)** – AI tool for creating professional README files automatically.
 - **[DocuWriter.ai](https://www.docuwriter.ai/)** – AI documentation generator for codebases and APIs.
 - **[DiagramGPT (Eraser)](https://www.eraser.io/diagramgpt)** – Generate diagrams from code and text descriptions.
+- **[flow-chart.io](https://flow-chart.io)** – AI diagram generator producing fully editable scene graphs from natural language — C4, BPMN, cloud architecture, ERD, STRIDE threat modeling, DevOps pipelines. Every node and connector is a real editable object (not a locked image). Free plan: 40 AI credits/month.
 - **[Theneo.io](https://theneo.io/)** – AI-powered API documentation generation.
 - **[Slab](https://slab.com/)** – Team knowledge base with AI search and automated documentation.
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
