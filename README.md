@@ -118,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[Ordewell](https://github.com/ordewell/ordewell)** – Plan-first CLI/TUI orchestrator that turns one goal into an ordered plan of coding-agent tasks, each with its own runner (Claude Code, Codex, OpenCode), model, thinking effort and mode — editable before execution, run as one agent session per task, and marked done only when its own completion marker appears in the output. Apache-2.0, free, no paid tier.
 
 ---
 
