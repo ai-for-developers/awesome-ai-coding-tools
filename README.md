@@ -92,7 +92,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Aider](https://github.com/paul-gauthier/aider)** – AI coding agent for collaborative editing and code generation via CLI.
 - **[GPT Engineer](https://github.com/AntonOsika/gpt-engineer)** – AI agent for building full applications from natural language.
 - **[Codename Goose](https://github.com/block/goose)** – Desktop and CLI agent by Block for automating tasks using LLMs and extensions.
-- **[BitFun](https://github.com/GCWing/BitFun)** – Open-source desktop agent that generates a purpose-built interface per task instead of one chat box, on a self-hostable Rust runtime.
 - **[Smol Developer](https://github.com/smol-ai/developer)** – Lightweight AI coding agent for rapid prototyping.
 - **[JunieAI (JetBrains)](https://www.jetbrains.com/junieai/)** – AI coding agent that plans, writes, tests, and refactors within JetBrains IDEs.
 - **[Fine](https://fine.dev/)** – AI dev agent that understands requirements, writes code, and iterates autonomously.
@@ -119,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[BitFun](https://github.com/GCWing/BitFun)** – Cross-platform desktop coding agent built on a Rust runtime, with Git-aware workflows, Deep Review, MCP/Skills/Hooks, remote workspaces, and state-bound Mini Apps.
 
 ---
 
