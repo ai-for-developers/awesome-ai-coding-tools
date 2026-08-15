@@ -138,6 +138,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[SandBase CLI](https://github.com/sandbaseai/cli)** – Open-source CLI that connects Claude Code, Codex, Cursor, Windsurf, and other MCP clients to 2,000+ AI models and APIs without managing provider API keys. Free account available.
 
 ---
 
