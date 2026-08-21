@@ -120,8 +120,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
 
 ---
-
-## CLI Tools
+- **[Oricode AI](https://marketplace.visualstudio.com/items?itemName=OricodeAI.oricode-ai)** – SAP-specialized AI coding agent for VS Code and Eclipse ADT. Builds complete ABAP RAP stacks (table + CDS + behavior + service binding + OData V4) from natural-language prompts against real SAP systems, self-corrects DDIC and Open SQL errors, and scaffolds Vue/React/Fiori frontends. Works on ABAP Cloud, S/4HANA on-prem, and NW ABAP.
+CLI Tools
 
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
