@@ -119,6 +119,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
 
+- **[mix2](https://github.com/elleryfamilia/mix2)** – Terminal app that turns two coding agents into one team. One question, both investigate independently, disagreements are disclosed, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI.
+
 ---
 
 ## CLI Tools
@@ -138,6 +140,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+
+- **[Loadout](https://github.com/elleryfamilia/loadout)** – Adaptive context engine for AI coding agents. Detects your stack and equips the right context when you launch `load claude`, `load codex`, `load cursor`. Works with Claude, Codex, Cursor, opencode, and Copilot.
 
 ---
 
@@ -395,6 +399,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+
+- **[terminal-mcp](https://github.com/elleryfamilia/terminal-mcp)** – MCP server that gives AI assistants a shared view of your terminal session. Debug CLIs and TUI apps in real-time or let agents drive terminal-based tools autonomously. Works with Claude Code, Codex, Cursor, opencode, and Copilot.
 
 ---
 
