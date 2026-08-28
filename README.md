@@ -128,6 +128,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's terminal agent with sandboxed code execution.
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's open-source terminal coding agent with free Gemini 3 Pro access and 1M token context.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent supporting 75+ providers with multi-session support. Free.
+- **[SandBase CLI](https://github.com/sandbaseai/cli)** – Open-source CLI and local MCP bridge that connects Codex, Claude Code, Cursor, and other clients to 2,000+ AI models and APIs through one command.
 - **[GitHub Copilot CLI](https://github.com/cli/cli/tree/trunk/pkg/cmd/copilot)** – GitHub's AI assistant for command-line with context-aware suggestions.
 - **[ShellGPT](https://github.com/TheR1D/shell_gpt)** – ChatGPT integration for shell command generation and system administration.
 - **[Aider](https://github.com/paul-gauthier/aider)** – Open-source terminal AI pair programmer with deep git integration; every AI edit is auto-committed.
