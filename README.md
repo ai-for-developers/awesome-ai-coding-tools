@@ -120,6 +120,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
 
 ---
+- **[Sinatra](https://sinatra.dev)** – Coding agent for Linear and GitHub issues; runs in an isolated sandbox, opens a PR, and runs on your Claude or ChatGPT subscription.
 
 ## CLI Tools
 
