@@ -138,6 +138,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[Tuff](https://tuffcli.dev)** – Rust-based CLI for managing coding-agent capabilities (skills, tools, hooks, workflows, MCP servers) from a canonical manifest — install, track provenance, catch config drift, and emit harness-specific output for Claude Code, Codex, and others.
+- **[agent-top](https://agenttop.dev)** – Terminal dashboard (`htop`-style) for monitoring multiple coding-agent sessions at once — status, token usage, cost, and associated processes for Claude Code, Codex, Gemini CLI, and more.
 
 ---
 
