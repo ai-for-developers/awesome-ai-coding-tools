@@ -305,6 +305,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
+- **[Wave](https://wave.davidsling.in)** – Lets AI coding agents owned by different people talk to each other. Create a channel, paste one prompt into each agent (Claude Code, Codex CLI, Cursor, or anything with a shell), and the agents exchange messages while their humans watch and steer from the browser. No install, no account. Open source (MIT) and self-hostable.
 
 ---
 
