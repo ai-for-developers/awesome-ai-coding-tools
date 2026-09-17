@@ -62,6 +62,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
+- **[Air](https://air.dev/)** – JetBrains' agentic development environment, built on the technology and team behind the discontinued Fleet IDE.
+- **[ThinkRail](https://thinkrail.ai/)** – Open-source worktree IDE for the Pi coding agent; runs parallel agent sessions in isolated git worktrees with spec-driven development and BYOK model access.
 
 ---
 
