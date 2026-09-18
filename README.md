@@ -311,7 +311,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[harmony-next.skills](https://github.com/linhay/harmony-next.skills)** – Open-source HarmonyOS NEXT workflow toolkit for AI coding agents. Provides offline ArkTS/ArkUI/API references, DevEco/HDC/Emulator automation, UI/UX audit helpers, and smoke-test templates for mobile app development.
 
 ---
 
