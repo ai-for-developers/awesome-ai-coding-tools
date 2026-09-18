@@ -118,7 +118,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
-- **[DvalinCode](https://github.com/arthurpanhku/dvalincode)** – Provider-neutral, local-first CLI coding agent (Chat/Cowork/Code modes) built for governance: org policy engine, enforced network egress, and a verifiable hash-chained audit trail. Works with any OpenAI-compatible endpoint (DeepSeek, OpenAI, Claude via OpenRouter, Groq, Ollama). Zero runtime deps. MIT.
 
 ---
 
@@ -384,6 +383,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway providing OpenAI-compatible access to Claude, GPT, Gemini, and 30+ models. Pay-as-you-go pricing with one-line config for Claude Code, Cursor, and other AI coding tools.
 
 ---
 
