@@ -519,6 +519,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tuning Engines](https://www.tuningengines.com/)** – Governed AI runtime and MCP server for coding agents: route models through one OpenAI-compatible API, apply RBAC and traffic policies, request approvals, and inspect traces and usage.
 - **[Respan](https://www.respan.ai/ai-gateway)** – Full-stack AI engineering platform with a tracing SDK, evals, prompt management, and a gateway to 250+ models.
 - **[Markstream Vue](https://markstream-vue.simonhe.me/)** – MIT-licensed streaming Markdown renderer for AI chat interfaces, with Mermaid, KaTeX, SSR, and Vue, React, Svelte, and Angular integrations.
+- **[AIWG](https://github.com/jmagly/aiwg)** – Deploys reusable agents, skills, and governed workflows across multiple AI coding platforms.
 
 ---
 
