@@ -243,7 +243,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Rainforest QA](https://www.rainforestqa.com/)** – AI-assisted testing with crowd-sourced manual testing.
 - **[Codeflash](https://www.codeflash.ai/)** – AI-powered Python performance optimization and benchmarking.
 - **[Wopee.io](https://wopee.io)** – Autonomous visual regression testing with Playwright/Cypress integration.
-- **[AI Test Case Generator](https://aitestcasegenerator-six.vercel.app/)** – AI-powered test case generator that turns plain-language requirements into structured QA test cases for web and software testing workflows.
 
 ---
 
@@ -269,6 +268,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Repowise](https://github.com/repowise-dev/repowise)** - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.
 - **[ReadMeAI](https://readmeai-six.vercel.app/)** – Generate professional README.md files from any GitHub repo URL with AI. Includes description, installation, usage, and contributing sections. Free, instant.
+- **[notabene](https://github.com/z29k/notabene)** – Self-hosted docs viewer with Google-Docs-style comments and a human-agent review loop that turns comments into source edits.
 
 ---
 
