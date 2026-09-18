@@ -223,7 +223,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Testing and QA
 
 - **[Playwright](https://playwright.dev/)** – Microsoft's end-to-end testing framework (often used with AI-powered test generation).
-- **[Prompt Evaluator](https://prompt-evaluator.vercel.app)** – Web-based prompt and workflow QA tool. Evaluate, compare, and audit AI prompt outputs and workflow quality.
 - **[Qodo](https://www.qodo.ai/)** – AI-powered test generation and code quality assurance.
 - **[DiffBlue Cover](https://www.diffblue.com/)** – AI-generated unit tests for Java applications.
 - **[Testim](https://www.testim.io/)** – AI end-to-end testing with self-healing locators.
@@ -243,6 +242,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Rainforest QA](https://www.rainforestqa.com/)** – AI-assisted testing with crowd-sourced manual testing.
 - **[Codeflash](https://www.codeflash.ai/)** – AI-powered Python performance optimization and benchmarking.
 - **[Wopee.io](https://wopee.io)** – Autonomous visual regression testing with Playwright/Cypress integration.
+- **[Prompt Evaluator](https://prompt-evaluator.vercel.app)** – Web-based prompt and workflow QA tool. Evaluate, compare, and audit AI prompt outputs and workflow quality.
 
 ---
 
@@ -310,7 +310,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[MartinLoop](https://github.com/Keesan12/martin-loop)** – Open-source control layer for AI coding agents. Adds hard budget caps, verifier gates, explicit stop reasons, and run receipts around Claude Code, Codex, and Ralph-style autonomous coding workflows.
 
 ---
 
