@@ -324,7 +324,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
-- **[Tuning Engines](https://www.tuningengines.com/)** – Governed AI runtime and MCP server for coding agents: route models through one OpenAI-compatible API, apply RBAC and traffic policies, request approvals, and inspect traces and usage.
 
 ---
 
@@ -384,6 +383,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[GodeX](https://github.com/Ahoo-Wang/GodeX)** – Open-source local gateway that lets Codex-compatible clients call Chat Completions providers through the OpenAI Responses API shape.
 
 ---
 
