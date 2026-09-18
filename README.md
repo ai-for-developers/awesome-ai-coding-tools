@@ -149,6 +149,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[DevIntern](https://devintern.com/)** – Picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests using the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode), running on your machines with your own model keys. A feasibility gate flags vague tickets back to the tracker with questions.
 - **[Septim Agents Pack](https://septimlabs.com/tools/agents?utm_source=awesome-ai-coding-tools&utm_medium=awesome-list&utm_campaign=oss-backlink)** – 10 named Claude Code sub-agents covering planning, architecture, brand, marketing, finance, design, legal, customer research, and cross-lane coordination. Drop the `.claude/agents/` folder into any project; pay-once at $49.
 - **[LingShu](https://github.com/RoyZhao1991/LingShu)** – Native Apache-2.0 macOS execution agent with a replaceable model backend and an open runtime for code, documents, presentations, and authorized computer actions.
+- **[agentty](https://github.com/1ay1/agentty)** – Native C++26 terminal coding agent and drop-in claude-code alternative. Single static binary, sub-millisecond cold start, sandboxed by default, and model-agnostic (Claude, OpenAI, Groq, OpenRouter, Ollama). Runs inside Zed over ACP and drives air-gapped hosts over SSH. MIT.
 
 ---
 
