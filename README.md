@@ -501,6 +501,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Operator Score](https://github.com/MongLong0214/agent-operator-score)** – Local-first CLI (`aos`) that scores how well you operate Claude Code, Codex, and Grok CLI from your own session transcripts, plus a controlled-run assessment suite with a hidden verifier. No model calls in review mode; nothing leaves your disk.
 - **[Agent Coordinator](https://github.com/alanhoff/agent-coordinator)** – Per-user Codex skill that represents dependency-aware tasks as bounded work graphs, records revisioned local state, reconciles uncertain work before retry, reruns planned checks at closeout, and can use optional specialists or run inline. Free and open source (MIT).
 - **[Meanwhile](https://github.com/heenatrivedi321-max/deadtime)** – Claude Code/Cursor/Copilot/VS Code status line that shows a genuinely useful tip, or an occasional disclosed sponsor line, while the agent works. Sponsor earnings are split 50/50 with the developer, paid via PayPal. Never reads code or prompts. Free and open source.
+- **[AllPet](https://github.com/haverainlilili/all-pet)** – Open-source (MIT) desktop pet that watches your AI coding agents (Codex, Claude Code / Desktop, DeepSeek Harness, Grok) from local session logs — no accounts or API keys — and wakes the original session on click. Cross-platform `status`/`watch` CLI.
 
 ---
 
