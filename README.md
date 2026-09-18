@@ -328,7 +328,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Qodo](https://www.qodo.ai/)** – AI-powered test generation and code quality assurance.
 - **[DiffBlue Cover](https://www.diffblue.com/)** – AI-generated unit tests for Java applications.
 - **[Testim](https://www.testim.io/)** – AI end-to-end testing with self-healing locators.
-- **[OctoMind](https://octomind.dev)** – AI-powered end-to-end testing automation.
 - **[TestRigor](https://testrigor.com/)** – Plain English test automation with self-healing.
 - **[Mabl](https://www.mabl.com/)** – AI-native test automation with auto-healing and visual testing.
 - **[Applitools](https://applitools.com/)** – Visual AI testing platform with cross-browser support.
