@@ -309,7 +309,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[dltHub AI Workbench](https://github.com/dlt-hub/dlthub-ai-workbench)** – Toolkit that gives Claude Code, Cursor, and Codex structured, step-by-step workflows and an MCP server for building, exploring, and deploying data pipelines with dlt.
 
 ---
 
@@ -388,7 +387,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## MCP Servers and Directories
 
-- **[ejentum-mcp](https://github.com/ejentum/ejentum-mcp)** – MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 - **[MCP Server Finder](https://www.mcpserverfinder.com/servers)** – Discover and browse MCP servers.
 - **[PulseMCP](https://www.pulsemcp.com/servers)** – Large, frequently updated directory of MCP servers.
 - **[MCP.so](https://mcp.so/)** – Platform for MCP server resources and community.
@@ -401,6 +399,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+- **[ejentum-mcp](https://github.com/ejentum/ejentum-mcp)** – MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 
 ---
 
