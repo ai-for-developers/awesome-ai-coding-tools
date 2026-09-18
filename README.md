@@ -488,6 +488,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[DSH Studio](https://github.com/Moresyl/dsh-studio)** – Open-source cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally.
 - **[Forgeo](https://github.com/lucaGazzola/forgeo)** – Scheduled, agent-driven software factory that works a JSON backlog with your coding agent (Claude Code, Codex, opencode), committing each result to the default branch and running a refactoring pass when the backlog is empty.
 - **[Vibe-Coding Prompt Template](https://github.com/KhazP/vibe-coding-prompt-template)** – Five-step planning workflow (deep research, PRD, tech design, `AGENTS.md`, build) with an `npx vibeworkflow` CLI that interviews you and writes the docs your coding agent reads. Free and MIT licensed.
+- **[sol-simplify](https://github.com/MongLong0214/sol-simplify)** – One-markdown-file skill for Claude Code and Codex that stops agents from inventing bureaucracy (approval gates, governance docs, validators for the validators) around their own work. Measured on gpt-5.6-sol: ceremony scored 0 in 10 of 11 benchmark skill runs vs 4-6 for baselines, every score cited to a line in committed raw output.
 
 ---
 
