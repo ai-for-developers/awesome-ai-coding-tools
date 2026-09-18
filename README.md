@@ -413,8 +413,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
-- **[ManualMode](https://manualmode.dev)** – Skill and MCP workflow for hands-on coding practice alongside AI agents: suggest small repository tasks, reserve one for the developer, and track practice progress. Includes a free tier.
-
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
@@ -504,6 +502,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Coordinator](https://github.com/alanhoff/agent-coordinator)** – Per-user Codex skill that represents dependency-aware tasks as bounded work graphs, records revisioned local state, reconciles uncertain work before retry, reruns planned checks at closeout, and can use optional specialists or run inline. Free and open source (MIT).
 - **[Meanwhile](https://github.com/heenatrivedi321-max/deadtime)** – Claude Code/Cursor/Copilot/VS Code status line that shows a genuinely useful tip, or an occasional disclosed sponsor line, while the agent works. Sponsor earnings are split 50/50 with the developer, paid via PayPal. Never reads code or prompts. Free and open source.
 - **[AllPet](https://github.com/haverainlilili/all-pet)** – Open-source (MIT) desktop pet that watches your AI coding agents (Codex, Claude Code / Desktop, DeepSeek Harness, Grok) from local session logs — no accounts or API keys — and wakes the original session on click. Cross-platform `status`/`watch` CLI.
+- **[ManualMode](https://manualmode.dev)** – Skill and MCP workflow for hands-on coding practice alongside AI agents: suggest small repository tasks, reserve one for the developer, and track practice progress. Includes a free tier.
 
 ---
 
