@@ -138,6 +138,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[RoleCraft](https://github.com/rolecraft-sh/rolecraft)** – Zero-dependency CLI to install AI agent skills as roles & behaviors from any source. Works with 86 coding agents.
 
 ---
 
@@ -171,7 +172,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Screenshot-to-Code](https://github.com/abi/screenshot-to-code)** – Convert screenshots and designs into clean HTML/React/Vue code using AI.
 - **[Forge](https://forge-web.rebaselabs.online)** – BYOK full-stack app creator — use your own API key (Anthropic, OpenAI, Google) with no markup. Multi-stage pipeline generates production-ready Next.js apps from natural language.
 - **[MeterCall](https://metercall.ai)** – Universal API gateway over 10M+ APIs with AI router across 25+ models. Type a sentence in plain English, get a working app. 727+ ready-made modules to fork. Free tier, usage-based pricing.
-- **[Vibes DIY](https://vibes.diy)** – [Open-source](https://github.com/VibesDIY/vibes.diy) AI app builder that turns a plain-English description into a real, live web app you can share, remix, and collaborate on.
 
 ---
 
