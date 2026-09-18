@@ -310,6 +310,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[app-it](https://github.com/Christian-Katzmann/app-it)** – Open-source (MIT) Claude Code / Codex skill that turns a local web project into an installed, Dock-launchable macOS desktop app — native WebKit window, app icon, and clean start/stop — without Electron or Tauri. Local-only, no telemetry; Windows in beta.
 
 ---
 
@@ -400,7 +401,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
-- **[Prismix](https://prismix.dev)** – AI hub with 500+ MCP server directory, real-time status monitoring for 75+ AI services, and news aggregator from 70+ sources with email/webhook alerts.
 
 ---
 
