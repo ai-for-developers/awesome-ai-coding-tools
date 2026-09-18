@@ -62,6 +62,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
+- **[HagiCode](https://hagicode.com/)** – AI coding workspace with proposal-driven workflows, multi-agent execution, multi-repository coordination, and integrated commit and knowledge tools.
 
 ---
 
@@ -118,7 +119,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
-- **[WithVibe](https://github.com/withvibe/withvibe)** – Self-hostable shared AI development environment for teams. Spin up an isolated, code-seeded env, build with AI, and share the live session; an agent gate (security, code review, tests, policy) plus human approval reviews every change before it ships.
 
 ---
 
