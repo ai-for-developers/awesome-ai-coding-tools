@@ -156,6 +156,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[intentic](https://github.com/intentic/intentic)** – Self-hosted workspace that runs Claude Code, Codex, OpenCode, and Gemini CLI agents in parallel, each in its own Docker container and git worktree on hardware you own. Browser and mobile UI, terminals that survive disconnects, an editable sandbox Dockerfile, and per-file, per-hunk diff review before changes land. MIT, TypeScript.
 - **[Dcode](https://github.com/langchain-ai/deepagents)** – The coding agent you own. Open-source, model-agnostic, and built by LangChain to give you maximum control over your software development lifecycle.
 - **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** – Local-first coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer memory system. No account or API key required.
+- **[Kolega Code](https://github.com/kolega-ai/kolega-code)** – Open-source terminal coding agent where the model writes its own multi-agent workflows (Gigacode), with 15+ providers and MCP support.
 
 ---
 
