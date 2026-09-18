@@ -62,6 +62,18 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
+- **[Nimbalyst](https://nimbalyst.com)** – Open-source visual workspace for building with Codex, Claude Code. Visual editor. Session and task manager.
+
+## GitHub or website?
+
+**Use the website (nimbalyst.com).** The Aide example you gave links to `aide.dev`, not their repo, so the list's convention is product homepage. Two more reasons:
+
+- The website handles non-dev visitors (downloads, screenshots, pricing). GitHub drops them straight into a code tree.
+- "Open-source" status can be conveyed in the description; the link itself should optimize for the conversion most readers want.
+
+Use the GitHub URL only when the list explicitly prefers repos (e.g., MCP server registries, awesome-electron, sindresorhus-style lists). For generalist AI tool lists, website wins.
+
+Heads-up: those duplicate `URL:` lines have grown to four per entry now. Looks like every save is appending another. Worth a quick manual cleanup or letting me dedupe in one pass when you want.
 
 ---
 
