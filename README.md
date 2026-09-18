@@ -171,6 +171,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Screenshot-to-Code](https://github.com/abi/screenshot-to-code)** – Convert screenshots and designs into clean HTML/React/Vue code using AI.
 - **[Forge](https://forge-web.rebaselabs.online)** – BYOK full-stack app creator — use your own API key (Anthropic, OpenAI, Google) with no markup. Multi-stage pipeline generates production-ready Next.js apps from natural language.
 - **[MeterCall](https://metercall.ai)** – Universal API gateway over 10M+ APIs with AI router across 25+ models. Type a sentence in plain English, get a working app. 727+ ready-made modules to fork. Free tier, usage-based pricing.
+- **[OTF — Open Template Forest](https://otf-kit.dev)** – Production-ready full-stack kits (Next.js, Expo) pre-wired for Claude Code, Cursor, and Lovable, with tested prompt libraries and AI configs included. MIT SDK + commercial kits.
 
 ---
 
@@ -217,6 +218,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)** - AI-powered GitHub Pull Request code review using MiniMax models.
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
+- **[MealMacroAI](https://www.mealmacroai.com)** – AI-powered reverse macro calculator that converts target nutrition into precise raw and cooked food portion weights.
 
 ---
 
@@ -266,6 +268,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
 - **[Repowise](https://github.com/repowise-dev/repowise)** - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.
+- **[ReadMeAI](https://readmeai-six.vercel.app/)** – Generate professional README.md files from any GitHub repo URL with AI. Includes description, installation, usage, and contributing sections. Free, instant.
 
 ---
 
@@ -306,6 +309,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 - **[Blueprint](https://marketplace.visualstudio.com/items?itemName=Imbue.imbue-blueprint)** – Open-source planning copilot for coding agents. Asks multiple-choice questions about your task, then generates a markdown plan any coding agent can execute. Extensions for VS Code, Cursor, and Windsurf.
+
+- **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
+- **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
 
 ---
 
