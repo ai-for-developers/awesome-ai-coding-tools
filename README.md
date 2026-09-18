@@ -123,8 +123,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## CLI Tools
 
-- **[agentchecker](https://github.com/moisesvalero/agentchecker)** – CLI that scans `AGENTS.md`, `CLAUDE.md`, Cursor rules, and Copilot instructions for contradictions and auto-fixes them. `npx agentchecker`
-
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's terminal agent with sandboxed code execution.
@@ -140,6 +138,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[agentchecker](https://github.com/moisesvalero/agentchecker)** – CLI that scans `AGENTS.md`, `CLAUDE.md`, Cursor rules, and Copilot instructions for contradictions and auto-fixes them. `npx agentchecker`
 
 ---
 
@@ -311,7 +310,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Unship](https://github.com/mbenhard/unship)** – Open-source local picker for comparing AI agent-made UI variants in a running app, then keeping one and cleaning up the rest.
 
 ---
 
