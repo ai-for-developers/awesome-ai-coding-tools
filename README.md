@@ -309,6 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[Skills-Link](https://github.com/shanliuling/skills-link)** – A CLI tool that syncs your AI skills across 41+ coding agents (Claude Code, Cursor, Windsurf, Cline, etc.) with cross-device sync via GitHub.
 
 ---
 
