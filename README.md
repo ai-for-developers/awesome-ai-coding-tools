@@ -400,6 +400,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+- **[Superhighway](https://superhighway.walls.sh)** – Web search API for AI coding agents — live search, news, images, scrape, and deep research via MCP. Free API key or pay per call via x402/USDC. Install: `npx -y superhighway-mcp`.
 
 ---
 
