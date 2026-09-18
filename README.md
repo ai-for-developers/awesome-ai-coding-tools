@@ -138,6 +138,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[Vox Director](https://github.com/Alisa0808/vox-director)** – Agent skill that turns one topic into a finished Vox-style paper-collage explainer/ad video (script, collage art, motion, voice-over, music, captions); runs on Atlas Cloud + ffmpeg. Works with Claude Code, Codex & any SKILL.md agent.
 
 ---
 
@@ -400,7 +401,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
-- **[PAPI](https://getpapi.ai/?utm_source=awesome-ai-coding-tools&utm_medium=referral&utm_campaign=directory-blitz-2026-07)** – MCP server that adds project management to any AI coding tool: plan/build/review cycles, decision memory, and structured build handoffs that persist across sessions, tools, and teammates. Works with Claude Code, Cursor, Windsurf, Lovable, and ChatGPT. Free.
 
 ---
 
