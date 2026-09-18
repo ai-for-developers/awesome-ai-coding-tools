@@ -456,6 +456,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Claudexor](https://github.com/razzant/claudexor)** – Local-first control plane for Claude Code, Codex, Cursor, and OpenCode with quota-aware profiles, cross-model review, and best-of-N runs.
 - **[imlazy](https://github.com/hnikoloski/imlazy)** – Tier-aware task router and skill-based workflow system for Claude Code that classifies tasks into Quick/Standard/Heavy/Vault/Learn tiers and routes them through the appropriate execution workflow with adaptive disambiguation.
 - **[agmem](https://github.com/albedoweb/agmem)** – Local-first project memory CLI for coding agents (Claude Code, Codex, Cursor, Aider). Indexes repo structure into greppable JSONL, retrieves task-scoped context via BM25 with optional local embeddings, and tracks staleness via source hashes. No LLM calls, no server. Apache-2.0.
+- **[Codex How To](https://github.com/Phelan164/codex-howto)** – Engineering-first OpenAI Codex guide with nine installable skills, measurable development and review loops, orchestration patterns, and a review-first Living Wiki.
 
 ---
 
