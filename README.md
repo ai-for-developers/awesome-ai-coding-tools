@@ -138,7 +138,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
-- **[Lifeboat](https://github.com/noah-thing/lifeboat)** – Failover for coding agents: when Claude Code hits a rate limit, ban, or outage, hands the task to Aider, OpenCode, or a local Ollama model, carrying context. Multi-provider and local resilience, not account evasion. Open-source (MIT).
 
 ---
 
@@ -311,7 +310,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Receipt](https://github.com/noah-thing/receipt)** – Posts an itemized AI cost comment (tokens and dollars by model) on every pull request; tracks Claude Code, Cursor, Copilot, Aider, and any OpenAI/Anthropic API. Local ledger, never stores prompts. Open-source (MIT).
+- **[Vox](https://github.com/aasis21/vox)** – Hands-free voice extension for the GitHub Copilot CLI; speak your turn and hear the reply streamed aloud. Pure JS, no build, one-line install; also runs in the Copilot app. Open source (MIT).
 
 ---
 
