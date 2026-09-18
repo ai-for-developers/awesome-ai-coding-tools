@@ -138,6 +138,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[AIPM](https://www.aipm-registry.com/)** – Open-source CLI and registry for finding, installing, publishing, and managing reusable agent skills across Cursor, Claude Code, and Codex.
 
 ---
 
@@ -266,6 +267,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
 - **[Repowise](https://github.com/repowise-dev/repowise)** - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.
+- **[ReadMeAI](https://readmeai-six.vercel.app/)** – Generate professional README.md files from any GitHub repo URL with AI. Includes description, installation, usage, and contributing sections. Free, instant.
 
 ---
 
@@ -307,6 +309,10 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Usage HUD](https://hud.thaliabloom.com)** – Native macOS menu-bar meter for Claude Code, Codex, Gemini, Grok, and Ollama usage windows. Confidence label on every number. Local only. $9. If CodexBar already works for you, you do not need this.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
+
+- **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
+- **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[AIPM](https://www.aipm-registry.com/)** – Open-source registry and CLI for publishing, versioning, and installing reusable AI skills across Codex, Claude Code, and Cursor.
 
 ---
 
