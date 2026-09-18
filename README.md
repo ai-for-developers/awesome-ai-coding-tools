@@ -217,6 +217,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)** - AI-powered GitHub Pull Request code review using MiniMax models.
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
+- **[MealMacroAI](https://www.mealmacroai.com)** – AI-powered reverse macro calculator that converts target nutrition into precise raw and cooked food portion weights.
 
 ---
 
@@ -266,6 +267,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[GPTutor](https://gptutor.tools/)** – VS Code extension for LLM-powered code explanations across 120+ languages.
 - **[Repowise](https://github.com/repowise-dev/repowise)** - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, auto-generated docs, and architectural decisions via 7 MCP tools.
 - **[SwarmVault](https://github.com/swarmclawai/swarmvault)** – Local-first RAG knowledge vault. Compiles raw sources into a durable markdown wiki with a knowledge graph and hybrid SQLite FTS plus embeddings. Built-in MCP server for Claude Code, Codex, and OpenCode.
+- **[ReadMeAI](https://readmeai-six.vercel.app/)** – Generate professional README.md files from any GitHub repo URL with AI. Includes description, installation, usage, and contributing sections. Free, instant.
 
 ---
 
@@ -306,6 +308,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 - **[claudescope](https://fervon.dev/claudescope/)** – Local-first CLI (`npx claudescope`) that indexes your local Claude Code session transcripts (`.claude/projects/*.jsonl`) into a searchable dashboard with full-text search across your coding-session history. Zero dependencies, zero network calls — fully private and offline. MIT licensed.
+
+- **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
+- **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
 
 ---
 
@@ -396,6 +401,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+- **[AccInt](https://github.com/maxbaluev/accreted-intelligence)** – Local-first learning substrate + MCP server for Claude Code, Codex, OpenCode, and Cursor. Builds a Work Model from what actually worked (graded by real outcomes) and predicts the better path, so the same job gets faster and lands better every run.
 
 ---
 
