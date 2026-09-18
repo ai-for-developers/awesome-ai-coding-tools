@@ -187,6 +187,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[tldraw Make Real](https://makereal.tldraw.com/)** – Draw UI wireframes on a canvas and convert them to working HTML/CSS with AI.
 - **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** – Open-source framework for building custom AI copilots, chatbots, and text areas into React apps.
 - **[Freepik](https://www.freepik.com/)** – AI design platform with image generation and mockup tools for UI designers.
+- **[ux-skill](https://github.com/Laith0003/ux-skill)** - Open-source design-intelligence engine that turns a brief into a full design system, generates branded frontend code, and lints it with a deterministic anti-AI-slop checker that catches generic tells like gradient heroes and equal-card rows. Runs offline with no LLM call. Available as a Claude Code plugin, a Python package, and an MCP server.
 
 ---
 
