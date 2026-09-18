@@ -123,6 +123,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## CLI Tools
 
+- [Prismfy Wizard](https://github.com/prismfy/prismfy-wizard) — CLI that installs persistent live web search rules into local AI agent workflows by adding a `prismfy-search` command and managed search-policy blocks to agent instruction files.
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's terminal agent with sandboxed code execution.
