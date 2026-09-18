@@ -307,6 +307,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
+- **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
 
 ---
 
