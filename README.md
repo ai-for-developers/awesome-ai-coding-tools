@@ -475,6 +475,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Monitor Token](https://github.com/a596480606/monitor_token)** – Open-source Windows/macOS desktop widget for local Codex token usage, daily/weekly/monthly breakdowns, and weekly quota reset tracking.
 - **[NestMux](https://nestmux.com)** – Desktop workspace for Windows, macOS and Linux that runs Claude Code, Codex, Gemini, Copilot and OpenCode side by side in a resizable pane grid, each pane with its own account and isolated HOME. Includes git worktrees, an integrated diff viewer, MCP server management and shared team workspaces. Free tier available.
 - **[Mydentify AI Model Cost Calculator](https://mydentify.com/tools/ai-model-cost-calculator)** – Local-first, no-signup calculator for estimating monthly AI model API costs from token usage, cached input, requests, and fixed per-request charges.
+- **[LWC](https://github.com/JanYork/llm-wiki-cli)** – Open-source proactive project-memory CLI for AI coding agents, with source-grounded durable knowledge, SQLite/FTS5 retrieval, atomic updates, optional document/code graphs, and MCP/Skill/Hook integration across supported tools.
 
 ---
 
