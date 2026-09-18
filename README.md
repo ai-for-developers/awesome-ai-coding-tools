@@ -531,6 +531,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
 - **[Agentprobe](https://agentprobe.fly.dev/)** – Free agentic commerce readiness scorer. Probes any URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog API, quote API, checkout, payment rails, fulfillment proof) and returns a 0–110 score with a CERTIFIED badge. MCP server available at /mcp.
 - **[AI Agent Safety Starter Pack](https://github.com/el-zachariah/ai-agent-safety-starter-pack)** – Free repo preflight scanner for Claude Code, Codex, Cursor, and other AI coding-agent runs that flags agent instructions, MCP config, risky shell patterns, package scripts, and secret-adjacent files before tool access.
+- **[gate.cat](https://github.com/BGMLAI/gate.cat)** – Deterministic, fail-closed action veto for AI coding agents that blocks irreversible shell commands (rm -rf, DROP TABLE, terraform destroy) and secret exfiltration before they run, with no LLM in the veto path. Works as a Claude Code hook, a gated shell for any CLI agent, or a local OpenAI-API proxy.
 
 ---
 
