@@ -493,6 +493,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Vibe-Coding Prompt Template](https://github.com/KhazP/vibe-coding-prompt-template)** – Five-step planning workflow (deep research, PRD, tech design, `AGENTS.md`, build) with an `npx vibeworkflow` CLI that interviews you and writes the docs your coding agent reads. Free and MIT licensed.
 - **[sol-simplify](https://github.com/MongLong0214/sol-simplify)** – One-markdown-file skill for Claude Code and Codex that stops agents from inventing bureaucracy (approval gates, governance docs, validators for the validators) around their own work. Measured on gpt-5.6-sol: ceremony scored 0 in 10 of 11 benchmark skill runs vs 4-6 for baselines, every score cited to a line in committed raw output.
 - **[PM Skills](https://github.com/mohitagw15856/pm-claude-skills)** – Open-source (MIT) library of 1,153 Agent Skills as plain-markdown `SKILL.md` files, covering PRDs, incident postmortems, code review checklists, RFCs, and 35 professions. Installs into Claude Code, Cursor, Windsurf, Zed and 10 more tools with one command, ships an MCP server, and runs free in a browser playground. Install: `npx pm-claude-skills add`.
+- **[Agent Operator Score](https://github.com/MongLong0214/agent-operator-score)** – Local-first CLI (`aos`) that scores how well you operate Claude Code, Codex, and Grok CLI from your own session transcripts, plus a controlled-run assessment suite with a hidden verifier. No model calls in review mode; nothing leaves your disk.
 
 ---
 
