@@ -623,6 +623,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[PAPI](https://getpapi.ai/?utm_source=awesome-ai-coding-tools&utm_medium=referral&utm_campaign=directory-blitz-2026-07)** – MCP server that adds project management to any AI coding tool: plan/build/review cycles, decision memory, and structured build handoffs that persist across sessions, tools, and teammates. Works with Claude Code, Cursor, Windsurf, Lovable, and ChatGPT. Free.
 - **[Entroly](https://github.com/juyterman1000/entroly)** – Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts. Apache-2.0.
 - **[terminal-mcp](https://github.com/elleryfamilia/terminal-mcp)** – MCP server that gives AI assistants a shared view of your terminal session. Debug CLIs and TUI apps in real-time or let agents drive terminal-based tools autonomously. Works with Claude Code, Codex, Cursor, opencode, and Copilot.
+- **[ContextStream](https://contextstream.io)** – Shared project context for Cursor, Claude Code, Codex, Grok, and the rest. Intelligence isn’t the bottleneck. Context is. Remote MCP: https://mcp.contextstream.io/mcp.
 
 ---
 
