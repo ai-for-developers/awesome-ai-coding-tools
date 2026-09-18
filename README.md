@@ -138,7 +138,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
-- **[Vibe Creating](https://github.com/Alisa0808/vibe-creating-skill)** – Open-source bilingual (EN/中文) Claude Agent Skill that rewrites a rough idea or over-specified shot script into a model-ready text-to-video prompt (Seedance 2.0, Kling, Veo, Hailuo, Wan, Vidu). Install via `npx`. Free, MIT.
 
 ---
 
@@ -306,11 +305,12 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CronAI](https://cronai-nu.vercel.app/)** – Convert plain English schedule descriptions to cron expressions with AI. Supports standard and extended formats. Free, no signup.
 - **[JSONFix](https://jsonfix-lake.vercel.app/)** – AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or unescaped characters. Free, no signup.
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
+
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
-- **[Vestige](https://github.com/samvallad33/vestige)** – Local-first MCP memory server for AI coding agents, with SQLite storage, retention-aware retrieval, provenance/correction tools, and a 3D dashboard.
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[Vestige](https://github.com/samvallad33/vestige)** – Local-first MCP memory server for AI coding agents, with SQLite storage, retention-aware retrieval, provenance/correction tools, and a 3D dashboard.
 
 ---
 
