@@ -315,6 +315,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## AI Frameworks and SDKs
 
+- **[A3M Router](https://github.com/Das-rebel/a3m-router)** – Open-source LLM router & AI gateway with parallel multi-LLM execution. 47+ providers, 62% cost savings, 99.5% routing accuracy, semantic cache, circuit breaker. 19.5 KB, zero ML dependencies. 
 - **[LangChain](https://www.langchain.com/)** – The most popular framework for building LLM-powered applications with chains, agents, and retrieval.
 - **[LlamaIndex](https://www.llamaindex.ai/)** – Data framework for connecting LLMs to external data sources with indexing and retrieval.
 - **[Vercel AI SDK](https://sdk.vercel.ai/)** – TypeScript toolkit for building AI-powered UIs with streaming, tool calling, and multi-provider support.
