@@ -288,6 +288,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Swarm Orchestrator](https://github.com/moonrunnerkc/swarm-orchestrator)** – Audits AI-generated pull requests for eleven cheat patterns (relaxed tests, swallowed errors, fake renames). Advisory by default, opt-in merge gate.
 - **[Git AutoReview](https://gitautoreview.com)** – VS Code extension for pull request review on GitHub, GitLab, and Bitbucket, including self-hosted Server and Data Center. You pick Claude, Gemini, or GPT, then approve each suggestion before it posts. Runs on your own API key, so code goes straight to the provider.
 - **[argot](https://github.com/get-tmonier/argot)** – Guardrail that flags AI-written code foreign to a repo's own patterns (unfamiliar deps and APIs, reinvented functions, misplaced code, layering breaks, tests gamed to pass CI), learned statistically from git history. Runs 100% local as a single Rust binary, no second LLM.
+- **[MergeFix](https://mergefix.com)** – AI website audits (SEO, performance, accessibility, security) delivered as real GitHub pull requests, plus a Migrate & Own flow to move an AI-built app into a repo you fully own.
 
 ---
 
