@@ -118,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[Waveloom](https://github.com/Menfre01/waveloom)** – Go terminal-native coding agent with Bubble Tea TUI, DeepSeek V4 prompt caching, and Claude Code-compatible UX.
 
 ---
 
@@ -138,7 +139,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
-- **[patina](https://github.com/devswha/patina)** – Multilingual CLI and agent skill that audits and rewrites AI-sounding writing patterns while preserving claims, numbers, polarity, and causation.
 
 ---
 
