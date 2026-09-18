@@ -309,8 +309,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[AI Context Linter](https://github.com/MrDwarf7/ai-context-linter)** – GitHub Action that lints AI context files (CLAUDE.md, AGENTS.md, etc.) for prompt injection vulnerabilities and quality issues.
-- **[AI Context Templates](https://github.com/MrDwarf7/ai-context-templates)** – Production-ready AI agent context templates for configuring coding assistants like Claude Code, Cursor, and others.
 
 ---
 
@@ -382,9 +380,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Supabase AI](https://supabase.com/ai)** – AI for database schema generation, query optimization, and API development.
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
-- **[Omnigraph](https://github.com/ModernRelay/omnigraph)** – Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[Omnigraph](https://github.com/ModernRelay/omnigraph)** – Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 
 ---
 
