@@ -242,7 +242,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Rainforest QA](https://www.rainforestqa.com/)** – AI-assisted testing with crowd-sourced manual testing.
 - **[Codeflash](https://www.codeflash.ai/)** – AI-powered Python performance optimization and benchmarking.
 - **[Wopee.io](https://wopee.io)** – Autonomous visual regression testing with Playwright/Cypress integration.
-- **[Prompt Evaluator](https://prompt-evaluator.vercel.app)** – Web-based prompt and workflow QA tool. Evaluate, compare, and audit AI prompt outputs and workflow quality.
 
 ---
 
@@ -310,6 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[AgentDiff](https://github.com/codeprakhar25/agentdiff)** – Git-native provenance for AI-written code: records which AI agent (Claude Code, Cursor, Copilot, Codex, Windsurf, OpenCode, Gemini) wrote which line, reconciles it against each commit, and signs every attribution with ed25519. Records live in your own git refs; no server. Rust, MIT/Apache-2.0.
 
 ---
 
