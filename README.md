@@ -360,6 +360,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[StarCoder 2](https://huggingface.co/bigcode/starcoder2-15b)** – Open-source LLM for code generation by BigCode, supporting 600+ languages.
 - **[Codestral](https://mistral.ai/news/codestral)** – Mistral's open-weight model designed for code generation.
 - **[Phi-4 (Microsoft)](https://www.microsoft.com/en-us/research/blog/phi-4-technical-report/)** – Microsoft's lightweight, efficient model family with strong coding performance.
+- **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** – Delegates coding grunt-work to other harnesses and models from the terminal while your main session stays the orchestrator.
 
 ---
 
@@ -512,6 +513,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Kuberns](https://kuberns.com/)** – Agentic AI deployment platform that auto-detects tech stacks, provisions infrastructure, and deploys applications from GitHub repositories with zero configuration.
 - **[DownForAI](https://downforai.com/)** – Real-time status monitoring for 800+ AI services including ChatGPT, Claude, Gemini, Midjourney, and Groq. Tracks uptime, latency, and community outage reports.
 - **[KubeStellar Console](https://github.com/kubestellar/console)** – Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) enabling AI coding agents to query and manage clusters via natural language.
+- **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** – Context and token-cost optimizer for AI coding agents. Finds wasted "ghost tokens," survives compaction, and reduces context-quality decay, with native plugins for Claude Code, Codex, OpenCode, and OpenClaw.
 
 ---
 
@@ -536,6 +538,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agentprobe](https://agentprobe.fly.dev/)** – Free agentic commerce readiness scorer. Probes any URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog API, quote API, checkout, payment rails, fulfillment proof) and returns a 0–110 score with a CERTIFIED badge. MCP server available at /mcp.
 - **[AI Agent Safety Starter Pack](https://github.com/el-zachariah/ai-agent-safety-starter-pack)** – Free repo preflight scanner for Claude Code, Codex, Cursor, and other AI coding-agent runs that flags agent instructions, MCP config, risky shell patterns, package scripts, and secret-adjacent files before tool access.
 - **[gate.cat](https://github.com/BGMLAI/gate.cat)** – Deterministic, fail-closed action veto for AI coding agents that blocks irreversible shell commands (rm -rf, DROP TABLE, terraform destroy) and secret exfiltration before they run, with no LLM in the veto path. Works as a Claude Code hook, a gated shell for any CLI agent, or a local OpenAI-API proxy.
+- **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** – Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; detects prompt injection, credential theft, and manifest drift.
 
 ---
 
