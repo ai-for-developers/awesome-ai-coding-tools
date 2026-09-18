@@ -218,6 +218,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
 - **[MealMacroAI](https://www.mealmacroai.com)** – AI-powered reverse macro calculator that converts target nutrition into precise raw and cooked food portion weights.
+- **[argot](https://github.com/get-tmonier/argot)** – Guardrail that flags AI-written code foreign to a repo's own patterns (unfamiliar deps and APIs, reinvented functions, misplaced code, layering breaks, tests gamed to pass CI), learned statistically from git history. Runs 100% local as a single Rust binary, no second LLM.
 
 ---
 
@@ -252,7 +253,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Pieces.app](https://pieces.app/)** – AI-powered code snippet management, search, and sharing.
 - **[16x Prompt](https://prompt.16x.engineer/)** – AI tool for enhanced code context and prompt-based navigation.
 - **[codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill)** – AI coding agent skill that analyzes git history to reveal hotspots, bug magnets, bus factor risks, and development momentum before reading any code.
-- **[ctx-optimize](https://github.com/muthuishere/ctx-optimize)** – Deterministic code knowledge-graph CLI that indexes a repo with tree-sitter so a coding agent can query symbols, callers, callees, and change impact instead of grep-and-read; no LLM at query time, no database, runs offline.
 
 ---
 
