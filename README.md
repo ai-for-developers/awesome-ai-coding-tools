@@ -138,7 +138,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
-- **[AIPM](https://www.aipm-registry.com/)** – Open-source CLI and registry for finding, installing, publishing, and managing reusable agent skills across Cursor, Claude Code, and Codex.
 
 ---
 
@@ -310,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[AIPM](https://www.aipm-registry.com/)** – Open-source registry and CLI for publishing, versioning, and installing reusable AI skills across Codex, Claude Code, and Cursor.
+- **[Usage HUD](https://hud.thaliabloom.com)** – Native macOS menu-bar meter for Claude Code, Codex, Gemini, Grok, and Ollama usage windows. Confidence label on every number. Local only. $9. If CodexBar already works for you, you do not need this.
 
 ---
 
