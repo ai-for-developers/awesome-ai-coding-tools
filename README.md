@@ -311,7 +311,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Vox](https://github.com/aasis21/vox)** – Hands-free voice extension for the GitHub Copilot CLI; speak your turn and hear the reply streamed aloud. Pure JS, no build, one-line install; also runs in the Copilot app. Open source (MIT).
 
 ---
 
