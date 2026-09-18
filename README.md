@@ -199,6 +199,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Qodo (CodiumAI)](https://www.qodo.ai/)** – Code review and automated test generation platform.
 - **[Sweep](https://github.com/sweepai/sweep)** – AI agent for automating PR reviews and fixes.
 - **[Greptile](https://greptile.com/code-review-bot)** – AI bot for in-depth code review and PR analysis.
+- **[heygrc](https://heygrc.com)** - GitHub App that reviews pull requests against compliance frameworks (ISO 27001, SOC 2, GDPR, EU AI Act, and more), cites the control clause, and says what to fix. Public repositories always free. By ISMS Copilot.
 - **[What The Diff](https://whatthediff.ai/)** – AI tool for summarizing and analyzing code diffs.
 - **[DeepSource](https://deepsource.io/)** – Automated code review with tech debt tracking and security analysis.
 - **[Codacy](https://www.codacy.com/)** – Code quality platform with 30+ language support.
