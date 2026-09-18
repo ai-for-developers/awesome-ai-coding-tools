@@ -500,6 +500,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[PM Skills](https://github.com/mohitagw15856/pm-claude-skills)** – Open-source (MIT) library of 1,153 Agent Skills as plain-markdown `SKILL.md` files, covering PRDs, incident postmortems, code review checklists, RFCs, and 35 professions. Installs into Claude Code, Cursor, Windsurf, Zed and 10 more tools with one command, ships an MCP server, and runs free in a browser playground. Install: `npx pm-claude-skills add`.
 - **[Agent Operator Score](https://github.com/MongLong0214/agent-operator-score)** – Local-first CLI (`aos`) that scores how well you operate Claude Code, Codex, and Grok CLI from your own session transcripts, plus a controlled-run assessment suite with a hidden verifier. No model calls in review mode; nothing leaves your disk.
 - **[Agent Coordinator](https://github.com/alanhoff/agent-coordinator)** – Per-user Codex skill that represents dependency-aware tasks as bounded work graphs, records revisioned local state, reconciles uncertain work before retry, reruns planned checks at closeout, and can use optional specialists or run inline. Free and open source (MIT).
+- **[Meanwhile](https://github.com/heenatrivedi321-max/deadtime)** – Claude Code/Cursor/Copilot/VS Code status line that shows a genuinely useful tip, or an occasional disclosed sponsor line, while the agent works. Sponsor earnings are split 50/50 with the developer, paid via PayPal. Never reads code or prompts. Free and open source.
 
 ---
 
