@@ -397,7 +397,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
-- **[DSH Studio](https://github.com/Moresyl/dsh-studio)** – Open-source cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally.
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
@@ -478,6 +477,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Mydentify AI Model Cost Calculator](https://mydentify.com/tools/ai-model-cost-calculator)** – Local-first, no-signup calculator for estimating monthly AI model API costs from token usage, cached input, requests, and fixed per-request charges.
 - **[LWC](https://github.com/JanYork/llm-wiki-cli)** – Open-source proactive project-memory CLI for AI coding agents, with source-grounded durable knowledge, SQLite/FTS5 retrieval, atomic updates, optional document/code graphs, and MCP/Skill/Hook integration across supported tools.
 - **[MCP Lens](https://github.com/labmimors/dsh-mcp-lens)** – Open-source DeepSeek Harness plugin and GitHub Action for progressive MCP tool discovery; its published 1,000-tool benchmark reduces the model-facing MCP interface from 1,000 schemas to 2 and the component schema JSON from 647,962B to 1,114B.
+- **[DSH Studio](https://github.com/Moresyl/dsh-studio)** – Open-source cross-platform desktop host for installing, running, health-checking, and supervising DeepSeek Harness locally.
 
 ---
 
