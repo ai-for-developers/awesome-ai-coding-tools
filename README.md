@@ -293,7 +293,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)** – AI-driven task management for development with Claude, designed for Cursor.
 - **[SpecStory](https://specstory.com/)** – Cursor/VS Code/Claude Code extension for summarizing and sharing AI chat context.
 - **[Git AI](https://github.com/acunniffe/git-ai)** – Git extension that tracks AI-generated code and the prompts behind each line.
-- **[ditto](https://github.com/ohad6k/ditto)** – Mines your local Claude Code, Codex, and Cursor session logs into a you.md working profile your agent loads before every task: what you reject, what "done" means to you, when you ask for proof, how you actually work. Local-first, MIT, one command: `npx skills add ohad6k/ditto`.
 - **[Perplexity Pro](https://perplexity.ai/pro)** – AI search engine with real-time web access for coding solutions.
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
 - **[Supercode.sh](https://supercode.sh/)** – Cursor extension adding Architect Mode, voice input, and prompt enhancement.
@@ -310,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Composio](https://composio.dev)** – Connects AI coding agents to 1,000+ apps with managed authentication, MCP support, and tool execution for developer workflows.
+- **[ditto](https://github.com/ohad6k/ditto)** – Mines your local Claude Code, Codex, and Cursor session logs into a you.md working profile your agent loads before every task: what you reject, what "done" means to you, when you ask for proof, how you actually work. Local-first, MIT, one command: `npx skills add ohad6k/ditto`.
 
 ---
 
