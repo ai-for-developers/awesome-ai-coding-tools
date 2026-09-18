@@ -219,6 +219,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Mantyl](https://github.com/jopli11/mantyl-cli)** – CLI that turns a repository and its coding-agent history (Claude Code, Codex, Cursor) into a verified, recipient-checkable project passport for handing over AI-built software. Free, MIT.
 - **[Tuff](https://tuffcli.dev)** – Rust-based CLI for managing coding-agent capabilities (skills, tools, hooks, workflows, MCP servers) from a canonical manifest — install, track provenance, catch config drift, and emit harness-specific output for Claude Code, Codex, and others.
 - **[agent-top](https://agenttop.dev)** – Terminal dashboard (`htop`-style) for monitoring multiple coding-agent sessions at once — status, token usage, cost, and associated processes for Claude Code, Codex, Gemini CLI, and more.
+- **[Webcmd](https://github.com/agentrhq/webcmd)** – Self-learning browser infrastructure CLI for coding agents; learns a site once, then reuses it as deterministic per-site commands.
 
 ---
 
