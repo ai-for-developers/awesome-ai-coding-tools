@@ -309,7 +309,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Mneme HQ](https://github.com/TheoV823/mneme)** – Enforce architectural decisions on every AI coding assistant call. Deterministic retrieval and pre-flight governance for Claude Code, Cursor, and agent workflows.
 
 ---
 
@@ -339,7 +338,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## DevOps and Infrastructure
-- **[Kuberns](https://kuberns.com/)** – Agentic AI deployment platform that auto-detects tech stacks, provisions infrastructure, and deploys applications from GitHub repositories with zero configuration.
+
 - **[Datadog](https://www.datadoghq.com/)** – Monitoring and observability with AI-powered insights.
 - **[New Relic](https://newrelic.com/)** – Observability platform with AIOps and anomaly detection.
 - **[PagerDuty](https://www.pagerduty.com/)** – AI-powered incident management and response automation.
@@ -353,6 +352,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
+- **[Kuberns](https://kuberns.com/)** – Agentic AI deployment platform that auto-detects tech stacks, provisions infrastructure, and deploys applications from GitHub repositories with zero configuration.
 
 ---
 
