@@ -76,7 +76,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Refact.ai](https://refact.ai/)** – Open-source AI code completion and refactoring with self-hosting support.
 - **[Continue](https://continue.dev/)** – Open-source, pluggable AI code completion for VS Code and JetBrains.
 - **[Visual Studio IntelliCode](https://visualstudio.microsoft.com/services/intellicode/)** – Microsoft's AI code completion for Visual Studio.
-- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** – Real-time AI code suggestions with security scanning. *(Now part of Amazon Q Developer)*
+- **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** – Real-time AI code suggestions with  scanning. *(Now part of Amazon Q Developer)*
 - **[CodeGeeX](https://codegeex.cn/)** – Open-source multilingual code generation model.
 - **[Supermaven](https://supermaven.com/)** – Ultra-fast completions with 1M token context window.
 
@@ -200,10 +200,10 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sweep](https://github.com/sweepai/sweep)** – AI agent for automating PR reviews and fixes.
 - **[Greptile](https://greptile.com/code-review-bot)** – AI bot for in-depth code review and PR analysis.
 - **[What The Diff](https://whatthediff.ai/)** – AI tool for summarizing and analyzing code diffs.
-- **[DeepSource](https://deepsource.io/)** – Automated code review with tech debt tracking and security analysis.
+- **[DeepSource](https://deepsource.io/)** – Automated code review with tech debt tracking and  analysis.
 - **[Codacy](https://www.codacy.com/)** – Code quality platform with 30+ language support.
 - **[JetBrains Qodana](https://www.jetbrains.com/qodana/)** – AI-powered static analysis for code quality.
-- **[Semgrep](https://semgrep.dev/)** – Static analysis for finding bugs and security issues.
+- **[Semgrep](https://semgrep.dev/)** – Static analysis for finding bugs and  issues.
 - **[CodeQL (GitHub)](https://codeql.github.com/)** – Semantic code analysis for security and quality.
 - **[Snyk (DeepCode)](https://snyk.io/)** – Security-focused code analysis with vulnerability detection.
 - **[Pixee](https://pixee.ai)** – AI bot for security-focused PR reviews and automatic fixes.
@@ -374,6 +374,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Endor Labs](https://www.endorlabs.com/ai-code-security-review)** – AI code review for security risks and architectural vulnerabilities.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)** – AI-automated fuzz testing for C/C++.
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
+- **[Trent Agentic AI security platform](https://trent.ai)** – Continuously assess AI agents, MCP servers, AI-native applications, and code shipped with AI coding tools; trace attack chains; and verify proposed fixes landed.
 
 ---
 
