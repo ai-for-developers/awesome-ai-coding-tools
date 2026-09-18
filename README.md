@@ -85,7 +85,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Coding Agents
 
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
-- **[Browy](https://github.com/BrowyHQ/browy)** – Open-source AI agent for Chrome that drives real browser tabs through chat, with a built-in DevTools CLI terminal for power users. Powered by the GitHub Copilot SDK.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
 - **[Cline (Claude Dev)](https://github.com/cline/cline)** – VS Code extension with full file system access and autonomous coding.
@@ -119,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[Browy](https://github.com/BrowyHQ/browy)** – Open-source AI agent for Chrome that drives real browser tabs through chat, with a built-in DevTools CLI terminal for power users. Powered by the GitHub Copilot SDK.
 
 ---
 
@@ -310,7 +310,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Agent Ops Prompt Generator](https://github.com/mysubb01/agent-ops-prompt-generator)** – Free local-first browser and CLI tool that generates Korean prompts for AI coding agents during incident triage, deploy smoke checks, code review, data correction, and handoff work.
 
 ---
 
