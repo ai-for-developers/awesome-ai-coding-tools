@@ -411,3 +411,4 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[Awesome Cursor Rules](https://github.com/tugkanboz/awesome-cursorrules)** – Curated Cursor Rules in MDC format with nested rules and test automation framework examples.
