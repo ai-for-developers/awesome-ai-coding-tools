@@ -138,6 +138,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[oh-my-kimi](https://github.com/dmae97/oh-my-kimi)** – Multi-agent orchestration harness for Kimi K2.6. Parallel coding teams in git worktrees, DAG scheduling, live quality gates, terminal HUD, and MCP skill-hooks.
 
 ---
 
@@ -310,7 +311,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[agenttrace](https://github.com/luoyuctl/agenttrace)** – Local-first TUI and report generator for AI coding-agent session logs. Tracks cost, tokens, latency, tool failures, health, diffs, and CI gates across Claude Code, Codex CLI, Gemini CLI, Qwen Code, Cline, Cursor exports, Aider, OpenCode/OpenClaw, Kimi CLI, and generic JSON/JSONL traces.
 
 ---
 
