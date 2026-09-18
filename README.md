@@ -411,3 +411,4 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[AI Models Catalog](https://github.com/i-need-token/ai-models)** – Structured database of 4,587+ AI models across 95 providers with pricing, context windows, and capabilities. Interactive catalog with model comparison and price calculator.
