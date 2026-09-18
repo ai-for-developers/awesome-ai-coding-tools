@@ -403,6 +403,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+- **[BuyWhere MCP](https://buywhere.ai)** – AI-powered shopping agent that finds the best prices across 100M+ real merchant products. MCP server for integration with AI coding assistants like Claude and Cursor.
+
 ## Related Lists
 
 - **[AI For Developers](https://aifordevelopers.org)** – Curated directory of AI dev tools.
