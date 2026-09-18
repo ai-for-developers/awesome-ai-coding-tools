@@ -192,6 +192,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[patina](https://github.com/devswha/patina)** – Multilingual CLI and agent skill that audits and rewrites AI-sounding writing patterns while preserving claims, numbers, polarity, and causation.
 - **[Vox Director](https://github.com/Alisa0808/vox-director)** – Agent skill that turns one topic into a finished Vox-style paper-collage explainer/ad video (script, collage art, motion, voice-over, music, captions); runs on Atlas Cloud + ffmpeg. Works with Claude Code, Codex & any SKILL.md agent.
 - **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** – Open-source CLI that exposes a restricted local Claude Code, Codex, or automation as a keyed trusted-LAN capability, with JSON output and meaningful exit codes for agent workflows.
+- **[stepback](https://github.com/Archerkattri/stepback)** – Checkpoint and rewind for any AI coding agent (Claude Code, Codex, aider) via isolated git shadow-refs that never touch your real HEAD, index, or branch, with best-effort conversation resume for Claude Code and Codex.
 
 ---
 
