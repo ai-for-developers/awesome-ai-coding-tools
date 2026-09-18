@@ -166,12 +166,12 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Plandex](https://github.com/plandex-ai/plandex)** – AI tool for planning and generating code from text prompts in the terminal.
 - **[Softr](https://www.softr.io/)** – No-code app builder with AI assistance.
 - **[Databutton](https://databutton.com/)** – AI-powered app development platform.
-- **[VULK](https://vulk.dev)** – AI app builder for full-stack React + PostgreSQL, Flutter mobile, Three.js games, Shopify themes. Firecracker microVM live preview, BYOM with 16+ models, EU-hosted, full code export.
 - **[Builder.io Fusion](https://www.builder.io/)** – AI-powered visual development platform.
 - **[Bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** – Open-source fork of Bolt.new supporting any LLM (local or cloud) for building full-stack apps in the browser.
 - **[Screenshot-to-Code](https://github.com/abi/screenshot-to-code)** – Convert screenshots and designs into clean HTML/React/Vue code using AI.
 - **[Forge](https://forge-web.rebaselabs.online)** – BYOK full-stack app creator — use your own API key (Anthropic, OpenAI, Google) with no markup. Multi-stage pipeline generates production-ready Next.js apps from natural language.
 - **[MeterCall](https://metercall.ai)** – Universal API gateway over 10M+ APIs with AI router across 25+ models. Type a sentence in plain English, get a working app. 727+ ready-made modules to fork. Free tier, usage-based pricing.
+- **[VULK](https://vulk.dev)** – AI app builder for full-stack React + PostgreSQL, Flutter mobile, Three.js games, Shopify themes. Firecracker microVM live preview, BYOM with 16+ models, EU-hosted, full code export.
 
 ---
 
@@ -400,7 +400,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
-- **[ejentum-mcp](https://github.com/ejentum/ejentum-mcp)** – MCP server with reasoning, code, anti-deception, and memory tools for AI agents.
 
 ---
 
