@@ -218,7 +218,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
 - **[MealMacroAI](https://www.mealmacroai.com)** – AI-powered reverse macro calculator that converts target nutrition into precise raw and cooked food portion weights.
-- **[Swarm Orchestrator](https://github.com/moonrunnerkc/swarm-orchestrator)** – Audits AI-generated pull requests for eleven cheat patterns (relaxed tests, swallowed errors, fake renames). Advisory by default, opt-in merge gate.
 
 ---
 
