@@ -154,6 +154,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Ordewell](https://github.com/ordewell/ordewell)** – Plan-first CLI/TUI orchestrator that turns one goal into an ordered plan of coding-agent tasks, each with its own runner (Claude Code, Codex, OpenCode), model, thinking effort and mode — editable before execution, run as one agent session per task, and marked done only when its own completion marker appears in the output. Apache-2.0, free, no paid tier.
 - **[intentic](https://github.com/intentic/intentic)** – Self-hosted workspace that runs Claude Code, Codex, OpenCode, and Gemini CLI agents in parallel, each in its own Docker container and git worktree on hardware you own. Browser and mobile UI, terminals that survive disconnects, an editable sandbox Dockerfile, and per-file, per-hunk diff review before changes land. MIT, TypeScript.
 - **[Dcode](https://github.com/langchain-ai/deepagents)** – The coding agent you own. Open-source, model-agnostic, and built by LangChain to give you maximum control over your software development lifecycle.
+- **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** – Local-first coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer memory system. No account or API key required.
 
 ---
 
@@ -198,6 +199,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Vox Director](https://github.com/Alisa0808/vox-director)** – Agent skill that turns one topic into a finished Vox-style paper-collage explainer/ad video (script, collage art, motion, voice-over, music, captions); runs on Atlas Cloud + ffmpeg. Works with Claude Code, Codex & any SKILL.md agent.
 - **[OpenAgentRelay](https://github.com/ShakespeareLabs/open-agent-relay)** – Open-source CLI that exposes a restricted local Claude Code, Codex, or automation as a keyed trusted-LAN capability, with JSON output and meaningful exit codes for agent workflows.
 - **[stepback](https://github.com/Archerkattri/stepback)** – Checkpoint and rewind for any AI coding agent (Claude Code, Codex, aider) via isolated git shadow-refs that never touch your real HEAD, index, or branch, with best-effort conversation resume for Claude Code and Codex.
+- **[Atomic Agent](https://atomicagent.io/)** – Open-source CLI and TUI coding assistant (React + ink) that runs open-weight models entirely on your machine. Install with one curl command, no account or API key required. macOS, Linux, and Windows.
 
 ---
 
@@ -501,6 +503,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[llamafile](https://github.com/Mozilla-Ocho/llamafile)** – Mozilla project that packages LLMs into single executable files that run anywhere.
 - **[LocalAI](https://localai.io/)** – Open-source OpenAI-compatible API for running models locally without GPU.
 - **[Diffron](https://github.com/Tetramatrix/diffron)** – Git commit message and PR description generator using AMD Lemonade via lemonade-python-sdk. 
+- **[Atomic Agent](https://atomicagent.io/docs)** – Terminal coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with agentic tool use and local memory built in.
 
 ---
 
