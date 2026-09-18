@@ -187,6 +187,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[tldraw Make Real](https://makereal.tldraw.com/)** – Draw UI wireframes on a canvas and convert them to working HTML/CSS with AI.
 - **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** – Open-source framework for building custom AI copilots, chatbots, and text areas into React apps.
 - **[Freepik](https://www.freepik.com/)** – AI design platform with image generation and mockup tools for UI designers.
+- **[StyleSeed](https://github.com/bitjaru/styleseed)** – Design engine that makes Claude Code & Cursor produce professional UI — 33 components, 69 design rules, 8 brand skins, and a named framer-motion motion system.
 
 ---
 
@@ -218,7 +219,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
 - **[MealMacroAI](https://www.mealmacroai.com)** – AI-powered reverse macro calculator that converts target nutrition into precise raw and cooked food portion weights.
-- **[brooks-lint](https://github.com/hyhmrright/brooks-lint)** – Claude Code plugin that reviews code against twelve classic engineering books, citing each finding to its source and scoring codebase health 0–100.
 
 ---
 
