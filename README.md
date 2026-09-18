@@ -341,7 +341,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Datadog](https://www.datadoghq.com/)** – Monitoring and observability with AI-powered insights.
 - **[New Relic](https://newrelic.com/)** – Observability platform with AIOps and anomaly detection.
-- **[Middleware](https://middleware.io/)** – Full stack observability platform with AI SRE Agent. 
 - **[PagerDuty](https://www.pagerduty.com/)** – AI-powered incident management and response automation.
 - **[Harness](https://harness.io/)** – AI-powered CI/CD with intelligent deployments and automated rollbacks.
 - **[GitLab AI](https://about.gitlab.com/solutions/artificial-intelligence/)** – Integrated AI across GitLab for code suggestions, security scanning, and workflows.
@@ -353,6 +352,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
+- **[Middleware](https://middleware.io/)** – Full stack observability platform with AI SRE Agent. 
 
 ---
 
@@ -374,7 +374,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Endor Labs](https://www.endorlabs.com/ai-code-security-review)** – AI code review for security risks and architectural vulnerabilities.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)** – AI-automated fuzz testing for C/C++.
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
-- **[Agentprobe](https://agentprobe.fly.dev/)** – Free agentic commerce readiness scorer. Probes any URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog API, quote API, checkout, payment rails, fulfillment proof) and returns a 0–110 score with a CERTIFIED badge. MCP server available at /mcp.
 
 ---
 
