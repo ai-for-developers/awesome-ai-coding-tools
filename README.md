@@ -65,6 +65,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+- [Reado](https://github.com/WatermelonBros/reado) - A read-first, cross-platform code IDE (Tauri) built around AI agents: you review and annotate code with durable comments, and an external agent (Claude Code, Codex) resolves each.
 ## Code Completion
 
 - **[GitHub Copilot](https://github.com/features/copilot)** – Industry-standard AI code completion across IDEs.
