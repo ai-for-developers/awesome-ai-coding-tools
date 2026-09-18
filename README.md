@@ -160,6 +160,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Keen Code](https://github.com/mochow13/keen-code)** – An open-source, context-aware terminal-based coding agent written in Go. Supports multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, hashline edits, and more.
 - **[Derivative](https://github.com/Daniele-Cangi/Derivative)** – Open-source AI-assisted engine for greenfield requirement-to-software synthesis with typed requirement preservation, isolated execution, independent evidence-based validation, bounded repair, and fail-closed packaging.
 - **[mix2](https://github.com/elleryfamilia/mix2)** – Terminal app that turns two coding agents into one team. One question, both investigate independently, disagreements are disclosed, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI.
+- **[Superagent](https://github.com/pungme/superagent-desktop)** – Open-source macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 
 ---
 
