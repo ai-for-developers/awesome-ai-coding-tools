@@ -307,11 +307,10 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
-- **[NotFair](https://github.com/nowork-studio/NotFair)** – Open-source (MIT) Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, manage campaigns, optimize meta tags and schema markup, and research keywords directly from Claude Code.
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[app-it](https://github.com/Christian-Katzmann/app-it)** – Open-source (MIT) Claude Code / Codex skill that turns a local web project into an installed, Dock-launchable macOS desktop app — native WebKit window, app icon, and clean start/stop — without Electron or Tauri. Local-only, no telemetry; Windows in beta.
+- **[NotFair](https://github.com/nowork-studio/NotFair)** – Open-source (MIT) Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars). Connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP to run audits, manage campaigns, optimize meta tags and schema markup, and research keywords directly from Claude Code.
 
 ---
 
