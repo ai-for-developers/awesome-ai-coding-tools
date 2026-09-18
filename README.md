@@ -406,6 +406,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Related Lists
 
 - **[AI For Developers](https://aifordevelopers.org)** – Curated directory of AI dev tools.
+- **[AI Coding Tools Guide](https://ai-coding-tools-guide.vercel.app/cursor-alternatives/)** – Practical comparisons for Cursor alternatives, Claude Code workflows, MCP servers, and developer workflow decisions.
 - **[Awesome Vibe Coding](https://github.com/ai-for-developers/awesome-vibe-coding)** – Tools and resources for vibe coding.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)** – General AI tools for various applications.
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
