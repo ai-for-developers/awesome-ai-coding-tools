@@ -164,7 +164,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sinatra](https://sinatra.dev)** – Coding agent for Linear and GitHub issues; runs in an isolated sandbox, opens a PR, and runs on your Claude or ChatGPT subscription.
 - **[VibeFuse](https://fuseintelligence.org/products/vibefuse)** – Free Windows desktop harness that runs Claude Code, Codex, Gemini, Cursor, and Qwen as live widgets on one canvas, with a marketplace for selling AI skills and widgets (sellers keep 80%).
 - **[Nexus-Agent](https://github.com/parkain707/nexus-agent)** – Open-source autonomous AI software engineering agent featuring dual-engine UX (Rich TUI + Cyberpunk Web Visualizer) and self-healing AST code engine.
-
 - **[TaskHandoff](https://docs.thandoff.com/)** – Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines, with per-task workspace isolation, a diff review gate before changes land in your repository, and multi-agent handoff to a human reviewer.
 
 ---
