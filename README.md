@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[ccg-router](https://github.com/XZXY-AI/ccg-router)** – Local Go daemon proxying Claude Code (Anthropic-compatible `/v1/messages`) and Codex CLI (OpenAI-compatible `/v1/chat/completions`) through one port, with a per-request SQLite usage ledger and three routing strategies (prefer-cheaper, prefer-capable, round-robin). No hosted control plane; provider keys stay local. Apache-2.0.
+- **[Agent Ops Prompt Generator](https://github.com/mysubb01/agent-ops-prompt-generator)** – Free local-first browser and CLI tool that generates Korean prompts for AI coding agents during incident triage, deploy smoke checks, code review, data correction, and handoff work.
 
 ---
 
