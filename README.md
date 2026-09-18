@@ -644,6 +644,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[ContextStream](https://contextstream.io)** – Shared project context for Cursor, Claude Code, Codex, Grok, and the rest. Intelligence isn’t the bottleneck. Context is. Remote MCP: https://mcp.contextstream.io/mcp.
 - **[screenpipe](https://screenpipe.com/)** – Local-first workflow memory for AI agents. Captures screen, audio, and app context on-device so Claude, Codex, and other agents can search real work history via MCP and API. Open-source.
 - **[Markovo](https://github.com/fisher-byte/markovo)** – Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) into clean, structured Markdown for agent context. Remote MCP endpoint with OAuth 2.1 (`https://markovo.net/mcp`) plus local stdio server sandboxed to a dedicated root; free tier included.
+- **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** – MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 
 ---
 
