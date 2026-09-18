@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[llm-prices](https://github.com/benbencodes/llm-prices)** – Zero-dependency Python CLI and library for comparing LLM API pricing across 21 providers (123+ models). Query pricing, calculate costs, find the cheapest option for a given token budget. Install: `pip install git+https://github.com/benbencodes/llm-prices.git` or `brew install benbencodes/tap/llm-prices`. Open-source, MIT license.
+- **[Mneme HQ](https://github.com/TheoV823/mneme)** – Enforce architectural decisions on every AI coding assistant call. Deterministic retrieval and pre-flight governance for Claude Code, Cursor, and agent workflows.
 
 ---
 
