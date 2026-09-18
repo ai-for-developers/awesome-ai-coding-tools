@@ -314,6 +314,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[agent-qa](https://github.com/vostride/agent-qa)** – Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection.
 - **[AIFast Model Check](https://docs.aifast.hk/model-check/)** – Free browser-based diagnostics for public HTTPS OpenAI-compatible API endpoints, including metadata, token handling, dynamic responses, SSE streaming, and tool-call checks.
 - **[SDKProof](https://sdkproof.dev)** – Type-checks how well AI writes your SDK's current API by compiling model output against the real installed package (no LLM judge).
+- **[QualityMax](https://qualitymax.io/)** – Independent AI QA platform that generates, executes, and gates tests across web, mobile, API, performance, and security, with self-healing automation.
 
 ---
 
