@@ -142,7 +142,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## App Builders
-
+- [Adios](https://www.adios.dev/) - AI workspace for building, previewing, reviewing, and deploying full-stack applications.
 - **[Bolt.new](https://bolt.new)** – Build, edit, and deploy full-stack web apps in the browser using natural language with one-click deployment.
 - **[Lovable](https://lovable.dev/)** – Create and deploy web apps from a single prompt in a browser tab.
 - **[Replit](https://replit.com/)** – Cloud IDE with AI agent for building complete applications from descriptions.
