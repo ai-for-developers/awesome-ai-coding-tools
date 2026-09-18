@@ -400,6 +400,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+- **[RemoteOpenClaw](https://remoteopenclaw.com/)** – Searchable directory of 13,000+ MCP servers plus agent skills and plugins for Claude Code, Codex, OpenClaw, and Hermes Agent. Public read API, installable MCP server, and `npx remoteopenclaw` CLI.
 
 ---
 
