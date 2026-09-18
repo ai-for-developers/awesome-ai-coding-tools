@@ -303,6 +303,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[argot](https://github.com/get-tmonier/argot)** – Guardrail that flags AI-written code foreign to a repo's own patterns (unfamiliar deps and APIs, reinvented functions, misplaced code, layering breaks, tests gamed to pass CI), learned statistically from git history. Runs 100% local as a single Rust binary, no second LLM.
 - **[MergeFix](https://mergefix.com)** – AI website audits (SEO, performance, accessibility, security) delivered as real GitHub pull requests, plus a Migrate & Own flow to move an AI-built app into a repo you fully own.
 - **[UIZZE](https://uizze.com/)** – Stop generic UI before it ships. The free MIT `anti-ui-slop` Skill gives coding agents a product-specific design contract, required loading/empty/error states, and a hard finish gate. The optional authenticated MCP provides `find_ui_references` and `find_ui_materials` over 800,000+ real web and iOS screens.
+- **[OrcaCode Review](https://github.com/Continuum-AI-Corp/orca-code-review)** – GitHub Action for AI pull request review that posts findings inline on the affected lines and blocks merges on critical severity.
 
 ---
 
