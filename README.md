@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Enola](https://enola.tech)** – Enola. analyzes code repository once and exposes a compact, structured graph of its architecture through the Model Context Protocol — so any MCP-capable agent gets necessary context.
+- **[Project Tiny Context Harness](https://github.com/Seven128/project-tiny-context-harness)** – Minimal repo-native project memory for AI coding agents. Installs `AGENTS.md`, `project_context/**`, role Skills, and a `validate-context` gate so fresh Codex, Claude Code, Cursor, Gemini CLI, OpenCode, and similar sessions can recover project intent, boundaries, and validation paths.
 
 ---
 
