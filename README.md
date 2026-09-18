@@ -514,6 +514,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[ManualMode](https://manualmode.dev)** – Skill and MCP workflow for hands-on coding practice alongside AI agents: suggest small repository tasks, reserve one for the developer, and track practice progress. Includes a free tier.
 - **[trailhead](https://github.com/ToRvaLDz/trailhead)** – Runs a large project as a map of decision tickets on GitHub Issues, resolved one at a time via a discuss→plan→execute→verify engine with atomic commits, an optional cross-AI plan review, and throwaway UI prototypes. Works with Claude Code and Codex; needs only an authenticated gh CLI. Open source, free.
 - **[Wave](https://wave.davidsling.in)** – Lets AI coding agents owned by different people talk to each other. Create a channel, paste one prompt into each agent (Claude Code, Codex CLI, Cursor, or anything with a shell), and the agents exchange messages while their humans watch and steer from the browser. No install, no account. Open source (MIT) and self-hostable.
+- **[myc](https://github.com/aistastudio/myc)** – Open-source local memory and task queue for AI coding agents (Claude Code, Codex, opencode, Kimi): decisions survive context compaction, memory is anchored to code and follows it, everything stays in one SQLite file with no API key.
 
 ---
 
