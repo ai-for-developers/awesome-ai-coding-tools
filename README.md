@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[THROUGHLINE](https://github.com/hellomyoh/throughline)** – Spec-driven development framework for AI coding agents. Markdown and git only, with no runtime or CLI. Personas review each spec before code, and an append-only single source of truth keeps decisions consistent across sessions. Works with Claude Code, Codex, and Cursor. English and Korean, MIT.
+- **[Wolfpack](https://github.com/almogdepaz/wolfpack)** – Self-hosted browser and mobile control center for persistent AI coding-agent and shell sessions across machines, with direct private access over Tailscale.
 
 ---
 
