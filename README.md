@@ -137,8 +137,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TmuxAI](https://tmuxai.dev/)** – AI assistant for automating tmux workflows.
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
-- **[AI Badger](https://github.com/PVRLabs/aibadger)** – Local-first CLI for extracting clean, relevant codebase context to paste into any AI coding assistant.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[AI Badger](https://github.com/PVRLabs/aibadger)** – Local-first CLI for extracting clean, relevant codebase context to paste into any AI coding assistant.
 
 ---
 
@@ -310,7 +310,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Speechara](https://speechara.ai/)** – Real-time translation, live captions, transcripts, and AI meeting notes for developer interviews, standups, and multilingual team calls.
 
 ---
 
