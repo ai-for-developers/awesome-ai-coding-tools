@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[ditto](https://github.com/ohad6k/ditto)** – Mines your local Claude Code, Codex, and Cursor session logs into a you.md working profile your agent loads before every task: what you reject, what "done" means to you, when you ask for proof, how you actually work. Local-first, MIT, one command: `npx skills add ohad6k/ditto`.
+- **[Claude Pet](https://github.com/nikhilagrima/claude-pet)** – Desktop companion for Claude Code that reacts to hook events with animated emotions, maintains a local graph memory per project, promotes repeated patterns into skill files, and monitors GitHub repository activity. macOS/Windows/Linux, 100% local, MIT.
 
 ---
 
