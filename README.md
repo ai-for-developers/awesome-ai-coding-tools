@@ -62,7 +62,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
-- **[BBARIT](https://github.com/bbarit/terminal)** – Free native all-in-one AI coding IDE (Tauri/Rust) with multi-agent terminals, office editing, and an embedded agent-driven browser; bring any model or run locally with Ollama.
 
 ---
 
@@ -253,6 +252,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Pieces.app](https://pieces.app/)** – AI-powered code snippet management, search, and sharing.
 - **[16x Prompt](https://prompt.16x.engineer/)** – AI tool for enhanced code context and prompt-based navigation.
 - **[codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill)** – AI coding agent skill that analyzes git history to reveal hotspots, bug magnets, bus factor risks, and development momentum before reading any code.
+- **[CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code)** – AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce coding-agent context usage.
 
 ---
 
