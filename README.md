@@ -205,6 +205,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[stepback](https://github.com/Archerkattri/stepback)** – Checkpoint and rewind for any AI coding agent (Claude Code, Codex, aider) via isolated git shadow-refs that never touch your real HEAD, index, or branch, with best-effort conversation resume for Claude Code and Codex.
 - **[Atomic Agent](https://atomicagent.io/)** – Open-source CLI and TUI coding assistant (React + ink) that runs open-weight models entirely on your machine. Install with one curl command, no account or API key required. macOS, Linux, and Windows.
 - **[DevSpecs](https://www.devspecs.com/)** – Local-first CLI for AI-assisted brownfield development that indexes existing plans, source, tests, and Git history into model-agnostic context, bounded task slices, and durable checkpoints without calling an LLM.
+- **[Portable Handoff](https://github.com/legoambarish/portable-handoff)** – Local-first CLI that compacts a coding session into a Markdown/JSON capsule for resuming in Claude Code, Codex, or Cursor, with verified Git facts and no API key.
 
 ---
 
