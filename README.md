@@ -353,7 +353,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
-- **[KubeStellar Console](https://github.com/kubestellar/console)** – Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) enabling AI coding agents to query and manage clusters via natural language.
 
 ---
 
@@ -401,6 +400,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
+- **[Claudex](https://github.com/kunwar-shah/claudex)** – Open-source MCP server giving Claude Code persistent memory and FTS5 full-text search across conversation history.
 
 ---
 
