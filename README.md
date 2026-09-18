@@ -300,7 +300,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Google Drive – Memyard](https://github.com/zagmoai/public-google-drive)** – Agent skill that lets AI coding agents create and edit Google Docs and Sheets without sign-in. Documents hosted on Memyard with shareable links.
 - **[MemClaw](https://memclaw.me)** – Persistent project memory for AI coding agents (MCP-compatible). Creates isolated memory workspaces per project with a web dashboard to review and manage context. Free and open source.
 - **[git-parsec](https://github.com/erishforG/git-parsec)** – Git worktree lifecycle manager that gives each AI agent an isolated workspace tied to issue tickets (Jira, GitHub Issues, GitLab), avoiding index.lock conflicts in parallel workflows.
-- **[Mneme HQ](https://github.com/TheoV823/mneme)** – Enforce architectural decisions on every AI coding assistant call. Deterministic retrieval and pre-flight governance for Claude Code, Cursor, and agent workflows.
 - **[AI Dev Jobs](https://aidevboard.com)** – AI job board aggregating 6,000+ positions from 340+ companies like OpenAI, Anthropic, and Google DeepMind. Free API and MCP server for AI-powered job search.
 - **[CronAI](https://cronai-nu.vercel.app/)** – Convert plain English schedule descriptions to cron expressions with AI. Supports standard and extended formats. Free, no signup.
 - **[JSONFix](https://jsonfix-lake.vercel.app/)** – AI-powered JSON fixer that instantly repairs broken JSON with missing quotes, trailing commas, or unescaped characters. Free, no signup.
@@ -310,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[llm-prices](https://github.com/benbencodes/llm-prices)** – Zero-dependency Python CLI and library for comparing LLM API pricing across 21 providers (123+ models). Query pricing, calculate costs, find the cheapest option for a given token budget. Install: `pip install git+https://github.com/benbencodes/llm-prices.git` or `brew install benbencodes/tap/llm-prices`. Open-source, MIT license.
+- **[Mneme HQ](https://github.com/TheoV823/mneme)** – Enforce architectural decisions on every AI coding assistant call. Deterministic retrieval and pre-flight governance for Claude Code, Cursor, and agent workflows.
 
 ---
 
