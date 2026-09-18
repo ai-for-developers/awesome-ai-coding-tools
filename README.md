@@ -383,6 +383,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Hasura](https://hasura.io/)** – GraphQL API platform with AI query optimization.
 - **[Retool AI](https://retool.com/ai)** – AI-powered internal tool builder with natural language interface.
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
+- **[AI for Database](https://aifordatabase.com/)** – Chat with any database (PostgreSQL, MySQL, MongoDB) in plain English: natural language queries, self-refreshing dashboards, and workflows that trigger emails/webhooks on data changes.
+- **[AI for Database](https://aifordatabase.com)** – Connect to any database and interact with it in plain English. No SQL needed — get instant insights, build self-refreshing dashboards, and trigger automated workflows based on database changes.
 
 ---
 
