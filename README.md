@@ -148,6 +148,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Aura IDE](https://github.com/CarpseDeam/Aura-IDE)** – Open-source desktop AI coding harness that plans, edits through reviewable diffs, validates changes, and leaves receipts.
 - **[DevIntern](https://devintern.com/)** – Picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests using the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode), running on your machines with your own model keys. A feasibility gate flags vague tickets back to the tracker with questions.
 - **[Septim Agents Pack](https://septimlabs.com/tools/agents?utm_source=awesome-ai-coding-tools&utm_medium=awesome-list&utm_campaign=oss-backlink)** – 10 named Claude Code sub-agents covering planning, architecture, brand, marketing, finance, design, legal, customer research, and cross-lane coordination. Drop the `.claude/agents/` folder into any project; pay-once at $49.
+- **[LingShu](https://github.com/RoyZhao1991/LingShu)** – Native Apache-2.0 macOS execution agent with a replaceable model backend and an open runtime for code, documents, presentations, and authorized computer actions.
 
 ---
 
