@@ -159,6 +159,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Kolega Code](https://github.com/kolega-ai/kolega-code)** – Open-source terminal coding agent where the model writes its own multi-agent workflows (Gigacode), with 15+ providers and MCP support.
 - **[Keen Code](https://github.com/mochow13/keen-code)** – An open-source, context-aware terminal-based coding agent written in Go. Supports multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, hashline edits, and more.
 - **[Derivative](https://github.com/Daniele-Cangi/Derivative)** – Open-source AI-assisted engine for greenfield requirement-to-software synthesis with typed requirement preservation, isolated execution, independent evidence-based validation, bounded repair, and fail-closed packaging.
+- **[mix2](https://github.com/elleryfamilia/mix2)** – Terminal app that turns two coding agents into one team. One question, both investigate independently, disagreements are disclosed, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI.
 
 ---
 
@@ -208,6 +209,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Portable Handoff](https://github.com/legoambarish/portable-handoff)** – Local-first CLI that compacts a coding session into a Markdown/JSON capsule for resuming in Claude Code, Codex, or Cursor, with verified Git facts and no API key.
 - **[CommitLore](https://github.com/MongLong0214/commitlore)** – Git-native decision memory that stores constraints and ruled-out alternatives as git trailers and notes, giving coding agents only the guidance still in force for the file being edited.
 - **[fx](https://github.com/vercel-labs/fx)** – Tiny, open-source coding agent harness by Vercel Labs, written in Zig; model-agnostic, Unix-shell-like output, and embeddable in agent sandboxes.
+- **[Loadout](https://github.com/elleryfamilia/loadout)** – Adaptive context engine for AI coding agents. Detects your stack and equips the right context when you launch `load claude`, `load codex`, `load cursor`. Works with Claude, Codex, Cursor, opencode, and Copilot.
 
 ---
 
@@ -610,6 +612,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[StackPicks MCP](https://stackpicks.dev/mcp)** – Curated directory of MCP servers and Claude/Cursor connectors with editorial takes. 50+ servers reviewed with install commands for Claude Desktop + Cursor, plus honest "skip if" guidance per entry.
 - **[PAPI](https://getpapi.ai/?utm_source=awesome-ai-coding-tools&utm_medium=referral&utm_campaign=directory-blitz-2026-07)** – MCP server that adds project management to any AI coding tool: plan/build/review cycles, decision memory, and structured build handoffs that persist across sessions, tools, and teammates. Works with Claude Code, Cursor, Windsurf, Lovable, and ChatGPT. Free.
 - **[Entroly](https://github.com/juyterman1000/entroly)** – Local-first MCP server for explicit-budget context selection, content-addressed exact recovery, and auditable Context Receipts. Apache-2.0.
+- **[terminal-mcp](https://github.com/elleryfamilia/terminal-mcp)** – MCP server that gives AI assistants a shared view of your terminal session. Debug CLIs and TUI apps in real-time or let agents drive terminal-based tools autonomously. Works with Claude Code, Codex, Cursor, opencode, and Copilot.
 
 ---
 
