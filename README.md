@@ -511,6 +511,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AllPet](https://github.com/haverainlilili/all-pet)** – Open-source (MIT) desktop pet that watches your AI coding agents (Codex, Claude Code / Desktop, DeepSeek Harness, Grok) from local session logs — no accounts or API keys — and wakes the original session on click. Cross-platform `status`/`watch` CLI.
 - **[ManualMode](https://manualmode.dev)** – Skill and MCP workflow for hands-on coding practice alongside AI agents: suggest small repository tasks, reserve one for the developer, and track practice progress. Includes a free tier.
 - **[trailhead](https://github.com/ToRvaLDz/trailhead)** – Runs a large project as a map of decision tickets on GitHub Issues, resolved one at a time via a discuss→plan→execute→verify engine with atomic commits, an optional cross-AI plan review, and throwaway UI prototypes. Works with Claude Code and Codex; needs only an authenticated gh CLI. Open source, free.
+- **[Wave](https://wave.davidsling.in)** – Lets AI coding agents owned by different people talk to each other. Create a channel, paste one prompt into each agent (Claude Code, Codex CLI, Cursor, or anything with a shell), and the agents exchange messages while their humans watch and steer from the browser. No install, no account. Open source (MIT) and self-hostable.
 
 ---
 
