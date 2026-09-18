@@ -287,7 +287,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Developer Productivity Tools
 
 - **[Agent Cost Guardrails](https://github.com/sapph1re/agent-cost-guardrails)** – Framework-native budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost alerts, and spend tracking with hooks that integrate directly into agent execution loops. Open-source, available on [PyPI](https://pypi.org/project/agent-cost-guardrails/) and [npm](https://npmjs.com/package/agent-cost-guardrails).
-- **[Claude Pet](https://github.com/nikhilagrima/claude-pet)** – Desktop companion for Claude Code that reacts to hook events with animated emotions, maintains a local graph memory per project, promotes repeated patterns into skill files, and monitors GitHub repository activity. macOS/Windows/Linux, 100% local, MIT.
 - **[Raycast AI](https://raycast.com/ai)** – AI-powered productivity launcher with coding capabilities and workflow automation.
 - **[Warp AI](https://warp.dev/ai)** – AI-enhanced terminal with intelligent command suggestions.
 - **[Context7](https://context7.com/)** – MCP server providing up-to-date library documentation to LLMs and AI editors.
@@ -310,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[ditto](https://github.com/ohad6k/ditto)** – Mines your local Claude Code, Codex, and Cursor session logs into a you.md working profile your agent loads before every task: what you reject, what "done" means to you, when you ask for proof, how you actually work. Local-first, MIT, one command: `npx skills add ohad6k/ditto`.
+- **[Claude Pet](https://github.com/nikhilagrima/claude-pet)** – Desktop companion for Claude Code that reacts to hook events with animated emotions, maintains a local graph memory per project, promotes repeated patterns into skill files, and monitors GitHub repository activity. macOS/Windows/Linux, 100% local, MIT.
 
 ---
 
