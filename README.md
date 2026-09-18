@@ -252,6 +252,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Vibes DIY](https://vibes.diy)** – [Open-source](https://github.com/VibesDIY/vibes.diy) AI app builder that turns a plain-English description into a real, live web app you can share, remix, and collaborate on.
 - **[KI-App-Bauplan](https://agentic-coder.de/tools/ki-app-bauplan)** – Free guided planner that turns an app idea into a focused MVP scope, risk review, seven-step build plan, and a starter prompt for Cursor, Claude Code, or Codex.
 - **[Cactal](https://cactal.ai)** – Cactal is the website platform for AI agents. Connect Claude Code, Cursor, or anything that speaks MCP, and your agent gets the tools to design, build, host, and operate production websites: source code, CMS, assets, domains, analytics, and publishing.
+- **[Taskade Genesis](https://www.taskade.com/create)** – Prompt-to-app builder for live portals, CRMs, and dashboards with agents and automations.
 
 ---
 
