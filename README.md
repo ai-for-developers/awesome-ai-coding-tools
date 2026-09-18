@@ -309,6 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[ccg-router](https://github.com/XZXY-AI/ccg-router)** – Local Go daemon proxying Claude Code (Anthropic-compatible `/v1/messages`) and Codex CLI (OpenAI-compatible `/v1/chat/completions`) through one port, with a per-request SQLite usage ledger and three routing strategies (prefer-cheaper, prefer-capable, round-robin). No hosted control plane; provider keys stay local. Apache-2.0.
 
 ---
 
@@ -352,7 +353,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
-- **[Kuberns](https://kuberns.com/)** – Agentic AI deployment platform that auto-detects tech stacks, provisions infrastructure, and deploys applications from GitHub repositories with zero configuration.
 
 ---
 
