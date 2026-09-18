@@ -151,6 +151,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Garcon](https://github.com/cfal/garcon)** – Self-hosted browser and mobile workspace for running and steering parallel Claude Code, Codex, Cursor Agent, OpenCode, Amp, Droid, and Pi sessions, with integrated terminal, files, diff review, Git/PR workflows, mobile approvals, and cross-agent transfers.
 - **[BitFun](https://github.com/GCWing/BitFun)** – Cross-platform desktop coding agent built on a Rust runtime, with Git-aware workflows, Deep Review, MCP/Skills/Hooks, remote workspaces, and state-bound Mini Apps.
 - **[Mirafold](https://github.com/mirafold/mirafold)** – Browser UI for Claude Code, Codex, and Gemini CLI where the agent renders live charts, diffs, and task lists as it works, with mission control across multiple sessions and E2E-encrypted phone pairing (self-hostable relay). Open source, local-first.
+- **[Ordewell](https://github.com/ordewell/ordewell)** – Plan-first CLI/TUI orchestrator that turns one goal into an ordered plan of coding-agent tasks, each with its own runner (Claude Code, Codex, OpenCode), model, thinking effort and mode — editable before execution, run as one agent session per task, and marked done only when its own completion marker appears in the output. Apache-2.0, free, no paid tier.
 
 ---
 
