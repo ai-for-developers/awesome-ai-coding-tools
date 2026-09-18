@@ -138,6 +138,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[agent-trace](https://github.com/liangzhengtao/agent-trace)** – Post-session analysis for AI coding agents. Track costs, tokens, tool health, and every conversation. Supports Kimi Code, Claude Code, Codex, OpenCode.
+- **[token-meter](https://github.com/liangzhengtao/token-meter)** – Real-time token cost meter for AI coding agents with status bar mode. Watch your tokens burn as it happens.
 
 ---
 
@@ -309,7 +311,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[TerminalBlog](https://terminalblog.com/)** – SEO blog about AI coding agents, fully built and operated by AI agents (Hermes, Claude Code, Codex).
+- **[agent-trace](https://github.com/liangzhengtao/agent-trace)** – Trace your AI coding agent — costs, tokens, tool health, session timeline. Auto-detects Kimi Code, Claude Code, Codex, OpenCode. Runs locally, no API keys needed.
 
 ---
 
