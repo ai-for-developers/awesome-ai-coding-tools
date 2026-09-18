@@ -86,7 +86,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
-- **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
+- **[OpenHands (OpenDevin)](https://www.openhands.dev/)** – Open-source AI software engineer for autonomous development.
 - **[Cline (Claude Dev)](https://github.com/cline/cline)** – VS Code extension with full file system access and autonomous coding.
 - **[Replit Agent](https://replit.com/agent)** – Builds complete applications from natural language descriptions inside Replit.
 - **[Aider](https://github.com/paul-gauthier/aider)** – AI coding agent for collaborative editing and code generation via CLI.
