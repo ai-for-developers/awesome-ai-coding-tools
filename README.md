@@ -352,6 +352,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Infracost](https://www.infracost.io/)** – Cloud cost estimation in pull requests for Terraform/Pulumi.
 - **[Jenkins X](https://jenkins-x.io/)** – Cloud-native CI/CD with AI-enhanced automation.
 - **[DeployRamp](https://www.deployramp.com)** – AI-powered feature flagging platform that can automatically wrap PRs in feature flags.
+- **[Middleware](https://middleware.io/)** – Full stack observability platform with AI SRE Agent. 
 
 ---
 
@@ -373,7 +374,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Endor Labs](https://www.endorlabs.com/ai-code-security-review)** – AI code review for security risks and architectural vulnerabilities.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)** – AI-automated fuzz testing for C/C++.
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
-- **[Agentprobe](https://agentprobe.fly.dev/)** – Free agentic commerce readiness scorer. Probes any URL across 13 signals (llms.txt, OpenAPI spec, MCP endpoint, catalog API, quote API, checkout, payment rails, fulfillment proof) and returns a 0–110 score with a CERTIFIED badge. MCP server available at /mcp.
 
 ---
 
