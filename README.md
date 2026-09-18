@@ -286,6 +286,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## Developer Productivity Tools
+- **[Canopy](https://canopy.8starlabs.com/)** - Living architecture maps for software teams, turning GitHub repositories into visual views of services, dependencies, ownership, cost context, and AI-ready project context.
 
 - **[Agent Cost Guardrails](https://github.com/sapph1re/agent-cost-guardrails)** – Framework-native budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost alerts, and spend tracking with hooks that integrate directly into agent execution loops. Open-source, available on [PyPI](https://pypi.org/project/agent-cost-guardrails/) and [npm](https://npmjs.com/package/agent-cost-guardrails).
 - **[Raycast AI](https://raycast.com/ai)** – AI-powered productivity launcher with coding capabilities and workflow automation.
