@@ -62,7 +62,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Roo Code](https://roocode.com/)** – Popular open-source VS Code extension (fork of Cline) with multi-model support and autonomous coding modes.
 - **[Qoder](https://qoder.com/)** – Agentic coding platform focused on deeper reasoning.
 - **[Aide](https://aide.dev/)** – Open-source AI-native IDE with proactive agents, built on top of VS Code.
-- **[Coworker](https://github.com/leonjackman/coworker)** – Local-first AI coding assistant desktop app with MCP integration, multi-provider AI support, and skills marketplace. Built with Electron, React, and LangGraph. MIT licensed.
 
 ---
 
@@ -119,7 +118,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
-- **[Coworker](https://github.com/leonjackman/coworker)** – Local-first AI coding agent desktop app with long-term memory, human-in-the-loop, web search, and 11-language i18n. MIT licensed, 396+ commits.
 
 ---
 
@@ -290,7 +288,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Developer Productivity Tools
 
 - **[Agent Cost Guardrails](https://github.com/sapph1re/agent-cost-guardrails)** – Framework-native budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost alerts, and spend tracking with hooks that integrate directly into agent execution loops. Open-source, available on [PyPI](https://pypi.org/project/agent-cost-guardrails/) and [npm](https://npmjs.com/package/agent-cost-guardrails).
-- **[AIPM](https://www.aipm-registry.com/)** – Open-source registry and CLI for publishing, versioning, and installing reusable AI skills across Codex, Claude Code, and Cursor.
 - **[Raycast AI](https://raycast.com/ai)** – AI-powered productivity launcher with coding capabilities and workflow automation.
 - **[Warp AI](https://warp.dev/ai)** – AI-enhanced terminal with intelligent command suggestions.
 - **[Context7](https://context7.com/)** – MCP server providing up-to-date library documentation to LLMs and AI editors.
@@ -313,6 +310,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[AIPM](https://www.aipm-registry.com/)** – Open-source registry and CLI for publishing, versioning, and installing reusable AI skills across Codex, Claude Code, and Cursor.
 
 ---
 
