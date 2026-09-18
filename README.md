@@ -118,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[Aura IDE](https://github.com/CarpseDeam/Aura-IDE)** – Open-source desktop AI coding harness that plans, edits through reviewable diffs, validates changes, and leaves receipts.
 
 ---
 
@@ -374,7 +375,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Endor Labs](https://www.endorlabs.com/ai-code-security-review)** – AI code review for security risks and architectural vulnerabilities.
 - **[Code Intelligence CI Fuzz](https://www.code-intelligence.com/)** – AI-automated fuzz testing for C/C++.
 - **[Vulert](https://vulert.com/)** – Detects vulnerabilities in open-source dependencies without accessing your code.
-- **[AI Agent Safety Starter Pack](https://github.com/el-zachariah/ai-agent-safety-starter-pack)** – Free repo preflight scanner for Claude Code, Codex, Cursor, and other AI coding-agent runs that flags agent instructions, MCP config, risky shell patterns, package scripts, and secret-adjacent files before tool access.
 
 ---
 
