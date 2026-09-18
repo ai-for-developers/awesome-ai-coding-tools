@@ -447,6 +447,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CloudByte PMS](https://getpms.cloudbyte.ai)** – Team analytics for AI coding assistants: tracks Claude Code, GitHub Copilot, and Cursor sessions, prompts, and commits to surface adoption, ROI, ghost seats, and prompt governance in one dashboard with role-based access.
 - **[harmony-next.skills](https://github.com/linhay/harmony-next.skills)** – Open-source HarmonyOS NEXT workflow toolkit for AI coding agents. Provides offline ArkTS/ArkUI/API references, DevEco/HDC/Emulator automation, UI/UX audit helpers, and smoke-test templates for mobile app development.
 - **[GoodMemory](https://github.com/hjqcan/GoodMemory)** – Local-first, auditable memory for Codex and Claude Code, with durable SQLite, scoped recall hooks, read-only MCP access, and opt-in governed writeback. Free and open source.
+- **[Claudexor](https://github.com/razzant/claudexor)** – Local-first control plane for Claude Code, Codex, Cursor, and OpenCode with quota-aware profiles, cross-model review, and best-of-N runs.
 
 ---
 
