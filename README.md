@@ -218,7 +218,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
 - **[MealMacroAI](https://www.mealmacroai.com)** – AI-powered reverse macro calculator that converts target nutrition into precise raw and cooked food portion weights.
-- **[Swarm Orchestrator](https://github.com/moonrunnerkc/swarm-orchestrator)** – Audits AI-generated pull requests for eleven cheat patterns (relaxed tests, swallowed errors, fake renames). Advisory by default, opt-in merge gate.
 
 ---
 
@@ -325,6 +324,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
+- **[Respan](https://www.respan.ai/ai-gateway)** – Full-stack AI engineering platform with a tracing SDK, evals, prompt management, and a gateway to 250+ models.
 
 ---
 
