@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Data Olympus](https://github.com/knaisoma/data-olympus)** – Governed project knowledge for AI coding agents via MCP. Agents can propose learnings, humans promote accepted guidance, and retrieval filters out expired or superseded rules before they enter future coding sessions.
+- **[Composio](https://composio.dev)** – Connects AI coding agents to 1,000+ apps with managed authentication, MCP support, and tool execution for developer workflows.
 
 ---
 
