@@ -162,6 +162,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[mix2](https://github.com/elleryfamilia/mix2)** – Terminal app that turns two coding agents into one team. One question, both investigate independently, disagreements are disclosed, one answer. Works with Claude Code, Codex, Cursor, OpenCode, and Copilot CLI.
 - **[Superagent](https://github.com/pungme/superagent-desktop)** – Open-source macOS desktop app giving Claude Code and Codex a real browser to drive, an iOS Simulator to install and screenshot apps in, and a phone companion app for remote monitoring.
 - **[Sinatra](https://sinatra.dev)** – Coding agent for Linear and GitHub issues; runs in an isolated sandbox, opens a PR, and runs on your Claude or ChatGPT subscription.
+- **[VibeFuse](https://fuseintelligence.org/products/vibefuse)** – Free Windows desktop harness that runs Claude Code, Codex, Gemini, Cursor, and Qwen as live widgets on one canvas, with a marketplace for selling AI skills and widgets (sellers keep 80%).
 
 ---
 
