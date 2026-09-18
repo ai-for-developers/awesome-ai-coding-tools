@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Tree Ring Memory](https://github.com/TerminallyLazy/Tree-Ring-Memory)** – Framework-agnostic, local-first memory lifecycle for AI coding agents with Rust CLI, SQLite/FTS recall, forgetting, audit, consolidation, and TUI.
+- **[Enola](https://enola.tech)** – Enola. analyzes code repository once and exposes a compact, structured graph of its architecture through the Model Context Protocol — so any MCP-capable agent gets necessary context.
 
 ---
 
