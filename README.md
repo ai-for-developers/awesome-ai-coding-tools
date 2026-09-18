@@ -311,7 +311,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[GoodMemory](https://github.com/hjqcan/GoodMemory)** – Local-first, auditable memory for Codex and Claude Code, with durable SQLite, scoped recall hooks, read-only MCP access, and opt-in governed writeback. Free and open source.
 
 ---
 
