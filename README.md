@@ -118,7 +118,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
-- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** – Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 
 ---
 
@@ -218,6 +217,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MiniMax Code Review](https://github.com/tarmojussila/minimax-code-review)** - AI-powered GitHub Pull Request code review using MiniMax models.
 - **[VibeDoctor](https://vibedoctor.io/)** – AI code health scanner for vibe-coded apps. Detects hallucinated imports, phantom packages, and security issues that traditional scanners miss with MCP Support.
 - **[Relay](https://github.com/momobits/Relay/)** – Persistent memory for AI coding workflows. Give AI coding agents memory of what was built, what broke, and what's next.
+- **[MealMacroAI](https://www.mealmacroai.com)** – AI-powered reverse macro calculator that converts target nutrition into precise raw and cooked food portion weights.
 
 ---
 
