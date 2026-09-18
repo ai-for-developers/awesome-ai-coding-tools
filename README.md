@@ -138,6 +138,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
+- **[Pluribus](https://github.com/caioribeiroclw-pixel/pluribus)** – Open-source CLI that keeps one versioned AI coding context in sync across Claude Code, Cursor, Copilot, OpenClaw, Windsurf, Continue, and Zed.
 
 ---
 
@@ -252,7 +253,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Pieces.app](https://pieces.app/)** – AI-powered code snippet management, search, and sharing.
 - **[16x Prompt](https://prompt.16x.engineer/)** – AI tool for enhanced code context and prompt-based navigation.
 - **[codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill)** – AI coding agent skill that analyzes git history to reveal hotspots, bug magnets, bus factor risks, and development momentum before reading any code.
-- **[Reflex](https://github.com/reflex-search/reflex)** – Local-first full-text code search engine with MCP server and JSON output built for AI coding agents.
 
 ---
 
