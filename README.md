@@ -423,7 +423,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
-- **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
@@ -518,6 +517,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Wave](https://wave.davidsling.in)** – Lets AI coding agents owned by different people talk to each other. Create a channel, paste one prompt into each agent (Claude Code, Codex CLI, Cursor, or anything with a shell), and the agents exchange messages while their humans watch and steer from the browser. No install, no account. Open source (MIT) and self-hostable.
 - **[myc](https://github.com/aistastudio/myc)** – Open-source local memory and task queue for AI coding agents (Claude Code, Codex, opencode, Kimi): decisions survive context compaction, memory is anchored to code and follows it, everything stays in one SQLite file with no API key.
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
+- **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
 
