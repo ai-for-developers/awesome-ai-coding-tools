@@ -287,7 +287,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ## Developer Productivity Tools
 
 - **[Agent Cost Guardrails](https://github.com/sapph1re/agent-cost-guardrails)** – Framework-native budget limits and circuit breakers for AI agent frameworks (CrewAI, AutoGen, LangGraph). Hard token caps, cost alerts, and spend tracking with hooks that integrate directly into agent execution loops. Open-source, available on [PyPI](https://pypi.org/project/agent-cost-guardrails/) and [npm](https://npmjs.com/package/agent-cost-guardrails).
-- **[MartinLoop](https://github.com/Keesan12/martin-loop)** – Open-source control layer for AI coding agents. Adds hard budget caps, verifier gates, explicit stop reasons, and run receipts around Claude Code, Codex, and Ralph-style autonomous coding workflows.
 - **[Raycast AI](https://raycast.com/ai)** – AI-powered productivity launcher with coding capabilities and workflow automation.
 - **[Warp AI](https://warp.dev/ai)** – AI-enhanced terminal with intelligent command suggestions.
 - **[Context7](https://context7.com/)** – MCP server providing up-to-date library documentation to LLMs and AI editors.
@@ -310,6 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
+- **[MartinLoop](https://github.com/Keesan12/martin-loop)** – Open-source control layer for AI coding agents. Adds hard budget caps, verifier gates, explicit stop reasons, and run receipts around Claude Code, Codex, and Ralph-style autonomous coding workflows.
 
 ---
 
@@ -324,7 +324,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
-- **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway with OpenAI-compatible API for Claude, GPT, Gemini and 200+ models. Pay-per-use pricing with Alipay/WeChat support, designed for developers using Claude Code and Cursor.
 
 ---
 
