@@ -34,6 +34,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - [Related Lists](#related-lists)
 
 ---
+- [**Zephex**](https://github.com/zephexMCP/zephex-MCPs) — Hosted MCP for AI coding agents: live project context, code search, package/supply-chain checks, Test Pulse. Cursor, Claude Code, Codex, OpenCode, VS Code + CLI. Free tier · https://zephex.dev/mcp
 
 ## Code Editors and Assistants
 
