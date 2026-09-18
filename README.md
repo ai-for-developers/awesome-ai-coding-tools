@@ -309,7 +309,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal)** – Local-first memory loop for AI coding conversations, with MCP search, task recall, writeback, and installable Agent Skills.
 
 ---
 
@@ -323,8 +322,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LiteLLM](https://github.com/BerriAI/litellm)** – Unified API proxy for 100+ LLM providers with load balancing, spend tracking, and rate limiting.
 - **[OpenRouter](https://openrouter.ai/)** – Unified API gateway for accessing models from OpenAI, Anthropic, Google, Meta, and more.
 - **[Promptfoo](https://github.com/promptfoo/promptfoo)** – Open-source tool for testing, evaluating, and red-teaming LLM prompts and applications.
-- **[Bifrost](https://getmaxim.ai/bifrost)** – Open-source LLM & MCP Gateway with 20+ providers, governance, loadbalancing and custom plugins.
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
+- **[Bifrost](https://getmaxim.ai/bifrost)** – Open-source LLM & MCP Gateway with 20+ providers, governance, loadbalancing and custom plugins.
 
 ---
 
