@@ -86,7 +86,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's agentic coding tool for the terminal with deep codebase understanding.
 - **[Devin AI](https://devin.ai/)** – Autonomous AI software engineer that plans, codes, debugs, and deploys end-to-end.
-- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** – Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 - **[OpenHands (OpenDevin)](https://opendevin.ai/)** – Open-source AI software engineer for autonomous development.
 - **[Cline (Claude Dev)](https://github.com/cline/cline)** – VS Code extension with full file system access and autonomous coding.
 - **[Replit Agent](https://replit.com/agent)** – Builds complete applications from natural language descriptions inside Replit.
@@ -119,6 +118,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex Infinity](https://codex-infinity.com)** – Autonomous coding agent that runs continuously on bare metal VPS. Run your Claude Max or OpenAI Codex plans with full root access and no cloud timeouts.
 - **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** – AI background code analysis agent that watches your codebase and provides real-time insights, suggestions, and automated reviews.
 - **[OpenMagic](https://github.com/Kalmuraee/OpenMagic)** – AI-powered coding toolbar for any web app. Injects a floating toolbar via reverse proxy, captures element context, previews diffs, and applies approved changes in real time.
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** – Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
 
 ---
 
@@ -310,7 +310,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Usage HUD](https://hud.thaliabloom.com)** – Native macOS menu-bar meter for Claude Code, Codex, Gemini, Grok, and Ollama usage windows. Confidence label on every number. Local only. $9. If CodexBar already works for you, you do not need this.
 
 ---
 
