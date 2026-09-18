@@ -391,7 +391,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
-- **[Boost](https://boost.jfrog.com/)** – Free CLI that reduces terminal and CI output before it reaches Cursor, Claude Code, and Codex, typically saving 60–90% of log tokens with reversible retrieval and local performance reports.
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
@@ -465,6 +464,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[imlazy](https://github.com/hnikoloski/imlazy)** – Tier-aware task router and skill-based workflow system for Claude Code that classifies tasks into Quick/Standard/Heavy/Vault/Learn tiers and routes them through the appropriate execution workflow with adaptive disambiguation.
 - **[agmem](https://github.com/albedoweb/agmem)** – Local-first project memory CLI for coding agents (Claude Code, Codex, Cursor, Aider). Indexes repo structure into greppable JSONL, retrieves task-scoped context via BM25 with optional local embeddings, and tracks staleness via source hashes. No LLM calls, no server. Apache-2.0.
 - **[Codex How To](https://github.com/Phelan164/codex-howto)** – Engineering-first OpenAI Codex guide with nine installable skills, measurable development and review loops, orchestration patterns, and a review-first Living Wiki.
+- **[Boost](https://boost.jfrog.com/)** – Free CLI that reduces terminal and CI output before it reaches Cursor, Claude Code, and Codex, typically saving 60–90% of log tokens with reversible retrieval and local performance reports.
 
 ---
 
