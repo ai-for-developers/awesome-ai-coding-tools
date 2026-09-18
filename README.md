@@ -309,6 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[BenchGen](https://benchgen.com)** – AI agent benchmarking and evaluation platform. Score agent runs across tool-call accuracy, goal completion, and skill coverage, then export filtered trajectories for fine-tuning.
 - **[AI Test Case Generator](https://aitestcasegenerator-six.vercel.app/)** – AI-powered test case generator that turns plain-language requirements into structured QA test cases for web and software testing workflows.
 - **[agent-qa](https://github.com/vostride/agent-qa)** – Self-improving QA agent for web and mobile apps with natural-language tests, run memory, UI-change adaptation, and regression detection.
+- **[AIFast Model Check](https://docs.aifast.hk/model-check/)** – Free browser-based diagnostics for public HTTPS OpenAI-compatible API endpoints, including metadata, token handling, dynamic responses, SSE streaming, and tool-call checks.
 
 ---
 
