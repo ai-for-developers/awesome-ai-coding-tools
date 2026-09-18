@@ -400,7 +400,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Dev Jobs MCP](https://aidevboard.com/mcp)** – Search 5,400+ AI developer jobs with salary data via MCP. REST API also available.
 - **[Not Human Search](https://nothumansearch.ai/mcp)** – Agent-first search engine for discovering AI tools, MCP servers, and APIs.
 - **[CLIRank](https://clirank.dev/)** – API directory scoring 387 APIs on agent-friendliness across 11 signals. MCP server and web directory.
-- **[Wikivibe MCP](https://wikivibe.ru/mcp/)** – Public read-only MCP endpoint for searching Wikivibe AI-assisted development guides, glossary entries, jobs, and articles.
+- **[Curio MCP](https://designbycurio.com/mcp)** – Design-style library for AI: search hundreds of real design styles and fetch token-complete, machine-readable specs (colors, typography, spacing, components) to apply to sites, decks, and products. OAuth sign-in, free tier included. [Documentation](https://designbycurio.com/docs).
 
 ---
 
