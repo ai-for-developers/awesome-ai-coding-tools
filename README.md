@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[Wolfpack](https://github.com/almogdepaz/wolfpack)** – Self-hosted browser and mobile control center for persistent AI coding-agent and shell sessions across machines, with direct private access over Tailscale.
+- **[Tintpad](https://tintpad.com/)** – Open-source macOS menu-bar launcher for AI coding agents: global hotkey, fuzzy repo search, then your terminal opens at that repo with Claude Code, Codex, or Gemini CLI running.
 
 ---
 
