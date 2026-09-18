@@ -157,6 +157,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Dcode](https://github.com/langchain-ai/deepagents)** – The coding agent you own. Open-source, model-agnostic, and built by LangChain to give you maximum control over your software development lifecycle.
 - **[Atomic Agent](https://github.com/AtomicBot-ai/atomic-agent)** – Local-first coding agent that runs open-weight models entirely on your machine via a llama.cpp fork. 56 built-in tools (browser, filesystem, git, memory, vision), MCP support, and a five-layer memory system. No account or API key required.
 - **[Kolega Code](https://github.com/kolega-ai/kolega-code)** – Open-source terminal coding agent where the model writes its own multi-agent workflows (Gigacode), with 15+ providers and MCP support.
+- **[Keen Code](https://github.com/mochow13/keen-code)** – An open-source, context-aware terminal-based coding agent written in Go. Supports multiple providers, MCPs, subagents, Agent Skills, controllable tool output retention, hashline edits, and more.
 
 ---
 
