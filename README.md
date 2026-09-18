@@ -207,6 +207,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[DevSpecs](https://www.devspecs.com/)** – Local-first CLI for AI-assisted brownfield development that indexes existing plans, source, tests, and Git history into model-agnostic context, bounded task slices, and durable checkpoints without calling an LLM.
 - **[Portable Handoff](https://github.com/legoambarish/portable-handoff)** – Local-first CLI that compacts a coding session into a Markdown/JSON capsule for resuming in Claude Code, Codex, or Cursor, with verified Git facts and no API key.
 - **[CommitLore](https://github.com/MongLong0214/commitlore)** – Git-native decision memory that stores constraints and ruled-out alternatives as git trailers and notes, giving coding agents only the guidance still in force for the file being edited.
+- **[fx](https://github.com/vercel-labs/fx)** – Tiny, open-source coding agent harness by Vercel Labs, written in Zig; model-agnostic, Unix-shell-like output, and embeddable in agent sandboxes.
 
 ---
 
