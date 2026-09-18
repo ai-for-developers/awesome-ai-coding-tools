@@ -468,6 +468,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codex How To](https://github.com/Phelan164/codex-howto)** – Engineering-first OpenAI Codex guide with nine installable skills, measurable development and review loops, orchestration patterns, and a review-first Living Wiki.
 - **[Boost](https://boost.jfrog.com/)** – Free CLI that reduces terminal and CI output before it reaches Cursor, Claude Code, and Codex, typically saving 60–90% of log tokens with reversible retrieval and local performance reports.
 - **[harness-ai-kit](https://github.com/seed-forge/harness-ai-kit)** – Package manager for AI agent assets (skills/CLIs/MCPs/loops). Install, lock, and sync skills across Codex, Claude Code, Cursor, Kiro with SAT-based dependency resolution and SHA-256 lockfile. 23 curated enterprise skills included. Available on [PyPI](https://pypi.org/project/harness-ai-kit/).
+- **[Monitor Token](https://github.com/a596480606/monitor_token)** – Open-source Windows/macOS desktop widget for local Codex token usage, daily/weekly/monthly breakdowns, and weekly quota reset tracking.
 
 ---
 
