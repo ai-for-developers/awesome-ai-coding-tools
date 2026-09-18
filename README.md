@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[CostGoat](https://costgoat.com)** – Privacy-first menubar app tracking AI agent quotas (Claude Code, Codex, Kimi, Z.ai), LLM API costs (OpenAI, OpenRouter, Anthropic, ElevenLabs), cloud spend, and SaaS subscriptions in real-time.
+- **[ChatCrystal](https://github.com/ZengLiangYi/ChatCrystal)** – Local-first memory loop for AI coding conversations, with MCP search, task recall, writeback, and installable Agent Skills.
 
 ---
 
