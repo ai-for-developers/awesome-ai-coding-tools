@@ -309,7 +309,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
-- **[ClawMetry](https://github.com/vivekchand/clawmetry)** – Self-hosted dashboard that reads the session logs coding agents already write on disk (Claude Code, Codex, Cursor, Aider, Goose, OpenClaw and others), so there is no SDK and nothing sits in the request path. Shows sessions, tool calls, tokens and cache-aware cost per session and per model. MIT core, `pip install clawmetry`. [Website](https://clawmetry.com)
+- **[TerminalBlog](https://terminalblog.com/)** – SEO blog about AI coding agents, fully built and operated by AI agents (Hermes, Claude Code, Codex).
 
 ---
 
