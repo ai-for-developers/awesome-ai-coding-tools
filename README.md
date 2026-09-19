@@ -173,6 +173,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenClacky](https://openclacky.com)** – The most token-efficient open-source AI coding agent. Achieves 93.8% Prompt Cache hit rate and ~0.8× the API cost of Claude Code via frozen system prompt, dual cache markers, and Insert-then-Compress context management. BYOK, MIT licensed, 16 core tools, Skill extensions, IM integration (Feishu/Discord/Telegram). ([GitHub](https://github.com/clacky-ai/open-clacky))
 - **[LoopFlow](https://loopflow.live)** – Open natural-language DSL for self-correcting AI coding loops: describe what to build and how to verify it in plain English, and the agent loops plan → act → observe → reflect until the check passes. Runs in Claude Code, Cursor, and Copilot.
 - **[Tura](https://github.com/Tura-AI/tura)** – Open-source local coding agent with CLI/TUI/GUI, task-scoped context, macro command execution, verification, and public benchmarks.
+- **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** – Local, MIT-licensed web UI around the Claude Code, Codex, OpenCode and Antigravity CLIs: runs the unmodified CLI you already have in a pseudo-terminal and adds tabs, one browsable history for all four, conversations as cards, hand-off of a conversation to another CLI and full-text search. No telemetry; never reads credentials.
 
 ---
 
