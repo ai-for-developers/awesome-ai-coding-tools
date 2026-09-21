@@ -574,6 +574,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Middleware](https://middleware.io/)** – Full stack observability platform with AI SRE Agent. 
 - **[Kuberns](https://kuberns.com/)** – Agentic AI deployment platform that auto-detects tech stacks, provisions infrastructure, and deploys applications from GitHub repositories with zero configuration.
 - **[DownForAI](https://downforai.com/)** – Real-time status monitoring for 800+ AI services including ChatGPT, Claude, Gemini, Midjourney, and Groq. Tracks uptime, latency, and community outage reports.
+- **[NextReset](https://nextreset.ai/)** – Free, independent Codex companion with source-linked public reset history, official AI-service incident updates, and a browser-local personal timer.
 - **[KubeStellar Console](https://github.com/kubestellar/console)** – Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) enabling AI coding agents to query and manage clusters via natural language.
 - **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** – Context and token-cost optimizer for AI coding agents. Finds wasted "ghost tokens," survives compaction, and reduces context-quality decay, with native plugins for Claude Code, Codex, OpenCode, and OpenClaw.
 
