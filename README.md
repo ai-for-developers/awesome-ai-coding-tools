@@ -322,6 +322,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenFiles](https://github.com/devgiordane/openfiles)** – VS Code extension that opens every file an AI agent edits so linters and type checkers run on it, lists the changes for review, and returns the problems to Claude Code, Codex, Copilot, Gemini CLI or Cursor. Free and open source (MIT).
 
 ---
+- **[DeployReview](https://poe.com/DeployReview)** – AI code reviewer on Poe: paste code or a diff for senior-engineer-grade review focused on security, correctness, and performance, with severity-tagged findings and fix suggestions.
+- **[DiffExplainerHQ](https://poe.com/DiffExplainerHQ)** – Explains code diffs in plain on-call-engineer language, plus commit-message generation and incident-readable summaries.
 
 ## Testing and QA
 
@@ -386,6 +388,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[notabene](https://github.com/z29k/notabene)** – Self-hosted docs viewer with Google-Docs-style comments and a human-agent review loop that turns comments into source edits.
 
 ---
+- **[LLMAuditor](https://poe.com/LLMAuditor)** – Audits llms.txt and agent-discovery files for developers and SEOs, checking structure, links, and completeness.
 
 ## Code Models
 
@@ -615,6 +618,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway providing OpenAI-compatible access to Claude, GPT, Gemini, and 30+ models. Pay-as-you-go pricing with one-line config for Claude Code, Cursor, and other AI coding tools.
 
 ---
+- **[DeployCheck](https://x402-extract-service.onrender.com)** – Pre-deploy audit API for coding agents: link checking, llms.txt auditing, and HTTPS migration audits on up to 25 URLs per run, with a machine-readable pass/fail verdict. Free demo tier; $0.02 per paid call.
 
 ## MCP Servers and Directories
 
