@@ -171,6 +171,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 
 ## CLI Tools
+- [MagicKit](https://github.com/kaketiti/magickit) - Free AI toolbox with developer API for image gen, writing, video. MIT licensed.
 
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
 - **[Claude Code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)** – Anthropic's terminal-based coding agent.
