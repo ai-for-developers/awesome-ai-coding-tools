@@ -683,6 +683,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** – MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - **[Instafill.ai](https://instafill.ai)** – MCP server for AI-powered PDF form filling. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
 - **[SkillAgent](https://skillagent.dev)** – Free searchable directory of ~3,500 AI agent skills, rules files (SKILL.md, CLAUDE.md, AGENTS.md, .cursorrules) and MCP servers indexed hourly from GitHub, with safety scans, freshness checks, quality scores and a no-auth remote MCP server (`https://skillagent.dev/mcp`).
+- **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** – Hosted memory for coding agents over MCP. Report that a recalled memory helped or misled, and it re-ranks what comes back next. Shared rooms and a free tier; one key or OAuth across Claude Code, Cursor, VS Code and ChatGPT.
 
 ---
 
