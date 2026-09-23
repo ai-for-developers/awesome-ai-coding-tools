@@ -635,6 +635,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** – Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; detects prompt injection, credential theft, and manifest drift.
 - **[Speakeasy](https://www.speakeasy.com/product/ai-control-plane)** – Enterprise AI control plane for governing access, policy, and auditability across agents, MCP servers, and Skills.
 - **[SafetyCard](https://github.com/safetycard/safetycard)** – Safety-check MCP servers and AI agents against the OWASP agentic Top 10, and get the safest setup to run them.
+- **[Tokenhush](https://github.com/fregie/tokenhush)** – Local loopback gateway that replaces secrets and PII in AI coding tool requests with reversible placeholders before they reach the model provider, then restores them in the response. No MITM or root certificate.
 
 ---
 
