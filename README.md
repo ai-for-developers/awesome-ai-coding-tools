@@ -622,6 +622,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[PulseMCP](https://www.pulsemcp.com/servers)** – Large, frequently updated directory of MCP servers.
 - **[MCP.so](https://mcp.so/)** – Platform for MCP server resources and community.
 - **[Cursor MCP Directory](https://cursor.directory/mcp)** – MCP servers curated by Cursor.
+- **[Cortex](https://github.com/cortex-docs/cortex)** – Open-source tool that generates typed MCP servers, SDKs, and API documentation from API specifications and Markdown.
 - **[VS Code MCP Directory](https://code.visualstudio.com/mcp)** – Official VS Code MCP directory.
 - **[Claude MCP Servers](https://www.claudemcp.com/servers)** – Claude's curated MCP server list.
 - **[MCPServers.Net](https://mcpservers.net/)** – Comprehensive MCP navigation with tutorials and resources.
