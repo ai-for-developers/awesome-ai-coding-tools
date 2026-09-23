@@ -519,6 +519,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[myc](https://github.com/aistastudio/myc)** – Open-source local memory and task queue for AI coding agents (Claude Code, Codex, opencode, Kimi): decisions survive context compaction, memory is anchored to code and follows it, everything stays in one SQLite file with no API key.
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
+- **[anotifier](https://github.com/DevinoSolutions/anotifier-for-claude-codex-cursor)** – Desktop toasts, phone push (ntfy) and webhooks when Claude Code, Codex CLI, Cursor or Gemini CLI finish a task or need approval. Zero-dependency Node CLI with one shared config; free and open source (AGPL-3.0).
 
 ---
 
