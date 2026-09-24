@@ -552,6 +552,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[teebe](https://teebe.io)** – Native macOS GUI for git worktrees that shows every worktree in one window with live file change badges and inline diffs, for running Claude Code, Codex, and Cursor agents in parallel. Open source (GPL-3.0) and free.
 - **[cogload](https://github.com/drakulavich/cogload)** – Local CLI that scores every hour you spend driving Claude Code from 0 to 100, from its own transcripts: parallel sessions, prompt pace, agent supervision, model output, streak length and late-night work. Week heatmap, day table and a shareable card; its Claude Code plugin shows the hour's level above the prompt and holds prompts for a ten-minute rest after 40 minutes without a break. Runs offline and keeps no message text. Free and open source (MIT).
 - **[antiburn](https://github.com/antiburn/antiburn)** – Free, local desktop app that checks coding agent sessions for common causes of token burn: sessions too deep, overpowered subagents, broken caching, and unused MCPs, skills, and tools. Supports Claude Code, Codex, Cursor, Copilot, Pi, and more.
+- **[telepathy](https://github.com/Winterrks/telepathy)** – Plugin that lets coding-agent sessions on one machine (Claude Code, Codex, OpenCode, Gemini CLI, Copilot CLI, Cursor, Grok and more) message each other; where the agent allows it, a message starts a turn in an idle session. Local only, no network calls, no telemetry.
 
 ---
 
