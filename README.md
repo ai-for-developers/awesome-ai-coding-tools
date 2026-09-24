@@ -322,6 +322,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenFiles](https://github.com/devgiordane/openfiles)** – VS Code extension that opens every file an AI agent edits so linters and type checkers run on it, lists the changes for review, and returns the problems to Claude Code, Codex, Copilot, Gemini CLI or Cursor. Free and open source (MIT).
 
 ---
+- **[PR Rulebook](https://github.com/ofershap/pr-rulebook)** – Compiles your team's recurring, accepted PR review feedback into an evidence-backed rulebook for Cursor, Claude Code and CodeRabbit. Local-first and human-approved.
 
 ## Testing and QA
 
