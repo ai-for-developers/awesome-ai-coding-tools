@@ -648,7 +648,10 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** – MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - **[Instafill.ai](https://instafill.ai)** – MCP server for AI-powered PDF form filling. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
 
+- **[API.market MCP Gateway](https://api.market/api/mcp/gateway)** – Hosted OAuth MCP gateway for AI agents to discover and call 580+ APIs, with operation schemas, usage checks and subscription management; free tiers and paid plans vary by API.
+
 ---
+
 
 ## Related Lists
 
