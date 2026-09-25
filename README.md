@@ -241,6 +241,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Bhawna Skills](https://github.com/saketvishal/bhawna-skills)** – Repository-owned decision memory and architecture guardrails that check coding-agent objectives before implementation.
 - **[Archcore](https://github.com/archcore-ai/archcore)** – Git-native context engineering CLI and MCP server for AI coding agents. Keep specs, ADRs, rules, plans, and project knowledge in Git.
 - **[skillet](https://github.com/jnMetaCode/skillet)** – Find, install, version and share SKILL.md skills from a Git-backed registry
+- **[toldya](https://github.com/singhlabsdev/toldya)** – Reads your own messages in local Claude Code history, finds the corrections you keep repeating, and writes them into CLAUDE.md or AGENTS.md after per-rule approval; later runs count each rule before vs since. Zero dependencies, no network calls, MIT. `npx toldya`
 
 ---
 
