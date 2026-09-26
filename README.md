@@ -808,6 +808,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[REA](https://github.com/morluto/rea)** – Local MCP server and CLI that gives coding agents reverse-engineering tools for native binaries, JavaScript/Electron apps, and .NET assemblies, with evidence provenance and explicit analysis limitations.
 - **[Pinthread](https://pinthread.dev/mcp-server/)** – Website feedback MCP server for coding agents. Reviewers pin threaded comments on live web elements; coding agents read, reply to, and resolve them.
 - **[Zekra](https://github.com/fadymondy/zekra)** – Open-source, self-hostable MCP memory server that gives coding agents (Claude Code, Cursor, Codex) shared long-term memory with hybrid recall and a knowledge graph.
+- **[Oh My Android](https://github.com/ateymoori/oh-my-android)** – MCP server and macOS app that lets AI coding agents see and drive the Android emulator: screenshots and UI tree in dp, taps, dark mode, RTL and logcat.
 
 ---
 
