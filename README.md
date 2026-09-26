@@ -559,6 +559,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[open-bridge](https://github.com/bks-lab/open-bridge)** – Git repo of markdown and YAML that Claude Code, Codex and Copilot CLI read at session start: repos, clients, tasks, daily log and skills in plain text, no database.
 - **[Agent Skill Studio](https://github.com/devilking7x/agent-skill-studio)** – Local-first web app to create, validate, and export AI agent skills (SKILL.md), with one-click install bundles for Claude Code, Codex, Cursor, Copilot, and Gemini CLI. Free, open source (MIT), runs entirely in the browser — [live demo](https://devilking7x.github.io/agent-skill-studio/).
 - **[Agent Cat](https://agentcat.app)** – Free local-first menu-bar app for macOS and Windows that tracks usage and rate limits across Claude Code, Codex, Gemini, Grok, Kimi, Copilot and Cursor.
+- **[ILoveNotch](https://github.com/niyamvora/ILoveNotch)** – Free, open-source macOS notch app that tracks Claude Code, Codex, Cursor and Copilot plan limits with reset countdowns and alerts.
 
 ---
 
