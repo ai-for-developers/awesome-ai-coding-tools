@@ -387,6 +387,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[rung](https://github.com/rung-dev/rung)** – Deterministic, AI-free CI gate that checks whether an AI coding agent ran the checks it claims: reads an evidence bundle from the real run and passes or blocks the build. Ships as a GitHub Action, CLI, and agent-agnostic skill.
 - **[squirrelscan](https://squirrelscan.com)** – CLI website audit tool built for coding agents (Claude Code, Cursor). Runs 260+ rules across SEO, performance, security, accessibility and agent experience, and hands the agent exact, source-mapped fixes. Free local audits, GitHub Action, MCP server.
 - **[Supercov](https://github.com/supercorp-ai/supercov)** – Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
+- **[verify-gate](https://github.com/elijahmanlockedin112/verify-gate-hook)** – Claude Code Stop hook that runs your test command whenever the agent tries to finish and sends the failures back until they pass. Skips unchanged trees, caps retries, stdlib Python, MIT.
 
 ---
 
