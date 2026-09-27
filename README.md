@@ -400,6 +400,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Reflex](https://github.com/reflex-search/reflex)** – Local-first full-text code search engine with MCP server and JSON output built for AI coding agents.
 - **[CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code)** – AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce coding-agent context usage.
 - **[Code Context](https://github.com/infino-ai/code-context)** – Local code search for AI coding agents: hybrid keyword + semantic search with SQL relevance ranking over a plain-file index (CLI and MCP server). No accounts, keys, or server.
+- **[Carrick](https://carrick.tools)** – Indexes TypeScript codebases across services and repos so AI coding agents search existing code by intent and see every route, type, and consumer before writing new code.
 
 ---
 
