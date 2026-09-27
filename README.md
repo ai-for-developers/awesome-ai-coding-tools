@@ -553,7 +553,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LocalAI](https://localai.io/)** – Open-source OpenAI-compatible API for running models locally without GPU.
 - **[Diffron](https://github.com/Tetramatrix/diffron)** – Git commit message and PR description generator using AMD Lemonade via lemonade-python-sdk. 
 - **[Atomic Agent](https://atomicagent.io/docs)** – Terminal coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with agentic tool use and local memory built in.
-- **[Unified AI System](https://github.com/happy520ai/unified-ai-system)** – Apache-2.0 self-hosted gateway in front of local and hosted models: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact + semantic cache, audit trail, and an stdio MCP server with reverse governance — ships a deterministic local fake provider, so the whole surface is testable with no GPU and no API key.
+- **[Unified AI System](https://github.com/happy520ai/unified-ai-system)** – Apache-2.0 self-hosted gateway in front of local and hosted models: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact + lexical-approximate cache, audit trail, and an stdio MCP server with reverse governance — ships a deterministic local fake provider, so the whole surface is testable with no GPU and no API key.
 
 ---
 
