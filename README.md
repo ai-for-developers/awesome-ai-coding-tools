@@ -248,6 +248,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[toldya](https://github.com/singhlabsdev/toldya)** – Reads your own messages in local Claude Code history, finds the corrections you keep repeating, and writes them into CLAUDE.md or AGENTS.md after per-rule approval; later runs count each rule before vs since. Zero dependencies, no network calls, MIT. `npx toldya`
 - **[saver-audit](https://github.com/VladUZH/saver-audit)** – Local CLI (`npx saver-audit`) that breaks down Claude Code and Codex token spend with cache-aware pricing and measures what installed token savers such as rtk and headroom would have removed from past sessions. MIT.
 - **[since-cutoff](https://github.com/MohammadHijjawi97/since-cutoff)** – Finds which APIs of your pinned Python dependencies changed after a coding model's training cutoff, tests whether the model gets them wrong, and writes AGENTS.md/CLAUDE.md notes kept only if a type checker verifies them. `uvx since-cutoff scan` needs no API key. MIT.
+- **[bough](https://github.com/nickelsec/bough)** – Reads local Claude Code, Codex CLI and Pi session history and maps it into tasks, showing the prompts, files, commits, keyboard time and token cost behind each piece of work.
 
 ---
 
