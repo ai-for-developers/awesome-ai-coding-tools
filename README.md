@@ -183,6 +183,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Coven](https://github.com/OpenCoven/coven)** – Local-first runtime for project-scoped AI coding-agent sessions: a daemon and CLI that run Codex, Claude Code, and other harnesses inside explicit project-root boundaries, with PTY sessions, SQLite-persisted history, and a versioned local socket API. Open source (MIT).
 - **[Coven Cave](https://github.com/OpenCoven/coven-cave)** – Desktop control room for AI coding-agent sessions, persistent agents, memory, workflows, and GitHub triage. Tauri + Next.js on macOS, Windows, and Linux, plus a native iOS client. Open source (MIT or AGPL-3.0).
 - **[Raven](https://github.com/EverMind-AI/Raven)** – Open-source (Apache-2.0) host agent that plans a complex task as a DAG and runs its built-in Raven-Code agent alongside CLI coding agents such as Claude Code, Codex, OpenCode, Qwen Code, Kimi Code, and GitHub Copilot as subagents over ACP, from a terminal UI or WebUI.
+- **[PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis)** – Open-source desktop app for Windows, macOS, and Linux that runs CLI coding agents such as Claude Code, Codex, Gemini CLI, and OpenCode side by side in terminal panes with Git worktrees, together with a chat and voice assistant and background agents.
 
 ---
 
