@@ -719,6 +719,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SkillAgent](https://skillagent.dev)** – Free searchable directory of ~3,500 AI agent skills, rules files (SKILL.md, CLAUDE.md, AGENTS.md, .cursorrules) and MCP servers indexed hourly from GitHub, with safety scans, freshness checks, quality scores and a no-auth remote MCP server (`https://skillagent.dev/mcp`).
 - **[Mnemoverse](https://github.com/mnemoverse/mcp-memory-server)** – Hosted memory for coding agents over MCP. Report that a recalled memory helped or misled, and it re-ranks what comes back next. Shared rooms and a free tier; one key or OAuth across Claude Code, Cursor, VS Code and ChatGPT.
 - **[coven-scout](https://github.com/OpenCoven/coven-scout)** – Sandboxed Rust MCP server for filesystem and web operations: path allowlist, fetch-to-Markdown, diffs, checksums, and archives in a single static binary. Free and open source (MIT).
+- **[DropTheHassle](https://dropthehassle.com)** – MCP server and CLI that let Claude Code, Cursor or Windsurf put your site on a free HTTPS link, or on a .com for €19/$19 that goes live with no DNS. Your AI never spends money.
 
 ---
 
