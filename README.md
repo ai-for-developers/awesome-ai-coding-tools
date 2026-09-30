@@ -188,6 +188,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[ANUS](https://github.com/anus-dev/anus)** – Free terminal coding agent that runs every request on the smartest free model that is up today, and switches when one hits its limit. MIT.
 - **[Backseat](https://github.com/darek225/backseat)** – Open-source VS Code extension and git/JSON protocol that lets Muse, Grok, or any shell-capable agent queue coding tasks from a phone to Cline on your PC and get results back through a private bridge repo.
 - **[idea-to-blueprint](https://github.com/iniesohidham/idea-to-blueprint)** – Agent skill for Claude Code, Codex and claude.ai that turns a raw idea into one evidence-backed build spec (web-researched stack with pinned versions, epics, Given/When/Then acceptance criteria, tests), then has the agent build one epic per fresh session.
+- **[AGRO](https://github.com/mifunedev/agro)** – Durable Docker workspace for AI coding agents on your laptop or a remote VM. Work continues after the terminal disconnects, parallel agents use separate git worktrees, and you choose the harness: Claude Code, Codex, Pi, OpenCode, T3 Code, and others. Apache-2.0.
 
 ---
 
