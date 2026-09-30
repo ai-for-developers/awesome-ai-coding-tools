@@ -411,6 +411,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code)** – AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce coding-agent context usage.
 - **[Code Context](https://github.com/infino-ai/code-context)** – Local code search for AI coding agents: hybrid keyword + semantic search with SQL relevance ranking over a plain-file index (CLI and MCP server). No accounts, keys, or server.
 - **[Carrick](https://carrick.tools)** – Indexes TypeScript codebases across services and repos so AI coding agents search existing code by intent and see every route, type, and consumer before writing new code.
+- **[Sunstone](https://marketplace.visualstudio.com/items?itemName=SunstoneNorth.sunstone)** – VS Code extension that indexes the folders you open, on your machine, and gives any model in the chat picker, Copilot's included, a tool to search them; your own model servers can join the picker too.
 
 ---
 
