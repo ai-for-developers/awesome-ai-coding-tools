@@ -613,6 +613,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
 - **[Omnigraph](https://github.com/ModernRelay/omnigraph)** – Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 - **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway providing OpenAI-compatible access to Claude, GPT, Gemini, and 30+ models. Pay-as-you-go pricing with one-line config for Claude Code, Cursor, and other AI coding tools.
+- **[Gemmein](https://gemmein.com/r/dir)** – Backend for web and mobile apps with sign-in, protected data, payments, and AI tools.
 
 ---
 
