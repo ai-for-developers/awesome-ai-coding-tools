@@ -83,6 +83,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/)** – Real-time AI code suggestions with security scanning. *(Now part of Amazon Q Developer)*
 - **[CodeGeeX](https://codegeex.cn/)** – Open-source multilingual code generation model.
 - **[Supermaven](https://supermaven.com/)** – Ultra-fast completions with 1M token context window.
+- **[twinny](https://twinny.dev/)** – Free, open-source VS Code extension for code completion, chat and code review with local models (Ollama, LM Studio, llama.cpp) or hosted APIs; no account or telemetry.
 
 ---
 
