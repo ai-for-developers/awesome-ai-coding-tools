@@ -590,6 +590,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[echo agent](https://echoagent.dev/)** – macOS voice agent: press Fn+Space in any app and say the task, and it runs in your local Claude Code or Codex CLI in the background, with on-device speech recognition.
 - **[ashlr-plugin](https://github.com/ashlrai/ashlr-plugin)** – Open-source Claude Code and Codex plugin with 40 MCP tools that replace high-volume Read, Grep, Edit and Bash calls with versions that return less output; the repo’s reproducible benchmark reports 57% fewer tokens on vercel/ai, pandas and tokio.
 - **[Selvedge](https://github.com/masondelan/selvedge)** – Local MCP server and CLI that saves code decisions, rejected approaches, and revisit conditions in SQLite for retrieval across AI coding sessions.
+- **[QuotaDock](https://github.com/jungdosa/QuotaDock)** – Always-on-top Windows widget showing how much of your Claude Code, Codex and Antigravity session and weekly quota is left, and when each resets. Uses the sign-ins those tools already have; free, MIT, no telemetry.
 
 ---
 
