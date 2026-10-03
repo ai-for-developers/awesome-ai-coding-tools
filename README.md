@@ -741,6 +741,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp)** – MCP server that gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1). Runs offline.
 - **[8B AI Website Builder](https://8b.com/mcp/)** – Remote MCP server, no account or API key: the coding agent picks an 8B generated design, writes the copy and gets an animated one-page site as a preview link and one HTML file.
 - **[AgentHub](https://myagenthub.cn)** – Chinese directory of MCP servers and agent skills with one-click install for Cursor, Claude Code, VS Code, Trae.
+- **[Atomic Reps](https://atomicreps.com)** – MCP server for Claude Code, GitHub Copilot, Cursor, Codex and any MCP client. After your coding agent finishes a task, it asks you questions on the libraries and concepts the agent just used, answered from memory. Sends topic names, never your code. Free account; install with `npx atomicreps`.
 
 ---
 
