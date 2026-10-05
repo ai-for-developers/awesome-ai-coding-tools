@@ -279,6 +279,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** – Open-source framework for building custom AI copilots, chatbots, and text areas into React apps.
 - **[Freepik](https://www.freepik.com/)** – AI design platform with image generation and mockup tools for UI designers.
 - **[StyleSeed](https://github.com/bitjaru/styleseed)** – Design engine that makes Claude Code & Cursor produce professional UI — 33 components, 69 design rules, 8 brand skins, and a named framer-motion motion system.
+- **[Figma Maxxing](https://github.com/thiagoxikota/figma-maxxing)** – Agent skills for real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, and a handoff gate. Installs in Claude Code, Codex, Copilot CLI, and Gemini CLI. MIT.
 
 ---
 ## Code Review and Refactoring
