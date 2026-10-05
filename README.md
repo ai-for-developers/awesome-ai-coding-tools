@@ -198,6 +198,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Mixdog](https://github.com/tribgames/mixdog)** – Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review.
 - **[Rovai AI](https://github.com/murray17/rovai-ai)** – Open-source workspace that organizes Claude Code, Codex CLI, and other coding agents into persistent teams with shared conversations, task delegation, execution review, and collaborative memory.
 - **[Claude Code Remote](https://github.com/seeknull/claudecode-remote)** – Self-hosted web UI for driving Claude Code on one machine from a browser on any other, including a live view of sessions already running from the CLI or VS Code.
+- **[Hivemeld](https://www.hivemeld.ai/buy?plan=annual&utm_source=ai4dev_coding_tools&utm_medium=directory&utm_campaign=GRO-105)** – Hosted coding-agent platform that runs teams of autonomous engineering agents on your real backlog: each picks up issues, works in an isolated workspace, opens a pull request, and ships continuously.
 
 ---
 
