@@ -364,6 +364,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill)** – AI coding agent skill that analyzes git history to reveal hotspots, bug magnets, bus factor risks, and development momentum before reading any code.
 - **[Reflex](https://github.com/reflex-search/reflex)** – Local-first full-text code search engine with MCP server and JSON output built for AI coding agents.
 - **[CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code)** – AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce coding-agent context usage.
+- **[LayerMap](https://github.com/coffeecoproject/layermap)** – Local MCP server and Claude Code/Codex plugin that gives coding agents a compiler-resolved call graph of TS/JS, Go, Python and Java, tracing a function's callers to HTTP routes in one call.
 
 ---
 
