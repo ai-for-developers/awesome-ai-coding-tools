@@ -757,6 +757,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AgentHub](https://myagenthub.cn)** – Chinese directory of MCP servers and agent skills with one-click install for Cursor, Claude Code, VS Code, Trae.
 - **[Atomic Reps](https://atomicreps.com)** – MCP server for Claude Code, GitHub Copilot, Cursor, Codex and any MCP client. After your coding agent finishes a task, it asks you questions on the libraries and concepts the agent just used, answered from memory. Sends topic names, never your code. Free account; install with `npx atomicreps`.
 - **[mcptools.si](https://mcptools.si)** – Curated directory of Model Context Protocol servers. Filter by tag.
+- **[Slop Store](https://slopapp.store/agents)** – Remote MCP server (and Claude Code plugin) that publishes an app your coding agent built so anyone can play it in the browser; the first publish needs no key. Free.
 
 ---
 
