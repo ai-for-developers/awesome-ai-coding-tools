@@ -576,6 +576,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[DownForAI](https://downforai.com/)** – Real-time status monitoring for 800+ AI services including ChatGPT, Claude, Gemini, Midjourney, and Groq. Tracks uptime, latency, and community outage reports.
 - **[KubeStellar Console](https://github.com/kubestellar/console)** – Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) enabling AI coding agents to query and manage clusters via natural language.
 - **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** – Context and token-cost optimizer for AI coding agents. Finds wasted "ghost tokens," survives compaction, and reduces context-quality decay, with native plugins for Claude Code, Codex, OpenCode, and OpenClaw.
+- **[SuperPlane](https://github.com/superplanehq/superplane)** – Open source software factory that coordinates coding agents, source control, CI, review, approvals and feedback to turn routine engineering work into review-ready pull requests.
 
 ---
 
