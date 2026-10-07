@@ -613,6 +613,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Caprock](https://github.com/dspv/caprock)** – Local, open-source dashboard for Claude Code, Codex and OpenCode sessions: live activity, cost per repository and model, plan-limit windows, loop alerts and searchable history. Single Go binary, no telemetry.
 - **[byagent](https://byagent.dev)** – CLI and agent skill that publish Markdown or HTML from coding agents as shareable links, with line comments the next agent run reads back. Free.
 - **[cliproxy-rs](https://github.com/vayungodara/cliproxy-rs)** – Local proxy that puts your API keys for several providers behind one endpoint for Claude Code, Codex CLI, Gemini CLI, OpenCode and other tools. It translates between the Anthropic, OpenAI and Gemini APIs, retries on another key after a 429, and lets Codex CLI use Chat Completions-only providers such as OpenCode Go. Rust port of CLIProxyAPI, MIT.
+- **[Lockpaw](https://getlockpaw.com/)** – Open-source macOS menu-bar screen guard for AI coding agents: a hotkey covers the screen without sleeping the Mac, agents keep running even with the lid closed, and the locked screen glows when Claude Code, Codex or Gemini CLI needs you.
 
 ---
 
