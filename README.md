@@ -553,6 +553,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LocalAI](https://localai.io/)** – Open-source OpenAI-compatible API for running models locally without GPU.
 - **[Diffron](https://github.com/Tetramatrix/diffron)** – Git commit message and PR description generator using AMD Lemonade via lemonade-python-sdk. 
 - **[Atomic Agent](https://atomicagent.io/docs)** – Terminal coding agent that runs open-weight models entirely on your machine through a llama.cpp fork, with agentic tool use and local memory built in.
+- **[Rapid-MLX](https://rapidmlx.com/)** – Run language models on Apple Silicon with OpenAI- and Anthropic-compatible local APIs and tool calling for coding agents.
 
 ---
 
