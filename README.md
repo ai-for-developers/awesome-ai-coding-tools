@@ -381,6 +381,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Manifest API Bot](https://manifest.build/api-bot/)** – GitHub App that watches the third-party APIs your code calls and opens a pull request with an LLM-written fix when one of them changes.
 - **[Bubo](https://github.com/mountainowl/bubo)** – Self-hosted open-source AI code reviewer for GitHub and GitLab that posts evidence-backed findings and learns from maintainer outcomes to reduce repository-specific noise.
 - **[Aevral](https://aevral.com)** – GitHub App that reviews pull requests for security flaws (access control, business logic, injection, XSS, SSRF, path traversal, LLM integrations) and posts an advisory Check with inline comments. Free on public repositories up to 500 PR reviews per org per month.
+- **[Peekumi](https://github.com/tee-jagz/peekumi)** – Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code.
 
 ---
 
