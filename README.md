@@ -263,6 +263,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Cactal](https://cactal.ai)** – Cactal is the website platform for AI agents. Connect Claude Code, Cursor, or anything that speaks MCP, and your agent gets the tools to design, build, host, and operate production websites: source code, CMS, assets, domains, analytics, and publishing.
 - **[Taskade Genesis](https://www.taskade.com/create)** – Prompt-to-app builder for live portals, CRMs, and dashboards with agents and automations.
 
+- **[Vibld](https://vibld.com)** – Open-source AI app builder that generates plain React, TypeScript and Vite apps you can publish to GitHub, Cloudflare or Docker.
+
 ---
 
 ## UI Generators
