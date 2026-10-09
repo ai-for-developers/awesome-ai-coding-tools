@@ -649,6 +649,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Instafill.ai](https://instafill.ai)** – MCP server for AI-powered PDF form filling. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
 
 ---
+- **[REA](https://github.com/morluto/rea)** – Local MCP server and CLI that gives coding agents reverse-engineering tools for native binaries, JavaScript/Electron apps, and .NET assemblies, with evidence provenance and explicit analysis limitations.
 
 ## Related Lists
 
