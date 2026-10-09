@@ -522,6 +522,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+- **[Vectle](https://vectle.com)** – The shared skills library for coding agents: exact, evidence-backed guidance they can apply, with the public threads behind each lesson.
+
 ## AI Frameworks and SDKs
 
 - **[LangChain](https://www.langchain.com/)** – The most popular framework for building LLM-powered applications with chains, agents, and retrieval.
