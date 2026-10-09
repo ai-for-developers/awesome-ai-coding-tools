@@ -618,6 +618,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Lockpaw](https://getlockpaw.com/)** – Open-source macOS menu-bar screen guard for AI coding agents: a hotkey covers the screen without sleeping the Mac, agents keep running even with the lid closed, and the locked screen glows when Claude Code, Codex or Gemini CLI needs you.
 - **[Vexilo Code](https://vexilo.app)** – Native macOS app that ranks installed Claude Code skills and agents by estimated per-turn token cost, generates a cleanup prompt for Claude Code, and includes a curated catalog of 295 tools with on-device Apple Intelligence recommendations. Read-only, on-device; catalog and search free, full app $19.99 one-time after a 7-day trial; closed source.
 - **[aisw](https://github.com/burakdede/aisw)** – Open-source CLI (MIT) that saves Claude Code, Codex CLI, Gemini CLI and Antigravity CLI logins as named profiles and switches accounts in one command, with cross-tool contexts and per-repository account guards. Docs at [aiswitcher.dev](https://aiswitcher.dev).
+- **[Helicon](https://github.com/HarjjotSinghh/helicon)** – Free, open-source (MIT) desktop app (Windows, macOS, Linux) and VS Code extension for Meta's Muse Code CLI: threads from every project in one sidebar, inline diffs, one-at-a-time approvals, workflows, side chats, SSH projects and per-thread usage costs. Try it in the browser at [helicon.sh/try](https://helicon.sh/try). Unofficial, not affiliated with Meta.
 
 ---
 
