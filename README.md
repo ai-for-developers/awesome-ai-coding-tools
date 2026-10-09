@@ -540,6 +540,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Respan](https://www.respan.ai/ai-gateway)** – Full-stack AI engineering platform with a tracing SDK, evals, prompt management, and a gateway to 250+ models.
 - **[Markstream Vue](https://markstream-vue.simonhe.me/)** – MIT-licensed streaming Markdown renderer for AI chat interfaces, with Mermaid, KaTeX, SSR, and Vue, React, Svelte, and Angular integrations.
 - **[AIWG](https://github.com/jmagly/aiwg)** – Deploys reusable agents, skills, and governed workflows across multiple AI coding platforms.
+- **[onomeo](https://onomeo.com/)** – OpenAI-compatible API gateway with about 20 free models (DeepSeek, GLM, Gemini, Qwen, Mistral) and pay-as-you-go Claude and GPT, with setup guides for Cline, OpenCode, Aider and Zed. Public beta.
 
 ---
 
