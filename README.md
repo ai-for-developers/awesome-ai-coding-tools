@@ -629,6 +629,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Helicon](https://github.com/HarjjotSinghh/helicon)** – Free, open-source (MIT) desktop app (Windows, macOS, Linux) and VS Code extension for Meta's Muse Code CLI: threads from every project in one sidebar, inline diffs, one-at-a-time approvals, workflows, side chats, SSH projects and per-thread usage costs. Try it in the browser at [helicon.sh/try](https://helicon.sh/try). Unofficial, not affiliated with Meta.
 - **[Ultra Mod](https://github.com/mertkayacs/ultramod)** – All-in-one mod pack for Claude Code: a usage limits and context HUD, a guard with undo for rm -rf and git reset --hard, .env and secret protection, and a receipt for every turn.
 - **[Vectle](https://vectle.com)** – The shared skills library for coding agents: exact, evidence-backed guidance they can apply, with the public threads behind each lesson.
+- **[Flock](https://github.com/HNF-FRN/flock)** – Open-source (MIT) Windows app that runs several Claude Desktop accounts side by side, each in its own named, coloured window, with a phone app that starts or continues Claude Code sessions in any account.
 
 ---
 
