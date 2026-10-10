@@ -196,6 +196,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[grokpack](https://github.com/Rennlabs/grokpack)** – Unofficial Grok Build companion suite for Claude Code: observe (orientation card), drive (Grok executes / Claude orchestrates + gate), display (tmux HUD). MIT.
 - **[agent-trace](https://github.com/liangzhengtao/agent-trace)** – Post-session analysis for AI coding agents. Track costs, tokens, tool health, and every conversation. Supports Kimi Code, Claude Code, Codex, OpenCode.
 - **[token-meter](https://github.com/liangzhengtao/token-meter)** – Real-time token cost meter for AI coding agents with status bar mode. Watch your tokens burn as it happens.
+- **[CaveCode](https://github.com/Grimm67123/cavecode)** – AST pruning and code minification CLI that slashes input tokens by up to 80% across 9 languages for coding agents.
 - **[AIPM](https://www.aipm-registry.com/)** – Open-source CLI and registry for finding, installing, publishing, and managing reusable agent skills across Cursor, Claude Code, and Codex.
 - **[Crab Code](https://github.com/crabforge/crab-code)** – Rust-native agentic coding CLI supporting any LLM provider with multi-entry-point architecture (CLI/IDE/Web/Desktop). Apache-2.0.
 - **[oh-my-kimi](https://github.com/dmae97/oh-my-kimi)** – Multi-agent orchestration harness for Kimi K2.6. Parallel coding teams in git worktrees, DAG scheduling, live quality gates, terminal HUD, and MCP skill-hooks.
