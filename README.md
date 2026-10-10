@@ -262,6 +262,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[KI-App-Bauplan](https://agentic-coder.de/tools/ki-app-bauplan)** – Free guided planner that turns an app idea into a focused MVP scope, risk review, seven-step build plan, and a starter prompt for Cursor, Claude Code, or Codex.
 - **[Cactal](https://cactal.ai)** – Cactal is the website platform for AI agents. Connect Claude Code, Cursor, or anything that speaks MCP, and your agent gets the tools to design, build, host, and operate production websites: source code, CMS, assets, domains, analytics, and publishing.
 - **[Taskade Genesis](https://www.taskade.com/create)** – Prompt-to-app builder for live portals, CRMs, and dashboards with agents and automations.
+- **[OMEGA](https://omegajs.dev/)** – Framework that builds a website, backend, desktop app and browser extension from one config file, with a Claude Code plugin whose skills start a new project and keep the agent on current conventions.
 
 ---
 
