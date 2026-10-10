@@ -276,6 +276,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sprag](https://github.com/rootstudioyaml/sprag)** – Open-source CLI that cuts Claude Code and Codex token spend: routes lookups and test runs to cheaper sub-agent models, converts pptx/xlsx/pdf/docx to compact Markdown, and shows cost and savings in the statusline.
 - **[ReevesAgents](https://github.com/mertkayacs/reevesagents)** – Runs Claude Code, Codex, OpenCode, Kimi, Qwen, Aider, and other coding CLIs side by side in tmux, with a TUI, a local Web UI, and an opt-in MCP server so one agent can spawn, read, and steer the others. Free, Apache-2.0.
 - **[nsq](https://github.com/glmn-ai/neurosquad-cli)** – Open-source CLI that runs Claude Code, Codex, OpenCode, or any command side by side in one terminal, with status from each CLI's own hooks (working / needs you / finished), y/a/n answers without opening the agent, a worktree per agent, and per-agent cost. `npx neurosquad`, MIT.
+- **[agentckpt](https://github.com/Blackman99/agentckpt)** – Zero-dependency CLI that checkpoints the working tree (tracked and untracked files) into a private shadow store while coding agents (Codex, Claude Code, Gemini CLI, OpenCode, Cursor) run, and restores any snapshot without touching your git branches or index. Open-source (MIT).
 
 ---
 
