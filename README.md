@@ -222,6 +222,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tuff](https://tuffcli.dev)** – Rust-based CLI for managing coding-agent capabilities (skills, tools, hooks, workflows, MCP servers) from a canonical manifest — install, track provenance, catch config drift, and emit harness-specific output for Claude Code, Codex, and others.
 - **[agent-top](https://agenttop.dev)** – Terminal dashboard (`htop`-style) for monitoring multiple coding-agent sessions at once — status, token usage, cost, and associated processes for Claude Code, Codex, Gemini CLI, and more.
 - **[Webcmd](https://github.com/agentrhq/webcmd)** – Self-learning browser infrastructure CLI for coding agents; learns a site once, then reuses it as deterministic per-site commands.
+- **[ReevesAgents](https://github.com/mertkayacs/reevesagents)** – Runs Claude Code, Codex, OpenCode, Kimi, Qwen, Aider, and other coding CLIs side by side in tmux, with a TUI, a local Web UI, and an opt-in MCP server so one agent can spawn, read, and steer the others. Free, Apache-2.0.
 
 ---
 
