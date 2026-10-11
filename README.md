@@ -222,6 +222,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tuff](https://tuffcli.dev)** – Rust-based CLI for managing coding-agent capabilities (skills, tools, hooks, workflows, MCP servers) from a canonical manifest — install, track provenance, catch config drift, and emit harness-specific output for Claude Code, Codex, and others.
 - **[agent-top](https://agenttop.dev)** – Terminal dashboard (`htop`-style) for monitoring multiple coding-agent sessions at once — status, token usage, cost, and associated processes for Claude Code, Codex, Gemini CLI, and more.
 - **[Webcmd](https://github.com/agentrhq/webcmd)** – Self-learning browser infrastructure CLI for coding agents; learns a site once, then reuses it as deterministic per-site commands.
+- **[twinlane](https://github.com/mmelqadi/twinlane)** – Run Claude Code and Codex CLI together on included subscriptions: one usage meter, failover before a limit hits, background workers in git worktrees with receipts.
 
 ---
 
@@ -602,6 +603,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[gate.cat](https://github.com/BGMLAI/gate.cat)** – Deterministic, fail-closed action veto for AI coding agents that blocks irreversible shell commands (rm -rf, DROP TABLE, terraform destroy) and secret exfiltration before they run, with no LLM in the veto path. Works as a Claude Code hook, a gated shell for any CLI agent, or a local OpenAI-API proxy.
 - **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** – Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; detects prompt injection, credential theft, and manifest drift.
 - **[Speakeasy](https://www.speakeasy.com/product/ai-control-plane)** – Enterprise AI control plane for governing access, policy, and auditability across agents, MCP servers, and Skills.
+- **[crashdummy](https://github.com/mmelqadi/crashdummy)** – Crash-tests the guard hook of an AI coding agent with evasive destructive commands and harmless twins; reports caught, missed and false alarms without executing anything.
 
 ---
 
