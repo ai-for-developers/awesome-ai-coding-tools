@@ -635,6 +635,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Ultra Mod](https://github.com/mertkayacs/ultramod)** – All-in-one mod pack for Claude Code: a usage limits and context HUD, a guard with undo for rm -rf and git reset --hard, .env and secret protection, and a receipt for every turn.
 - **[Vectle](https://vectle.com)** – The shared skills library for coding agents: exact, evidence-backed guidance they can apply, with the public threads behind each lesson.
 - **[Flock](https://github.com/HNF-FRN/flock)** – Open-source (MIT) Windows app that runs several Claude Desktop accounts side by side, each in its own named, coloured window, with a phone app that starts or continues Claude Code sessions in any account.
+- **[Masaka for Codex](https://github.com/masakaai/codex-multiple-env)** – Open-source manager for keeping Personal, Business, and Enterprise Codex accounts and workspaces isolated in separate `CODEX_HOME` profiles, showing official usage windows, and selecting the next native Codex process without copying credentials or bypassing quotas.
 
 ---
 
