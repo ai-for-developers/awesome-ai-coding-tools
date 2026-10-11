@@ -429,6 +429,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[verify-gate](https://github.com/elijahmanlockedin112/verify-gate-hook)** – Claude Code Stop hook that runs your test command whenever the agent tries to finish and sends the failures back until they pass. Skips unchanged trees, caps retries, stdlib Python, MIT.
 - **[Sedum](https://github.com/sedum-dev/sedum)** – Open-source CLI that runs plain-English browser tests on Playwright and writes Markdown failure reports for coding agents to fix.
 - **[VibeFix](https://vibe-fixer.com/)** – Free check: an AI agent tries your live web app like a new user and shows what breaks. On request it reviews your code independently (VibeFix isn't part of any app builder), fixes it and re-checks it live. Remote MCP server at https://vibe-fixer.com/mcp.
+- **[show-your-work](https://github.com/iamumeransari/claude-show-your-work)** – Claude Code plugin that shows screenshots and Playwright recordings of the agent's work inline in the terminal (Ghostty, kitty), with synced side-by-side before/after QA. Free and open source.
 
 ---
 
