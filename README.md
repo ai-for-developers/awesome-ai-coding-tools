@@ -396,6 +396,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Verifier](https://github.com/Aurite-ai/agent-verifier)** – Agent skill and Claude Code plugin that reviews AI agent code for hardcoded secrets, infinite loops, unbounded retries, hallucinated tool calls, and oversized prompts, with a file:line report.
 - **[PR Manager](https://github.com/amitbet/pr-manager)** – Desktop app and CLI that sorts each change in a pull request by how much human review it needs (human, skim, auxiliary, none), walks through the important changes first, shows them on a code map, and fixes found issues on a local branch. Runs on a Claude Code or Codex subscription, or API keys.
 - **[Tently](https://tently.dev)** – AI code reviewer for GitHub pull requests that catches regressions in code outside the diff and changes that break the team's architectural decisions, learned from past PRs, review threads and docs. Ships an [MCP server](https://github.com/tently-team/tently-mcp) so Claude Code, Cursor and Codex check the same decisions while they write.
+- **[HeyDeer](https://heydeer.ai/)** – AI code review for GitHub pull requests with finding verification and fix PRs; free tier available for individuals and teams, including private repositories.
 
 ---
 
