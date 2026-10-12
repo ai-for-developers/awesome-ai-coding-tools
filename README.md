@@ -328,6 +328,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Playwright](https://playwright.dev/)** – Microsoft's end-to-end testing framework (often used with AI-powered test generation).
 - **[Qodo](https://www.qodo.ai/)** – AI-powered test generation and code quality assurance.
 - **[DiffBlue Cover](https://www.diffblue.com/)** – AI-generated unit tests for Java applications.
+- **[Endtest](https://endtest.io/)** – Agentic AI test automation for web and mobile applications with autonomous test generation, codeless editing, self-healing, and CI/CD integrations.
 - **[Testim](https://www.testim.io/)** – AI end-to-end testing with self-healing locators.
 - **[TestRigor](https://testrigor.com/)** – Plain English test automation with self-healing.
 - **[Mabl](https://www.mabl.com/)** – AI-native test automation with auto-healing and visual testing.
