@@ -651,6 +651,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[brethof-brain](https://brethof.ai/brain/)** – Long-term memory for AI coding agents (Claude Code, Codex, Gemini CLI, Copilot CLI, OpenCode, Cline and 14 more), local or hosted: it searches by itself with every prompt and hands the agent the matching records and rules before it answers, keeps every decision with its date and reason, and opens each session with where the last one stopped. Source-available client, free plan.
 - **[QuotaBurn](https://quotaburn.com/)** – Tracks plans, usage limits and per-token API prices for Claude Code, Cursor, Codex, Copilot and others, with source links and a monthly cost calculator.
 - **[Lidnight](https://lidnight.app/en/)** – macOS menu bar app that keeps a MacBook awake with the lid closed while Claude Code, Codex and other agents work, sleeps when they finish, and lets you answer Claude Code permission prompts from the notch or your phone.
+- **[Pairfob](https://github.com/arronKler/pairfob)** – Open-source Herdr plugin to control Claude Code, Codex, and Grok CLI sessions from any phone browser via QR pairing, end-to-end encrypted, no app or account.
 
 ---
 
