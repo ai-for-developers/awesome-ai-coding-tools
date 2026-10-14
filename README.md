@@ -653,6 +653,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Lidnight](https://lidnight.app/en/)** – macOS menu bar app that keeps a MacBook awake with the lid closed while Claude Code, Codex and other agents work, sleeps when they finish, and lets you answer Claude Code permission prompts from the notch or your phone.
 - **[Pairfob](https://github.com/arronKler/pairfob)** – Open-source Herdr plugin to control Claude Code, Codex, and Grok CLI sessions from any phone browser via QR pairing, end-to-end encrypted, no app or account.
 - **[nibbl](https://github.com/nuromirzak/nibbl)** – Open-source (MIT) tamagotchi-style pixel pet for Claude Code, drawn as a band above the prompt. Reacts to tool calls, passing checks and commits using hooks, with zero model tokens. Sends only event types and times to getnibbl.pages.dev, never code, prompts or paths.
+- **[Buzzpot](https://buzzpot.app)** – Desktop canvas for Claude Code, Codex, and Grok CLI agents across all your projects. Link tasks into ordered chains, run independent tasks in parallel in per-task Git worktrees with auto-merge, and answer agents from your phone. Runs locally on your existing CLI subscriptions. Closed source, macOS.
 
 ---
 
