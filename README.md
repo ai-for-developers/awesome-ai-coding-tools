@@ -184,6 +184,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Amazon Q Developer CLI](https://docs.aws.amazon.com/amazonq/latest/qdeveloper-ug/command-line.html)** – AI CLI for AWS-related coding and scripting.
 - **[Mentat](https://mentat.ai/)** – AI coding assistant for command-line development.
 - **[TmuxAI](https://tmuxai.dev/)** – AI assistant for automating tmux workflows.
+- **[Latchkey](https://latchkey.dev)** – `latchkey run 'npm test'` runs any command on a fresh Linux runner and returns the real exit code; pre-push verification for humans and coding agents, with an MCP server for reading and fixing CI failures.
 - **[Butterfish](https://butterfi.sh)** – AI tool for enhancing shell productivity with natural language.
 - **[codachi](https://github.com/vincent-k2026/codachi)** – Context window monitor for Claude Code that shows burn rate and time remaining, with an ASCII pet that reacts to your workflow.
 - **[agx](https://github.com/ramarlina/agx)** – Checkpoint-based execution engine for AI coding agents; durable Wake→Work→Sleep loops that resume across sessions. Supports Claude Code, Codex, Gemini CLI, and Ollama.
