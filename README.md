@@ -329,6 +329,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Vibld](https://vibld.com)** – Open-source AI app builder that generates plain React, TypeScript and Vite apps you can publish to GitHub, Cloudflare or Docker.
 - **[iter0](https://iter0.com)** – AI website builder for tech founders: pick a design, edit it, then export the HTML or open a GitHub pull request, with an MCP server so AI agents can build and edit pages too.
 - **[SPOE](https://spoe.ai)** – Private AI app builder that writes full-stack Next.js, Fastify and Postgres apps, reviews every change with a second model, and signs every export so it runs with docker compose up. Free tier.
+- **[Modaal](https://modaal.dev/)** – Mac app that builds native iOS and Android apps in SwiftUI and Jetpack Compose with the AI coding agent you already pay for, from a spec you approve first. Free plan.
 
 ---
 
