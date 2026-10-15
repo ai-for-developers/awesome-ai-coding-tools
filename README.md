@@ -824,6 +824,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Pinthread](https://pinthread.dev/mcp-server/)** – Website feedback MCP server for coding agents. Reviewers pin threaded comments on live web elements; coding agents read, reply to, and resolve them.
 - **[Zekra](https://github.com/fadymondy/zekra)** – Open-source, self-hostable MCP memory server that gives coding agents (Claude Code, Cursor, Codex) shared long-term memory with hybrid recall and a knowledge graph.
 - **[Oh My Android](https://github.com/ateymoori/oh-my-android)** – MCP server and macOS app that lets AI coding agents see and drive the Android emulator: screenshots and UI tree in dp, taps, dark mode, RTL and logcat.
+- **[MoltNode by Chord](https://github.com/tuantqse90/moltnode-mcp)** – Remote MCP server (`https://moltnode.ag/mcp`, no API key) that lets Claude Code, Cursor, Codex and other agents make JSON-RPC calls on 31 blockchains (contract reads, logs, balances) and get DEX swap quotes with unsigned transactions from Chord. Also ships as a Claude Code plugin and a Gemini CLI extension. MIT.
 
 ---
 
