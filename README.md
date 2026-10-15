@@ -681,6 +681,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AIWG](https://github.com/jmagly/aiwg)** – Deploys reusable agents, skills, and governed workflows across multiple AI coding platforms.
 - **[ZergRouter](https://zergrouter.com/)** – Runs DeepSeek 4.1 Flash inside Codex through one Router endpoint without using ChatGPT or Codex subscription quota, with a daily budget per API key.
 - **[onomeo](https://onomeo.com/)** – OpenAI-compatible API gateway with about 20 free models (DeepSeek, GLM, Gemini, Qwen, Mistral) and pay-as-you-go Claude and GPT, with setup guides for Cline, OpenCode, Aider and Zed. Public beta.
+- **[SayGM](https://saygm.com)** – Prepaid LLM API gateway with OpenAI Chat Completions, OpenAI Responses, Anthropic Messages and Gemini endpoints on one key, for GPT, Claude, Gemini and open-weight models.
 
 ---
 
