@@ -170,6 +170,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+- **[claw-kit](https://github.com/chanyuenpang/claw-kit)** – A better harness for beginners that keeps coding-agent plans, tasks and project notes in the repo so long tasks can resume across sessions.
 ## CLI Tools
 
 - **[Warp](https://www.warp.dev/)** – AI-enhanced terminal with smart command suggestions and collaborative workflows.
