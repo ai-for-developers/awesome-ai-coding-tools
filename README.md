@@ -212,6 +212,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Alchemist Coder](https://github.com/Alekla0126/alchemist-coder)** – Open-source (AGPL-3.0) desktop app for macOS, Windows and Linux that runs Claude Code and Codex over ACP with a live tree of agents and subagents, an Arena where up to four agents solve the same task in separate git worktrees, and one searchable history of Claude Code, Codex, Gemini CLI and Grok Build sessions. The free edition runs agents on local models (Ollama, LM Studio).
 - **[SpaceApp](https://github.com/oll4com/spaceapp)** – Open-source (MIT), self-hosted web workspace that runs OpenCode, Codex, Claude Code, Gemini CLI and other coding CLIs side by side in persistent rooms, with MCP servers and managed browser panes.
 - **[AgenC Core](https://github.com/tetsuo-ai/agenc-core)** – Open source terminal coding agent that works with any model provider, including local models. Scored 76.2% on Terminal-Bench 2.1 for $34 with DeepSeek V4.1 Flash.
+- **[Frink](https://github.com/benord-labs/frink)** – Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps.
 
 ---
 
