@@ -404,9 +404,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tently](https://tently.dev)** – AI code reviewer for GitHub pull requests that catches regressions in code outside the diff and changes that break the team's architectural decisions, learned from past PRs, review threads and docs. Ships an [MCP server](https://github.com/tently-team/tently-mcp) so Claude Code, Cursor and Codex check the same decisions while they write.
 - **[HeyDeer](https://heydeer.ai/)** – AI code review for GitHub pull requests with finding verification and fix PRs; free tier available for individuals and teams, including private repositories.
 - **[Pinrail](https://github.com/forgeplane/pinrail)** – Open-source desktop app where coding agents ask for a review before they act, show it in a view made for its content, such as a diff with findings, and get back structured decisions.
+- **[CodeEraser](https://github.com/skymanbp/CodeEraser)** – Refuses the duplicate write before it reaches disk and gates the turn, the commit and the merge against LLM-induced code and document entropy: clone blocks, duplicated docs, dead code, file growth; CLI, GUI, Claude Code plugin with read-only MCP tools; no model in the loop.
 
 ---
-- **[CodeEraser](https://github.com/skymanbp/CodeEraser)** – Refuses the duplicate write before it reaches disk and gates the turn, the commit and the merge against LLM-induced code and document entropy: clone blocks, duplicated docs, dead code, file growth; CLI, GUI, Claude Code plugin with read-only MCP tools; no model in the loop.
 
 ## Testing and QA
 
