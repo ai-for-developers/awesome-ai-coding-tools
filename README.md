@@ -408,6 +408,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[HeyDeer](https://heydeer.ai/)** – AI code review for GitHub pull requests with finding verification and fix PRs; free tier available for individuals and teams, including private repositories.
 - **[Pinrail](https://github.com/forgeplane/pinrail)** – Open-source desktop app where coding agents ask for a review before they act, show it in a view made for its content, such as a diff with findings, and get back structured decisions.
 - **[CodeEraser](https://github.com/skymanbp/CodeEraser)** – Refuses the duplicate write before it reaches disk and gates the turn, the commit and the merge against LLM-induced code and document entropy: clone blocks, duplicated docs, dead code, file growth; CLI, GUI, Claude Code plugin with read-only MCP tools; no model in the loop.
+- **[PR Quorum](https://prquorum.com)** – GitHub App that runs a panel of specialist AI reviewers (correctness, security, architecture), drops duplicate and low-confidence findings, and posts one advisory pull request review. Free tier; paid plans can use your own OpenRouter key.
 
 ---
 
