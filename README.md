@@ -662,6 +662,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[nibbl](https://github.com/nuromirzak/nibbl)** – Open-source (MIT) tamagotchi-style pixel pet for Claude Code, drawn as a band above the prompt. Reacts to tool calls, passing checks and commits using hooks, with zero model tokens. Sends only event types and times to getnibbl.pages.dev, never code, prompts or paths.
 - **[Buzzpot](https://buzzpot.app)** – Desktop canvas for Claude Code, Codex, and Grok CLI agents across all your projects. Link tasks into ordered chains, run independent tasks in parallel in per-task Git worktrees with auto-merge, and answer agents from your phone. Runs locally on your existing CLI subscriptions. Closed source, macOS.
 - **[Ringside](https://github.com/KNIGHT-AI-AV/ringside)** – Free, open-source (MIT) Windows widget that keeps Claude Code and Codex usage limits and reset times in view, read from local logs with no login or API key.
+- **[Harvest Harness](https://harvest-harness.vercel.app)** – A Claude Code method for turning finished sessions into skills, with four free skills (including `crystallize`) and a one-line `curl` install; MIT.
 
 ---
 
