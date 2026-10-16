@@ -658,3 +658,4 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[VibePicks](https://vibepicks-ruddy.vercel.app)** – Use-case rankings of AI dev tools with verified pricing, MCP and open-source status.
