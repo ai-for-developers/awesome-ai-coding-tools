@@ -673,6 +673,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Ringside](https://github.com/KNIGHT-AI-AV/ringside)** – Free, open-source (MIT) Windows widget that keeps Claude Code and Codex usage limits and reset times in view, read from local logs with no login or API key.
 - **[Harvest Harness](https://harvest-harness.vercel.app)** – A Claude Code method for turning finished sessions into skills, with four free skills (including `crystallize`) and a one-line `curl` install; MIT.
 - **[AGENTS.md Generator](https://agentkitco.com/tools/agents-md-generator/)** – Free in-browser generator that writes AGENTS.md plus matching CLAUDE.md, Cursor rule and Copilot instructions files for your stack. No signup; runs client-side.
+- **[AI Stack Picker](https://aibuildersuse.com/stack-picker)** – Free, no-signup quiz that recommends one AI tool per layer (builder or editor, coding agent, backend or hosting) for your project type, budget and skill level, with an estimated monthly cost from vendor-checked prices.
 
 ---
 
