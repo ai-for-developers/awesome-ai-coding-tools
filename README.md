@@ -289,6 +289,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SmartCompact](https://github.com/coffeecoproject/SmartCompact)** – Open-source plugin for Claude Code, Codex and Pi that compacts long agent sessions at a pause after a commit or passing tests instead of near the context limit; in a published 60-task A/B it cut cost 44% with the same test pass rate.
 - **[clausona](https://github.com/larcane97/clausona)** – Switch between Claude Code and Codex accounts and continue the same conversation on the new one, route each run by 5-hour and weekly usage, and manage every account's skills, MCP servers and hooks from one place. Runs as a shell hook, no daemon.
 - **[agy-powerline](https://github.com/wassim-azi/agy-powerline)** – Fast, configurable statusline for the Google Antigravity CLI (`agy`) with live Gemini 5h/7d quota meters, pace markers, context usage, and interactive TUI and [browser](https://agy-powerline.com/configure/) configurators.
+- **[Octomind](https://github.com/muvon/octomind)** – Open-source CLI coding agent that edits files and runs commands through MCP, with multiple model providers and interactive, piped, or daemon sessions.
 
 ---
 
