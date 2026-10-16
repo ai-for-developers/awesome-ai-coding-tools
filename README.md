@@ -658,3 +658,5 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[Awesome AI Research Tools](https://github.com/mahmoudsajjadi/awesome-ai-research-tools)** – Curated catalog of AI tools for scientific literature discovery, citation graphs, LaTeX writing, and research reproducibility.
+- **[AI Coding Stack & GPU VRAM Calculator](https://mahmoudsajjadi.github.io/awesome-ai-coding-tools/)** – Interactive hardware VRAM sizing calculator (8GB–24GB) and 3-tier SWE-bench architecture taxonomy.
