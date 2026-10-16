@@ -167,6 +167,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TaskHandoff](https://docs.thandoff.com/)** – Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines, with per-task workspace isolation, a diff review gate before changes land in your repository, and multi-agent handoff to a human reviewer.
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
+- **[Recoder](https://recoder.xyz)** – Self-hosted desktop app that runs Claude Code, Codex, Cursor, and opencode in parallel, each in an isolated git worktree; compare diffs, converge the best result, and merge through a governed, human-approvable gate that emits a signed, tamper-evident evidence record (SOC 2 / EU AI Act / DORA mapped). BYOK, free tier. The underlying [`recoder-code`](https://github.com/recoderxyz/recoder-code) terminal CLI is open-source (MIT) — `npx recoder-code@latest`.
 
 ---
 
