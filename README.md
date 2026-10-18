@@ -679,6 +679,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Stack Picker](https://aibuildersuse.com/stack-picker)** – Free, no-signup quiz that recommends one AI tool per layer (builder or editor, coding agent, backend or hosting) for your project type, budget and skill level, with an estimated monthly cost from vendor-checked prices.
 - **[LimitWatch](https://codingplanlimits.com)** – Dated change log of usage limits and prices for Claude Code, Codex, Cursor, GLM and Kimi coding plans, with a free JSON feed ([data repo](https://github.com/limitwatch/limitwatch-data)).
 - **[Nowdex](https://nowdex.app)** – Shows remaining usage and reset times for Codex, Claude, Cursor and 10 more AI coding plans in iPhone and iPad widgets, the Mac menu bar and the Windows notification area; free for one account.
+- **[AI Coding Rules Sampler](https://github.com/elirankotzero/ai-coding-rules-sampler)** – Free MIT rules and skills that tell AI coding agents to plan first, follow a security baseline and verify their work; native files for Cursor, Claude Code, Codex, Windsurf and Copilot.
 
 ---
 
