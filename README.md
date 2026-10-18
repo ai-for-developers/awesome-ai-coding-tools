@@ -682,6 +682,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Nowdex](https://nowdex.app)** – Shows remaining usage and reset times for Codex, Claude, Cursor and 10 more AI coding plans in iPhone and iPad widgets, the Mac menu bar and the Windows notification area; free for one account.
 - **[AI Coding Rules Sampler](https://github.com/elirankotzero/ai-coding-rules-sampler)** – Free MIT rules and skills that tell AI coding agents to plan first, follow a security baseline and verify their work; native files for Cursor, Claude Code, Codex, Windsurf and Copilot.
 - **[Quotadex](https://quotadex.com/)** – Tracks prices, usage limits, free tiers and API token prices for AI coding tools and agents, with every number linked to the vendor's official page.
+- **[wp-agent-harness](https://github.com/marcop135/wp-agent-harness)** – Disposable local WordPress for Claude Code, Cursor, and Codex via the official MCP Adapter and Abilities API, with one-command reset.
 
 ---
 
