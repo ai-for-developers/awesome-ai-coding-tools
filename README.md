@@ -215,6 +215,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Frink](https://github.com/benord-labs/frink)** – Desktop-first, open-source (MIT) application for running parallel agents, and multi-step custom workflows triggered by schedules, webhooks or events from tools like Linear and Sentry, across your already-used providers. Workflows can include steps you write yourself in code, alongside agent, command and approval steps.
 - **[Threadlines](https://www.threadlines.dev)** – Open-source desktop app for running coding agents (Claude Code, Codex, OpenCode, Cursor and agents from the ACP registry), where several agents can share one thread and each thread gets its own Git worktree.
 - **[Shikidan](https://github.com/LynchzDEV/shiki)** – Simple cockpit for any AI agent. One chat runs Claude Code, Codex, GLM, Grok or any CLI agent in separate git worktrees, with cross-model review and plugins. Self-hostable, MIT.
+- **[Praex](https://github.com/ailucius/praex-cli)** – Terminal coding agent (MIT, OpenCode fork) that reads the repo, edits files with approval, and runs commands; free hosted model or your own API keys, plus Remote Control to continue a session from your phone.
 
 ---
 
