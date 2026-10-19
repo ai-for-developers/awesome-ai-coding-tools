@@ -399,6 +399,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Codestral](https://mistral.ai/news/codestral)** – Mistral's open-weight model designed for code generation.
 - **[Phi-4 (Microsoft)](https://www.microsoft.com/en-us/research/blog/phi-4-technical-report/)** – Microsoft's lightweight, efficient model family with strong coding performance.
 - **[outsourcerer](https://github.com/alexgreensh/outsourcerer)** – Delegates coding grunt-work to other harnesses and models from the terminal while your main session stays the orchestrator.
+- **[aivs.tv](https://aivs.tv/best-ai-for-coding/)** – Compare coding models and harnesses on identical prompts: 370+ side-by-side outputs collected from X, with reported cost and time.
 
 ---
 
