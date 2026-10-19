@@ -384,6 +384,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CodeAlmanac](https://github.com/AlmanacCode/codealmanac)** – Self-updating repo wiki for AI coding agents that tracks project conversations and context locally, lives in your repo, and is free to use.
 - **[PolicyAI](https://policy-ai-alpha.vercel.app)** – AI-powered legal document generator. Creates GDPR & CCPA compliant Privacy Policy, Terms of Service, and Cookie Policy for developer products in 60 seconds. Free tier available.
 - **[notabene](https://github.com/z29k/notabene)** – Self-hosted docs viewer with Google-Docs-style comments and a human-agent review loop that turns comments into source edits.
+- **[Sf-ForcePack](https://github.com/PranavNagrecha/sf-forcepack)** – Open-source CLI that exports a Salesforce org read-only into a local Markdown/JSON knowledge folder that Claude Code, Cursor, Codex or Copilot can read, with an optional MCP server.
 
 ---
 
