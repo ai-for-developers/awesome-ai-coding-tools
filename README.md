@@ -536,6 +536,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Bifrost](https://getmaxim.ai/bifrost)** – Open-source LLM & MCP Gateway with 20+ providers, governance, loadbalancing and custom plugins.
 - **[FuturMix](https://futurmix.ai)** – Unified AI API gateway for 22+ models with OpenAI-compatible endpoint. Features automatic failover, 99.99% SLA, and cost optimization across OpenAI, Anthropic, and Google models.
 - **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway with OpenAI-compatible API for Claude, GPT, Gemini and 200+ models. Pay-per-use pricing with Alipay/WeChat support, designed for developers using Claude Code and Cursor.
+- **[CatCatCode](https://catcatcode.com/)** – Beginner-friendly GPT & Claude API access without VPN or overseas billing hassle. One dashboard for keys and usage; works with Claude Code, Codex, and other OpenAI-compatible tools.
 - **[Tuning Engines](https://www.tuningengines.com/)** – Governed AI runtime and MCP server for coding agents: route models through one OpenAI-compatible API, apply RBAC and traffic policies, request approvals, and inspect traces and usage.
 - **[Respan](https://www.respan.ai/ai-gateway)** – Full-stack AI engineering platform with a tracing SDK, evals, prompt management, and a gateway to 250+ models.
 - **[Markstream Vue](https://markstream-vue.simonhe.me/)** – MIT-licensed streaming Markdown renderer for AI chat interfaces, with Mermaid, KaTeX, SSR, and Vue, React, Svelte, and Angular integrations.
