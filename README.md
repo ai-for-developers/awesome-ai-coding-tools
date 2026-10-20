@@ -347,6 +347,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Modaal](https://modaal.dev/)** – Mac app that builds native iOS and Android apps in SwiftUI and Jetpack Compose with the AI coding agent you already pay for, from a spec you approve first. Free plan.
 - **[Cascade](https://appbuilder.sh)** – Open-source, local-first AI app builder: describe an app and an agent plans it, writes the code, builds it in a sandbox and checks it in a browser. Desktop app for Windows, macOS and Linux; local models via Ollama or your own API key.
 - **[WeInc](https://we.inc)** – AI website and web app builder that turns a plain-English description into an editable React + Tailwind site you can publish to your own domain.
+- **[Layerwise](https://layerwise.app)** – Desktop AI app builder with local previews, a built-in database, authentication, and publishing for full-stack web apps.
 
 ---
 
