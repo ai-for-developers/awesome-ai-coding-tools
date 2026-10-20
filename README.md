@@ -217,6 +217,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Shikidan](https://github.com/LynchzDEV/shiki)** – Simple cockpit for any AI agent. One chat runs Claude Code, Codex, GLM, Grok or any CLI agent in separate git worktrees, with cross-model review and plugins. Self-hostable, MIT.
 - **[Praex](https://github.com/ailucius/praex-cli)** – Terminal coding agent (MIT, OpenCode fork) that reads the repo, edits files with approval, and runs commands; free hosted model or your own API keys, plus Remote Control to continue a session from your phone.
 - **[darting.dev](https://darting.dev/)** – Cloud workspace for teams running autonomous coding agents in isolated sandboxes, with browser verification, pull requests, CI, and deployment. Pay as you go with $10 in introductory credits; optional subscription.
+- **[FlowDeck Studio](https://flowdeck.studio/)** – Native macOS workspace where Claude Code, Codex and Cursor agents build, run and test iOS and macOS apps in existing Xcode projects, each session in its own Git worktree and simulator. Commercial with a 14-day free trial.
 
 ---
 
