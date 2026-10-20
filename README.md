@@ -691,6 +691,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Quotadex](https://quotadex.com/)** – Tracks prices, usage limits, free tiers and API token prices for AI coding tools and agents, with every number linked to the vendor's official page.
 - **[wp-agent-harness](https://github.com/marcop135/wp-agent-harness)** – Disposable local WordPress for Claude Code, Cursor, and Codex via the official MCP Adapter and Abilities API, with one-command reset.
 - **[Yap MCP](https://github.com/founden-bot/yap-mcp)** – Open-source (MIT) MCP server and CLI that transcribes audio files on your own computer for Claude Code, Cursor and other MCP clients, with no upload and no API key.
+- **[VibeDesk](https://github.com/fxd-gif/vibedesk)** – Free, open-source Windows desktop for Claude Code: several sessions side by side with status dots, one-click permission approvals on PC or phone, and a per-project memory.
 
 ---
 
