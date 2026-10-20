@@ -856,6 +856,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MoltNode by Chord](https://github.com/tuantqse90/moltnode-mcp)** – Remote MCP server (`https://moltnode.ag/mcp`, no API key) that lets Claude Code, Cursor, Codex and other agents make JSON-RPC calls on 31 blockchains (contract reads, logs, balances) and get DEX swap quotes with unsigned transactions from Chord. Also ships as a Claude Code plugin and a Gemini CLI extension. MIT.
 - **[UnblockingAPI MCP](https://github.com/unblockingapi/mcp)** – MCP server that lets coding agents fetch bot-protected and JavaScript-heavy pages and parse them into JSON.
 - **[KanbanMCP](https://kanbanmcp.com)** – Hosted kanban board with a remote MCP server where AI agents claim cards, check in while they work, and hand off to the next agent with notes.
+- **[PlaceCall](https://github.com/voygr-tech/placecall)** – Remote MCP server, Agent Skill and Claude Code/Codex/Cursor plugins that let an agent place real phone calls to US businesses (bookings, appointments, quotes) and get back the outcome and transcript. Remote MCP: https://api.voygr.tech/mcp.
 
 ---
 
