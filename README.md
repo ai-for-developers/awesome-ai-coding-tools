@@ -613,7 +613,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
 - **[Omnigraph](https://github.com/ModernRelay/omnigraph)** – Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 - **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway providing OpenAI-compatible access to Claude, GPT, Gemini, and 30+ models. Pay-as-you-go pricing with one-line config for Claude Code, Cursor, and other AI coding tools.
-- **[DSH API](https://your-endpoint.example.com)** – Unified LLM API gateway serving OpenAI-compatible (`/v1/models`, `/v1/chat/completions`, `/v1/responses`) and Anthropic-compatible (`/v1/messages`) endpoints from one base URL, so Claude Code and Codex CLI share a single key. Pay-as-you-go credit with CNY Alipay/WeChat top-up, QQ-mail signup (no overseas card), and per-request token detail in the console.
+- **[removed](https://your-endpoint.example.com)** – Unified LLM API gateway serving OpenAI-compatible (`/v1/models`, `/v1/chat/completions`, `/v1/responses`) and Anthropic-compatible (`/v1/messages`) endpoints from one base URL, so Claude Code and Codex CLI share a single key. Pay-as-you-go credit with CNY Alipay/WeChat top-up, QQ-mail signup (no overseas card), and per-request token detail in the console.
 
 ---
 
