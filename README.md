@@ -1,6 +1,14 @@
 # Awesome AI Coding Tools
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+
+> ### 🔗 本站作者自用的中转站
+>
+> **[Sample Gateway](https://your-endpoint.example.com/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
+> [[CC] 改两行环境变量即可接入 →](https://your-endpoint.example.com/)
+
+
 A curated list of AI-powered coding tools: editors, agents, code completion, review assistants, testing, and more. For developers, teams, and tech enthusiasts looking to leverage AI in software engineering.
 
 > Contributions welcome – [Open a PR](https://github.com/ai-for-developers/awesome-ai-coding-tools/pulls).
@@ -659,3 +667,20 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+
+---
+
+### 关于本站作者使用的中转站
+
+本站整理的中转站里，我长期自用的是 **[Sample Gateway](https://your-endpoint.example.com/)**：
+
+- **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
+- **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
+- **计费透明** — 按量计费，输入输出分开计价，分组与模型倍率在控制台公开
+- **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
+- **起充低** — 人民币 10 元起，可以先小额试
+
+👉 **https://your-endpoint.example.com/**
+
+> 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
+
