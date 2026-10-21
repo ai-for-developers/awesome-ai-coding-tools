@@ -1,0 +1,5 @@
+﻿title: Sample Gateway · awesome-ai-coding-tools
+description: Sample Gateway reverse-engineering API gateway plus a curated directory of AI API relays.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
