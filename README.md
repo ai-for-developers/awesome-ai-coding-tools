@@ -218,6 +218,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Praex](https://github.com/ailucius/praex-cli)** – Terminal coding agent (MIT, OpenCode fork) that reads the repo, edits files with approval, and runs commands; free hosted model or your own API keys, plus Remote Control to continue a session from your phone.
 - **[darting.dev](https://darting.dev/)** – Cloud workspace for teams running autonomous coding agents in isolated sandboxes, with browser verification, pull requests, CI, and deployment. Pay as you go with $10 in introductory credits; optional subscription.
 - **[FlowDeck Studio](https://flowdeck.studio/)** – Native macOS workspace where Claude Code, Codex and Cursor agents build, run and test iOS and macOS apps in existing Xcode projects, each session in its own Git worktree and simulator. Commercial with a 14-day free trial.
+- **[AgentLink](https://github.com/reefbarman/agentlink)** – Open-source VS Code coding agent that uses the editor's code intelligence as tools, shows every file change as a reviewable diff, and works with your own models from multiple providers. Approval controls, sandboxed commands, background agents, and MCP support. MIT.
 
 ---
 
