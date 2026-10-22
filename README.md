@@ -4,9 +4,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[Sample Gateway](https://your-endpoint.example.com/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[Sample Gateway]()** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://your-endpoint.example.com/)
+> [[CC] 改两行环境变量即可接入 →]()
 
 
 A curated list of AI-powered coding tools: editors, agents, code completion, review assistants, testing, and more. For developers, teams, and tech enthusiasts looking to leverage AI in software engineering.
@@ -672,7 +672,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[Sample Gateway](https://your-endpoint.example.com/)**：
+本站整理的中转站里，我长期自用的是 **[Sample Gateway]()**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -690,5 +690,5 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 [API Proxy 清单](https://1261398983.github.io/awesome-ai-api-proxy/) · [验真记录](https://1261398983.github.io/ai-relay-verified/) · [公益站大全](https://1261398983.github.io/ai-relay/) · [公益站聚合](https://1261398983.github.io/ai-welfare-hub/) · [中转站推荐](https://1261398983.github.io/ai-api-relay-recommendations/)
 
-**[Sample Gateway 中转站](https://your-endpoint.example.com/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+**[Sample Gateway 中转站]()** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
