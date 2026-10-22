@@ -1,5 +1,5 @@
-﻿title: Sample Gateway · awesome-ai-coding-tools
-description: Sample Gateway reverse-engineering API gateway plus a curated directory of AI API relays.
+﻿title: Sample Gateway · 逆向工程 | Awesome AI Coding Tools
+description: Sample Gateway 逆向工程 API 网关：国模（DeepSeek 等）+ Claude / GPT / Gemini。精选 AI 编程工具与 API 中转服务清单。
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
