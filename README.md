@@ -798,6 +798,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Phantom](https://github.com/ashlrai/phantom-secrets)** – Open-source local proxy and MCP server that replaces project secrets with `phm_` placeholders so Claude Code, Cursor, Windsurf and Codex can work in a repo without real API keys entering their context.
 - **[crashdummy](https://github.com/mmelqadi/crashdummy)** – Crash-tests the guard hook of an AI coding agent with evasive destructive commands and harmless twins; reports caught, missed and false alarms without executing anything.
 - **[Ship-Ready AI Rules](https://github.com/edtrackai/ship-ready-ai-rules-free-sample)** – Free MIT AGENTS.md and Cursor rules that stop AI coding agents from shipping insecure Next.js + Supabase + Stripe code (missing RLS, server-side getSession(), unverified webhooks).
+- **[Pipelock](https://github.com/pipelab-org/pipelock)** – Open-source firewall for AI coding agents that scans HTTP and MCP traffic routed through its proxies to block secret leaks, prompt injection, and unsafe tool calls.
 
 ---
 
