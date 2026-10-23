@@ -167,6 +167,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TaskHandoff](https://docs.thandoff.com/)** – Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines, with per-task workspace isolation, a diff review gate before changes land in your repository, and multi-agent handoff to a human reviewer.
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
+- **[Andromity](https://github.com/agenticmarket/andromity)** – Open-source (MIT) coding agent for VS Code and the terminal with a live waterfall of every model call, file edit and command, plus a per-turn blast radius. Bring your own key or use Ollama.
 
 ---
 
@@ -647,6 +648,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Markovo](https://github.com/fisher-byte/markovo)** – Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) into clean, structured Markdown for agent context. Remote MCP endpoint with OAuth 2.1 (`https://markovo.net/mcp`) plus local stdio server sandboxed to a dedicated root; free tier included.
 - **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** – MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - **[Instafill.ai](https://instafill.ai)** – MCP server for AI-powered PDF form filling. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
+- **[AgenticMarket](https://agenticmarket.dev)** – Free registry of MCP servers and agent skills with health checks and one-command install for 13+ IDEs and agents.
 
 ---
 
