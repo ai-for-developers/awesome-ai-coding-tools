@@ -220,6 +220,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[FlowDeck Studio](https://flowdeck.studio/)** – Native macOS workspace where Claude Code, Codex and Cursor agents build, run and test iOS and macOS apps in existing Xcode projects, each session in its own Git worktree and simulator. Commercial with a 14-day free trial.
 - **[AgentLink](https://github.com/reefbarman/agentlink)** – Open-source VS Code coding agent that uses the editor's code intelligence as tools, shows every file change as a reviewable diff, and works with your own models from multiple providers. Approval controls, sandboxed commands, background agents, and MCP support. MIT.
 - **[OliveCode](https://olivecode.dev/)** – OpenCode-derived terminal coding agent with free cloud or local Ollama models, optional teamwork and follow-through reviews; public preview, provider quotas and hardware limits apply.
+- **[agent-doctrine](https://github.com/sisig-ai/agent-doctrine)** – Shared instructions and role prompts (lead, implementer, reviewer) synced into Claude Code, Codex, Cursor, OpenCode and more to take a spec to a tested PR.
 
 ---
 
