@@ -168,6 +168,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
+- **[Zozo](https://zozohq.com/)** – Hosted and local harness for Claude Code, Codex, and OpenCode (via OpenRouter), with GitHub or Jira Cloud + Bitbucket Cloud workflows, dependency-aware tasks, isolated worktrees, human clarification, and pull request delivery. Free Local Stack; paid hosting, with model access supplied separately.
+
 ---
 
 ## CLI Tools
