@@ -1,1 +1,26 @@
-﻿
+name: IndexNow
+
+# Submit every URL in this repo's sitemap.xml to Bing / Yandex after page changes.
+# Key file lives at host root: https://1261398983.github.io/5274d490c7073e9630ce4cc455bb9c41.txt
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - '**/*.html'
+      - 'sitemap.xml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Submit sitemap URLs
+        run: node scripts/indexnow.mjs
