@@ -735,6 +735,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[onomeo](https://onomeo.com/)** – OpenAI-compatible API gateway with about 20 free models (DeepSeek, GLM, Gemini, Qwen, Mistral) and pay-as-you-go Claude and GPT, with setup guides for Cline, OpenCode, Aider and Zed. Public beta.
 - **[SayGM](https://saygm.com)** – Prepaid LLM API gateway with OpenAI Chat Completions, OpenAI Responses, Anthropic Messages and Gemini endpoints on one key, for GPT, Claude, Gemini and open-weight models.
 - **[Weave Router](https://weaveos.com/router/quickstart)** – Apache-2.0 model router for Claude Code and Codex CLI, with hosted setup, self-hosting, and a public [benchmark methodology](https://weaveos.com/router/benchmark-methodology).
+- **[Heym](https://github.com/heymrun/heym)** – Self-hosted runtime for LLM agent workflows with human approval checkpoints, execution traces, evaluations, and MCP tools.
 
 ---
 
