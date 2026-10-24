@@ -1,0 +1,40 @@
+﻿name: IndexNow
+
+# Submit every URL in this repo's sitemap.xml to Bing / Yandex after page changes.
+# Key file lives at host root: https://1261398983.github.io/5274d490c7073e9630ce4cc455bb9c41.txt
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.html'
+      - 'sitemap.xml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Submit sitemap URLs
+        run: |
+          node - <<'EOF'
+          const fs = require('fs');
+          const KEY = '5274d490c7073e9630ce4cc455bb9c41';
+          const HOST = '1261398983.github.io';
+          const xml = fs.readFileSync('sitemap.xml', 'utf8');
+          const urls = [...xml.matchAll(/<loc>(.*?)<\/loc>/g)].map(m => m[1].trim()).filter(u => !u.endsWith('.xml'));
+          console.log('urls:', urls.length);
+          if (urls.length === 0) process.exit(0);
+          const res = await fetch('https://api.indexnow.org/indexnow', {
+            method: 'POST',
+            headers: { 'content-type': 'application/json; charset=utf-8' },
+            body: JSON.stringify({ host: HOST, key: KEY, keyLocation: `https://${HOST}/${KEY}.txt`, urlList: urls }),
+          });
+          console.log('indexnow status:', res.status, await res.text());
+          if (![200, 202].includes(res.status)) process.exit(1);
+          EOF
