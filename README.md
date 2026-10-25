@@ -483,6 +483,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[fakegreen](https://github.com/fitzyracing1/fakegreen)** – Deterministic guardrail for AI coding agents (Claude Code, Codex, Gemini CLI) that flags skipped/deleted tests, weakened assertions, and CI forced green in the agent's diff, and blocks the agent until it fixes or explains them.
 - **[OpenFlow](https://github.com/surlymochan/openflow)** – Deterministic TDD-evidence gates for coding agents: red must fail before the fix, green after, bound to a tree snapshot; zero model tokens per check. Free, MIT.
 - **[UI Verify](https://uiverify.ai/)** – Visual testing for coding agents: Claude Code, Cursor or Codex check what a change did to the UI over a CLI and MCP server while they work, and every pull request is checked again in CI. Reuses existing Storybook, Playwright or Vitest tests; an AI judge labels each change as intended, a regression or flake.
+- **[Clousd](https://clousd.com/)** – Cloud Android phones for AI agents and app testing, driven through an MCP server or REST API.
 
 ---
 
