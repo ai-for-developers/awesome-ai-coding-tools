@@ -484,6 +484,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OpenFlow](https://github.com/surlymochan/openflow)** – Deterministic TDD-evidence gates for coding agents: red must fail before the fix, green after, bound to a tree snapshot; zero model tokens per check. Free, MIT.
 - **[UI Verify](https://uiverify.ai/)** – Visual testing for coding agents: Claude Code, Cursor or Codex check what a change did to the UI over a CLI and MCP server while they work, and every pull request is checked again in CI. Reuses existing Storybook, Playwright or Vitest tests; an AI judge labels each change as intended, a regression or flake.
 - **[Clousd](https://clousd.com/)** – Cloud Android phones for AI agents and app testing, driven through an MCP server or REST API.
+- **[Kerno](https://kerno.io)** – The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
 
 ---
 
