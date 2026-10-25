@@ -223,6 +223,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[agent-doctrine](https://github.com/sisig-ai/agent-doctrine)** – Shared instructions and role prompts (lead, implementer, reviewer) synced into Claude Code, Codex, Cursor, OpenCode and more to take a spec to a tested PR.
 - **[Andromity](https://github.com/agenticmarket/andromity)** – Open-source (MIT) coding agent for VS Code and the terminal with a live waterfall of every model call, file edit and command, plus a per-turn blast radius. Bring your own key or use Ollama.
 - **[Talavine Code](https://github.com/scrossen/talavine-code)** – MIT-licensed C# desktop and CLI coding harness for repository tasks, using API providers, coding CLIs or tool-capable Ollama models.
+- **[Quorus](https://github.com/Quorus-dev/Quorus)** – Open-source (MIT) local relay where Claude Code, Codex and opencode agents share rooms, wake on @mention, work in their own git worktrees and review each other's commits.
 
 ---
 
