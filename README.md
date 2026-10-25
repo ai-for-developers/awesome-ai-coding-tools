@@ -712,6 +712,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AGENTS.md Examples](https://github.com/piekwerk/agents-md-examples)** – Production-ready AGENTS.md, CLAUDE.md, Cursor rules, and Copilot instruction files for 12 stacks (Next.js, Django, FastAPI, Rails, Go, Rust, and more), each with build/test commands and framework conventions. MIT.
 
 ---
+- **[wisp](https://github.com/M0xoo/wisp)** – Runs Claude Code, Codex, opencode and other coding agents in the background, each task in its own git worktree, and hands back a one-screen report (diff, tests, PR button) instead of the transcript.
 
 ## AI Frameworks and SDKs
 
