@@ -225,6 +225,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Talavine Code](https://github.com/scrossen/talavine-code)** – MIT-licensed C# desktop and CLI coding harness for repository tasks, using API providers, coding CLIs or tool-capable Ollama models.
 - **[Quorus](https://github.com/Quorus-dev/Quorus)** – Open-source (MIT) local relay where Claude Code, Codex and opencode agents share rooms, wake on @mention, work in their own git worktrees and review each other's commits.
 - **[Open Walnut](https://github.com/EvanZhang008/open-walnut)** – Self-hosted web console for Claude Code on your laptop and remote dev boxes: a daemon on each machine owns the `claude` processes, so sessions keep running when SSH drops, and one browser page (phone too) shows every session, which ones wait for you, and each session's diff. Also runs Codex, OpenCode, and Goose on the local machine over ACP. MIT.
+- **[Mercury CLI](https://github.com/Whq02/MercuryCLI)** – Open-source (Apache-2.0) terminal coding agent in TypeScript for macOS, Linux and Windows with parallel sessions on one screen, crewmates in isolated git worktrees with file leases, 22 model providers plus local or rented GPU weights, project memory across sessions, LSP, a DAP debugger, MCP client, and built-in browser and computer use.
 
 ---
 
