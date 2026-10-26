@@ -281,6 +281,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[StyleSeed](https://github.com/bitjaru/styleseed)** – Design engine that makes Claude Code & Cursor produce professional UI — 33 components, 69 design rules, 8 brand skins, and a named framer-motion motion system.
 
 ---
+- **[DESIGN:OS](https://github.com/jangtrinh/design-os)** – Free design CLI for Claude Code, Codex and Antigravity: describe the UI in plain words, get production-grade web and SwiftUI output through deterministic taste gates. Source-available (PolyForm Shield), nothing sold.
 ## Code Review and Refactoring
 
 - **[AICodeSlopMonitor](https://slopcodemonitor.ai/)** – Detects low-quality and AI-generated code patterns to help developers review and improve codebases.
