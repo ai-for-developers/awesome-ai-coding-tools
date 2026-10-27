@@ -901,6 +901,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[lcc](https://github.com/lucasmartins-ai/lcc)** – Open-source (MIT) MCP server, CLI and Claude Code plugin that compacts coding-agent sessions without a summary: old tool outputs move to a local stash the agent can `recall` by hash, messages stay byte for byte, offline.
 - **[LogBrew](https://logbrew.co)** – Error monitoring, logs, and traces your AI coding agent can read. Connect any AI agent to the LogBrew MCP server (`https://logbrew.co/mcp`), ask what broke in production, and get help fixing it. Generous free tier, no card needed. [Documentation](https://docs.logbrew.co/guides/mcp).
 - **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** – MIT-licensed local stdio MCP payment tools for AI agents: inspect x402 offers, prepare bounded payments and read operation receipts; Apple Silicon macOS and Node.js 24 required, owner approvals/policies apply, network and service fees are separate.
+- **[Kanzo](https://github.com/emanuele-em/kanzo)** – Self-hosted kanban board for humans and coding agents: a web board plus an MCP server in one small Rust binary, so Claude Code, Codex and other MCP clients pick up tasks, comment and move cards on the same board you use. Data stays in a local SQLite folder.
 
 ---
 
