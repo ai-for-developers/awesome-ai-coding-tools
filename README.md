@@ -658,3 +658,4 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[Devtoolwatch Board](https://index.devtoolwatch.com/)** – AI developer tools (coding agents, MCP servers, agent frameworks and more) ranked weekly by new GitHub stars and npm/PyPI download growth.
