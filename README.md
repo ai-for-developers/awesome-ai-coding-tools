@@ -724,6 +724,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[wisp](https://github.com/M0xoo/wisp)** – Runs Claude Code, Codex, opencode and other coding agents in the background, each task in its own git worktree, and hands back a one-screen report (diff, tests, PR button) instead of the transcript.
 - **[Scalekit](https://www.scalekit.com)** – Agent integration platform that gives AI coding agents 500+ connectors and 20,000+ tools through one per-user authenticated MCP URL (Claude, Cursor, Windsurf), with scoped per-user tool access, virtual MCP servers, a token vault for OAuth, API key, and RSA credentials, and audit logs of every tool call; SOC 2 Type II, HIPAA BAA, and VPC or self-hosted deployment.
 - **[Agent Standup](https://agent-standup.com)** – Shows your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call (VS Code extension, CLI, macOS app): which agent is working, stuck, waiting on another, or waiting for you, plus tokens per agent; reads local session files only, open source (MIT).
+- **[Coday](https://github.com/HyperClockUp/Coday)** – Windows desktop app routing Devin, Cursor, Windsurf, Kiro and VS Code AI requests to user-selected OpenAI-compatible or Claude endpoints, with protocol conversion, multi-source failover, cross-IDE project rules and Devin localization. Free, proprietary.
 
 ---
 
