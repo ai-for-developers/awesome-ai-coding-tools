@@ -618,6 +618,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## MCP Servers and Directories
 
+- **[Docsy](https://github.com/getremcp/docsy-plugin)** – Version-aware public SDK/framework documentation for AI coding agents: five read-only MCP tools for library resolution, indexed version discovery and publisher-linked excerpts. OAuth 2.1 required at `https://docsy.remcp.site/mcp/registry`; public integration repository and setup guides.
+- **[ReMCP](https://github.com/getremcp/remcp)** – Remote OAuth-authorized MCP access to explicitly paired Windows, macOS and Linux computers; inspect files, terminals and browsers with device-level boundaries. Includes state-changing tools: use only with devices you own and permissions you approve.
+
 - **[MCP Server Finder](https://www.mcpserverfinder.com/servers)** – Discover and browse MCP servers.
 - **[PulseMCP](https://www.pulsemcp.com/servers)** – Large, frequently updated directory of MCP servers.
 - **[MCP.so](https://mcp.so/)** – Platform for MCP server resources and community.
