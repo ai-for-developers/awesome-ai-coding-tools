@@ -370,6 +370,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[WeInc](https://we.inc)** – AI website and web app builder that turns a plain-English description into an editable React + Tailwind site you can publish to your own domain.
 - **[Layerwise](https://layerwise.app)** – Desktop AI app builder with local previews, a built-in database, authentication, and publishing for full-stack web apps.
 - **[Kleap](https://kleap.co/)** – AI website and app builder with hosting, database, auth and domains included; sites can also be built and edited by your own agent through its MCP server and [CLI](https://github.com/kleaphq/cli). Free tier available.
+- **[Uvilno](https://uvilno.com)** – Conversational website and app builder with live previews, project-scoped hosted data and authentication, and optional source export.
 
 ---
 
