@@ -916,6 +916,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Kanzo](https://github.com/emanuele-em/kanzo)** – Self-hosted kanban board for humans and coding agents: a web board plus an MCP server in one small Rust binary, so Claude Code, Codex and other MCP clients pick up tasks, comment and move cards on the same board you use. Data stays in a local SQLite folder.
 - **[Light Cloud MCP Server](https://github.com/light-cloud-com/mcp-server)** – MCP server that lets Claude Code and other MCP clients deploy apps, add databases and manage domains on Light Cloud. `npx @light-cloud/mcp-server`.
 - **[Aletheia](https://github.com/mohamed-ashraf-elsaed/aletheia-mem)** – Free, local memory and rules hub for AI coding tools: one SQLite store read over MCP, REST or CLI. Alpha.
+- **[TokenRip](https://tokenrip.com)** – Shared workspace for Claude Code, Codex, Cursor and ChatGPT over remote MCP: versioned files, tasks and pinned decisions every agent reads before it starts, so work can move between agents without re-explaining. Free tier included.
 
 ---
 
