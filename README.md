@@ -232,6 +232,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Krill](https://github.com/craftowen/krill)** – Open-source (Apache-2.0) native Rust desktop workspace for running Claude Code, Codex, Cursor CLI and OpenCode side by side, each in its own git worktree, with terminal sessions that survive app restarts.
 - **[MAO](https://trymao.dev)** – Native desktop canvas (macOS, Windows, Linux) that runs Claude Code, Codex, Gemini CLI, Grok, OpenCode and shell agents as real terminal nodes, wires them so they hand tasks to each other, lets an Orchestrator agent recruit and direct the rest, and gives parallel agents their own git worktree layers. Paid (one-time), 7-day free trial.
 - **[nodecode](https://github.com/nodecode-ai/nodecode)** – A living agent organism in Lisp. It becomes yours and evolves over time.
+- **[Bivy](https://github.com/bivysh/bivy)** – Self-hostable workspace that runs Claude Code, Codex, OpenCode, Pi and other coding-agent CLIs on your own machines or a cloud computer, steered from a phone, browser or terminal, with push notifications, live app previews and GitHub/CI/schedule triggers.
 
 ---
 
