@@ -647,6 +647,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Markovo](https://github.com/fisher-byte/markovo)** – Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) into clean, structured Markdown for agent context. Remote MCP endpoint with OAuth 2.1 (`https://markovo.net/mcp`) plus local stdio server sandboxed to a dedicated root; free tier included.
 - **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** – MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - **[Instafill.ai](https://instafill.ai)** – MCP server for AI-powered PDF form filling. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
+- **[MCP Probe Kit](https://github.com/mybolide/mcp-probe-kit)** – Diagnostics for the MCP servers you hand your coding agent: enumerate every tool, resource and prompt, exercise them, then diff health, latency and JSON schemas between runs. Read-only against the target. MIT, `npx -y mcp-probe-kit`.
+- **[Coding Tools MCP](https://github.com/mybolide/coding-tools-mcp)** – Desktop MCP workspace for coding agents: file edits, command execution, Git status and resumable history sessions behind one local stdio interface instead of four separate servers. Apache-2.0.
 
 ---
 
