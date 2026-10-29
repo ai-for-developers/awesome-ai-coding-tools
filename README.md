@@ -917,6 +917,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Light Cloud MCP Server](https://github.com/light-cloud-com/mcp-server)** – MCP server that lets Claude Code and other MCP clients deploy apps, add databases and manage domains on Light Cloud. `npx @light-cloud/mcp-server`.
 - **[Aletheia](https://github.com/mohamed-ashraf-elsaed/aletheia-mem)** – Free, local memory and rules hub for AI coding tools: one SQLite store read over MCP, REST or CLI. Alpha.
 - **[TokenRip](https://tokenrip.com)** – Shared workspace for Claude Code, Codex, Cursor and ChatGPT over remote MCP: versioned files, tasks and pinned decisions every agent reads before it starts, so work can move between agents without re-explaining. Free tier included.
+- **[Flisk](https://github.com/flisk-sh/flisk)** – MCP server that lets an AI agent build and run a whole app on your computer: it creates the parts, starts them, checks status and logs, and fixes setup problems. MIT, free.
 
 ---
 
