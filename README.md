@@ -522,6 +522,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+- **[Codex Reset](https://codex-reset.opentunnel.asia/)** – Read-only tracker for OpenAI Codex global quota resets: verified reset history, 24h/48h probabilities and a 28-day plan, with announced / pending / verified kept separate so a teaser is not counted as a landed reset. No login required; [open source](https://github.com/chendaleiQ/codex-reset).
 ## AI Frameworks and SDKs
 
 - **[LangChain](https://www.langchain.com/)** – The most popular framework for building LLM-powered applications with chains, agents, and retrieval.
