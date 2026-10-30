@@ -657,4 +657,5 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)** – General AI tools for various applications.
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
+- **[StackPick](https://stackpick.app)** – Opinionated directory of AI dev tools that picks one tool per job (coding agents, editors, auth, databases, hosting, testing) with scores, ready-made stacks, head-to-head comparisons, and a weekly feed of what shipped. Free, no signup.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
