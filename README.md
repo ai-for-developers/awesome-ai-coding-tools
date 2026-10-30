@@ -741,6 +741,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AI Meter](https://github.com/getguruhat/ai-meter)** – Free, open-source Mac menu bar and Windows taskbar app showing your remaining Claude Code or Codex usage and when it resets.
 - **[Codex Reset](https://codex-reset.opentunnel.asia/)** – Read-only tracker for OpenAI Codex global quota resets: verified reset history, 24h/48h probabilities and a 28-day plan, with announced / pending / verified kept separate so a teaser is not counted as a landed reset. No login required; [open source](https://github.com/chendaleiQ/codex-reset).
 - **[SkillPouch](https://github.com/skillpouch/skillpouch)** – End-to-end encrypted sync of AI coding setups (skills, agents, instructions, commands, MCP servers, hooks) across computers for Claude Code, Codex, OpenCode, Cursor, Gemini CLI and more. Background daemon, conflict resolution in a web app, free plan, open source (AGPL-3.0) and self-hostable.
+- **[claude-codex-taskbar](https://github.com/chiarorosa/claude-codex-taskbar)** – Open-source (MIT) Windows taskbar widget that keeps Claude Code and Codex 5-hour and weekly usage limits visible while you code, next to CPU, RAM, GPU and disk activity; reuses the existing CLI logins, no account or telemetry.
 
 ---
 
