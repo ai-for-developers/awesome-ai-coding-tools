@@ -923,6 +923,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Flisk](https://github.com/flisk-sh/flisk)** – MCP server that lets an AI agent build and run a whole app on your computer: it creates the parts, starts them, checks status and logs, and fixes setup problems. MIT, free.
 - **[Allscreenshots](https://github.com/allscreenshots/allscreenshots-plugin)** – MCP server and Claude Code/Codex plugin for capturing website screenshots, running bulk captures, and managing screenshot schedules via the Allscreenshots API. MIT licensed.
 - **[CurlShot](https://curlshot.com/docs/guides/ai-agents)** – Hosted MCP server (`https://curlshot.com/api/mcp`, Streamable HTTP) that lets Claude Code, Cursor, Codex and other agents screenshot a web page in a real browser and look at the result: PNG, JPEG, WebP or PDF, full page or one element, device presets, ad and cookie-banner blocking. Needs an API key; free plan of 100 screenshots a month, no card.
+- **[Vicem](https://github.com/RAKKUNN/vicem)** – Zero-dependency context baton, local MCP server, and guided handoff GUI that compacts coding sessions by 80–99% via deterministic AST code skeletonization (with lossless on-demand `vicem_rehydrate`) and relays work across Claude Code, Codex CLI, Cursor, Windsurf, and Gemini CLI. MIT.
 
 ---
 
