@@ -279,7 +279,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** – Open-source framework for building custom AI copilots, chatbots, and text areas into React apps.
 - **[Freepik](https://www.freepik.com/)** – AI design platform with image generation and mockup tools for UI designers.
 - **[StyleSeed](https://github.com/bitjaru/styleseed)** – Design engine that makes Claude Code & Cursor produce professional UI — 33 components, 69 design rules, 8 brand skins, and a named framer-motion motion system.
-
+- **[Glowup UI](https://github.com/avivgerz-hue/glowup-ui)** – Open-source AI agent skill for creating frontend interfaces, redesigning existing web apps, and refining UI while preserving functionality.
 ---
 ## Code Review and Refactoring
 
