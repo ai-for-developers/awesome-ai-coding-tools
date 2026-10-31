@@ -168,6 +168,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
+- **[OpenCode Mobile (opencode-mobile-next)](https://github.com/Eslamasabry/opencode-mobile-next)** – Independent, unofficial, open-source (MIT) Android app that runs coding agents such as Claude Code, Codex, Gemini CLI and OpenCode on the phone itself, in an Ubuntu environment it installs inside the app, or connects to an agent on your computer. Approve requests from a notification, review diffs, preview the dev server. Made by its owner with substantial AI assistance.
 ---
 
 ## CLI Tools
