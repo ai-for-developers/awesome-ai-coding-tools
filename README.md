@@ -749,6 +749,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MemoSync](https://github.com/SLEEPYBQ/MemoSync)** – Local workbench for Claude Code, Codex and Pi that makes coding-agent memory reviewable: approve proposed memory changes, choose each turn's working memory, see which memories a reply cites, and audit afterwards which ones were followed or violated. Free and self-hosted; uses your existing agent sign-in or API key.
 - **[LBW Workbench](https://github.com/edwardmackiezyv885-art/lbwapi-workbench)** – Windows portable workbench that installs prompt packs and skill trees into 11 AI clients with byte-level backup and one-click rollback.
 - **[SoloPup Memory](https://github.com/OakcoderX/solopup-memory)** – Public-beta DeepSeek Harness text-memory plugin with original-source references, project/global scope and correction history; lexical recall.
+- **[vidbyte-memory](https://github.com/cerredz/vidbyte-memory)** – GitHub template that turns the corrections you give a coding agent into Markdown facts, pytest regression tests where a check can be written, and git commits, with a Stop hook that blocks the agent from finishing (up to 5 times in a row) while tests fail.
 
 ---
 
