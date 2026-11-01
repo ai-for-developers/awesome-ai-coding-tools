@@ -751,6 +751,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LBW Workbench](https://github.com/edwardmackiezyv885-art/lbwapi-workbench)** – Windows portable workbench that installs prompt packs and skill trees into 11 AI clients with byte-level backup and one-click rollback.
 - **[SoloPup Memory](https://github.com/OakcoderX/solopup-memory)** – Public-beta DeepSeek Harness text-memory plugin with original-source references, project/global scope and correction history; lexical recall.
 - **[vidbyte-memory](https://github.com/cerredz/vidbyte-memory)** – GitHub template that turns the corrections you give a coding agent into Markdown facts, pytest regression tests where a check can be written, and git commits, with a Stop hook that blocks the agent from finishing (up to 5 times in a row) while tests fail.
+- **[StackVersus AI Limits](https://getstackversus.com/limits)** – Free reference of prices and vendor-stated usage limits for 73 AI coding plans (Claude, Codex, Cursor, Copilot, Gemini, Lovable, v0, Bolt and more), each with source link, check date and a change log; data as JSON/CSV.
 
 ---
 
