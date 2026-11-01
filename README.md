@@ -521,6 +521,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
+- **[Joxo](https://joxo.ai)** – Shared project for a team's coding agents: each person's Claude Code, Codex or Cursor works from one task board, decisions and handoffs, and can ask a teammate's agent for help.
 
 ## AI Frameworks and SDKs
 
