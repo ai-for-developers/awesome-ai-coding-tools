@@ -520,6 +520,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
+- **[SkillHey](https://skillhey.com)** – Curated directory of agent skills (SKILL.md) for Claude Code, Codex, and Cursor, browsable by category in nine languages.
 ---
 
 ## AI Frameworks and SDKs
