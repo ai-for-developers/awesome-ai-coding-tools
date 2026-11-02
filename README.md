@@ -527,6 +527,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Carrick](https://carrick.tools)** – Indexes TypeScript codebases across services and repos so AI coding agents search existing code by intent and see every route, type, and consumer before writing new code.
 - **[Sunstone](https://marketplace.visualstudio.com/items?itemName=SunstoneNorth.sunstone)** – VS Code extension that indexes the folders you open, on your machine, and gives any model in the chat picker, Copilot's included, a tool to search them; your own model servers can join the picker too.
 - **[LayerMap](https://github.com/coffeecoproject/layermap)** – Local MCP server and Claude Code/Codex plugin that gives coding agents a compiler-resolved call graph of TS/JS, Go, Python and Java, tracing a function's callers to HTTP routes in one call.
+- **[Architect](https://github.com/abhiramshaji-cyber/Architect)** – Open-source macOS app that ranks every function in a JS/TS codebase by importance, draws the call tree, and serves an architecture contract to coding agents over MCP.
 
 ---
 
