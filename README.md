@@ -167,6 +167,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TaskHandoff](https://docs.thandoff.com/)** – Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines, with per-task workspace isolation, a diff review gate before changes land in your repository, and multi-agent handoff to a human reviewer.
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
+- **[Friday](https://github.com/splashxmoon/friday)** – Open-source (MIT) desktop app that runs Claude Code, Codex, Cursor, Gemini CLI and others side by side on your own computer, with a shared task board, agent-to-agent messages, a git worktree per agent, diff review with line notes, and a hand-off to another agent when one hits its usage limit. No account.
 
 ---
 
