@@ -364,6 +364,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill)** – AI coding agent skill that analyzes git history to reveal hotspots, bug magnets, bus factor risks, and development momentum before reading any code.
 - **[Reflex](https://github.com/reflex-search/reflex)** – Local-first full-text code search engine with MCP server and JSON output built for AI coding agents.
 - **[CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code)** – AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce coding-agent context usage.
+- **[symbolhop](https://github.com/stanczykwyatt/symbolhop)** – MCP server and CLI that gives coding agents go-to-definition, find-references, hover and diagnostics from the project's language servers instead of grep.
 
 ---
 
@@ -519,6 +520,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[myc](https://github.com/aistastudio/myc)** – Open-source local memory and task queue for AI coding agents (Claude Code, Codex, opencode, Kimi): decisions survive context compaction, memory is anchored to code and follows it, everything stays in one SQLite file with no API key.
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
+- **[mulligan](https://github.com/stanczykwyatt/mulligan)** – Undo for coding agents: snapshots the project at every prompt and tool call, shell commands included, so you can list, diff and undo to any point without touching your git repo.
+- **[AI Footprint](https://github.com/stanczykwyatt/ai-footprint)** – Mac menu bar app that shows what AI coding tools leave on your Mac: disk per tool, background processes, orphaned MCP servers and login items, with a receipt for every update.
 
 ---
 
