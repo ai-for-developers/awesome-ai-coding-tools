@@ -955,6 +955,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Model Salt](https://github.com/modelsalt/model-salt)** – An MCP server with one tool: before a creative task the model calls it and gets back a few choices to settle this time, drawn from randomness outside the model (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
 - **[ComputeFirst](https://computefirst.net/docs)** – Hosted MCP server of free, versioned, deterministic tools for coding agents: identifier validation, date math, CSV/JSON transforms, unit conversion and statistics. Remote endpoint `https://computefirst.net/mcp`, no API key or sign-up.
 - **[Archboard](https://getarchboard.app/)** – Remote MCP server for architecture diagrams. Claude Code, Cursor, Codex and other agents draw and update Kubernetes, cloud, C4 and ER diagrams on a live canvas the team edits too. Free tier available.
+- **[Keenable](https://keenable.ai)** – Web search and page fetch MCP server for AI coding agents (`https://api.keenable.ai/mcp`), backed by an independent web index. Works in Claude Code, Codex, Cursor and others; 100K free requests/month.
 
 ---
 
