@@ -169,6 +169,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
 ---
+- **[Ablit Code](https://ablit-site.ablit.workers.dev)** – Free desktop AI agent for Windows, macOS and Linux that plans the task, edits files, runs commands and checks its own work; bring any model, no account.
 
 ## CLI Tools
 
