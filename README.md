@@ -402,6 +402,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 - **[AI For Developers](https://aifordevelopers.org)** – Curated directory of AI dev tools.
 - **[Awesome Vibe Coding](https://github.com/ai-for-developers/awesome-vibe-coding)** – Tools and resources for vibe coding.
+- **[Taskade Awesome Vibe Coding](https://github.com/taskade/awesome-vibe-coding)** – Taskade-maintained list of vibe-coding tools and resources.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)** – General AI tools for various applications.
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
