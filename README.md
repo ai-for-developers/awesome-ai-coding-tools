@@ -519,6 +519,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[myc](https://github.com/aistastudio/myc)** – Open-source local memory and task queue for AI coding agents (Claude Code, Codex, opencode, Kimi): decisions survive context compaction, memory is anchored to code and follows it, everything stays in one SQLite file with no API key.
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
+- **[deja-vu](https://github.com/vshulcz/deja-vu)** – Local-first session memory CLI and MCP server that indexes the session transcripts 43 AI coding agents already write to disk (Claude Code, Codex, Cursor, Gemini CLI, Antigravity, OpenCode, Aider, Windsurf, Copilot, and more) into a shared BM25 index — including months of history from before it was installed. Ships native skills, hooks, and plugins in a single Go binary with no LLM calls or accounts. MIT licensed. Install: `brew install deja-vu` or `npx skills add https://github.com/vshulcz/deja-vu`.
 
 ---
 
@@ -647,6 +648,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Markovo](https://github.com/fisher-byte/markovo)** – Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) into clean, structured Markdown for agent context. Remote MCP endpoint with OAuth 2.1 (`https://markovo.net/mcp`) plus local stdio server sandboxed to a dedicated root; free tier included.
 - **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** – MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - **[Instafill.ai](https://instafill.ai)** – MCP server for AI-powered PDF form filling. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
+- **[deja-vu](https://github.com/vshulcz/deja-vu)** – Local cross-agent session memory MCP server (`recall`, `context`, `blame`, `fix`, `how`, `orient`) over the transcripts 43 coding agents already write to disk. Single Go binary, BM25 lexical search, automatic secret redaction, zero API keys. Install: `npx @vshulcz/deja-vu`.
 
 ---
 
