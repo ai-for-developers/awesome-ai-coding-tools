@@ -168,6 +168,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
+- **[Octuo](https://www.tutuo.ai/en/octuo/)** – unified entry point coordinating the AI agents a user already uses; prepares work, delegates to Claude Code, Codex, or MCP tools, and follows up until done, with long jobs continuing after the chat closes.
 ---
 
 ## CLI Tools
