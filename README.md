@@ -770,6 +770,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[mulligan](https://github.com/stanczykwyatt/mulligan)** – Undo for coding agents: snapshots the project at every prompt and tool call, shell commands included, so you can list, diff and undo to any point without touching your git repo.
 - **[AI Footprint](https://github.com/stanczykwyatt/ai-footprint)** – Mac menu bar app that shows what AI coding tools leave on your Mac: disk per tool, background processes, orphaned MCP servers and login items, with a receipt for every update.
 - **[deja-vu](https://github.com/vshulcz/deja-vu)** – Local-first session memory CLI and MCP server that indexes the session transcripts 53 AI coding agents already write to disk (Claude Code, Codex, Cursor, Gemini CLI, Antigravity, OpenCode, Aider, Windsurf, Copilot, and more) into a shared BM25 index, including months of history from before it was installed. Ships native skills, hooks, and plugins in a single Go binary with no LLM calls or accounts. MIT licensed. Install: `brew install deja-vu` or `npx skills add https://github.com/vshulcz/deja-vu`.
+- **[cogit](https://github.com/erensrtky/cogit)** – Open-source (MIT) Claude Code plugin and CLI that records why code changed: each message's decisions and rejected options, linked to the commits it produced, with a local map of sessions and `cogit why file:line`.
 
 ---
 
