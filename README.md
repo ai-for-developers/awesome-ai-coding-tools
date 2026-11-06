@@ -798,6 +798,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Weave Router](https://weaveos.com/router/quickstart)** – Apache-2.0 model router for Claude Code and Codex CLI, with hosted setup, self-hosting, and a public [benchmark methodology](https://weaveos.com/router/benchmark-methodology).
 - **[Heym](https://github.com/heymrun/heym)** – Self-hosted runtime for LLM agent workflows with human approval checkpoints, execution traces, evaluations, and MCP tools.
 - **[CodeI Lab](https://www.codeilab.com)** – GPT API gateway for coding agents (Claude Code, Codex CLI, OpenCode) via OpenAI and Anthropic protocols; plan credit up to 93% below official pay-as-you-go.
+- **[Code By AI](https://www.codebyai.net)** – One API key for Claude, Codex and Gemini coding agents; pay per token from 1/6 of official price across 21 models, no subscription.
 
 ---
 
