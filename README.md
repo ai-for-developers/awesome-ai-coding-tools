@@ -815,6 +815,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Unified AI System](https://github.com/happy520ai/unified-ai-system)** – Apache-2.0 self-hosted gateway in front of local and hosted models: OpenAI/Anthropic-compatible APIs, virtual keys with token budgets, exact + lexical-approximate cache, audit trail, and an stdio MCP server with reverse governance — ships a deterministic local fake provider, so the whole surface is testable with no GPU and no API key.
 - **[Rapid-MLX](https://rapidmlx.com/)** – Run language models on Apple Silicon with OpenAI- and Anthropic-compatible local APIs and tool calling for coding agents.
 - **[Claude Code Local](https://github.com/nicedreamzapp/claude-code-local)** – MLX server for Apple Silicon that speaks the Anthropic Messages API, so the unmodified Claude Code CLI runs on local Gemma, Qwen and Llama models.
+- **[RAMen](https://getramenai.com/)** – Local llama.cpp server for coding agents such as Cline, Continue, Aider and OpenCode that saves every session to disk and reopens it in seconds after a restart.
 
 ---
 
