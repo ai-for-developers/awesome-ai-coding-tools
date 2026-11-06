@@ -336,6 +336,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Uno](https://unocode.motiontic.com/)** – Small, fast terminal coding agent written in Rust; works with Anthropic, OpenAI and any OpenAI-compatible model, sandboxes shell commands, caps spending and can undo every file change. Free.
 - **[Alysis Code](https://alysiscode.com)** – Open-source AI agent (CLI + desktop) for coding and everyday computer work that works with any model, including local Ollama/LM Studio.
 - **[WhyCodes](https://github.com/whycorporation/whycodes)** – Open-source (MIT) Rust coding agent for the terminal with a full-screen TUI and one-shot CLI; works with hosted APIs, local models, or any OpenAI-compatible endpoint, and supports MCP, LSP, and `AGENTS.md`.
+- **[AutoMode](https://github.com/mralexivy/AutoMode)** – Free, MIT-licensed Claude Code plugin that picks the model and reasoning effort for every prompt, shows the route on a status bar, and runs big jobs with specialized subagents.
 
 ---
 
