@@ -535,11 +535,12 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** – Skill and command manager for AI assistants with dynamic loading and execution.
 - **[Bifrost](https://getmaxim.ai/bifrost)** – Open-source LLM & MCP Gateway with 20+ providers, governance, loadbalancing and custom plugins.
 - **[FuturMix](https://futurmix.ai)** – Unified AI API gateway for 22+ models with OpenAI-compatible endpoint. Features automatic failover, 99.99% SLA, and cost optimization across OpenAI, Anthropic, and Google models.
-- **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway with OpenAI-compatible API for Claude, GPT, Gemini and 200+ models. Pay-per-use pricing with Alipay/WeChat support, designed for developers using Claude Code and Cursor.
+- **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway with OpenAI-compatible API for Claude, GPT, Gemini and 200+ models. Pay-per-use pricing with Stripe international cards, designed for developers using Claude Code and Cursor.
 - **[Tuning Engines](https://www.tuningengines.com/)** – Governed AI runtime and MCP server for coding agents: route models through one OpenAI-compatible API, apply RBAC and traffic policies, request approvals, and inspect traces and usage.
 - **[Respan](https://www.respan.ai/ai-gateway)** – Full-stack AI engineering platform with a tracing SDK, evals, prompt management, and a gateway to 250+ models.
 - **[Markstream Vue](https://markstream-vue.simonhe.me/)** – MIT-licensed streaming Markdown renderer for AI chat interfaces, with Mermaid, KaTeX, SSR, and Vue, React, Svelte, and Angular integrations.
 - **[AIWG](https://github.com/jmagly/aiwg)** – Deploys reusable agents, skills, and governed workflows across multiple AI coding platforms.
+- **[Teapot Router](https://teapotrouter.com)** – Team API gateway for GPT and Claude Code: one shared token pool, per-request metering with model/tokens/cache-hits/cost, org-level key management, and a public price book. Sign-up includes trial credit; $1 minimum top-up.
 
 ---
 
