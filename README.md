@@ -168,6 +168,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
+- **[Valo](https://getvalo.dev)** – The workspace for AI. Runs Claude Code, Codex, Gemini CLI and other AI agents side by side in real terminals, with all your projects in one window. Valo MemoryCode, Valo Search, the Map, Nerve Map, Pressure Points, context control, Cross-Chat and multi-agent orchestration. Free plan. Windows, macOS, Linux.
+
 ---
 
 ## CLI Tools
