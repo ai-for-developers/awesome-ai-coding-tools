@@ -413,6 +413,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Figma Maxxing](https://github.com/thiagoxikota/figma-maxxing)** – Agent skills for real Figma files: Plugin API gotchas, checks before and after every write, comments to verified fixes, and a handoff gate. Installs in Claude Code, Codex, Copilot CLI, and Gemini CLI. MIT.
 - **[Caret](https://github.com/precious112/caret-desktop)** – Open-source desktop AI design tool that lives in your repo: real React in `.caret/`, rendered live on a canvas you can click and edit, and synced into your app by your own coding agent (Claude Code, Codex) over MCP.
 - **[DESIGN:OS](https://github.com/jangtrinh/design-os)** – Free design CLI for Claude Code, Codex and Antigravity: describe the UI in plain words, get production-grade web and SwiftUI output through deterministic taste gates. Source-available (PolyForm Shield), nothing sold.
+- **[Orbital Supply](https://orbital.supply/?utm_source=awesome-ai-coding)** – Website prompts and code to paste into AI coding tools. Free tier available.
 
 ---
 ## Code Review and Refactoring
