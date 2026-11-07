@@ -4,9 +4,7 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[Sample Gateway]()** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →]()
 
 
 A curated list of AI-powered coding tools: editors, agents, code completion, review assistants, testing, and more. For developers, teams, and tech enthusiasts looking to leverage AI in software engineering.
@@ -621,7 +619,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[dbForge AI Assistant](https://www.devart.com/dbforge/ai-assistant/)** – AI-powered SQL code generation and optimization.
 - **[Omnigraph](https://github.com/ModernRelay/omnigraph)** – Typed graph database where agents branch and merge like Git. S3-native, Rust, traversal + vector + BM25 in one runtime.
 - **[CoderPlan](https://coderplan.ai)** – Unified LLM API gateway providing OpenAI-compatible access to Claude, GPT, Gemini, and 30+ models. Pay-as-you-go pricing with one-line config for Claude Code, Cursor, and other AI coding tools.
-- **[removed](https://your-endpoint.example.com)** – Unified LLM API gateway serving OpenAI-compatible (`/v1/models`, `/v1/chat/completions`, `/v1/responses`) and Anthropic-compatible (`/v1/messages`) endpoints from one base URL, so Claude Code and Codex CLI share a single key. Pay-as-you-go credit with CNY Alipay/WeChat top-up, QQ-mail signup (no overseas card), and per-request token detail in the console.
 
 ---
 
@@ -672,7 +669,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[Sample Gateway]()**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -680,7 +676,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
 - **起充低** — 人民币 10 元起，可以先小额试
 
-👉 **https://your-endpoint.example.com/**
 
 > 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
 
@@ -690,7 +685,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 [API Proxy 清单](https://1261398983.github.io/awesome-ai-api-proxy/) · [验真记录](https://1261398983.github.io/ai-relay-verified/) · [公益站大全](https://1261398983.github.io/ai-relay/) · [公益站聚合](https://1261398983.github.io/ai-welfare-hub/) · [中转站推荐](https://1261398983.github.io/ai-api-relay-recommendations/)
 
-**[Sample Gateway 中转站]()** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
 ---
 
