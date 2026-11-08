@@ -827,6 +827,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Rapid-MLX](https://rapidmlx.com/)** – Run language models on Apple Silicon with OpenAI- and Anthropic-compatible local APIs and tool calling for coding agents.
 - **[Claude Code Local](https://github.com/nicedreamzapp/claude-code-local)** – MLX server for Apple Silicon that speaks the Anthropic Messages API, so the unmodified Claude Code CLI runs on local Gemma, Qwen and Llama models.
 - **[RAMen](https://getramenai.com/)** – Local llama.cpp server for coding agents such as Cline, Continue, Aider and OpenCode that saves every session to disk and reopens it in seconds after a restart.
+- **[Kapitsa](https://github.com/nace-ai/kapitsa)** – Open-source LLM inference engine for Apple silicon Macs (native Metal and Neural Engine) with OpenAI- and Anthropic-compatible APIs; `kapitsa opencode|claude|codex` starts a coding agent on a local model with one command.
 
 ---
 
