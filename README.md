@@ -783,6 +783,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Durbar](https://github.com/three-feathers/agent-durbar)** – An office-style desktop app to see, chat with and coordinate Copilot, Claude Code and Codex sessions across folders.
 - **[IntentChord](https://github.com/hesham-m/IntentChord)** – Local-first AI-assisted development workflow connecting source context, confirmed scope, agent-specific instructions, execution evidence, and human approval. Source-available under PolyForm Noncommercial 1.0.0.
 - **[Zest](https://meetzest.com)** – Team analytics for AI coding agents (Claude Code, Codex, Cursor, GitHub Copilot, opencode): each engineer's models, tokens, skills and cost per session, linked to the pull requests they led to. Hosted, closed source, free plan for up to 3 seats.
+- **[Extremely Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents)** – Free, open-source AI agency that runs on your own computer. Agents for sales, marketing, support and more work around the clock, build the tools they're missing and only ask you when you choose. Bring your own Claude, ChatGPT or local models.
 
 ---
 
