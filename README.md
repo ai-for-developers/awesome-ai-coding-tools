@@ -65,6 +65,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Cate](https://github.com/0-AI-UG/cate)** – Infinite zoomable canvas IDE where editor, terminal, browser, and Claude Code agent panels float spatially, like Figma or Miro but for coding.
 - **[BBARIT](https://github.com/bbarit/terminal)** – Free native all-in-one AI coding IDE (Tauri/Rust) with multi-agent terminals, office editing, and an embedded agent-driven browser; bring any model or run locally with Ollama.
 - **[Bodega One Code](https://bodegaone.ai)** – Free, local-first AI IDE with a built-in coding agent, bring-your-own-LLM, and full offline/air-gap support.
+- **[Exody](https://www.exody.ai/)** – Local-first macOS autonomous coding workbench, Design Studio, and per-task Smart Model Router (100% BYOK at $0 markup across Claude, GPT, Gemini, Grok, and Ollama) with iOS Simulator verification and iPhone companion.
 - **[Harness Desktop](https://github.com/baiyuscc13724-max/deepseek-harness-desktop)** – Open-source Windows client for the official DeepSeek Harness Web UI, with a Simplified Chinese installer, portable build, verified updates, and persistent themes.
 
 ---
@@ -105,6 +106,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** – Google's terminal coding agent powered by Gemini.
 - **[OpenAI Codex CLI](https://openai.com/blog/openai-codex/)** – OpenAI's CLI coding agent with cloud sandboxed execution.
 - **[OpenCode](https://github.com/opencode-ai/opencode)** – Open-source terminal AI agent (95K+ GitHub stars) supporting 75+ providers. Free, privacy-first, with LSP integration.
+- **[Exody](https://www.exody.ai/)** – Autonomous macOS software engineering agent with isolated Git worktrees, 5-stage verification + independent diff review, visual Design Studio, and multi-provider BYOK smart routing.
 - **[Roo Code](https://roocode.com/)** – Open-source VS Code agent (fork of Cline) known for reliable multi-file editing on large codebases.
 - **[PraisonAI](https://github.com/MervinPraison/PraisonAI)** – Multi-agent framework with 100+ LLM support and MCP integration.
 - **[Potpie](https://potpie.ai)** – AI coding agent for streamlined development workflows.
