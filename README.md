@@ -342,6 +342,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[WhyCodes](https://github.com/whycorporation/whycodes)** – Open-source (MIT) Rust coding agent for the terminal with a full-screen TUI and one-shot CLI; works with hosted APIs, local models, or any OpenAI-compatible endpoint, and supports MCP, LSP, and `AGENTS.md`.
 - **[AutoMode](https://github.com/mralexivy/AutoMode)** – Free, MIT-licensed Claude Code plugin that picks the model and reasoning effort for every prompt, shows the route on a status bar, and runs big jobs with specialized subagents.
 - **[tuitree](https://github.com/8thlyr/tuitree)** – Terminal dashboard for Git worktrees and GitHub PRs, for keeping track of parallel coding agents.
+- **[Nightshift](https://github.com/orwa-mahmoud/nightshift)** – Plugin for Claude Code, Codex and Cursor that runs long agent work as a shift: a persistent punch list, a Stop-hook gate against premature clock-out, recovery of failed sessions, and per-item receipts with tokens and time.
 
 ---
 
