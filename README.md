@@ -343,6 +343,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AutoMode](https://github.com/mralexivy/AutoMode)** – Free, MIT-licensed Claude Code plugin that picks the model and reasoning effort for every prompt, shows the route on a status bar, and runs big jobs with specialized subagents.
 - **[tuitree](https://github.com/8thlyr/tuitree)** – Terminal dashboard for Git worktrees and GitHub PRs, for keeping track of parallel coding agents.
 - **[Nightshift](https://github.com/orwa-mahmoud/nightshift)** – Plugin for Claude Code, Codex and Cursor that runs long agent work as a shift: a persistent punch list, a Stop-hook gate against premature clock-out, recovery of failed sessions, and per-item receipts with tokens and time.
+- **[agent-assh](https://github.com/izzzzzi/agent-assh)** – SSH CLI for coding agents that runs remote commands in persistent tmux sessions and returns paginated JSON, so server logs stay out of the context window.
 
 ---
 
