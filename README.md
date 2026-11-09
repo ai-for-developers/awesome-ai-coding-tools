@@ -320,6 +320,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[twoperson](https://github.com/ahm3dwasim/twoperson)** – Two-person rule for AI coding agents: a builder agent and a reviewer agent share a file-based review inbox whose schema won't let work be marked shipped without a verdict bound to that exact commit, so the review can't be skipped or applied to the wrong revision. Stop-hook installer, credential scan, worktree-aware; MIT.
 - **[VibeAudit](https://vibeaudit.sh/)** – Pre-launch code audit that reads your whole repo and returns a launch-readiness score plus fixes as paste-ready prompts for your AI editor.
 - **[OpenFiles](https://github.com/devgiordane/openfiles)** – VS Code extension that opens every file an AI agent edits so linters and type checkers run on it, lists the changes for review, and returns the problems to Claude Code, Codex, Copilot, Gemini CLI or Cursor. Free and open source (MIT).
+- **[perspica](https://github.com/sshah03/perspica)** – Reviews a diff by what each change does across 11 languages, and flags references and calls the change broke. With an LLM it groups changes by intent and writes short lessons and a quiz on the concepts behind them, and its GitHub Action can hold a merge until a reviewer passes the quiz. One local binary, free and open source (MIT).
 
 ---
 
