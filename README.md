@@ -652,6 +652,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ## Related Lists
 
+- **[HowAI](https://howai.build)** – Catalog of AI agent skills for Claude Code, Codex, and Cursor, with previews and install steps.
 - **[AI For Developers](https://aifordevelopers.org)** – Curated directory of AI dev tools.
 - **[Awesome Vibe Coding](https://github.com/ai-for-developers/awesome-vibe-coding)** – Tools and resources for vibe coding.
 - **[Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools)** – General AI tools for various applications.
