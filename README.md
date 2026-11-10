@@ -222,7 +222,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tuff](https://tuffcli.dev)** – Rust-based CLI for managing coding-agent capabilities (skills, tools, hooks, workflows, MCP servers) from a canonical manifest — install, track provenance, catch config drift, and emit harness-specific output for Claude Code, Codex, and others.
 - **[agent-top](https://agenttop.dev)** – Terminal dashboard (`htop`-style) for monitoring multiple coding-agent sessions at once — status, token usage, cost, and associated processes for Claude Code, Codex, Gemini CLI, and more.
 - **[Webcmd](https://github.com/agentrhq/webcmd)** – Self-learning browser infrastructure CLI for coding agents; learns a site once, then reuses it as deterministic per-site commands.
-- **[Imagera Code](https://imagera.ai/code)** – Terminal coding agent built on OpenCode; one plan covers Claude, GPT, Gemini and hundreds of other models, with usage limits that reset every 3 hours. Runs headless or through ACP and MCP.
+- **[Imagera Code](https://imagera.ai/code)** – Terminal coding agent built on OpenCode; one plan covers Claude, GPT, Gemini and hundreds of other models, with no 3-hour lockouts and one weekly limit. Can run non-interactively (imagera-code run) and use MCP servers as tools.
 
 ---
 
