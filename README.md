@@ -865,6 +865,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[KubeStellar Console](https://github.com/kubestellar/console)** – Open-source multi-cluster Kubernetes dashboard with an MCP server (kc-agent) enabling AI coding agents to query and manage clusters via natural language.
 - **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** – Context and token-cost optimizer for AI coding agents. Finds wasted "ghost tokens," survives compaction, and reduces context-quality decay, with native plugins for Claude Code, Codex, OpenCode, and OpenClaw.
 - **[Runtime Cloud](https://withruntime.com)** – Firecracker microVM sandboxes for AI agents, billed on active CPU ($0.025 per vCPU-hour) with no plan fee; pause and wake with memory kept, and E2B/Daytona SDK-compatible.
+- **[Reliant Forge](https://github.com/reliant-labs/forge)** – Open-source Go and React framework and CLI built for coding agents, with scaffolding, linters for bugs common in agent-written code, an MCP server, and deploys that need no account.
 
 ---
 
