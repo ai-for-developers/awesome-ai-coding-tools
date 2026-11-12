@@ -658,3 +658,4 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Awesome AI Agents](https://github.com/aylar-ghezelbash/awesome-ai-agents)** – AI agents for automation and development.
 - **[Altern](https://altern.ai)** – AI tool discovery platform.
 - **[DevTools Directory](https://devtools.directory)** – Directory of trending dev tools.
+- **[Drydock](https://drydock.si/)** – Curated directory of AI agent frameworks, orchestration tools, vector databases, inference hosts and coding agents, with live GitHub stars and guides such as AGENTS.md.
