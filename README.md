@@ -533,7 +533,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[benchmine](https://github.com/hamarshehmhmd/benchmine)** – Open-source CLI that turns your repo's own git history into a private benchmark for AI coding agents (Claude Code, Codex, Gemini CLI, Cursor CLI, Aider): validated fail-to-pass tasks graded by hidden tests, pass rate with confidence intervals and cost per run, and a regression check after model updates.
 
 ---
-- **[e2e](https://github.com/tester-army/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
+- **[e2e](https://github.com/e2e-inc/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
 
 ## Code Search and Navigation
 
