@@ -355,7 +355,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[squirrelscan](https://squirrelscan.com)** – CLI website audit tool built for coding agents (Claude Code, Cursor). Runs 260+ rules across SEO, performance, security, accessibility and agent experience, and hands the agent exact, source-mapped fixes. Free local audits, GitHub Action, MCP server.
 
 ---
-- **[e2e](https://github.com/tester-army/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
+- **[e2e](https://github.com/e2e-inc/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
 
 ## Code Search and Navigation
 
