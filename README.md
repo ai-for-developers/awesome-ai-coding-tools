@@ -353,7 +353,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[QualityMax](https://qualitymax.io/)** – Independent AI QA platform that generates, executes, and gates tests across web, mobile, API, performance, and security, with self-healing automation.
 - **[rung](https://github.com/rung-dev/rung)** – Deterministic, AI-free CI gate that checks whether an AI coding agent ran the checks it claims: reads an evidence bundle from the real run and passes or blocks the build. Ships as a GitHub Action, CLI, and agent-agnostic skill.
 - **[squirrelscan](https://squirrelscan.com)** – CLI website audit tool built for coding agents (Claude Code, Cursor). Runs 260+ rules across SEO, performance, security, accessibility and agent experience, and hands the agent exact, source-mapped fixes. Free local audits, GitHub Action, MCP server.
-- **[e2e](https://github.com/tester-army/e2e)** – Open-source end-to-end testing framework for web and mobile apps: describe a goal in natural language and an agent drives the app, then verify with locators and assertions. Recorded agent steps replay with no model calls until the app changes.
+- **[e2e](https://github.com/e2e-inc/e2e)** – Open-source end-to-end testing framework for web and mobile apps: describe a goal in natural language and an agent drives the app, then verify with locators and assertions. Recorded agent steps replay with no model calls until the app changes.
 
 ---
 
