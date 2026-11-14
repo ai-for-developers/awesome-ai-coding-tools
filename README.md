@@ -521,6 +521,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 
 ---
+- **[LiveClaude](https://github.com/LeandroCannizzaro/LiveClaude)** – Open-source OS supervisor (Scheduled Task / systemd / LaunchAgent) and Avalonia desktop app with an embedded terminal to keep Claude Code Remote Control and Cursor My Machines sessions alive across crashes and reboots.
 
 ## AI Frameworks and SDKs
 
