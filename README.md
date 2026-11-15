@@ -364,6 +364,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill)** – AI coding agent skill that analyzes git history to reveal hotspots, bug magnets, bus factor risks, and development momentum before reading any code.
 - **[Reflex](https://github.com/reflex-search/reflex)** – Local-first full-text code search engine with MCP server and JSON output built for AI coding agents.
 - **[CocoIndex Code](https://github.com/cocoindex-io/cocoindex-code)** – AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce coding-agent context usage.
+- **[jdx](https://mohammadmd1383.github.io/jdx/)** – CLI and MCP server that gives coding agents IDE answers about Java and Kotlin dependencies: members, single method bodies, usages, call hierarchy and API diffs, with bounded output to save context.
 
 ---
 
