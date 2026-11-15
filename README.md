@@ -66,6 +66,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[BBARIT](https://github.com/bbarit/terminal)** – Free native all-in-one AI coding IDE (Tauri/Rust) with multi-agent terminals, office editing, and an embedded agent-driven browser; bring any model or run locally with Ollama.
 - **[Bodega One Code](https://bodegaone.ai)** – Free, local-first AI IDE with a built-in coding agent, bring-your-own-LLM, and full offline/air-gap support.
 - **[Harness Desktop](https://github.com/baiyuscc13724-max/deepseek-harness-desktop)** – Open-source Windows client for the official DeepSeek Harness Web UI, with a Simplified Chinese installer, portable build, verified updates, and persistent themes.
+- **[Codebuddy (codebuddy.ca)](https://www.codebuddy.ca/)** – AI coding plugin for VS Code and JetBrains IDEs that plans a multi-file change, returns it as a unified diff, and applies only the files you approve; includes repo indexing and two-way voice.
 
 ---
 
