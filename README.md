@@ -647,6 +647,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Markovo](https://github.com/fisher-byte/markovo)** – Convert PDF, DOCX, PPTX, XLSX and authorized public pages (Google Docs, Notion, GitHub, Hacker News, YouTube) into clean, structured Markdown for agent context. Remote MCP endpoint with OAuth 2.1 (`https://markovo.net/mcp`) plus local stdio server sandboxed to a dedicated root; free tier included.
 - **[prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset)** – MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers. `npm install -g prompt-to-asset`.
 - **[Instafill.ai](https://instafill.ai)** – MCP server for AI-powered PDF form filling. Auto-completes any PDF form by extracting fields and filling them from saved profiles, uploaded files, or supplied data.
+- **[Senrelay (ContextCore)](https://senrelay.com/en/)** – Local-first macOS workbench and MCP server for cross-agent session relay (`/contextcore` full-transcript paging), source-cited SQLite FTS5 memory, and snapshot-guarded config sync across Claude Code, Codex, Cursor, Antigravity, OMP, and OpenCode. Open-source MIT ([GitHub](https://github.com/qingsongcui/ContextCore)).
 
 ---
 
