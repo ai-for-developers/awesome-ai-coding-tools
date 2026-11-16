@@ -531,9 +531,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[evalship](https://evalship.com/)** – Tests, monitors and optimizes every AI call your product makes: finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and emails you when a call fails in production.
 - **[claim-check](https://github.com/Balance0014/claude-code-claim-check)** – Claude Code Stop hook that sends the agent back when it says work is fixed, deployed or passing but nothing ran after the last edit and the reply cites no proof, such as a commit hash or a test pass count.
 - **[benchmine](https://github.com/hamarshehmhmd/benchmine)** – Open-source CLI that turns your repo's own git history into a private benchmark for AI coding agents (Claude Code, Codex, Gemini CLI, Cursor CLI, Aider): validated fail-to-pass tasks graded by hidden tests, pass rate with confidence intervals and cost per run, and a regression check after model updates.
+- **[e2e](https://github.com/e2e-inc/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
 
 ---
-- **[e2e](https://github.com/e2e-inc/e2e)** – Open-source end-to-end testing for web and mobile apps with natural-language agent steps, locator assertions, and replay of verified actions.
 
 ## Code Search and Navigation
 
