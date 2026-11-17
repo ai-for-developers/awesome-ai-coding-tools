@@ -519,6 +519,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[myc](https://github.com/aistastudio/myc)** – Open-source local memory and task queue for AI coding agents (Claude Code, Codex, opencode, Kimi): decisions survive context compaction, memory is anchored to code and follows it, everything stays in one SQLite file with no API key.
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
+- **[Anvil](https://xrosswarden.com/anvil)** – Local-first memory for AI coding assistants. Keeps your rules, skills and personas in an encrypted database on your own machine and applies them across Claude Code, Codex/ChatGPT, Copilot, LM Studio, Cline and opencode. Free, no account. macOS/Windows/Linux.
 
 ---
 
