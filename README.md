@@ -169,6 +169,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
 ---
+- **[VEX](https://github.com/umairkhan2582/vex)** – Browser-based AI code-synthesis workspace that turns prompts into application previews.
 
 ## CLI Tools
 
