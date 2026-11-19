@@ -519,6 +519,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[myc](https://github.com/aistastudio/myc)** – Open-source local memory and task queue for AI coding agents (Claude Code, Codex, opencode, Kimi): decisions survive context compaction, memory is anchored to code and follows it, everything stays in one SQLite file with no API key.
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
+- **[L2Cache Token Tax Calculator](https://l2cache.app/en/tools/claude-code-cache-tax)** – Free in-browser calculator that reads your Claude Code `~/.claude/projects` session files and shows how much spend and usage limit went to cold prompt-cache resumes, as a shareable card. Nothing is uploaded.
+- **[L2Cache Session Viewer](https://l2cache.app/en/tools/claude-session-viewer)** – Free in-browser viewer for Claude Code, Codex, GitHub Copilot CLI and Grok Build session logs: search prompts and tool calls, audit cold resumes, copy resume commands. Runs locally; nothing is uploaded.
 
 ---
 
