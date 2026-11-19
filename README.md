@@ -602,6 +602,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[gate.cat](https://github.com/BGMLAI/gate.cat)** – Deterministic, fail-closed action veto for AI coding agents that blocks irreversible shell commands (rm -rf, DROP TABLE, terraform destroy) and secret exfiltration before they run, with no LLM in the veto path. Works as a Claude Code hook, a gated shell for any CLI agent, or a local OpenAI-API proxy.
 - **[repo-forensics](https://github.com/alexgreensh/repo-forensics)** – Offline security scanner for AI-agent repos, skills, plugins, and MCP servers; detects prompt injection, credential theft, and manifest drift.
 - **[Speakeasy](https://www.speakeasy.com/product/ai-control-plane)** – Enterprise AI control plane for governing access, policy, and auditability across agents, MCP servers, and Skills.
+- **[Bravos](https://www.bugb.io/bravos)** – Commercial CLI and plugins for Claude Code, Codex, Copilot, Cursor, and Gemini CLI, built on GuardLink, that drive your own coding agent through the threat model and authorized pentests against targets you own to test which declared exposures are exploitable, keeping a retest for each fix. Runs locally. Free for one researcher in one repository; PR gating, SAST, and the code graph are on the paid Team plan.
 
 ---
 
