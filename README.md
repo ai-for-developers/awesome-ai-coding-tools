@@ -169,6 +169,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
 ---
+- [Amia](https://amia.to/) - Native macOS (Apple Silicon) and iPhone workspace that orchestrates Claude Code, Codex, Cursor, Grok Build, Antigravity, Muse Code, and its own agents as one crew, with Lock Screen approvals before irreversible actions, Vault-isolated credentials, and an optional Cloud computer (`brew install --cask amiahq/tap/amia`). Free with your own AI accounts.
 
 ## CLI Tools
 
