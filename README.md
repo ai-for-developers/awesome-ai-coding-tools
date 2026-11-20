@@ -320,6 +320,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[twoperson](https://github.com/ahm3dwasim/twoperson)** – Two-person rule for AI coding agents: a builder agent and a reviewer agent share a file-based review inbox whose schema won't let work be marked shipped without a verdict bound to that exact commit, so the review can't be skipped or applied to the wrong revision. Stop-hook installer, credential scan, worktree-aware; MIT.
 - **[VibeAudit](https://vibeaudit.sh/)** – Pre-launch code audit that reads your whole repo and returns a launch-readiness score plus fixes as paste-ready prompts for your AI editor.
 - **[OpenFiles](https://github.com/devgiordane/openfiles)** – VS Code extension that opens every file an AI agent edits so linters and type checkers run on it, lists the changes for review, and returns the problems to Claude Code, Codex, Copilot, Gemini CLI or Cursor. Free and open source (MIT).
+- **[Grapim](https://github.com/grapim/grapim)** – Open-source pull request reviewer for code written by coding agents (Claude Code, Codex, Cursor), which flags changes the agent was not asked to make. Runs as a GitHub App or as a GitHub Action on your own model key.
 
 ---
 
