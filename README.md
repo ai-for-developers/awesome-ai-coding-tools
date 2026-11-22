@@ -167,6 +167,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TaskHandoff](https://docs.thandoff.com/)** – Self-hosted control plane for running Docker-based Codex workspaces on local and remote machines, with per-task workspace isolation, a diff review gate before changes land in your repository, and multi-agent handoff to a human reviewer.
 - **[Sillage](https://github.com/MarlBurroW/sillage)** – Self-hosted, MIT-licensed, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions, full-text search, an IDE panel, an MCP board the agents read, and an installable PWA. Single Docker container.
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
+- **[Olympus Coder](https://github.com/martianacademy/olympus-coder)** – Open-source (Apache-2.0) desktop app and zero-Electron headless VPS server for Claude Code, Codex, Antigravity, Ollama, and 18+ ACP coding agents. Includes shared project memory, parallel sub-session orchestration, isolated Git worktrees, per-hunk diff review, 1-click fresh context carryover, embedded terminals, and phone/browser access over local LAN (HTTP) or an E2E-encrypted relay.
 
 ---
 
