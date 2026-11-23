@@ -223,6 +223,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[agent-top](https://agenttop.dev)** – Terminal dashboard (`htop`-style) for monitoring multiple coding-agent sessions at once — status, token usage, cost, and associated processes for Claude Code, Codex, Gemini CLI, and more.
 - **[Webcmd](https://github.com/agentrhq/webcmd)** – Self-learning browser infrastructure CLI for coding agents; learns a site once, then reuses it as deterministic per-site commands.
 
+- **[HAPI-Rust](https://github.com/Overbaker/hapi-rust)** – Open-source, local-first remote controller and 4.4 MiB Rust session wrapper for running 100+ Claude Code, Codex, Antigravity, and Pi sessions from any browser/PWA with automatic 24h idle hibernation. AGPL-3.0.
 ---
 
 ## App Builders
