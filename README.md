@@ -169,6 +169,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Aura](https://github.com/Naridon-Inc/aura)** – Open-source semantic layer on top of Git for reviewing AI-generated code, tracking intent/provenance, and surfacing risky change areas.
 
 ---
+- **[Silos](https://silosplatform.com)** – Open-source, self-hosted web console that runs Claude Code and OpenCode agents as named identities, with the real CLI in the browser, a shared inbox, heartbeats and scheduled automations.
 
 ## CLI Tools
 
