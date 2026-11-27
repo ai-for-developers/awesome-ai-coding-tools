@@ -356,6 +356,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 
 ---
 
+- **[100x Engineer Skill](https://github.com/DeadInternetStudios/100x-engineer-skill)** – Free, open-source skill and CLI that makes coding agents state formal properties, run the checks, and record review evidence before reporting work done.
+
 ## Code Search and Navigation
 
 - **[Sourcegraph Cody](https://about.sourcegraph.com/cody)** – AI-powered code search and navigation for large codebases.
