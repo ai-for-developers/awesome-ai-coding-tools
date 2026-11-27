@@ -283,6 +283,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 ---
 ## Code Review and Refactoring
 
+- **[AdaptOrch](https://adaptorch.com/)** – Reliability kernel, MCP server ([GitHub](https://github.com/dmae97/Adaptorch-MCP)), and GitHub Action that routes coding-agent tasks through DAG topologies and multi-model synthesis with verifiable execution receipts.
 - **[AICodeSlopMonitor](https://slopcodemonitor.ai/)** – Detects low-quality and AI-generated code patterns to help developers review and improve codebases.
 - **[SynthScan](https://github.com/marcoramilli/SynthScan)** – Scans codebases for AI-generated code patterns.
 - **[CodeRabbit](https://coderabbit.ai/)** – AI-driven contextual pull request reviews with actionable feedback.
