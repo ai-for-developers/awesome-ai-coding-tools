@@ -296,6 +296,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[agy-powerline](https://github.com/wassim-azi/agy-powerline)** – Fast, configurable statusline for the Google Antigravity CLI (`agy`) with live Gemini 5h/7d quota meters, pace markers, context usage, and interactive TUI and [browser](https://agy-powerline.com/configure/) configurators.
 - **[Octomind](https://github.com/muvon/octomind)** – Open-source CLI coding agent that edits files and runs commands through MCP, with multiple model providers and interactive, piped, or daemon sessions.
 - **[acpantenna](https://github.com/fboldo/acpantenna)** – CLI that connects a running Claude Code, Codex or OpenCode session to your phone or browser over a link and QR code, end-to-end encrypted, with permission prompts on the device you moved to.
+- **[ReRead](https://github.com/tecyfyai/reread)** – Shows how much of your Claude Code, Codex and Antigravity usage was re-reading context, when the prompt cache was lost and why, and the costliest sessions, from the session files on your machine. Run with `npx reread-cli`; no account, no network requests, MIT-licensed. Also a status-line cache countdown and a VS Code extension.
 
 ---
 
