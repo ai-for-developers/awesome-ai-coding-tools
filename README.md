@@ -517,6 +517,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Kerno](https://kerno.io)** – The AI Backend Runtime QA Engineer. Runs locally inside your coding agent's loop through MCP and tests each change against your running app and its real databases, queues and services.
 - **[Persqo](https://persqo.com)** – AI personas test your web app like real users in a real browser and hand your coding agent ready-to-paste fix prompts for each ranked issue.
 - **[evalship](https://evalship.com/)** – Tests, monitors and optimizes every AI call your product makes: finds flaws in your LLM evals, says on every pull request which evals a change broke and why, and emails you when a call fails in production.
+- **[claim-check](https://github.com/Balance0014/claude-code-claim-check)** – Claude Code Stop hook that sends the agent back when it says work is fixed, deployed or passing but nothing ran after the last edit and the reply cites no proof, such as a commit hash or a test pass count.
 
 ---
 
