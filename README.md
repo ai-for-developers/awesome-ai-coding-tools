@@ -481,6 +481,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[consult](https://github.com/neelsatyavolu/consult)** – MIT open source MCP server and CLI that has Claude Code, Codex and Grok review a diff in parallel (`npx -y consult-mcp@latest review`), each returning severity, file:line and a fix, and lets them ask each other for advice through their signed-in CLIs with no API keys.
 - **[DiffNotes](https://github.com/igorkasyanchuk/diffnotes)** – Open-source, self-hostable tool where the coding agent that wrote a pull request leaves per-line notes, screenshots and demos that reviewers see inside the GitHub, GitLab or Bitbucket diff.
 - **[Lians check](https://github.com/ebeirne/lians-check)** – GitHub Action that checks agent-written PRs against the linked GitHub, Linear or Jira ticket and re-checks open PRs when the ticket changes. Runs on your own Anthropic key; source-available, free through Jan 31, 2027.
+- **[IonWarp](https://ionwarp.com/)** – AI code review for GitHub pull requests, with specialist reviewers such as Security and Docs, and a public benchmark of review apps and models on open-source pull requests.
 
 ---
 
