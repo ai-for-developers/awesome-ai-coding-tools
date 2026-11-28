@@ -992,6 +992,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agentik](https://www.agentik.cc)** – Remote MCP gateway that gives Claude Code, Codex and Cursor 3,000+ tools from 125 providers through one connection, each call at the provider's price, with the price shown before each call.
 - **[deja-vu](https://github.com/vshulcz/deja-vu)** – Local cross-agent session memory MCP server (`recall`, `context`, `blame`, `fix`, `how`, `orient`) over the transcripts 53 coding agents already write to disk. Single Go binary, BM25 lexical search, automatic secret redaction, zero API keys. Install: `npx @vshulcz/deja-vu`.
 - **[GenClass MCP](https://github.com/genclass-dev/GenClass/tree/main/packages/mcp)** – Local MCP server that shows coding agents what happened in a web app's development pages in causal order (clicks, requests, responses, the state writes it can see), re-runs a page with responses delivered in different orders to find race conditions, replays one order to check a fix and writes a Playwright test. Apache-2.0. The page side uses `@genclass/runtime`, whose anonymous diagnostics are on by default on public hosts, off on localhost, and turned off with `telemetry: false`.
+- **[Datacircle](https://datacircle.dev)** – Find the best GTM APIs. Our MCP server is open to anyone, with no key: add api.datacircle.dev/mcp to Claude, ChatGPT or Cursor.
 
 ---
 
