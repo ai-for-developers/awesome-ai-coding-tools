@@ -185,6 +185,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Raven](https://github.com/EverMind-AI/Raven)** – Open-source (Apache-2.0) host agent that plans a complex task as a DAG and runs its built-in Raven-Code agent alongside CLI coding agents such as Claude Code, Codex, OpenCode, Qwen Code, Kimi Code, and GitHub Copilot as subagents over ACP, from a terminal UI or WebUI.
 - **[PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis)** – Open-source desktop app for Windows, macOS, and Linux that runs CLI coding agents such as Claude Code, Codex, Gemini CLI, and OpenCode side by side in terminal panes with Git worktrees, together with a chat and voice assistant and background agents.
 - **[agent-manager](https://github.com/YoanWai/agent-manager)** – Terminal UI that runs coding-agent CLIs (Claude Code, Codex, OpenCode, Gemini CLI and more) side by side, each in its own persistent tmux session, with live status, prompts sent without attaching, optional git worktrees, and a diff view whose line comments go back to the agent. Apache-2.0. Runs on macOS, Linux and Windows via WSL2.
+- **[ANUS](https://github.com/anus-dev/anus)** – Free terminal coding agent that runs every request on the smartest free model that is up today, and switches when one hits its limit. MIT.
 
 ---
 
