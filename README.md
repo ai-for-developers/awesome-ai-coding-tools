@@ -237,6 +237,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[muster](https://github.com/ZacxDev/muster)** – Self-hosted, MIT-licensed server that mirrors Claude Code and other coding-agent sessions running in tmux on several machines to a phone PWA, with dictation, push notifications, a task board, and MCP tools through which an agent asks a question and waits for the answer.
 - **[CodeAF](https://github.com/Agent-Field/CodeAF)** – Open-source coding agent for open models that works like a software factory: it splits a request into tasks that run in parallel in their own copies of the repo and merges the ones that pass the project's checks. Single Go binary, Apache-2.0.
 - **[Wavefunction](https://www.wavefunction.si)** – Open-source desktop coding agent for macOS with parallel chats, MCP connectors and any model: local, your own API keys or a ChatGPT sign-in.
+- **[OpenCode Mobile (opencode-mobile-next)](https://github.com/Eslamasabry/opencode-mobile-next)** – Independent, unofficial, open-source (MIT) Android app that runs coding agents such as Claude Code, Codex, Gemini CLI and OpenCode on the phone itself, in an Ubuntu environment it installs inside the app, or connects to an agent on your computer. Approve requests from a notification, review diffs, preview the dev server. Made by its owner with substantial AI assistance.
 
 ---
 
