@@ -387,6 +387,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Bubo](https://github.com/mountainowl/bubo)** – Self-hosted open-source AI code reviewer for GitHub and GitLab that posts evidence-backed findings and learns from maintainer outcomes to reduce repository-specific noise.
 - **[Aevral](https://aevral.com)** – GitHub App that reviews pull requests for security flaws (access control, business logic, injection, XSS, SSRF, path traversal, LLM integrations) and posts an advisory Check with inline comments. Free on public repositories up to 500 PR reviews per org per month.
 - **[Peekumi](https://github.com/tee-jagz/peekumi)** – Mobile-first interface for reviewing agent implementations from repository level down to code, with support for Codex and Claude Code.
+- **[Agent Verifier](https://github.com/Aurite-ai/agent-verifier)** – Agent skill and Claude Code plugin that reviews AI agent code for hardcoded secrets, infinite loops, unbounded retries, hallucinated tool calls, and oversized prompts, with a file:line report.
 
 ---
 
