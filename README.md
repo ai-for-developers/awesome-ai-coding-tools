@@ -175,6 +175,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tura](https://github.com/Tura-AI/tura)** – Open-source local coding agent with CLI/TUI/GUI, task-scoped context, macro command execution, verification, and public benchmarks.
 - **[Agent Workbench](https://github.com/cvelasquez/agent-workbench)** – Local, MIT-licensed web UI around the Claude Code, Codex, OpenCode and Antigravity CLIs: runs the unmodified CLI you already have in a pseudo-terminal and adds tabs, one browsable history for all four, conversations as cards, hand-off of a conversation to another CLI and full-text search. No telemetry; never reads credentials.
 - **[Navarch](https://sagentlab.com/navarch)** – Turns your backlog into reviewable pull requests with less agent supervision, running your coding agents across projects with your budgets and approval rules. From SagentLab; paid subscription from $20/seat/month.
+- **[Atlarix](https://atlarix.dev)** – Private AI agent workstation for engineering teams that works alongside your existing editor: any model (managed Atlarix Core, your own keys across 220+ providers, or local Ollama/LM Studio), bundled-ripgrep search with no repo index to build, and every edit held for approval with hunk-level diff review. Free tier.
 
 ---
 
