@@ -531,6 +531,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sunstone](https://marketplace.visualstudio.com/items?itemName=SunstoneNorth.sunstone)** – VS Code extension that indexes the folders you open, on your machine, and gives any model in the chat picker, Copilot's included, a tool to search them; your own model servers can join the picker too.
 - **[LayerMap](https://github.com/coffeecoproject/layermap)** – Local MCP server and Claude Code/Codex plugin that gives coding agents a compiler-resolved call graph of TS/JS, Go, Python and Java, tracing a function's callers to HTTP routes in one call.
 - **[Architect](https://github.com/abhiramshaji-cyber/Architect)** – Open-source macOS app that ranks every function in a JS/TS codebase by importance, draws the call tree, and serves an architecture contract to coding agents over MCP.
+- **[symbolhop](https://github.com/stanczykwyatt/symbolhop)** – MCP server and CLI that gives coding agents go-to-definition, find-references, hover and diagnostics from the project's language servers instead of grep.
 
 ---
 
@@ -763,6 +764,8 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Joxo](https://joxo.ai)** – Shared project for a team's coding agents: each person's Claude Code, Codex or Cursor works from one task board, decisions and handoffs, and can ask a teammate's agent for help.
 - **[Session Dock](https://github.com/paragpandyareal/session-dock)** – Windows desktop dock that shows every running Claude Code session (CLI and desktop app) at a glance, with live status and alerts when one is waiting for you. Free and open source (MIT), fully local.
 - **[SkillHey](https://skillhey.com)** – Curated directory of agent skills (SKILL.md) for Claude Code, Codex, and Cursor, browsable by category in nine languages.
+- **[mulligan](https://github.com/stanczykwyatt/mulligan)** – Undo for coding agents: snapshots the project at every prompt and tool call, shell commands included, so you can list, diff and undo to any point without touching your git repo.
+- **[AI Footprint](https://github.com/stanczykwyatt/ai-footprint)** – Mac menu bar app that shows what AI coding tools leave on your Mac: disk per tool, background processes, orphaned MCP servers and login items, with a receipt for every update.
 
 ---
 
