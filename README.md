@@ -204,6 +204,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CodingFleet Desktop](https://github.com/x4nth055/codingfleet-desktop)** – Open-source (MIT) desktop coding agent for Windows, macOS, and Linux. It reads, edits, and runs code in a folder you pick and asks before every command or file change, with one-click undo, mid-run steering, MCP connectors, computer use, and an optional cloud sandbox. Works with Claude, GPT, Gemini, DeepSeek, GLM, and free models. Free tier available. [Website](https://codingfleet.com/download/?utm_source=awesome-ai-coding-tools&utm_medium=awesome-list)
 - **[Doforu](https://doforu.ai)** – Local-first desktop AI agent orchestrator that plans a goal, splits it into subtasks, and runs parallel sub-agents, with 15+ models, Skills, MCP support, and offline local models via Ollama or vLLM.
 - **[Mudroom](https://github.com/Kernel-Hunter/mudroom)** – Runs coding agents (Claude Code, Codex, Gemini CLI, Aider, opencode) in a Linux micro-VM on a copy-on-write clone of your project, behind a network allowlist, then lets you review and apply the diff per file or per hunk.
+- **[Crewly](https://github.com/stevehuang0115/crewly)** – Local, MIT-licensed platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex, and Gemini CLI, with task delegation, shared memory, and a web dashboard of live agent terminals.
 
 ---
 
