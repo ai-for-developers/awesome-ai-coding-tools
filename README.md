@@ -754,9 +754,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SoloPup Memory](https://github.com/OakcoderX/solopup-memory)** – Public-beta DeepSeek Harness text-memory plugin with original-source references, project/global scope and correction history; lexical recall.
 - **[vidbyte-memory](https://github.com/cerredz/vidbyte-memory)** – GitHub template that turns the corrections you give a coding agent into Markdown facts, pytest regression tests where a check can be written, and git commits, with a Stop hook that blocks the agent from finishing (up to 5 times in a row) while tests fail.
 - **[StackVersus AI Limits](https://getstackversus.com/limits)** – Free reference of prices and vendor-stated usage limits for 73 AI coding plans (Claude, Codex, Cursor, Copilot, Gemini, Lovable, v0, Bolt and more), each with source link, check date and a change log; data as JSON/CSV.
+- **[Joxo](https://joxo.ai)** – Shared project for a team's coding agents: each person's Claude Code, Codex or Cursor works from one task board, decisions and handoffs, and can ask a teammate's agent for help.
 
 ---
-- **[Joxo](https://joxo.ai)** – Shared project for a team's coding agents: each person's Claude Code, Codex or Cursor works from one task board, decisions and handoffs, and can ask a teammate's agent for help.
 
 ## AI Frameworks and SDKs
 
