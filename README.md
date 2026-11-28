@@ -179,6 +179,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Orbi](https://github.com/orbi-build/orbi)** – Open-source (AGPL-3.0) autonomous delivery runner: label a GitHub Issue `ai-ready` and it implements, has an independent session review the frozen diff, merges only the reviewed commit, and ships a tagged release — unattended.
 - **[Sabi](https://github.com/vizuh/sabi)** – Open-source (MIT) routing layer that sits between a coding agent and the models it can call, choosing model, reasoning effort and provider per round from trajectory evidence such as tool results, failures and verification instead of pinning the whole task to one model. Ships controller hooks for Claude Code, Codex, OpenCode and Orca, plus a local OpenAI-compatible proxy and a Command Code mod.
 - **[Agent 007](https://github.com/bill10/agent-007)** – Self-hosted job board that runs Claude Code, Codex, and other terminal agents in parallel, one git worktree and branch per job, with each job ending as a pull request to review.
+- **[tonone](https://github.com/tonone-ai/tonone)** – Open-source (MIT) Claude Code plugin with 140 specialist agents and 573 skills across engineering, product, design, security, legal, and ops, with an engineering-lead agent that scopes and routes work.
 
 ---
 
