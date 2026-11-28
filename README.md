@@ -922,6 +922,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[TokenRip](https://tokenrip.com)** – Shared workspace for Claude Code, Codex, Cursor and ChatGPT over remote MCP: versioned files, tasks and pinned decisions every agent reads before it starts, so work can move between agents without re-explaining. Free tier included.
 - **[Flisk](https://github.com/flisk-sh/flisk)** – MCP server that lets an AI agent build and run a whole app on your computer: it creates the parts, starts them, checks status and logs, and fixes setup problems. MIT, free.
 - **[Allscreenshots](https://github.com/allscreenshots/allscreenshots-plugin)** – MCP server and Claude Code/Codex plugin for capturing website screenshots, running bulk captures, and managing screenshot schedules via the Allscreenshots API. MIT licensed.
+- **[CurlShot](https://curlshot.com/docs/guides/ai-agents)** – Hosted MCP server (`https://curlshot.com/api/mcp`, Streamable HTTP) that lets Claude Code, Cursor, Codex and other agents screenshot a web page in a real browser and look at the result: PNG, JPEG, WebP or PDF, full page or one element, device presets, ad and cookie-banner blocking. Needs an API key; free plan of 100 screenshots a month, no card.
 
 ---
 
