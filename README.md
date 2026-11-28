@@ -758,6 +758,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[StackVersus AI Limits](https://getstackversus.com/limits)** – Free reference of prices and vendor-stated usage limits for 73 AI coding plans (Claude, Codex, Cursor, Copilot, Gemini, Lovable, v0, Bolt and more), each with source link, check date and a change log; data as JSON/CSV.
 - **[Joxo](https://joxo.ai)** – Shared project for a team's coding agents: each person's Claude Code, Codex or Cursor works from one task board, decisions and handoffs, and can ask a teammate's agent for help.
 - **[Session Dock](https://github.com/paragpandyareal/session-dock)** – Windows desktop dock that shows every running Claude Code session (CLI and desktop app) at a glance, with live status and alerts when one is waiting for you. Free and open source (MIT), fully local.
+- **[SkillHey](https://skillhey.com)** – Curated directory of agent skills (SKILL.md) for Claude Code, Codex, and Cursor, browsable by category in nine languages.
 
 ---
 
