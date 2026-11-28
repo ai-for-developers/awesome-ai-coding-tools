@@ -769,6 +769,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SkillHey](https://skillhey.com)** – Curated directory of agent skills (SKILL.md) for Claude Code, Codex, and Cursor, browsable by category in nine languages.
 - **[mulligan](https://github.com/stanczykwyatt/mulligan)** – Undo for coding agents: snapshots the project at every prompt and tool call, shell commands included, so you can list, diff and undo to any point without touching your git repo.
 - **[AI Footprint](https://github.com/stanczykwyatt/ai-footprint)** – Mac menu bar app that shows what AI coding tools leave on your Mac: disk per tool, background processes, orphaned MCP servers and login items, with a receipt for every update.
+- **[deja-vu](https://github.com/vshulcz/deja-vu)** – Local-first session memory CLI and MCP server that indexes the session transcripts 53 AI coding agents already write to disk (Claude Code, Codex, Cursor, Gemini CLI, Antigravity, OpenCode, Aider, Windsurf, Copilot, and more) into a shared BM25 index, including months of history from before it was installed. Ships native skills, hooks, and plugins in a single Go binary with no LLM calls or accounts. MIT licensed. Install: `brew install deja-vu` or `npx skills add https://github.com/vshulcz/deja-vu`.
 
 ---
 
@@ -960,6 +961,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Archboard](https://getarchboard.app/)** – Remote MCP server for architecture diagrams. Claude Code, Cursor, Codex and other agents draw and update Kubernetes, cloud, C4 and ER diagrams on a live canvas the team edits too. Free tier available.
 - **[Keenable](https://keenable.ai)** – Web search and page fetch MCP server for AI coding agents (`https://api.keenable.ai/mcp`), backed by an independent web index. Works in Claude Code, Codex, Cursor and others; 100K free requests/month.
 - **[Agentik](https://www.agentik.cc)** – Remote MCP gateway that gives Claude Code, Codex and Cursor 3,000+ tools from 125 providers through one connection, each call at the provider's price, with the price shown before each call.
+- **[deja-vu](https://github.com/vshulcz/deja-vu)** – Local cross-agent session memory MCP server (`recall`, `context`, `blame`, `fix`, `how`, `orient`) over the transcripts 53 coding agents already write to disk. Single Go binary, BM25 lexical search, automatic secret redaction, zero API keys. Install: `npx @vshulcz/deja-vu`.
 
 ---
 
