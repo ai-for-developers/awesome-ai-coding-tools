@@ -435,7 +435,6 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Burnd](https://github.com/garvitsurana/burnd)** – Local-first CLI (`npx getburnd`) that parses your `.claude/projects/*.jsonl` session files to find cost leaks in Claude Code usage — retry storms, tool overuse, repeated reads, long bash output, tired-coding hours. Runs entirely offline. Free core + optional Pro detectors.
 
 - **[Qovery Deploy Skill](https://github.com/Qovery/qovery-skills)** – AI Agent Skill that deploys any application to Kubernetes from Claude Code, Cursor, OpenCode, and 30+ AI coding tools. Analyzes codebases, creates Dockerfiles for 12+ frameworks, provisions databases, deploys via CLI+API or Terraform, and auto-fixes deployment failures. Install: `curl -fsSL https://skill.qovery.com/install.sh | bash`.
-- **[Tack](https://gettack.dev)** – Annotate any rendered web page and export the notes as Markdown your AI coding agent can resolve; rewrite an element's text in place so the export carries an exact replacement instead of a description. One script tag, works on any framework, 11KB, no dependencies, MIT.
 
 - **[Recast](https://recast-indol.vercel.app/)** – Client-side browser tool that turns messy LLM output into valid JSON and explains every change. Nothing uploaded.
 - **[RegexAI](https://regexai-six.vercel.app/)** – Describe patterns in plain English and get working regex with explanations. Supports multiple flavors. Free, no signup.
@@ -532,6 +531,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 - **[Cursor BYOK (bargino fork)](https://github.com/bargino/cursor-byok)** – Open-source desktop gateway for connecting OpenAI- and Anthropic-compatible model APIs to Cursor, with account pools and usage tracking.
+- **[Tack](https://gettack.dev)** – Annotate any rendered web page and export the notes as Markdown your AI coding agent can resolve; rewrite an element's text in place so the export carries an exact replacement instead of a description. One script tag, works on any framework, 11KB, no dependencies, MIT.
 
 ---
 
