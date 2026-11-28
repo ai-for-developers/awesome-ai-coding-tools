@@ -242,6 +242,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[UNCUT](https://github.com/Balanov/uncut)** – MIT-licensed lossless, headless coding agent harness with complete tool output, resumable JSONL sessions, and reproducible lossless checks.
 - **[Friday](https://github.com/splashxmoon/friday-code)** – Open-source (MIT) desktop app that runs Claude Code, Codex, Cursor, Gemini CLI and others side by side on your own computer, with a shared task board, agent-to-agent messages, a git worktree per agent, diff review with line notes, and a hand-off to another agent when one hits its usage limit. No account.
 - **[AgentVera](https://agentvera.dev/en/)** – Desktop app (macOS, Windows, Linux) that runs Claude Code, Codex, Gemini CLI, Copilot, Cursor and 13 more coding agents side by side per project in real terminals, with a team kanban board that hands cards to agents and an MCP manager.
+- **[Kiteline](https://github.com/hon6/kiteline)** – Follow and reply to Claude Code, Codex, OpenCode and DeepSeek Harness sessions from iPhone, iPad and Apple Watch: approve requests, answer questions, set goals and get test reports while the agents keep running on your own computer. The desktop app (Mac, Windows, Linux) is open source.
 
 ---
 
