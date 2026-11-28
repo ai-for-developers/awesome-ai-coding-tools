@@ -235,6 +235,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Bivy](https://github.com/bivysh/bivy)** – Self-hostable workspace that runs Claude Code, Codex, OpenCode, Pi and other coding-agent CLIs on your own machines or a cloud computer, steered from a phone, browser or terminal, with push notifications, live app previews and GitHub/CI/schedule triggers.
 - **[Paradev](https://github.com/ParadevAI/Paradev)** – Desktop app (formerly Superset) for running Claude Code, Codex, OpenCode, and other CLI agents in parallel, each task in its own Git worktree, with diff review, pull requests, and an in-app browser.
 - **[muster](https://github.com/ZacxDev/muster)** – Self-hosted, MIT-licensed server that mirrors Claude Code and other coding-agent sessions running in tmux on several machines to a phone PWA, with dictation, push notifications, a task board, and MCP tools through which an agent asks a question and waits for the answer.
+- **[CodeAF](https://github.com/Agent-Field/CodeAF)** – Open-source coding agent for open models that works like a software factory: it splits a request into tasks that run in parallel in their own copies of the repo and merges the ones that pass the project's checks. Single Go binary, Apache-2.0.
 
 ---
 
