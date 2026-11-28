@@ -533,6 +533,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 - **[Cursor BYOK (bargino fork)](https://github.com/bargino/cursor-byok)** – Open-source desktop gateway for connecting OpenAI- and Anthropic-compatible model APIs to Cursor, with account pools and usage tracking.
 - **[Tack](https://gettack.dev)** – Annotate any rendered web page and export the notes as Markdown your AI coding agent can resolve; rewrite an element's text in place so the export carries an exact replacement instead of a description. One script tag, works on any framework, 11KB, no dependencies, MIT.
+- **[Orchestrator](https://github.com/zachealy1/orchestrator)** – Free, open-source Mac workspace for Codex conversations, Kanban tasks, subagent inspection and local code review. Uses your own supported Codex account.
 
 ---
 
