@@ -209,6 +209,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[opencode-rust](https://github.com/vakandi/opencode-rust)** – The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents, no Docker required. MIT licensed, 21 crates, 571 tests. Install with `npm install -g opencode-rust` or `brew install vakandi/tap/opencode-rust`; the command is `opr`. Independent Rust implementation of opencode, not affiliated with the OpenCode team.
 - **[podway](https://podway.io/agent-computer)** – Always-on cloud computer for Claude Code: the session keeps running when your laptop is closed, and you open it from the official Claude apps on desktop or phone. Uses your own Claude Pro/Max plan; free to start.
 - **[claw-kit](https://github.com/chanyuenpang/claw-kit)** – A better harness for beginners that keeps coding-agent plans, tasks and project notes in the repo so long tasks can resume across sessions.
+- **[Alchemist Coder](https://github.com/Alekla0126/alchemist-coder)** – Open-source (AGPL-3.0) desktop app for macOS, Windows and Linux that runs Claude Code and Codex over ACP with a live tree of agents and subagents, an Arena where up to four agents solve the same task in separate git worktrees, and one searchable history of Claude Code, Codex, Gemini CLI and Grok Build sessions. The free edition runs agents on local models (Ollama, LM Studio).
 
 ---
 
