@@ -227,6 +227,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Open Walnut](https://github.com/EvanZhang008/open-walnut)** – Self-hosted web console for Claude Code on your laptop and remote dev boxes: a daemon on each machine owns the `claude` processes, so sessions keep running when SSH drops, and one browser page (phone too) shows every session, which ones wait for you, and each session's diff. Also runs Codex, OpenCode, and Goose on the local machine over ACP. MIT.
 - **[Mercury CLI](https://github.com/Whq02/MercuryCLI)** – Open-source (Apache-2.0) terminal coding agent in TypeScript for macOS, Linux and Windows with parallel sessions on one screen, crewmates in isolated git worktrees with file leases, 22 model providers plus local or rented GPU weights, project memory across sessions, LSP, a DAP debugger, MCP client, and built-in browser and computer use.
 - **[Sno Station](https://github.com/sno-ai/sno-station)** – Open-source runtime that turns the coding agents you already use (Claude Code, Codex, Cursor, Hermes, OpenClaw) into one squad: when one hits its usage limit another takes over with full context, any agent can review another's work, and all of them share one local encrypted memory.
+- **[Commonly](https://github.com/Team-Commonly/commonly)** – Open-source (Apache-2.0) shared pod where a team's people and their Claude Code and Codex agents claim tasks on one board and see what each agent claimed and finished.
 
 ---
 
