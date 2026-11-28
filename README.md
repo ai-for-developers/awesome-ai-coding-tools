@@ -202,6 +202,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[mu](https://github.com/qybaihe/mu)** – Open-source coding agent (CLI and desktop app) built on pi, where a small, fast judge model makes the routine calls at 40 decision points, such as what enters the context, whether a flagged command was asked for and whether "done" was verified, so the main model keeps its attention on the work.
 - **[Agentastic.dev](https://www.agentastic.dev)** – Free native macOS IDE that runs Claude Code, Codex, Gemini CLI, and 50+ other coding-agent CLIs in parallel, each in its own git worktree with a terminal, browser preview, diff review, and pull request flow.
 - **[CodingFleet Desktop](https://github.com/x4nth055/codingfleet-desktop)** – Open-source (MIT) desktop coding agent for Windows, macOS, and Linux. It reads, edits, and runs code in a folder you pick and asks before every command or file change, with one-click undo, mid-run steering, MCP connectors, computer use, and an optional cloud sandbox. Works with Claude, GPT, Gemini, DeepSeek, GLM, and free models. Free tier available. [Website](https://codingfleet.com/download/?utm_source=awesome-ai-coding-tools&utm_medium=awesome-list)
+- **[Doforu](https://doforu.ai)** – Local-first desktop AI agent orchestrator that plans a goal, splits it into subtasks, and runs parallel sub-agents, with 15+ models, Skills, MCP support, and offline local models via Ollama or vLLM.
 
 ---
 
