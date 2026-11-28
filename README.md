@@ -957,6 +957,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[ComputeFirst](https://computefirst.net/docs)** – Hosted MCP server of free, versioned, deterministic tools for coding agents: identifier validation, date math, CSV/JSON transforms, unit conversion and statistics. Remote endpoint `https://computefirst.net/mcp`, no API key or sign-up.
 - **[Archboard](https://getarchboard.app/)** – Remote MCP server for architecture diagrams. Claude Code, Cursor, Codex and other agents draw and update Kubernetes, cloud, C4 and ER diagrams on a live canvas the team edits too. Free tier available.
 - **[Keenable](https://keenable.ai)** – Web search and page fetch MCP server for AI coding agents (`https://api.keenable.ai/mcp`), backed by an independent web index. Works in Claude Code, Codex, Cursor and others; 100K free requests/month.
+- **[Agentik](https://www.agentik.cc)** – Remote MCP gateway that gives Claude Code, Codex and Cursor 3,000+ tools from 125 providers through one connection, each call at the provider's price, with the price shown before each call.
 
 ---
 
