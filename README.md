@@ -531,6 +531,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[sidegrade](https://github.com/iotexproject/sidegrade)** – Reads your local coding-agent usage (Claude Code, Codex, Hermes, OpenCode) and shows which model gives you the same intelligence for less — scoring every model on the Artificial Analysis Intelligence Index and re-pricing your own token mix. 100% local, no account, MIT-licensed. Run with `npx sidegrade`; on [npm](https://www.npmjs.com/package/sidegrade).
 - **[MySpec](https://myspec.dev)** – Interactive AI architect that interviews developers and generates structured 4-file spec bundles with MCP server integration.
 - **[Cursor BYOK (bargino fork)](https://github.com/bargino/cursor-byok)** – Open-source desktop gateway for connecting OpenAI- and Anthropic-compatible model APIs to Cursor, with account pools and usage tracking.
+- **[Tack](https://gettack.dev)** – Annotate any rendered web page and export the notes as Markdown your AI coding agent can resolve; rewrite an element's text in place so the export carries an exact replacement instead of a description. One script tag, works on any framework, 11KB, no dependencies, MIT.
 
 ---
 
