@@ -462,6 +462,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[diffback](https://github.com/homka122/diffback)** – Shows Claude Code's changes in VS Code's diff editor before they are committed; comments on selected code go back to the running session, which fixes them.
 - **[MergeJudge](https://github.com/gauravsharmaGG/mergejudge-runner)** – Open-source AI pull request reviewer (GitHub Action and CLI) that sorts each PR into auto, review or block; deterministic rules decide first and the AI can only raise the lane. Bring your own key.
 - **[consult](https://github.com/neelsatyavolu/consult)** – MIT open source MCP server and CLI that has Claude Code, Codex and Grok review a diff in parallel (`npx -y consult-mcp@latest review`), each returning severity, file:line and a fix, and lets them ask each other for advice through their signed-in CLIs with no API keys.
+- **[DiffNotes](https://github.com/igorkasyanchuk/diffnotes)** – Open-source, self-hostable tool where the coding agent that wrote a pull request leaves per-line notes, screenshots and demos that reviewers see inside the GitHub, GitLab or Bitbucket diff.
 
 ---
 
