@@ -809,6 +809,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[crashdummy](https://github.com/mmelqadi/crashdummy)** – Crash-tests the guard hook of an AI coding agent with evasive destructive commands and harmless twins; reports caught, missed and false alarms without executing anything.
 - **[Ship-Ready AI Rules](https://github.com/edtrackai/ship-ready-ai-rules-free-sample)** – Free MIT AGENTS.md and Cursor rules that stop AI coding agents from shipping insecure Next.js + Supabase + Stripe code (missing RLS, server-side getSession(), unverified webhooks).
 - **[Pipelock](https://github.com/pipelab-org/pipelock)** – Open-source firewall for AI coding agents that scans HTTP and MCP traffic routed through its proxies to block secret leaks, prompt injection, and unsafe tool calls.
+- **[SIwithin](https://github.com/metahumansworld/SIwithin)** – Runs Claude Code unattended inside a macOS sandbox-exec fence (home refused whole), under a true-dollar budget enforced three times, with one ledger line and a verifiable sha256 receipt per run.
 
 ---
 
