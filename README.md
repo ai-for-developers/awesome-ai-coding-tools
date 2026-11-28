@@ -893,6 +893,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server)** – Web search, scrape, crawl and map for AI coding agents. Turns docs and live pages into clean Markdown for Claude Code, Cursor, Codex and any MCP client. Remote endpoint with browser sign-in (`https://mcp.firecrawl.dev/v2/mcp-oauth`) or local via `npx -y firecrawl-mcp`; free tier included. [Documentation](https://docs.firecrawl.dev/mcp-server?utm_source=awesome-ai-coding-tools&utm_medium=integration).
 - **[AgenticMarket](https://agenticmarket.dev)** – Free registry of MCP servers and agent skills with health checks and one-command install for 13+ IDEs and agents.
 - **[lcc](https://github.com/lucasmartins-ai/lcc)** – Open-source (MIT) MCP server, CLI and Claude Code plugin that compacts coding-agent sessions without a summary: old tool outputs move to a local stash the agent can `recall` by hash, messages stay byte for byte, offline.
+- **[LogBrew](https://logbrew.co)** – Error monitoring, logs, and traces your AI coding agent can read. Connect any AI agent to the LogBrew MCP server (`https://logbrew.co/mcp`), ask what broke in production, and get help fixing it. Generous free tier, no card needed. [Documentation](https://docs.logbrew.co/guides/mcp).
 
 ---
 
