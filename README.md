@@ -595,6 +595,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[QuotaDock](https://github.com/jungdosa/QuotaDock)** – Always-on-top Windows widget showing how much of your Claude Code, Codex and Antigravity session and weekly quota is left, and when each resets. Uses the sign-ins those tools already have; free, MIT, no telemetry.
 - **[Better Call GPT](https://github.com/insta-fusion/bettercallgpt)** – Open-source (MIT) Claude Code plugin that puts the session on a full-duplex voice call through Azure GPT Realtime or GPT-Live on macOS: talk while it codes, interrupt anytime, hear results read back. Voice never approves permission prompts. Free; bring your own Azure OpenAI key.
 - **[Crest](https://crestnotch.app/claude-code-notch)** – Mac notch app that shows Claude Code, Codex and GitHub Copilot CLI permission prompts on the MacBook notch to Allow or Deny, and Claude Code's questions as tap-to-answer cards. Answering is free with no account; macOS 14+.
+- **[Caprock](https://github.com/dspv/caprock)** – Local, open-source dashboard for Claude Code, Codex and OpenCode sessions: live activity, cost per repository and model, plan-limit windows, loop alerts and searchable history. Single Go binary, no telemetry.
 
 ---
 
