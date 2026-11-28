@@ -206,6 +206,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Mudroom](https://github.com/Kernel-Hunter/mudroom)** – Runs coding agents (Claude Code, Codex, Gemini CLI, Aider, opencode) in a Linux micro-VM on a copy-on-write clone of your project, behind a network allowlist, then lets you review and apply the diff per file or per hunk.
 - **[Crewly](https://github.com/stevehuang0115/crewly)** – Local, MIT-licensed platform that runs a team of role-based agents (developer, QA, PM, orchestrator) on Claude Code, Codex, and Gemini CLI, with task delegation, shared memory, and a web dashboard of live agent terminals.
 - **[Overboard](https://tryoverboard.com/?utm_source=aifordevelopers&utm_medium=directory)** – macOS app that runs Claude Code agents around the clock on your own Mac: schedule recurring agents, dispatch one-off tasks from Telegram or Slack, and review what every run produced. Runs on your existing Claude plan; 14-day free trial and a free open-source Claude Code plugin.
+- **[opencode-rust](https://github.com/vakandi/opencode-rust)** – The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents, no Docker required. MIT licensed, 21 crates, 571 tests. Install with `npm install -g opencode-rust` or `brew install vakandi/tap/opencode-rust`; the command is `opr`. Independent Rust implementation of opencode, not affiliated with the OpenCode team.
 
 ---
 
