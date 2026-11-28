@@ -278,6 +278,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[nsq](https://github.com/glmn-ai/neurosquad-cli)** – Open-source CLI that runs Claude Code, Codex, OpenCode, or any command side by side in one terminal, with status from each CLI's own hooks (working / needs you / finished), y/a/n answers without opening the agent, a worktree per agent, and per-agent cost. `npx neurosquad`, MIT.
 - **[agentckpt](https://github.com/Blackman99/agentckpt)** – Zero-dependency CLI that checkpoints the working tree (tracked and untracked files) into a private shadow store while coding agents (Codex, Claude Code, Gemini CLI, OpenCode, Cursor) run, and restores any snapshot without touching your git branches or index. Open-source (MIT).
 - **[twinlane](https://github.com/mmelqadi/twinlane)** – Run Claude Code and Codex CLI together on included subscriptions: one usage meter, failover before a limit hits, background workers in git worktrees with receipts.
+- **[Briar](https://github.com/iklobato/briar)** – Local CLI that mines GitHub, Jira and Linear history into agent context and runs coding agents that open draft PRs or fix review threads.
 
 ---
 
