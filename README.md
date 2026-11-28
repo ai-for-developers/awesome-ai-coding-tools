@@ -408,6 +408,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Supercov](https://github.com/supercorp-ai/supercov)** – Code quality and test coverage for coding agents: Jev scores each source file so the agent knows what to fix first.
 - **[verify-gate](https://github.com/elijahmanlockedin112/verify-gate-hook)** – Claude Code Stop hook that runs your test command whenever the agent tries to finish and sends the failures back until they pass. Skips unchanged trees, caps retries, stdlib Python, MIT.
 - **[Sedum](https://github.com/sedum-dev/sedum)** – Open-source CLI that runs plain-English browser tests on Playwright and writes Markdown failure reports for coding agents to fix.
+- **[VibeFix](https://vibe-fixer.com/)** – Free check: an AI agent tries your live web app like a new user and shows what breaks. On request it reviews your code independently (VibeFix isn't part of any app builder), fixes it and re-checks it live. Remote MCP server at https://vibe-fixer.com/mcp.
 
 ---
 
