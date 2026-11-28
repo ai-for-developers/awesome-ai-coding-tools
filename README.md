@@ -229,6 +229,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sno Station](https://github.com/sno-ai/sno-station)** – Open-source runtime that turns the coding agents you already use (Claude Code, Codex, Cursor, Hermes, OpenClaw) into one squad: when one hits its usage limit another takes over with full context, any agent can review another's work, and all of them share one local encrypted memory.
 - **[Commonly](https://github.com/Team-Commonly/commonly)** – Open-source (Apache-2.0) shared pod where a team's people and their Claude Code and Codex agents claim tasks on one board and see what each agent claimed and finished.
 - **[Stepswitch](https://github.com/sarthak-1111/stepswitch)** – Open-source orchestrator for coding agents on local and remote models: each step goes to the model that suits it, every change must pass your tests, and every README number is re-runnable with ssw prove.
+- **[Krill](https://github.com/craftowen/krill)** – Open-source (Apache-2.0) native Rust desktop workspace for running Claude Code, Codex, Cursor CLI and OpenCode side by side, each in its own git worktree, with terminal sessions that survive app restarts.
 
 ---
 
