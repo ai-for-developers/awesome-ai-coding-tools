@@ -570,6 +570,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[context-bank](https://github.com/kadiresen/context-bank)** – CLI that keeps AI agent project memory in git under .ai/ with size caps, retrieval-first history, a doctor check and Cline Memory Bank migration; works with any agent via AGENTS.md.
 - **[AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar)** – Free, open-source (MIT) macOS menu bar app that shows live Claude, ChatGPT/Codex, Cursor, and GitHub Copilot usage limits with reset countdowns, pace warnings, and a 24h history. No API keys: it reuses your existing browser sessions.
 - **[Tokenmeter](https://github.com/mugeshk97/tokenmeter)** – Open-source desktop widget for Linux, Windows and macOS that shows how much is left on Claude Code, Codex, Copilot, Gemini CLI and Grok limits, plus Claude, OpenAI and xAI API budgets.
+- **[echo agent](https://echoagent.dev/)** – macOS voice agent: press Fn+Space in any app and say the task, and it runs in your local Claude Code or Codex CLI in the background, with on-device speech recognition.
 
 ---
 
