@@ -307,6 +307,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[oh-my-agent](https://github.com/first-fluke/oh-my-agent)** – Open-source agent harness that installs into 14 coding-agent runtimes (Claude Code, Codex CLI, Cursor and more), links one `.agents/skills/` folder into each runtime's skill folder, and can run your typecheck, test or lint script in a Stop hook before the agent finishes.
 - **[Nakata](https://github.com/nakata-app/nakata)** – Bring-your-own-key terminal coding agent for OpenRouter, DeepSeek, Anthropic, Ollama or any OpenAI-compatible endpoint; parallel subagents, headless mode for CI, ACP for editors. Free for 3 months, then $10/month.
 - **[tokenbill](https://github.com/emrehangorgec/tokenbill)** – Zero-config CLI that reads local Claude Code logs and explains where a session's cost went (re-sent context, caching, compaction) and what to change.
+- **[Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2)** – Rust terminal coding agent with permission modes, MCP servers and subagents; free hosted models through Zero-X or your own OpenAI-compatible key. MIT.
 
 ---
 
