@@ -200,6 +200,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Claude Code Remote](https://github.com/seeknull/claudecode-remote)** – Self-hosted web UI for driving Claude Code on one machine from a browser on any other, including a live view of sessions already running from the CLI or VS Code.
 - **[Hivemeld](https://www.hivemeld.ai/buy?plan=annual&utm_source=ai4dev_coding_tools&utm_medium=directory&utm_campaign=GRO-105)** – Hosted coding-agent platform that runs teams of autonomous engineering agents on your real backlog: each picks up issues, works in an isolated workspace, opens a pull request, and ships continuously.
 - **[mu](https://github.com/qybaihe/mu)** – Open-source coding agent (CLI and desktop app) built on pi, where a small, fast judge model makes the routine calls at 40 decision points, such as what enters the context, whether a flagged command was asked for and whether "done" was verified, so the main model keeps its attention on the work.
+- **[Agentastic.dev](https://www.agentastic.dev)** – Free native macOS IDE that runs Claude Code, Codex, Gemini CLI, and 50+ other coding-agent CLIs in parallel, each in its own git worktree with a terminal, browser preview, diff review, and pull request flow.
 
 ---
 
