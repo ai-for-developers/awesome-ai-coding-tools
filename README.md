@@ -283,6 +283,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Briar](https://github.com/iklobato/briar)** – Local CLI that mines GitHub, Jira and Linear history into agent context and runs coding agents that open draft PRs or fix review threads.
 - **[hcom](https://github.com/aannoo/hcom)** – CLI for real-time messaging, activity observation, and agent spawning across terminals, connecting Claude Code, Codex, Gemini CLI, OpenCode, and other coding agents.
 - **[spillscan](https://github.com/Blackman99/spillscan)** – Finds which secrets already spilled into local AI coding-agent session transcripts (Claude Code / Codex / Cursor) and can scrub them in place with a backup; optional read-only MCP and PreToolUse guard.
+- **[SmartCompact](https://github.com/coffeecoproject/SmartCompact)** – Open-source plugin for Claude Code, Codex and Pi that compacts long agent sessions at a pause after a commit or passing tests instead of near the context limit; in a published 60-task A/B it cut cost 44% with the same test pass rate.
 
 ---
 
