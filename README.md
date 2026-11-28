@@ -238,6 +238,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SAGE](https://github.com/PsYcGoD/sage)** – Local-first CLI and MCP wrapper for AI coding agents that records command history locally and returns compressed terminal output.
 - **[OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay)** – Records a coding-agent run below the harness — model traffic, shell exit codes, per-turn file changes and MCP calls on one timeline — then replays the recording offline with the network off, or forks it from any checkpoint onto a different model. Works with Claude Code, Codex, opencode, Qwen Code and Cursor. Free, Apache-2.0.
 - **[Bhawna Skills](https://github.com/saketvishal/bhawna-skills)** – Repository-owned decision memory and architecture guardrails that check coding-agent objectives before implementation.
+- **[Archcore](https://github.com/archcore-ai/archcore)** – Git-native context engineering CLI and MCP server for AI coding agents. Keep specs, ADRs, rules, plans, and project knowledge in Git.
 
 ---
 
