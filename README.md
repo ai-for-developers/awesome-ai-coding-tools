@@ -773,9 +773,9 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Slop Store](https://slopapp.store/agents)** – Remote MCP server (and Claude Code plugin) that publishes an app your coding agent built so anyone can play it in the browser; the first publish needs no key. Free.
 - **[OpenPost](https://openpo.st/docs/mcp)** – Open-source social publishing MCP server for turning release notes and product updates into drafts, reviewing account-specific variants, and inspecting schedules and delivery results. Supports OAuth or scoped tokens and self-hosting.
 - **[Arcmira: YouTube Transcript Search](https://arcmira.com)** – YouTube transcript search and monitoring for your AI. Arcmira understands YouTube and podcasts like it watched them: the exact quote, often who said it, the full transcript and sponsors.
+- **[REA](https://github.com/morluto/rea)** – Local MCP server and CLI that gives coding agents reverse-engineering tools for native binaries, JavaScript/Electron apps, and .NET assemblies, with evidence provenance and explicit analysis limitations.
 
 ---
-- **[REA](https://github.com/morluto/rea)** – Local MCP server and CLI that gives coding agents reverse-engineering tools for native binaries, JavaScript/Electron apps, and .NET assemblies, with evidence provenance and explicit analysis limitations.
 
 ## Related Lists
 
