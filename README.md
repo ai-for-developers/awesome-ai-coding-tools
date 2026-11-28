@@ -568,6 +568,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Cat](https://agentcat.app)** – Free local-first menu-bar app for macOS and Windows that tracks usage and rate limits across Claude Code, Codex, Gemini, Grok, Kimi, Copilot and Cursor.
 - **[ILoveNotch](https://github.com/niyamvora/ILoveNotch)** – Free, open-source macOS notch app that tracks Claude Code, Codex, Cursor and Copilot plan limits with reset countdowns and alerts.
 - **[context-bank](https://github.com/kadiresen/context-bank)** – CLI that keeps AI agent project memory in git under .ai/ with size caps, retrieval-first history, a doctor check and Cline Memory Bank migration; works with any agent via AGENTS.md.
+- **[AIQuotaBar](https://github.com/yagcioglutoprak/AIQuotaBar)** – Free, open-source (MIT) macOS menu bar app that shows live Claude, ChatGPT/Codex, Cursor, and GitHub Copilot usage limits with reset countdowns, pace warnings, and a 24h history. No API keys: it reuses your existing browser sessions.
 
 ---
 
