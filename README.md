@@ -219,6 +219,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[darting.dev](https://darting.dev/)** – Cloud workspace for teams running autonomous coding agents in isolated sandboxes, with browser verification, pull requests, CI, and deployment. Pay as you go with $10 in introductory credits; optional subscription.
 - **[FlowDeck Studio](https://flowdeck.studio/)** – Native macOS workspace where Claude Code, Codex and Cursor agents build, run and test iOS and macOS apps in existing Xcode projects, each session in its own Git worktree and simulator. Commercial with a 14-day free trial.
 - **[AgentLink](https://github.com/reefbarman/agentlink)** – Open-source VS Code coding agent that uses the editor's code intelligence as tools, shows every file change as a reviewable diff, and works with your own models from multiple providers. Approval controls, sandboxed commands, background agents, and MCP support. MIT.
+- **[OliveCode](https://olivecode.dev/)** – OpenCode-derived terminal coding agent with free cloud or local Ollama models, optional teamwork and follow-through reviews; public preview, provider quotas and hardware limits apply.
 
 ---
 
