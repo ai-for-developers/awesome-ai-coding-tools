@@ -244,6 +244,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AgentVera](https://agentvera.dev/en/)** – Desktop app (macOS, Windows, Linux) that runs Claude Code, Codex, Gemini CLI, Copilot, Cursor and 13 more coding agents side by side per project in real terminals, with a team kanban board that hands cards to agents and an MCP manager.
 - **[Kiteline](https://github.com/hon6/kiteline)** – Follow and reply to Claude Code, Codex, OpenCode and DeepSeek Harness sessions from iPhone, iPad and Apple Watch: approve requests, answer questions, set goals and get test reports while the agents keep running on your own computer. The desktop app (Mac, Windows, Linux) is open source.
 - **[Parallel Code](https://github.com/johannesjo/parallel-code)** – Open-source desktop app that runs Claude Code, Codex, OpenCode, Copilot and Antigravity in parallel, each in its own git worktree, with change tours and configurable pre-merge checks. MIT.
+- **[SpecWithCode](https://github.com/anton-abyzov/specwithcode)** – Free, source-available desktop app that runs Claude Code, Codex, Copilot, Grok, Cursor, OpenCode and Gemini CLI side by side, with a coordinator that hands tasks to workers on different providers and switches provider when one hits its usage limit.
 
 ---
 
