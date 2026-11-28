@@ -68,6 +68,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Harness Desktop](https://github.com/baiyuscc13724-max/deepseek-harness-desktop)** – Open-source Windows client for the official DeepSeek Harness Web UI, with a Simplified Chinese installer, portable build, verified updates, and persistent themes.
 - **[Air](https://air.dev/)** – JetBrains' agentic development environment, built on the technology and team behind the discontinued Fleet IDE.
 - **[ThinkRail](https://thinkrail.ai/)** – Open-source worktree IDE for the Pi coding agent; runs parallel agent sessions in isolated git worktrees with spec-driven development and BYOK model access.
+- **[AstraCode](https://astracode.io/)** – AI-native code editor whose agent runs your tests and proves them before it reports, with AstraOne choosing the model and a CLI for terminals, CI, JetBrains and Zed.
 
 ---
 
