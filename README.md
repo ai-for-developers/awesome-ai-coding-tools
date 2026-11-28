@@ -194,6 +194,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[oxi](https://github.com/maziluiosif/oxi)** – Open-source native desktop coding agent (Rust + egui, no Electron) that runs local GGUF models it downloads for you, Ollama/LM Studio, hosted APIs, or Claude Code/Cursor/Codex over ACP, with a built-in editor, Git panel and terminal.
 - **[5dive](https://5dive.ai)** – Runs a team of coding agents (Claude Code, Codex and more) on a server you own, with an org chart and a shared backlog. Open source (MIT) and free to self-host.
 - **[Agent Fleet](https://github.com/k-k1/agent-fleet)** – Self-hosted web console for running Claude Code, Codex, Copilot, Cursor and other coding-agent CLIs side by side in isolated workspaces, with git worktrees, scheduling and usage tracking.
+- **[Cotal](https://github.com/Cotal-AI/Cotal)** – Open pub/sub standard that lets Claude Code, Codex, OpenCode, Hermes, Jcode and pi agents coordinate in one live space with presence, channels and durable messaging.
 
 ---
 
