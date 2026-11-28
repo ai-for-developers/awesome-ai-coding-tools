@@ -744,6 +744,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SkillPouch](https://github.com/skillpouch/skillpouch)** – End-to-end encrypted sync of AI coding setups (skills, agents, instructions, commands, MCP servers, hooks) across computers for Claude Code, Codex, OpenCode, Cursor, Gemini CLI and more. Background daemon, conflict resolution in a web app, free plan, open source (AGPL-3.0) and self-hostable.
 - **[claude-codex-taskbar](https://github.com/chiarorosa/claude-codex-taskbar)** – Open-source (MIT) Windows taskbar widget that keeps Claude Code and Codex 5-hour and weekly usage limits visible while you code, next to CPU, RAM, GPU and disk activity; reuses the existing CLI logins, no account or telemetry.
 - **[MemoSync](https://github.com/SLEEPYBQ/MemoSync)** – Local workbench for Claude Code, Codex and Pi that makes coding-agent memory reviewable: approve proposed memory changes, choose each turn's working memory, see which memories a reply cites, and audit afterwards which ones were followed or violated. Free and self-hosted; uses your existing agent sign-in or API key.
+- **[LBW Workbench](https://github.com/edwardmackiezyv885-art/lbwapi-workbench)** – Windows portable workbench that installs prompt packs and skill trees into 11 AI clients with byte-level backup and one-click rollback.
 
 ---
 
