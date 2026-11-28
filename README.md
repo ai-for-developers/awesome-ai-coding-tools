@@ -662,6 +662,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Tokenhush](https://github.com/fregie/tokenhush)** – Local loopback gateway that replaces secrets and PII in AI coding tool requests with reversible placeholders before they reach the model provider, then restores them in the response. No MITM or root certificate.
 - **[Sunglasses](https://github.com/sunglasses-dev/sunglasses)** – Local scanner with a Claude Code PreToolUse hook that blocks credential paths and policy violations before a tool runs, and scans text and files for prompt injection with 1,554 patterns across 118 categories.
 - **[Barrion](https://barrion.io/ai-pentesting)** – AI pentesting for web apps and APIs, run on demand or on a schedule.
+- **[Phantom](https://github.com/ashlrai/phantom-secrets)** – Open-source local proxy and MCP server that replaces project secrets with `phm_` placeholders so Claude Code, Cursor, Windsurf and Codex can work in a repo without real API keys entering their context.
 
 ---
 
