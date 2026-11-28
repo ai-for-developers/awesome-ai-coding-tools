@@ -797,6 +797,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[SayGM](https://saygm.com)** – Prepaid LLM API gateway with OpenAI Chat Completions, OpenAI Responses, Anthropic Messages and Gemini endpoints on one key, for GPT, Claude, Gemini and open-weight models.
 - **[Weave Router](https://weaveos.com/router/quickstart)** – Apache-2.0 model router for Claude Code and Codex CLI, with hosted setup, self-hosting, and a public [benchmark methodology](https://weaveos.com/router/benchmark-methodology).
 - **[Heym](https://github.com/heymrun/heym)** – Self-hosted runtime for LLM agent workflows with human approval checkpoints, execution traces, evaluations, and MCP tools.
+- **[CodeI Lab](https://www.codeilab.com)** – GPT API gateway for coding agents (Claude Code, Codex CLI, OpenCode) via OpenAI and Anthropic protocols; plan credit up to 93% below official pay-as-you-go.
 
 ---
 
