@@ -335,6 +335,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[VibeAudit](https://vibeaudit.sh/)** – Pre-launch code audit that reads your whole repo and returns a launch-readiness score plus fixes as paste-ready prompts for your AI editor.
 - **[OpenFiles](https://github.com/devgiordane/openfiles)** – VS Code extension that opens every file an AI agent edits so linters and type checkers run on it, lists the changes for review, and returns the problems to Claude Code, Codex, Copilot, Gemini CLI or Cursor. Free and open source (MIT).
 - **[Conclave AI](https://conclave-ai.dev)** – A council of three models (Claude, GPT-5, Gemini) reviews each PR and, with a PRD attached, flags scope drift a diff-only review misses. Self-hostable (FSL).
+- **[snag](https://gitlab.com/inadram/snag)** – Claude Code plugin that surveys a frontend against seventeen interaction practices — hit slop, damped springs, tabular figures, concentric radii — and reports each as held, missing, unsure or not applicable with a file and a line. Read-only; nothing in it writes unattended.
 
 ---
 
