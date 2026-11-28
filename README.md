@@ -431,6 +431,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[PR Quorum](https://prquorum.com)** – GitHub App that runs a panel of specialist AI reviewers (correctness, security, architecture), drops duplicate and low-confidence findings, and posts one advisory pull request review. Free tier; paid plans can use your own OpenRouter key.
 - **[SmartBench](https://github.com/xianyu-sheng/SmartBench)** – Evidence-constrained code audit CLI where deterministic static analysis owns the facts and LLM hypotheses must be validated before they become findings.
 - **[diffback](https://github.com/homka122/diffback)** – Shows Claude Code's changes in VS Code's diff editor before they are committed; comments on selected code go back to the running session, which fixes them.
+- **[MergeJudge](https://github.com/gauravsharmaGG/mergejudge-runner)** – Open-source AI pull request reviewer (GitHub Action and CLI) that sorts each PR into auto, review or block; deterministic rules decide first and the AI can only raise the lane. Bring your own key.
 
 ---
 
