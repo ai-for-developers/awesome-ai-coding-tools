@@ -69,6 +69,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Air](https://air.dev/)** – JetBrains' agentic development environment, built on the technology and team behind the discontinued Fleet IDE.
 - **[ThinkRail](https://thinkrail.ai/)** – Open-source worktree IDE for the Pi coding agent; runs parallel agent sessions in isolated git worktrees with spec-driven development and BYOK model access.
 - **[AstraCode](https://astracode.io/)** – AI-native code editor whose agent runs your tests and proves them before it reports, with AstraOne choosing the model and a CLI for terminals, CI, JetBrains and Zed.
+- **[Easy Mode for Claude Code](https://github.com/paragpandyareal/easy-mode-for-claude-code)** – Free, open-source, Windows-first GUI that runs the official Claude Code CLI, with Undo save points, plain-English permission prompts and a "Just results" view for non-technical users.
 
 ---
 
