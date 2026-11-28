@@ -221,6 +221,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[AgentLink](https://github.com/reefbarman/agentlink)** – Open-source VS Code coding agent that uses the editor's code intelligence as tools, shows every file change as a reviewable diff, and works with your own models from multiple providers. Approval controls, sandboxed commands, background agents, and MCP support. MIT.
 - **[OliveCode](https://olivecode.dev/)** – OpenCode-derived terminal coding agent with free cloud or local Ollama models, optional teamwork and follow-through reviews; public preview, provider quotas and hardware limits apply.
 - **[agent-doctrine](https://github.com/sisig-ai/agent-doctrine)** – Shared instructions and role prompts (lead, implementer, reviewer) synced into Claude Code, Codex, Cursor, OpenCode and more to take a spec to a tested PR.
+- **[Andromity](https://github.com/agenticmarket/andromity)** – Open-source (MIT) coding agent for VS Code and the terminal with a live waterfall of every model call, file edit and command, plus a per-turn blast radius. Bring your own key or use Ollama.
 
 ---
 
@@ -874,6 +875,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[LLMSlim](https://github.com/Thanatos9404/llmslim)** – Local stdio MCP server that gives coding agents long-term memory with no LLM call, storing messages word for word in SQLite or Postgres and recalling the ones that answer a question within a token budget.
 - **[Campfire SMS](https://campfiresms.com/)** – Two-way SMS MCP server for coding agents (Claude Code, Codex, Cursor, Grok Build): the agent texts you when it finishes or gets blocked, and you reply by text. Free tier, then paid.
 - **[Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server)** – Web search, scrape, crawl and map for AI coding agents. Turns docs and live pages into clean Markdown for Claude Code, Cursor, Codex and any MCP client. Remote endpoint with browser sign-in (`https://mcp.firecrawl.dev/v2/mcp-oauth`) or local via `npx -y firecrawl-mcp`; free tier included. [Documentation](https://docs.firecrawl.dev/mcp-server?utm_source=awesome-ai-coding-tools&utm_medium=integration).
+- **[AgenticMarket](https://agenticmarket.dev)** – Free registry of MCP servers and agent skills with health checks and one-command install for 13+ IDEs and agents.
 
 ---
 
