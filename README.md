@@ -277,6 +277,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[ReevesAgents](https://github.com/mertkayacs/reevesagents)** – Runs Claude Code, Codex, OpenCode, Kimi, Qwen, Aider, and other coding CLIs side by side in tmux, with a TUI, a local Web UI, and an opt-in MCP server so one agent can spawn, read, and steer the others. Free, Apache-2.0.
 - **[nsq](https://github.com/glmn-ai/neurosquad-cli)** – Open-source CLI that runs Claude Code, Codex, OpenCode, or any command side by side in one terminal, with status from each CLI's own hooks (working / needs you / finished), y/a/n answers without opening the agent, a worktree per agent, and per-agent cost. `npx neurosquad`, MIT.
 - **[agentckpt](https://github.com/Blackman99/agentckpt)** – Zero-dependency CLI that checkpoints the working tree (tracked and untracked files) into a private shadow store while coding agents (Codex, Claude Code, Gemini CLI, OpenCode, Cursor) run, and restores any snapshot without touching your git branches or index. Open-source (MIT).
+- **[twinlane](https://github.com/mmelqadi/twinlane)** – Run Claude Code and Codex CLI together on included subscriptions: one usage meter, failover before a limit hits, background workers in git worktrees with receipts.
 
 ---
 
@@ -724,6 +725,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Sunglasses](https://github.com/sunglasses-dev/sunglasses)** – Local scanner with a Claude Code PreToolUse hook that blocks credential paths and policy violations before a tool runs, and scans text and files for prompt injection with 1,554 patterns across 118 categories.
 - **[Barrion](https://barrion.io/ai-pentesting)** – AI pentesting for web apps and APIs, run on demand or on a schedule.
 - **[Phantom](https://github.com/ashlrai/phantom-secrets)** – Open-source local proxy and MCP server that replaces project secrets with `phm_` placeholders so Claude Code, Cursor, Windsurf and Codex can work in a repo without real API keys entering their context.
+- **[crashdummy](https://github.com/mmelqadi/crashdummy)** – Crash-tests the guard hook of an AI coding agent with evasive destructive commands and harmless twins; reports caught, missed and false alarms without executing anything.
 
 ---
 
