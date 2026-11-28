@@ -208,6 +208,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Overboard](https://tryoverboard.com/?utm_source=aifordevelopers&utm_medium=directory)** – macOS app that runs Claude Code agents around the clock on your own Mac: schedule recurring agents, dispatch one-off tasks from Telegram or Slack, and review what every run produced. Runs on your existing Claude plan; 14-day free trial and a free open-source Claude Code plugin.
 - **[opencode-rust](https://github.com/vakandi/opencode-rust)** – The open source AI coding agent, in Rust. CLI, TUI and HTTP server for local AI agents, no Docker required. MIT licensed, 21 crates, 571 tests. Install with `npm install -g opencode-rust` or `brew install vakandi/tap/opencode-rust`; the command is `opr`. Independent Rust implementation of opencode, not affiliated with the OpenCode team.
 - **[podway](https://podway.io/agent-computer)** – Always-on cloud computer for Claude Code: the session keeps running when your laptop is closed, and you open it from the official Claude apps on desktop or phone. Uses your own Claude Pro/Max plan; free to start.
+- **[claw-kit](https://github.com/chanyuenpang/claw-kit)** – A better harness for beginners that keeps coding-agent plans, tasks and project notes in the repo so long tasks can resume across sessions.
 
 ---
 
