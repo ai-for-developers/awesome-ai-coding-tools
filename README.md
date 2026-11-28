@@ -317,6 +317,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Neuron](https://github.com/RAHUL-DevelopeRR/neuron-v2)** – Rust terminal coding agent with permission modes, MCP servers and subagents; free hosted models through Zero-X or your own OpenAI-compatible key. MIT.
 - **[skills-manager](https://github.com/shenysun/skills-manager)** – CLI-first agent skill hub (`npx skills-manager-cli`): one library under `~/.skills-manager`, conversation-driven manager skill, distribute to 70+ agents, tree-SHA updates, resident cost ledger, and `audit security --strict` CI gate.
 - **[ccbrief](https://github.com/shehab267/ccbrief)** – Configurable status line for Claude Code showing context-window usage, tokens, session cost, 5-hour and weekly rate limits and the active model; segments with no data are hidden. Install with `npx ccbrief init`.
+- **[Shelly](https://github.com/RYOITABASHI/Shelly)** – Open-source AI terminal and agent runtime for Android with bash/git/Python/Node bundled (no Termux, no PC), the Codex CLI built in, scheduled on-device agents and local LLMs.
 
 ---
 
