@@ -196,6 +196,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Fleet](https://github.com/k-k1/agent-fleet)** – Self-hosted web console for running Claude Code, Codex, Copilot, Cursor and other coding-agent CLIs side by side in isolated workspaces, with git worktrees, scheduling and usage tracking.
 - **[Cotal](https://github.com/Cotal-AI/Cotal)** – Open pub/sub standard that lets Claude Code, Codex, OpenCode, Hermes, Jcode and pi agents coordinate in one live space with presence, channels and durable messaging.
 - **[Mixdog](https://github.com/tribgames/mixdog)** – Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review.
+- **[Rovai AI](https://github.com/murray17/rovai-ai)** – Open-source workspace that organizes Claude Code, Codex CLI, and other coding agents into persistent teams with shared conversations, task delegation, execution review, and collaborative memory.
 
 ---
 
