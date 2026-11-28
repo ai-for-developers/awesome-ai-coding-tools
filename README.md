@@ -416,6 +416,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[CodeEraser](https://github.com/skymanbp/CodeEraser)** – Refuses the duplicate write before it reaches disk and gates the turn, the commit and the merge against LLM-induced code and document entropy: clone blocks, duplicated docs, dead code, file growth; CLI, GUI, Claude Code plugin with read-only MCP tools; no model in the loop.
 - **[PR Quorum](https://prquorum.com)** – GitHub App that runs a panel of specialist AI reviewers (correctness, security, architecture), drops duplicate and low-confidence findings, and posts one advisory pull request review. Free tier; paid plans can use your own OpenRouter key.
 - **[SmartBench](https://github.com/xianyu-sheng/SmartBench)** – Evidence-constrained code audit CLI where deterministic static analysis owns the facts and LLM hypotheses must be validated before they become findings.
+- **[diffback](https://github.com/homka122/diffback)** – Shows Claude Code's changes in VS Code's diff editor before they are committed; comments on selected code go back to the running session, which fixes them.
 
 ---
 
