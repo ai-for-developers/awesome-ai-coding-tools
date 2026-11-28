@@ -271,6 +271,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[bough](https://github.com/nickelsec/bough)** – Reads local Claude Code, Codex CLI and Pi session history and maps it into tasks, showing the prompts, files, commits, keyboard time and token cost behind each piece of work.
 - **[Gobstopper](https://github.com/hraness/gobstopper)** – Open-source local proxy that shrinks long Claude Code and Codex requests by replacing older turns with a mechanical summary and sending the newest turns verbatim.
 - **[Sprag](https://github.com/rootstudioyaml/sprag)** – Open-source CLI that cuts Claude Code and Codex token spend: routes lookups and test runs to cheaper sub-agent models, converts pptx/xlsx/pdf/docx to compact Markdown, and shows cost and savings in the statusline.
+- **[ReevesAgents](https://github.com/mertkayacs/reevesagents)** – Runs Claude Code, Codex, OpenCode, Kimi, Qwen, Aider, and other coding CLIs side by side in tmux, with a TUI, a local Web UI, and an opt-in MCP server so one agent can spawn, read, and steer the others. Free, Apache-2.0.
 
 ---
 
