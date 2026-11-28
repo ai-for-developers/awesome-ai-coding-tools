@@ -702,6 +702,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Claude Account Switcher](https://github.com/SnlperStripes/claude-account-switcher)** – Open-source tray app for the Claude desktop app: switches accounts in one click without an email code, carries Claude Code chats and projects across accounts, and shows live 5-hour and weekly usage of every account. Windows (the macOS build is not yet tested on a real Mac), Apache 2.0.
 - **[burntop](https://burntop.dev)** – Open-source full-stack template (FastAPI, React 19, Postgres) for AI coding agents, with AGENTS.md files for Claude Code, Cursor and Codex. Mocks and untested routes fail the build.
 - **[ccx](https://github.com/aaronwong1999/ccx)** – Open-source macOS tool that hands a Claude Code session to Codex (and back) with the full context, and warns when either side's 5-hour usage window passes 90%.
+- **[Orchia](https://github.com/MPoulhazan/orchia)** – Local dashboard for Claude Code: runs several sessions side by side, shows which ones need you, and lets you allow or deny their permission requests from one place. Open source (MIT).
 
 ---
 
