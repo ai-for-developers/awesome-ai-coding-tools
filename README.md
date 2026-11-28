@@ -643,6 +643,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Heard](https://heard.dev/?utm_source=awesome-ai-coding-tools&utm_medium=social&utm_campaign=directory-listing)** – Voice layer for coding agents on macOS: speaks what Claude Code and Codex are doing and lets you reply by voice. Open-source engine ([heardlabs/heard](https://github.com/heardlabs/heard), Apache 2.0) with local voices; paid Mac app with a 14-day trial.
 - **[agents-env](https://github.com/xianghongai/agents-env)** – Zero-dependency, declarative environment and skill manager for AI coding tools (Claude Code, Codex, Cursor). Bridges the shared `.agents/skills/` standard into vendor paths via relative symlinks without duplicate configs or polluting git history.
 - **[aigent-os](https://github.com/wrg32786/aigent-os)** – MIT harness for long-running Claude Code sessions that saves a capsule, runs /clear and resumes instead of compacting.
+- **[TokLens](https://github.com/MY-Final/TokLens)** – Local-first desktop analytics for AI coding clients. Aggregates token usage, models, sessions and trends from 12 sources including Codex, Claude Code and OpenCode, with read-only collection, no telemetry and a local SQLite store.
 
 ---
 
