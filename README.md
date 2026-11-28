@@ -222,6 +222,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[OliveCode](https://olivecode.dev/)** – OpenCode-derived terminal coding agent with free cloud or local Ollama models, optional teamwork and follow-through reviews; public preview, provider quotas and hardware limits apply.
 - **[agent-doctrine](https://github.com/sisig-ai/agent-doctrine)** – Shared instructions and role prompts (lead, implementer, reviewer) synced into Claude Code, Codex, Cursor, OpenCode and more to take a spec to a tested PR.
 - **[Andromity](https://github.com/agenticmarket/andromity)** – Open-source (MIT) coding agent for VS Code and the terminal with a live waterfall of every model call, file edit and command, plus a per-turn blast radius. Bring your own key or use Ollama.
+- **[Talavine Code](https://github.com/scrossen/talavine-code)** – MIT-licensed C# desktop and CLI coding harness for repository tasks, using API providers, coding CLIs or tool-capable Ollama models.
 
 ---
 
