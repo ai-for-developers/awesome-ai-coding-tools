@@ -316,6 +316,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[host4.ai](https://host4.ai)** – Cloud hosting with AI coding agents (Claude Code, Codex) preinstalled. Describe what you want, AI builds and deploys it live. Free tier with 20 AI builder credits, SSH terminal, and .host4.ai subdomain.
 - **[Mythex](https://mythex.ai/?ref=github)** – Chat-to-app builder with live preview, an editable workspace (code, terminal, database), one-click publish, and a remote MCP server for Claude, Cursor and Codex.
 - **[Vibld](https://vibld.com)** – Open-source AI app builder that generates plain React, TypeScript and Vite apps you can publish to GitHub, Cloudflare or Docker.
+- **[iter0](https://iter0.com)** – AI website builder for tech founders: pick a design, edit it, then export the HTML or open a GitHub pull request, with an MCP server so AI agents can build and edit pages too.
 
 ---
 
