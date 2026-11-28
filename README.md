@@ -364,6 +364,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[snag](https://gitlab.com/inadram/snag)** – Claude Code plugin that surveys a frontend against seventeen interaction practices — hit slop, damped springs, tabular figures, concentric radii — and reports each as held, missing, unsure or not applicable with a file and a line. Read-only; nothing in it writes unattended.
 - **[Fathohm](https://github.com/fathohm/cli)** – Measures comprehension debt: how much of a codebase no human has recently written, reviewed, or explained. MIT CLI runs offline on local git history; optional read-only GitHub App adds the review record. Published, decomposable scoring.
 - **[DiffDojo](https://diffdojo.com/)** – Practice reviewing AI-generated pull requests with planted bugs; inline comments, approve/request-changes verdict, LLM grading against a canonical review. One free PR per stack, no signup.
+- **[Manifest API Bot](https://manifest.build/api-bot/)** – GitHub App that watches the third-party APIs your code calls and opens a pull request with an LLM-written fix when one of them changes.
 
 ---
 
