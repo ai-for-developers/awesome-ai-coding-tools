@@ -919,6 +919,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Aletheia](https://github.com/mohamed-ashraf-elsaed/aletheia-mem)** – Free, local memory and rules hub for AI coding tools: one SQLite store read over MCP, REST or CLI. Alpha.
 - **[TokenRip](https://tokenrip.com)** – Shared workspace for Claude Code, Codex, Cursor and ChatGPT over remote MCP: versioned files, tasks and pinned decisions every agent reads before it starts, so work can move between agents without re-explaining. Free tier included.
 - **[Flisk](https://github.com/flisk-sh/flisk)** – MCP server that lets an AI agent build and run a whole app on your computer: it creates the parts, starts them, checks status and logs, and fixes setup problems. MIT, free.
+- **[Allscreenshots](https://github.com/allscreenshots/allscreenshots-plugin)** – MCP server and Claude Code/Codex plugin for capturing website screenshots, running bulk captures, and managing screenshot schedules via the Allscreenshots API. MIT licensed.
 
 ---
 
