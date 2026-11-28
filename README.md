@@ -793,6 +793,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Extremely Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents)** – Free, open-source AI agency that runs on your own computer. Agents for sales, marketing, support and more work around the clock, build the tools they're missing and only ask you when you choose. Bring your own Claude, ChatGPT or local models.
 - **[pitwall](https://github.com/quanticstudios/pitwall)** – MIT-licensed desktop terminal for coding agents with live status, an agent board, and shared local and SSH sessions.
 - **[Lichen](https://uselichen.com/?utm_source=awesome-aict)** – Free Windows desktop app for directing Claude Code and Codex agents, built for speed first: it stays fast even with huge conversations. Sessions work as a team (agents message each other and hand work over), and each one shows its context, cost, tool calls, git diff and files next to the conversation. Closed source, no sign-up; also in the [Microsoft Store](https://apps.microsoft.com/detail/9P5DW739TTN1?cid=lichen-awesome-aict).
+- **[AutoRouter](https://autorouter.com)** – Mac app that adds 20+ models to Codex and Claude Code and picks the model for each coding task, using your ChatGPT and Claude plans first.
 
 ---
 
