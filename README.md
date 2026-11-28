@@ -737,6 +737,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[aiblame](https://github.com/celaldrg/aiblame)** – CLI and GitHub Action that measures how much of a repo's current code was written by AI coding agents (Claude Code, Cursor, Copilot, Codex, Aider, Devin and more), using git blame and the trailers agents leave on commits. No API key, MIT licensed. Run with `npx -y github:celaldrg/aiblame`.
 - **[Token Counter](https://chromewebstore.google.com/detail/okmkcicheedpnmmfmhngagbofgjiodhj)** – Chrome extension that shows how much of your Claude session and weekly limits is used, Claude Code included, and when each resets, in the toolbar and in a bar above the claude.ai message box.
 - **[AI Meter](https://github.com/getguruhat/ai-meter)** – Free, open-source Mac menu bar and Windows taskbar app showing your remaining Claude Code or Codex usage and when it resets.
+- **[Codex Reset](https://codex-reset.opentunnel.asia/)** – Read-only tracker for OpenAI Codex global quota resets: verified reset history, 24h/48h probabilities and a 28-day plan, with announced / pending / verified kept separate so a teaser is not counted as a landed reset. No login required; [open source](https://github.com/chendaleiQ/codex-reset).
 
 ---
 
