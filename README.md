@@ -713,6 +713,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Orchia](https://github.com/MPoulhazan/orchia)** – Local dashboard for Claude Code: runs several sessions side by side, shows which ones need you, and lets you allow or deny their permission requests from one place. Open source (MIT).
 - **[AGENTS.md Examples](https://github.com/piekwerk/agents-md-examples)** – Production-ready AGENTS.md, CLAUDE.md, Cursor rules, and Copilot instruction files for 12 stacks (Next.js, Django, FastAPI, Rails, Go, Rust, and more), each with build/test commands and framework conventions. MIT.
 - **[wisp](https://github.com/M0xoo/wisp)** – Runs Claude Code, Codex, opencode and other coding agents in the background, each task in its own git worktree, and hands back a one-screen report (diff, tests, PR button) instead of the transcript.
+- **[Scalekit](https://www.scalekit.com)** – Agent integration platform that gives AI coding agents 500+ connectors and 20,000+ tools through one per-user authenticated MCP URL (Claude, Cursor, Windsurf), with scoped per-user tool access, virtual MCP servers, a token vault for OAuth, API key, and RSA credentials, and audit logs of every tool call; SOC 2 Type II, HIPAA BAA, and VPC or self-hosted deployment.
 
 ---
 
