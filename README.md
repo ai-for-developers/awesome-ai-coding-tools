@@ -294,6 +294,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[clausona](https://github.com/larcane97/clausona)** – Switch between Claude Code and Codex accounts and continue the same conversation on the new one, route each run by 5-hour and weekly usage, and manage every account's skills, MCP servers and hooks from one place. Runs as a shell hook, no daemon.
 - **[agy-powerline](https://github.com/wassim-azi/agy-powerline)** – Fast, configurable statusline for the Google Antigravity CLI (`agy`) with live Gemini 5h/7d quota meters, pace markers, context usage, and interactive TUI and [browser](https://agy-powerline.com/configure/) configurators.
 - **[Octomind](https://github.com/muvon/octomind)** – Open-source CLI coding agent that edits files and runs commands through MCP, with multiple model providers and interactive, piped, or daemon sessions.
+- **[acpantenna](https://github.com/fboldo/acpantenna)** – CLI that connects a running Claude Code, Codex or OpenCode session to your phone or browser over a link and QR code, end-to-end encrypted, with permission prompts on the device you moved to.
 
 ---
 
