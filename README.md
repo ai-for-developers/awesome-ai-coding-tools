@@ -186,6 +186,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[PersonalJarvis](https://github.com/PersonalJarvis/PersonalJarvis)** – Open-source desktop app for Windows, macOS, and Linux that runs CLI coding agents such as Claude Code, Codex, Gemini CLI, and OpenCode side by side in terminal panes with Git worktrees, together with a chat and voice assistant and background agents.
 - **[agent-manager](https://github.com/YoanWai/agent-manager)** – Terminal UI that runs coding-agent CLIs (Claude Code, Codex, OpenCode, Gemini CLI and more) side by side, each in its own persistent tmux session, with live status, prompts sent without attaching, optional git worktrees, and a diff view whose line comments go back to the agent. Apache-2.0. Runs on macOS, Linux and Windows via WSL2.
 - **[ANUS](https://github.com/anus-dev/anus)** – Free terminal coding agent that runs every request on the smartest free model that is up today, and switches when one hits its limit. MIT.
+- **[Backseat](https://github.com/darek225/backseat)** – Open-source VS Code extension and git/JSON protocol that lets Muse, Grok, or any shell-capable agent queue coding tasks from a phone to Cline on your PC and get results back through a private bridge repo.
 
 ---
 
