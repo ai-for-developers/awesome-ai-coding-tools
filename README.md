@@ -943,6 +943,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Vicem](https://github.com/RAKKUNN/vicem)** – Zero-dependency context baton, local MCP server, and guided handoff GUI that compacts coding sessions by 80–99% via deterministic AST code skeletonization (with lossless on-demand `vicem_rehydrate`) and relays work across Claude Code, Codex CLI, Cursor, Windsurf, and Gemini CLI. MIT.
 - **[Kin](https://kinlab.ai)** – Lets Claude Code, Codex, Cursor and other AI apps use your accounts, even two of one service, each with its own rule per action: Allow, Ask me or Block. Remote MCP: https://app.kinlab.ai/mcp.
 - **[Model Salt](https://github.com/modelsalt/model-salt)** – An MCP server with one tool: before a creative task the model calls it and gets back a few choices to settle this time, drawn from randomness outside the model (atmospheric and quantum noise), so one prompt gives different answers that still do what was asked.
+- **[ComputeFirst](https://computefirst.net/docs)** – Hosted MCP server of free, versioned, deterministic tools for coding agents: identifier validation, date math, CSV/JSON transforms, unit conversion and statistics. Remote endpoint `https://computefirst.net/mcp`, no API key or sign-up.
 
 ---
 
