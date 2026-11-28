@@ -197,6 +197,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Cotal](https://github.com/Cotal-AI/Cotal)** – Open pub/sub standard that lets Claude Code, Codex, OpenCode, Hermes, Jcode and pi agents coordinate in one live space with presence, channels and durable messaging.
 - **[Mixdog](https://github.com/tribgames/mixdog)** – Open-source desktop coding agent where a lead model plans and cheaper models handle search, edits and review.
 - **[Rovai AI](https://github.com/murray17/rovai-ai)** – Open-source workspace that organizes Claude Code, Codex CLI, and other coding agents into persistent teams with shared conversations, task delegation, execution review, and collaborative memory.
+- **[Claude Code Remote](https://github.com/seeknull/claudecode-remote)** – Self-hosted web UI for driving Claude Code on one machine from a browser on any other, including a live view of sessions already running from the CLI or VS Code.
 
 ---
 
