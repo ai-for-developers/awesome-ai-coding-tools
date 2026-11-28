@@ -236,6 +236,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Paradev](https://github.com/ParadevAI/Paradev)** – Desktop app (formerly Superset) for running Claude Code, Codex, OpenCode, and other CLI agents in parallel, each task in its own Git worktree, with diff review, pull requests, and an in-app browser.
 - **[muster](https://github.com/ZacxDev/muster)** – Self-hosted, MIT-licensed server that mirrors Claude Code and other coding-agent sessions running in tmux on several machines to a phone PWA, with dictation, push notifications, a task board, and MCP tools through which an agent asks a question and waits for the answer.
 - **[CodeAF](https://github.com/Agent-Field/CodeAF)** – Open-source coding agent for open models that works like a software factory: it splits a request into tasks that run in parallel in their own copies of the repo and merges the ones that pass the project's checks. Single Go binary, Apache-2.0.
+- **[Wavefunction](https://www.wavefunction.si)** – Open-source desktop coding agent for macOS with parallel chats, MCP connectors and any model: local, your own API keys or a ChatGPT sign-in.
 
 ---
 
