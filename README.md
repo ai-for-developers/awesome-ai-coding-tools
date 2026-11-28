@@ -329,6 +329,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Shelly](https://github.com/RYOITABASHI/Shelly)** – Open-source AI terminal and agent runtime for Android with bash/git/Python/Node bundled (no Termux, no PC), the Codex CLI built in, scheduled on-device agents and local LLMs.
 - **[TokenTracker](https://github.com/xiufengsun/TokenTracker)** – Local-first AI token usage & cost tracker (CLI, dashboard, native apps) for Claude Code, Codex, Cursor, Gemini, Copilot, and more. Privacy-first: token counts only, never prompts. `npx tokentracker-cli` · [tokentracker.cc](https://www.tokentracker.cc/)
 - **[Uno](https://unocode.motiontic.com/)** – Small, fast terminal coding agent written in Rust; works with Anthropic, OpenAI and any OpenAI-compatible model, sandboxes shell commands, caps spending and can undo every file change. Free.
+- **[Alysis Code](https://alysiscode.com)** – Open-source AI agent (CLI + desktop) for coding and everyday computer work that works with any model, including local Ollama/LM Studio.
 
 ---
 
