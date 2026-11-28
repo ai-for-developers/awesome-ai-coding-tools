@@ -192,6 +192,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[idea-to-blueprint](https://github.com/iniesohidham/idea-to-blueprint)** – Agent skill for Claude Code, Codex and claude.ai that turns a raw idea into one evidence-backed build spec (web-researched stack with pinned versions, epics, Given/When/Then acceptance criteria, tests), then has the agent build one epic per fresh session.
 - **[AGRO](https://github.com/mifunedev/agro)** – Durable Docker workspace for AI coding agents on your laptop or a remote VM. Work continues after the terminal disconnects, parallel agents use separate git worktrees, and you choose the harness: Claude Code, Codex, Pi, OpenCode, T3 Code, and others. Apache-2.0.
 - **[oxi](https://github.com/maziluiosif/oxi)** – Open-source native desktop coding agent (Rust + egui, no Electron) that runs local GGUF models it downloads for you, Ollama/LM Studio, hosted APIs, or Claude Code/Cursor/Codex over ACP, with a built-in editor, Git panel and terminal.
+- **[5dive](https://5dive.ai)** – Runs a team of coding agents (Claude Code, Codex and more) on a server you own, with an org chart and a shared backlog. Open source (MIT) and free to self-host.
 
 ---
 
