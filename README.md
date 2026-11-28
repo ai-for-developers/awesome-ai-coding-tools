@@ -615,6 +615,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[byagent](https://byagent.dev)** – CLI and agent skill that publish Markdown or HTML from coding agents as shareable links, with line comments the next agent run reads back. Free.
 - **[cliproxy-rs](https://github.com/vayungodara/cliproxy-rs)** – Local proxy that puts your API keys for several providers behind one endpoint for Claude Code, Codex CLI, Gemini CLI, OpenCode and other tools. It translates between the Anthropic, OpenAI and Gemini APIs, retries on another key after a 429, and lets Codex CLI use Chat Completions-only providers such as OpenCode Go. Rust port of CLIProxyAPI, MIT.
 - **[Lockpaw](https://getlockpaw.com/)** – Open-source macOS menu-bar screen guard for AI coding agents: a hotkey covers the screen without sleeping the Mac, agents keep running even with the lid closed, and the locked screen glows when Claude Code, Codex or Gemini CLI needs you.
+- **[Vexilo Code](https://vexilo.app)** – Native macOS app that ranks installed Claude Code skills and agents by estimated per-turn token cost, generates a cleanup prompt for Claude Code, and includes a curated catalog of 295 tools with on-device Apple Intelligence recommendations. Read-only, on-device; catalog and search free, full app $19.99 one-time after a 7-day trial; closed source.
 
 ---
 
