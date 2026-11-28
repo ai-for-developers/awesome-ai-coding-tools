@@ -282,6 +282,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[twinlane](https://github.com/mmelqadi/twinlane)** – Run Claude Code and Codex CLI together on included subscriptions: one usage meter, failover before a limit hits, background workers in git worktrees with receipts.
 - **[Briar](https://github.com/iklobato/briar)** – Local CLI that mines GitHub, Jira and Linear history into agent context and runs coding agents that open draft PRs or fix review threads.
 - **[hcom](https://github.com/aannoo/hcom)** – CLI for real-time messaging, activity observation, and agent spawning across terminals, connecting Claude Code, Codex, Gemini CLI, OpenCode, and other coding agents.
+- **[spillscan](https://github.com/Blackman99/spillscan)** – Finds which secrets already spilled into local AI coding-agent session transcripts (Claude Code / Codex / Cursor) and can scrub them in place with a backup; optional read-only MCP and PreToolUse guard.
 
 ---
 
