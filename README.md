@@ -734,6 +734,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[DropTheHassle](https://dropthehassle.com)** – MCP server and CLI that let Claude Code, Cursor or Windsurf put your site on a free HTTPS link, or on a .com for €19/$19 that goes live with no DNS. Your AI never spends money.
 - **[Black Window weave](https://github.com/space-bacon/blackwindow-weave-mcp)** – Local semantic code search MCP server for Claude Code, Cursor, VS Code and any MCP client, running the Motherlode code-search encoder on your CPU; `npx -y blackwindow-weave-mcp`.
 - **[Bestax](https://github.com/allxsmith/bestax/tree/main/bestax-mcp)** – MCP server that gives coding agents the props, examples, CSS variables and Agent Skills for the Bestax React component library (Bulma v1). Runs offline.
+- **[8B AI Website Builder](https://8b.com/mcp/)** – Remote MCP server, no account or API key: the coding agent picks an 8B generated design, writes the copy and gets an animated one-page site as a preview link and one HTML file.
 
 ---
 
