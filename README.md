@@ -303,6 +303,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[acpantenna](https://github.com/fboldo/acpantenna)** – CLI that connects a running Claude Code, Codex or OpenCode session to your phone or browser over a link and QR code, end-to-end encrypted, with permission prompts on the device you moved to.
 - **[ReRead](https://github.com/tecyfyai/reread)** – Shows how much of your Claude Code, Codex and Antigravity usage was re-reading context, when the prompt cache was lost and why, and the costliest sessions, from the session files on your machine. Run with `npx reread-cli`; no account, no network requests, MIT-licensed. Also a status-line cache countdown and a VS Code extension.
 - **[oh-my-agent](https://github.com/first-fluke/oh-my-agent)** – Open-source agent harness that installs into 14 coding-agent runtimes (Claude Code, Codex CLI, Cursor and more), links one `.agents/skills/` folder into each runtime's skill folder, and can run your typecheck, test or lint script in a Stop hook before the agent finishes.
+- **[Nakata](https://github.com/nakata-app/nakata)** – Bring-your-own-key terminal coding agent for OpenRouter, DeepSeek, Anthropic, Ollama or any OpenAI-compatible endpoint; parallel subagents, headless mode for CI, ACP for editors. Free for 3 months, then $10/month.
 
 ---
 
