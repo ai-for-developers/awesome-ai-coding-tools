@@ -695,6 +695,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Yap MCP](https://github.com/founden-bot/yap-mcp)** – Open-source (MIT) MCP server and CLI that transcribes audio files on your own computer for Claude Code, Cursor and other MCP clients, with no upload and no API key.
 - **[VibeDesk](https://github.com/fxd-gif/vibedesk)** – Free, open-source Windows desktop for Claude Code: several sessions side by side with status dots, one-click permission approvals on PC or phone, and a per-project memory.
 - **[Claude Account Switcher](https://github.com/SnlperStripes/claude-account-switcher)** – Open-source tray app for the Claude desktop app: switches accounts in one click without an email code, carries Claude Code chats and projects across accounts, and shows live 5-hour and weekly usage of every account. Windows (the macOS build is not yet tested on a real Mac), Apache 2.0.
+- **[burntop](https://burntop.dev)** – Open-source full-stack template (FastAPI, React 19, Postgres) for AI coding agents, with AGENTS.md files for Claude Code, Cursor and Codex. Mocks and untested routes fail the build.
 
 ---
 
