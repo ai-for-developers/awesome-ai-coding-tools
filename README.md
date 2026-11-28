@@ -778,6 +778,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[cogit](https://github.com/erensrtky/cogit)** – Open-source (MIT) Claude Code plugin and CLI that records why code changed: each message's decisions and rejected options, linked to the commits it produced, with a local map of sessions and `cogit why file:line`.
 - **[Openbar](https://github.com/MF-DEEV/Openbar)** – Open-source macOS app that puts Claude Code, Codex and other coding agent sessions in the notch, where you can approve tool calls with the diff in view, answer questions and send replies.
 - **[Nyrion](https://nyrion.ai/?utm_source=awesome-ai-coding-tools)** – Practice for AI-assisted coding interviews (Meta, Google, Amazon, Stripe and others): work in a small codebase with an AI assistant and tests, then answer an interviewer's questions about your code. Includes a free tier.
+- **[Agent Durbar](https://github.com/three-feathers/agent-durbar)** – An office-style desktop app to see, chat with and coordinate Copilot, Claude Code and Codex sessions across folders.
 
 ---
 
