@@ -904,6 +904,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** – MIT-licensed local stdio MCP payment tools for AI agents: inspect x402 offers, prepare bounded payments and read operation receipts; Apple Silicon macOS and Node.js 24 required, owner approvals/policies apply, network and service fees are separate.
 - **[Kanzo](https://github.com/emanuele-em/kanzo)** – Self-hosted kanban board for humans and coding agents: a web board plus an MCP server in one small Rust binary, so Claude Code, Codex and other MCP clients pick up tasks, comment and move cards on the same board you use. Data stays in a local SQLite folder.
 - **[Light Cloud MCP Server](https://github.com/light-cloud-com/mcp-server)** – MCP server that lets Claude Code and other MCP clients deploy apps, add databases and manage domains on Light Cloud. `npx @light-cloud/mcp-server`.
+- **[Aletheia](https://github.com/mohamed-ashraf-elsaed/aletheia-mem)** – Free, local memory and rules hub for AI coding tools: one SQLite store read over MCP, REST or CLI. Alpha.
 
 ---
 
