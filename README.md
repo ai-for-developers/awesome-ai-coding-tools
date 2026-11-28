@@ -869,6 +869,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[PlaceCall](https://github.com/voygr-tech/placecall)** – Remote MCP server, Agent Skill and Claude Code/Codex/Cursor plugins that let an agent place real phone calls to US businesses (bookings, appointments, quotes) and get back the outcome and transcript. Remote MCP: https://api.voygr.tech/mcp.
 - **[LLMSlim](https://github.com/Thanatos9404/llmslim)** – Local stdio MCP server that gives coding agents long-term memory with no LLM call, storing messages word for word in SQLite or Postgres and recalling the ones that answer a question within a token budget.
 - **[Campfire SMS](https://campfiresms.com/)** – Two-way SMS MCP server for coding agents (Claude Code, Codex, Cursor, Grok Build): the agent texts you when it finishes or gets blocked, and you reply by text. Free tier, then paid.
+- **[Firecrawl MCP Server](https://github.com/firecrawl/firecrawl-mcp-server)** – Web search, scrape, crawl and map for AI coding agents. Turns docs and live pages into clean Markdown for Claude Code, Cursor, Codex and any MCP client. Remote endpoint with browser sign-in (`https://mcp.firecrawl.dev/v2/mcp-oauth`) or local via `npx -y firecrawl-mcp`; free tier included. [Documentation](https://docs.firecrawl.dev/mcp-server?utm_source=awesome-ai-coding-tools&utm_medium=integration).
 
 ---
 
